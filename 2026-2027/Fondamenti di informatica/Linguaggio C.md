@@ -279,8 +279,11 @@ for(i = 0; i < N_STRINGHE; i++)
 for(i = 0; i < N_STRINGHE; i++)
 	printf("%s\n", arrayStringhe[i]);
 ```
-### Strutture/Struct
-Collezione di dati eterogenei
+
+## Tipi di dato definito dall'utente
+- dichiarazione di tipo *typedef*
+
+
 
 ---
 
