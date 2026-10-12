@@ -75,11 +75,9 @@ scanf("%c",&val1);
 
 - semplici
 - composti
-
-## Dati predefiniti e semplici
-
-### INT → numeri interi con segno
-
+## Dati predefiniti 
+### Semplici
+#### INT → numeri interi con segno
 - Complemento a 2
 - tipicamente 32 bit (4 byte)
 - $[-2^{31},\ 2^{31}-1]$
@@ -88,32 +86,27 @@ scanf("%c",&val1);
 - Varianti:
 	- `unsigned int` → `unsigned int y;` → `%u` → binario naturale
 	- `short`, `long` → numeri interi con segno, tipicamente 16 bit / 64 bit
-
-### CHAR → caratteri
-
+#### CHAR → caratteri
 - 8 bit (1 byte) → $[0,\ 255]$
 - codifica ASCII
 - `%c`
 - operazioni
-
-### FLOAT → numeri razionali
+#### FLOAT → numeri razionali
 
 - virgola mobile in singola precisione
 - IEEE 754 → 32 bit
 - operazioni NO `%`
-
-### DOUBLE → numeri razionali
-
+#### DOUBLE → numeri razionali
 - virgola mobile in doppia precisione
 - IEEE 754 → 64 bit
 - `scanf` → `%lf`
 - `printf` → `%f`
 
-#### sizeOf
+##### sizeOf
 
 `sizeof(int)` → # byte occupati da una variabile di tipo `int`
 
-#### Librerie
+##### Librerie
 
 `<limits.h>`
 - `INT_MAX` → max valore rappresentabile con `int`
@@ -128,8 +121,7 @@ scanf("%c",&val1);
 - `DBL_MAX`
 - `DBL_MIN`
 - `DBL_EPS`
-
-#### Conversione fra tipi
+##### Conversione fra tipi
 
 → gerarchia basata sul potere rappresentativo
 
@@ -138,12 +130,12 @@ Conversione per promozione / retrocessione (→ / ←)
 Conversione implicita e esplicita:
 - **implicita**: assegno un valore in una variabile di gerarchia diversa
 - **esplicita**: CASTING → `(tipo)espressione`
-## Dati Composti
+### Composti
 
-### Array/Vettori
+#### Array/Vettori
 Tipo di dato composto il cui scopo è ospitare una collezione di variabili dello stesso tipo (collezione di dati omogenei)
 
-#### Monodimensionali
+##### Monodimensionali
 ```C
 #include <stdio.h>
 #define DIM 5
@@ -151,7 +143,8 @@ int main(){
 	//tipo NomeVariabile[COSTANTE_INTERA];
 	int Array[DIM];
 ```
-##### Accesso ai componenti/elementi dell'Array
+
+**Accesso ai componenti/elementi dell'Array**
 - **Accesso posizionale** [0,1,...,DIM-1]
 ```C
 Array[2] = 4; //nella terza cella inserisco 4
@@ -194,7 +187,8 @@ for(int i=1;i<DIM&&uguali;i++)
 
 - Dimensione -> 9
 - Lunghezza -> 4 (considerare il terminatore)
-##### Lettura e scrittura
+
+**Lettura e scrittura**
 ```C
 #include <stidio.h>
 #define DIM 20
@@ -207,7 +201,8 @@ int main(){
 	return 0;
 }
 ```
-##### Operazioni sulle stringhe
+
+**Operazioni sulle stringhe**
 Serve la libreria ```#include <string.h```
 - calcolo della lunghezza
 ```C
@@ -251,7 +246,7 @@ la relazione d'ordine per l'alfabeto fa riferimento al codice ASCII 'a'<'b'
 ```C
 strcat(str, str2); //aggiunge in str la stringa str2
 ```
-#### Multidimensionali 
+##### Multidimensionali 
 ```C
 int matrice [Colonne][Righe];
 int tridim[Colonne][Righe][Strato];
@@ -263,11 +258,12 @@ for(int i=0;i<Colonne;i++)
 		istruzione;
 		
 ```
-##### Salvataggio in memoria
+
+**Salvataggio in memoria**
 Le matrici in C vengono salvate in maniera lineare detta *Row Major Order*
 - **i** indice di riga
 - **j** indice di colonna
-##### Array di stringhe
+**Array di stringhe**
 - matrice di char
 ```C
 char arrayStringhe[N_STRINGHE][DIM + 1];
@@ -279,8 +275,60 @@ for(i = 0; i < N_STRINGHE; i++)
 for(i = 0; i < N_STRINGHE; i++)
 	printf("%s\n", arrayStringhe[i]);
 ```
+## Definiti dall'utente
+### Typedef
+```C
+typedef float numero_t;//_t convenzione di sintassi per riconoscere i tipi
+numero_t num;
+```
 ### Strutture/Struct
 Collezione di dati eterogenei
+```C
+#define DIM 50
+#define N_ESAMI 30
+
+//dichiarazione di un singolo dato struttura
+struct{//tipo di dato
+char nome[DIM + 1];//campi
+char cognome[DIM + 1];
+unsigned int voti[N_ESAMI];
+}studente;//identificatore
+
+//accesso con dot notation
+//identificatore.nome
+studente.nome;
+
+//Variabili struct precostruite
+typedef struct{//tipo di dato
+char nome[DIM + 1];//campi
+char cognome[DIM + 1];
+unsigned int voti[N_ESAMI];
+}studente_t;//identificatore
+
+//struct annidate
+typedef struct{
+unsigned int giorno;
+unsigned int mese;
+unsigned int anno;
+}data_t;
+
+typedef struct{//tipo di dato
+char nome[DIM + 1];//campi
+char cognome[DIM + 1];
+unsigned int voti[N_ESAMI];
+data_t dataNascita;
+}studente.t;//identificatore
+
+studente_t mario, paolo;
+
+//operazioni tipo
+int giornoMario = mario.dataNascita.giorno;
+paolo = mario;
+
+//array di tipi studente
+studente_t classe[DIM];
+```
+
 
 ---
 
