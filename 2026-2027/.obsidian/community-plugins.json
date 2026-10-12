@@ -4,5 +4,6 @@
   "mathlive",
   "obsidian-latex-suite",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]

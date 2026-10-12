@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A1/Insiemi/02_Logica.md",
-                "mode": "preview",
+                "file": "Geometria ed Algebra Lineare/Indice/00_MOC_GAL.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Logica"
+              "title": "00_MOC_GAL"
             }
           }
         ]
@@ -168,9 +168,19 @@
               "icon": "lucide-list",
               "title": "Struttura"
             }
+          },
+          {
+            "id": "d78fc9517dc493a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,9 +189,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Apri selettore rapido": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -193,8 +203,11 @@
   },
   "active": "bfb5ff780d368e24",
   "lastOpenFiles": [
-    "A1/Insiemi/01_Insiemi_Numerici.md",
+    "Senza nome.base",
+    "Geometria ed Algebra Lineare/Indice/00_MOC_GAL.md",
     "A1/00_MOC_A1.md",
+    "A1/Insiemi/02_Logica.md",
+    "A1/Insiemi/01_Insiemi_Numerici.md",
     "A1/Insiemi/09_Valore_Assoluto.md",
     "Geometria ed Algebra Lineare/Vettori geometrici (precursori di spazi vettoriali e prodotto scalare)/24_Proprieta_delle_Operazioni_tra_Vettori.md",
     "Geometria ed Algebra Lineare/Matrici e algebra delle matrici/36_Prodotto_di_una_Matrice_per_uno_Scalare.md",
@@ -216,9 +229,6 @@
     "Geometria ed Algebra Lineare/Determinante/74_Teorema_di_Binet.md",
     "Geometria ed Algebra Lineare/Matrice inversa e prodotto matriciale/72_Esistenza_della_Matrice_Inversa.md",
     "Geometria ed Algebra Lineare/Matrice inversa e prodotto matriciale/60_Matrice_Invertibile.md",
-    "Geometria ed Algebra Lineare/Metodo di eliminazione di Gauss (MEG)/68_Metodo_di_Eliminazione_di_Gauss.md",
-    "Geometria ed Algebra Lineare/Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
-    "Geometria ed Algebra Lineare/Rango/63_Rango_di_una_Matrice.md",
     "20262027EngeneeringNotes",
     "Tools/Screenshots/Analisi1/Limiti/PermanenzaSegno.png",
     "Tools/Screenshots/Analisi1/Limiti/LimiteEccesso.png",
@@ -238,7 +248,6 @@
     "Tools/Screenshots/Analisi1",
     "Tools/Template",
     "Tools/Screenshots",
-    "Tools",
     "Senza nome.canvas"
   ]
 }
