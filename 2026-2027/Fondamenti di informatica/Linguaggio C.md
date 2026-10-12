@@ -282,7 +282,9 @@ for(i = 0; i < N_STRINGHE; i++)
 
 ## Tipi di dato definito dall'utente
 - dichiarazione di tipo *typedef*
-
+- nome tipo + _t 
+	- nomeTipo_t
+- 
 
 
 ---
