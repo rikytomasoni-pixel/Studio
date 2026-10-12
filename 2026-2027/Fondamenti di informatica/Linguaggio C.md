@@ -324,6 +324,9 @@ studente_t mario, paolo;
 //operazioni tipo
 int giornoMario = mario.dataNascita.giorno;
 paolo = mario;
+
+//array di tipi studente
+studente_t classe[DIM];
 ```
 
 
