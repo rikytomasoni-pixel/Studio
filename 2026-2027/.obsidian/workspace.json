@@ -118,12 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prova/Senza nome.md",
+                "file": "A1/Insiemi/02_Logica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Senza nome"
+              "title": "Collegamenti in uscita"
             }
           },
           {
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
