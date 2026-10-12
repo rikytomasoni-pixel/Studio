@@ -1,0 +1,11 @@
+{
+  "apiKey": "4c70b967-d09b-4338-9a5c-e2d14ff79fe5",
+  "useLocalInference": true,
+  "enableInlineEditorMode": true,
+  "enableInlineMathWidgets": true,
+  "enableBlockMathWidgets": true,
+  "hideRenderedInlineMath": true,
+  "hideRenderedBlockMath": true,
+  "immediateInlineUpdate": true,
+  "arrowKeyNavigation": true
+}
