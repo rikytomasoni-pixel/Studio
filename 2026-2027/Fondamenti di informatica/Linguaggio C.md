@@ -319,8 +319,11 @@ unsigned int voti[N_ESAMI];
 data_t dataNascita;
 }studente.t;//identificatore
 
-studente_t mario;
+studente_t mario, paolo;
+
+//operazioni tipo
 int giornoMario = mario.dataNascita.giorno;
+paolo = mario;
 ```
 
 
