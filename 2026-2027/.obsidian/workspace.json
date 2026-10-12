@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometria ed Algebra Lineare/Indice/00_MOC_GAL.md",
+                "file": "Fondamenti di informatica/Linguaggio C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_MOC_GAL"
+              "title": "Linguaggio C"
             }
           }
         ]
@@ -203,8 +203,8 @@
   },
   "active": "bfb5ff780d368e24",
   "lastOpenFiles": [
-    "Senza nome.base",
     "Geometria ed Algebra Lineare/Indice/00_MOC_GAL.md",
+    "Senza nome.base",
     "A1/00_MOC_A1.md",
     "A1/Insiemi/02_Logica.md",
     "A1/Insiemi/01_Insiemi_Numerici.md",
