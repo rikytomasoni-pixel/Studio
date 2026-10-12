@@ -8,7 +8,7 @@ tags:
 date: 2026-09-24
 materia: Fondamenti di Informatica
 ---
-
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 # Linguaggi di Programmazione
 
 Un linguaggio di programmazione è un linguaggio formale caratterizzato da una propria **sintassi** e **semantica**.
