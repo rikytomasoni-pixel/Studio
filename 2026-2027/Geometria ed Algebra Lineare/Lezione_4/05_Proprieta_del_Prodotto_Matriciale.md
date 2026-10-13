@@ -1,0 +1,46 @@
+---
+tags: [GAL, matrici, prodotto-matriciale, proprieta, lezione-4]
+data: 2026-10-01
+lezione: 4
+fonte: "GAL_2026-2027_-_20261001_-_LEZIONE_4.pdf (slide 42-43)"
+---
+
+# Proprietà del prodotto matriciale
+
+> [!abstract] Teorema (Proprietà)
+> $M_{\mathbb{K}}(m,n) \times M_{\mathbb{K}}(n,p) \to M_{\mathbb{K}}(m,p)$ ([[02_Prodotto_Matriciale_Righe_per_Colonne]])
+>
+> - **Proprietà distributiva a destra** $\forall A \in M_{\mathbb{K}}(m,n)$, $\forall B, C \in M_{\mathbb{K}}(n,p)$:
+> $$A(B+C) = AB + AC$$
+> ($B+C \in M_{\mathbb{K}}(n,p)$; $AB, AC \in M_{\mathbb{K}}(m,p)$)
+
+**Attenzione all'efficienza computazionale:** ([[08_Efficienza_Computazionale]])
+
+> [!example] Esempio (Python, slide 42)
+> Confronto tra le strategie $A(B+C)$ e $AB+AC$ con matrici di tipo $(500,750)$ e $(750,650)$, al variare del numero di ripetizioni (0-500):
+> - grafico "Confronto tra le strategie" (tempo in secondi): $AB+AC$ cresce molto più rapidamente (circa 20 s a 500 ripetizioni) di $A(B+C)$ (circa 10 s);
+> - grafico "Rapporto tra i tempi di esecuzione" (Strategia 2 / Strategia 1): il rapporto sta tra circa 1,6 e 2,2, cioè $AB+AC$ è circa 2 volte più lento di $A(B+C)$.
+
+
+> [!abstract] Teorema (Proprietà)
+> - **Proprietà distributiva a sinistra** $\forall A, B \in M_{\mathbb{K}}(m,n)$, $\forall C \in M_{\mathbb{K}}(n,p)$:
+> $$(A+B)C = AC + BC$$
+> - **Proprietà associativa** $\forall A \in M_{\mathbb{K}}(m,n)$, $\forall B \in M_{\mathbb{K}}(n,p)$, $\forall C \in M_{\mathbb{K}}(p,q)$:
+> $$(AB)C = A(BC) = ABC$$
+> con $AB \in M_{\mathbb{K}}(m,p)$ e $BC \in M_{\mathbb{K}}(n,q)$.
+> - **Proprietà di omogeneità** $\forall \lambda \in \mathbb{K}$, $\forall A \in M_{\mathbb{K}}(m,n)$, $\forall B \in M_{\mathbb{K}}(n,p)$:
+> $$\lambda(AB) = (\lambda A)B = A(\lambda B)$$
+> - **Esistenza dell'elemento neutro** (rispetto al prodotto):
+>   - *a destra:* $\exists\, N_D \in M_{\mathbb{K}}(n,n)$ t.c. $\forall A \in M_{\mathbb{K}}(m,n)$: $A N_D = A$
+>   - *a sinistra:* $\exists\, N_S \in M_{\mathbb{K}}(m,m)$ t.c. $\forall A \in M_{\mathbb{K}}(m,n)$: $N_S A = A$
+
+> [!note] Osservazione (Domanda)
+> Chi sono $N_D$ e $N_S$? → [[06_Matrice_Identita_e_Matrici_Diagonali]]
+
+## Note collegate
+- [[02_Prodotto_Matriciale_Righe_per_Colonne]]
+- [[06_Matrice_Identita_e_Matrici_Diagonali]]
+- [[08_Efficienza_Computazionale]]
+- [[07_Prodotto_di_una_Matrice_per_uno_Scalare]]
+- [[03_Non_Commutativita_del_Prodotto_Matriciale]]
+- Indice: [[00_Indice_Lezione_4]] · [[00_MOC_GAL]]
