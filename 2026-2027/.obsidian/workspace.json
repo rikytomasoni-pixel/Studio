@@ -175,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "switcher:Apri selettore rapido": false,
