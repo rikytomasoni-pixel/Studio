@@ -1,0 +1,73 @@
+# Indice GAL
+
+MOC di Geometria e Algebra Lineare. Una nota per concetto, raggruppate per capitolo.
+
+Diario delle lezioni: [[2026-09-16 GAL Lezione 0|L0]] · [[2026-09-17 GAL Lezione 1|L1]] · [[2026-09-17 GAL Lezione 2|L2]] · [[2026-09-30 GAL Lezione 3|L3]] · [[2026-10-01 GAL Lezione 4|L4]] · [[2026-10-07 GAL Lezione 6|L6]] · [[2026-10-08 GAL Lezione 7|L7]] · [[2026-10-12 GAL Lezione 9|L9]]
+
+### Organizzazione
+- [[Modalità d'Esame GAL]]
+
+### [[00_GAL_Fondamenti|Fondamenti]]
+- [[Prodotto Cartesiano]]
+- [[Relazione Binaria]]
+- [[Proprietà delle Relazioni]]
+- [[Relazione di Equivalenza]]
+- [[Relazione d'Ordine]]
+- [[Funzioni]]
+- [[Excursus Logico, Negazione dell'Implicazione]]
+- [[Iniettività Surgettività Biettività]]
+- [[Prodotto Cartesiano di più Insiemi]]
+
+### [[00_GAL_Vettori_Geometrici|Vettori Geometrici]]
+- [[Segmenti Orientati ed Equipollenza]]
+- [[Vettori come Classi di Equivalenza]]
+- [[Operazioni tra Vettori]]
+- [[Proprietà delle Operazioni tra Vettori]]
+- [[Sistemi di Riferimento e Coordinate]]
+- [[Prodotto Interno e Ortogonalità]]
+- [[Prodotto Interno in Coordinate]]
+- [[Prodotto Esterno e Determinanti]]
+
+### [[00_GAL_Matrici|Matrici]]
+- [[Matrici come Rappresentazione di Funzioni]]
+- [[Il Campo F2]]
+- [[Definizione di Matrice]]
+- [[Casi Speciali di Matrici]]
+- [[Uguaglianza tra Matrici]]
+- [[Somma tra Matrici]]
+- [[Prodotto di una Matrice per uno Scalare]]
+- [[Efficienza Computazionale]]
+
+### [[00_GAL_Prodotto_Matriciale|Prodotto Matriciale]]
+- [[Opposto di una Matrice]]
+- [[Prodotto Righe per Colonne]]
+- [[Prodotto e Composizione di Funzioni]]
+- [[PageRank e Matrice di Google]]
+- [[Proprietà del Prodotto Matriciale]]
+- [[Matrice Identità e Matrici Diagonali]]
+- [[Matrice Invertibile]]
+- [[Non Commutatività del Prodotto]]
+
+### [[00_GAL_Rango_e_Determinante|Rango e Determinante]]
+- [[Rango di una Matrice]]
+- [[Rango e Probabilità Congiunta]]
+- [[Determinante e Sviluppo di Laplace]]
+- [[Matrici Triangolari]]
+- [[Teorema di Binet]]
+- [[Calcolo del Determinante con il MEG]]
+- [[Proprietà del Determinante]]
+
+### [[00_GAL_Eliminazione_di_Gauss|Eliminazione di Gauss]]
+- [[Operazioni Elementari sulle Righe]]
+- [[Metodo di Eliminazione di Gauss]]
+- [[Pivot e Matrice a Scala]]
+- [[Reversibilità del MEG]]
+- [[Codifica del MEG con il Prodotto]]
+- [[Esistenza della Matrice Inversa]]
+- [[MEG e Rango]]
+
+### [[00_GAL_Sistemi_Lineari|Sistemi Lineari]]
+- [[Rappresentazioni Matriciali di un Sistema]]
+- [[Risoluzione di un Sistema con il MEG]]
+- [[Teorema di Rouché-Capelli]]
+- [[Dimostrazione di Rouché-Capelli]]
