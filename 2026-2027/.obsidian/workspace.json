@@ -11,10 +11,14 @@
             "id": "ff96239cdb928a93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "10_GAL/01_Fondamenti/Prodotto Cartesiano.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prodotto Cartesiano"
             }
           }
         ]
@@ -189,6 +193,7 @@
   },
   "active": "ff96239cdb928a93",
   "lastOpenFiles": [
+    "10_GAL/01_Fondamenti/00_GAL_Fondamenti.md",
     "10_GAL/00_GAL_Indice.md",
     "30_FdI/Linguaggio C.md",
     "30_FdI/Introduzione, flow chart e algebra di Boole.md",
@@ -234,7 +239,6 @@
     "90_Archivio_Lezioni/Trascrizioni/2026-09-14-Insiemi-Numerici-Logica-e-Metodi-di-Dimostrazione.md",
     "90_Archivio_Lezioni/Trascrizioni/00_GAL_Indice_vecchio.md",
     "90_Archivio_Lezioni/Trascrizioni/00_A1_Indice_vecchio.md",
-    "20_A1/06_Forme_Indeterminate_e_Asintotici/Potenze con Base ed Esponente Variabili.md",
     "Senza nome.canvas"
   ]
 }
