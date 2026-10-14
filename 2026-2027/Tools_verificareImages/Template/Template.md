@@ -1,6 +1,0 @@
----
-tags:
-date:
-materia:
----
-# TT
