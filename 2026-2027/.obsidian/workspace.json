@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_GAL/01_Fondamenti/Relazione d'Ordine.md",
+                "file": "10_GAL/02_Vettori_Geometrici/Operazioni tra Vettori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relazione d'Ordine"
+              "title": "Operazioni tra Vettori"
             }
           }
         ],
@@ -218,8 +218,19 @@
   },
   "active": "78465604d4d71289",
   "lastOpenFiles": [
-    "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20260917 - LEZIONE 1.pdf",
+    "10_GAL/02_Vettori_Geometrici/00_GAL_Vettori_Geometrici.md",
+    "10_GAL/02_Vettori_Geometrici/Vettori come Classi di Equivalenza.md",
+    "10_GAL/02_Vettori_Geometrici/Sistemi di Riferimento e Coordinate.md",
+    "10_GAL/02_Vettori_Geometrici/Segmenti Orientati ed Equipollenza.md",
+    "10_GAL/02_Vettori_Geometrici/Proprietà delle Operazioni tra Vettori.md",
+    "10_GAL/02_Vettori_Geometrici/Prodotto Interno in Coordinate.md",
+    "10_GAL/02_Vettori_Geometrici/Prodotto Interno e Ortogonalità.md",
+    "10_GAL/02_Vettori_Geometrici/Prodotto Esterno e Determinanti.md",
+    "10_GAL/02_Vettori_Geometrici/Operazioni tra Vettori.md",
+    "10_GAL/01_Fondamenti/Relazione di Equivalenza.md",
     "10_GAL/01_Fondamenti/Relazione d'Ordine.md",
+    "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20260917 - LEZIONE 1.pdf",
+    "99_Attachments/simmetriaInsiemi.png",
     "99_Attachments/transitivitàInsiemi.png",
     "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
     "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
@@ -236,7 +247,6 @@
     "Tools_verificareImages/Screenshots/GAL/CalcoloRangoMEG.png",
     "10_GAL/01_Fondamenti/Iniettività Surgettività Biettività.md",
     "99_Attachments/fBiettiva.png",
-    "99_Attachments/suriettivaIniettiva.png",
     "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf",
     "10_GAL/01_Fondamenti/Funzioni.md",
     "10_GAL/01_Fondamenti/Excursus Logico, Negazione dell'Implicazione.md",
@@ -254,15 +264,6 @@
     "Tools_verificareImages/Screenshots/GAL",
     "Tools_verificareImages/Screenshots/FI",
     "90_Archivio_Lezioni/Trascrizioni/2026-09-23-Forma-Esponenziale-Radici-Complesse-e-Funzioni.md",
-    "90_Archivio_Lezioni/Trascrizioni/2026-10-08-MEG-Matrici-Invertibili-Rango-e-Determinante.md",
-    "90_Archivio_Lezioni/Trascrizioni/2026-10-07-Inversa-Rango-Determinante-e-Eliminazione-di-Gauss.md",
-    "90_Archivio_Lezioni/Trascrizioni/2026-10-12-Sistemi-Lineari-e-Teorema-di-Rouche-Capelli.md",
-    "90_Archivio_Lezioni/Trascrizioni/2026-10-09-Asintotici-o-piccolo-e-Asintotici-Notevoli.md",
-    "90_Archivio_Lezioni/Trascrizioni/2026-10-07-Aritmetizzazione-dell-Infinito-Numero-di-Nepero-e-Stime-Asintotiche.md",
-    "90_Archivio_Lezioni/Trascrizioni/2026-09-30-Matrici-Somma-e-Prodotto-per-Scalare.md",
-    "90_Archivio_Lezioni/Trascrizioni/2026-10-02-Teoremi-sui-Limiti-di-Successioni.md",
-    "90_Archivio_Lezioni/Trascrizioni/2026-10-01-Prodotto-Matriciale-e-Matrice-Identita.md",
-    "90_Archivio_Lezioni/Trascrizioni/2026-09-25-Proprieta-delle-Funzioni-Composizione-e-Inversa.md",
     "Senza nome.canvas"
   ]
 }

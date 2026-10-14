@@ -21,12 +21,9 @@ $$
 
 - **Riflessività**: ✓ — $A \subseteq A$ per ogni $A \in S$.
 - **Simmetria**: ✗ — se $A \subsetneq B$ questa inclusione non può essere invertita.
+![[simmetriaInsiemi.png]]
 - **Transitività**: ✓ — $A \subseteq B$ e $B \subseteq C$ $\Rightarrow$ $A \subseteq C$.
 ![[transitivitàInsiemi.png]]
-
-> **Figura (disegno senza immagine disponibile):**
->
-> Diagrammi di Venn. Primo: un ovale rosso $A$ interamente contenuto in un ovale blu $B$, con un punto in $B \setminus A$ (nota: «questa inclusione non può essere invertita»). Secondo: tre ovali concentrici $A \subseteq B \subseteq C$ (rosso, blu, verde), accanto a $A$ dentro $C$, a illustrare la transitività.
 
 ### Proprietà antisimmetrica
 
