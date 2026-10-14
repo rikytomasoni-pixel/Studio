@@ -11,11 +11,11 @@ aliases: []
 ---
 [[00_GAL_Fondamenti|⬅️ Torna a Fondamenti]]
 
-# Iniettività Surgettività Biettività
-
+# Iniettività Suriettività Biettività
+![[suriettivaIniettiva.png]]
 **Figura (disegno senza immagine disponibile):**
 >
-> Quattro diagrammi a frecce tra due insiemi $A$ e $B$ (ovali con punti). (1) Frutta → lettere: anguria→"a", banana→"b", limone→"l", lampone→"l" (frecce rosse), $F$ = «l'iniziale di $\_$ è $\_$»: **non iniettiva** (due frecce arrivano in "l") ma **surgettiva**. (2) Tre frecce blu da tre punti di $A$ verso tre punti distinti di $B$ (che ne ha di più): **iniettiva**, non surgettiva. (3) Tre frecce blu che convergono su uno stesso punto di $B$: non iniettiva. (4) Surgettività: «ogni elemento del codominio è raggiunto da almeno una freccia»; esempio con $B$ avente punti non raggiunti → **non è surgettiva**.
+> Quattro diagrammi a frecce tra due insiemi $A$ e $B$ (ovali con punti). (1) Frutta → lettere: anguria→"a", banana→"b", limone→"l", lampone→"l" (frecce rosse), $F$ = «l'iniziale di $\_$ è $\_$»: **non iniettiva** (due frecce arrivano in "l") ma **suriettiva**. (2) Tre frecce blu da tre punti di $A$ verso tre punti distinti di $B$ (che ne ha di più): **iniettiva**, non suriettiva. (3) Tre frecce blu che convergono su uno stesso punto di $B$: non iniettiva. (4) Surgettività: «ogni elemento del codominio è raggiunto da almeno una freccia»; esempio con $B$ avente punti non raggiunti → **non è suriettiva**.
 
 ### Definizione 1.2
 
@@ -31,7 +31,7 @@ aliases: []
   a_1 \neq a_2 \Rightarrow F(a_1) \neq F(a_2)
   $$
 
-- Una funzione $F \subseteq A \times B$ ($F : A \to B$) è **surgettiva** se $\forall b \in B$ esiste ($\exists$) almeno un elemento $a \in A$ tale che $(a,b) \in F$. Equivalentemente:
+- Una funzione $F \subseteq A \times B$ ($F : A \to B$) è **suriettiva** se $\forall b \in B$ esiste ($\exists$) almeno un elemento $a \in A$ tale che $(a,b) \in F$. Equivalentemente:
 
   $$
   F^{-1}(b) = \{a \in A \mid F(a) = b\} \neq \emptyset
@@ -39,7 +39,7 @@ aliases: []
 
   dove $F^{-1}(b)$ è l'insieme delle **controimmagini** di $b$.
 
-- Una funzione $F \subseteq A \times B$ ($F : A \to B$) è **biettiva** se è simultaneamente iniettiva e surgettiva.
+- Una funzione $F \subseteq A \times B$ ($F : A \to B$) è **biettiva** se è simultaneamente iniettiva e suriettiva.
 
 > **Figura (disegno senza immagine disponibile):**
 >

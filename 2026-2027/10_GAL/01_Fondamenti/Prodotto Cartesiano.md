@@ -25,7 +25,7 @@ $$
 
 $\mathbb{R}^2 = \mathbb{R} \times \mathbb{R}$. Gli elementi del piano cartesiano sono **punti**. Fissato un sistema di riferimento (gli assi cartesiani), ogni punto è identificato in modo univoco da una coppia $(x,y)$ con $x \in \mathbb{R}$, $y \in \mathbb{R}$.
 
-![[Pasted image 20261014151604.png]]
+![[simmetriabisettrice.png]]
 
 ### Esempio 2 — voti sufficienti
 

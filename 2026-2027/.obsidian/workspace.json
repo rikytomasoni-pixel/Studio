@@ -11,18 +11,6 @@
             "id": "ff96239cdb928a93",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "GAL 2026-2027 - 20260916 - LEZIONE 0"
-            }
-          },
-          {
-            "id": "c22f4d37389185bd",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "10_GAL/01_Fondamenti/Iniettività Surgettività Biettività.md",
@@ -34,21 +22,18 @@
             }
           },
           {
-            "id": "264004cb8bc3095a",
+            "id": "c22f4d37389185bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "10_GAL/01_Fondamenti/Prodotto Cartesiano.md",
-                "mode": "source",
-                "source": false
+                "file": "99_Attachments/suriettivaIniettiva.png"
               },
-              "icon": "lucide-file",
-              "title": "Prodotto Cartesiano"
+              "icon": "lucide-image",
+              "title": "suriettivaIniettiva"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,16 +203,19 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "264004cb8bc3095a",
+  "active": "ff96239cdb928a93",
   "lastOpenFiles": [
-    "Pasted image 20261014151604.png",
-    "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf",
+    "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20260917 - LEZIONE 1.pdf",
+    "99_Attachments/suriettivaIniettiva.png",
     "10_GAL/01_Fondamenti/Iniettività Surgettività Biettività.md",
+    "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf",
+    "99_Attachments/simmetriabisettrice.png",
     "Pasted image 20261014151433.png",
+    "Pasted image 20261014151604.png",
+    "10_GAL/01_Fondamenti/Prodotto Cartesiano.md",
     "Pasted image 20261014151302.png",
     "10_GAL/01_Fondamenti/Funzioni.md",
     "10_GAL/01_Fondamenti/Excursus Logico, Negazione dell'Implicazione.md",
-    "10_GAL/01_Fondamenti/Prodotto Cartesiano.md",
     "10_GAL/01_Fondamenti/00_GAL_Fondamenti.md",
     "10_GAL/00_GAL_Indice.md",
     "30_FdI/Linguaggio C.md",
@@ -240,9 +228,6 @@
     "Tools_verificareImages/Screenshots/Analisi1/Limiti/LimiteDifettoComeSup.png",
     "Tools_verificareImages/Screenshots/Analisi1/Limiti/LimitazioneXquadrato.png",
     "Tools_verificareImages/Screenshots/Analisi1/Limiti/ConvergenzaQuindiLimitata.png",
-    "Tools_verificareImages/Screenshots/Analisi1/Limiti/BandeLimitiDisgiunti.png",
-    "Tools_verificareImages/Screenshots/Analisi1/Limiti/BandaContenenteLimite.png",
-    "Tools_verificareImages/Screenshots/Analisi1/Funzioni/SuccessionePuntiIsolati.png",
     "Tools_verificareImages/Screenshots/Analisi1/Limiti",
     "Tools_verificareImages/Screenshots/Analisi1/Funzioni",
     "Tools_verificareImages/Screenshots/Analisi1/Complessi",
@@ -251,7 +236,6 @@
     "Tools_verificareImages/Screenshots/FI",
     "Tools_verificareImages/Screenshots/Analisi1",
     "Tools_verificareImages/Template",
-    "Tools_verificareImages/Screenshots",
     "90_Archivio_Lezioni/Trascrizioni/2026-09-23-Forma-Esponenziale-Radici-Complesse-e-Funzioni.md",
     "90_Archivio_Lezioni/Trascrizioni/2026-10-08-MEG-Matrici-Invertibili-Rango-e-Determinante.md",
     "90_Archivio_Lezioni/Trascrizioni/2026-10-07-Inversa-Rango-Determinante-e-Eliminazione-di-Gauss.md",
