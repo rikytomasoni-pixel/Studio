@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-path:90_Archivio_Lezioni  ",
+  "collapse-filter": true,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -15,87 +15,59 @@
       }
     },
     {
-      "query": "tag:#argomento/rango_e_determinante  ",
+      "query": "tag:#funzioni  ",
       "color": {
         "a": 1,
-        "rgb": 4209849
+        "rgb": 15728688
       }
     },
     {
-      "query": "tag:#argomento/eliminazione_di_gauss  ",
+      "query": "tag:#numeri-complessi  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "tag:#argomento/matrici  ",
+      "query": "tag:#dimostrazioni  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 1966335
       }
     },
     {
-      "query": "tag:#argomento/prodotto_matriciale",
+      "query": "tag:#limiti",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "tag: #argomento/vettori_geometrici  ",
+      "query": "tag:#successioni  ",
       "color": {
         "a": 1,
-        "rgb": 65425
+        "rgb": 16056557
       }
     },
     {
-      "query": "tag:#argomento/fondamenti  ",
+      "query": "tag:#prodotto-cartesiano  ",
       "color": {
         "a": 1,
-        "rgb": 13958912
+        "rgb": 6053078
       }
     },
     {
-      "query": "tag: #argomento/numeri_reali  ",
+      "query": "tag:#vettori  ",
       "color": {
         "a": 1,
         "rgb": 11361494
       }
     },
     {
-      "query": "tag: #argomento/funzioni  ",
+      "query": "tag:#matrici  ",
       "color": {
         "a": 1,
-        "rgb": 14048429
-      }
-    },
-    {
-      "query": "tag: #argomento/forme_indeterminate_e_asintotici  ",
-      "color": {
-        "a": 1,
-        "rgb": 12756187
-      }
-    },
-    {
-      "query": "tag: #argomento/successioni_e_limiti  ",
-      "color": {
-        "a": 1,
-        "rgb": 9528072
-      }
-    },
-    {
-      "query": "tag:#argomento/numeri_complessi  ",
-      "color": {
-        "a": 1,
-        "rgb": 63226
-      }
-    },
-    {
-      "query": "tag:#argomento/sistemi_lineari  ",
-      "color": {
-        "a": 1,
-        "rgb": 15597823
+        "rgb": 15662848
       }
     }
   ],
@@ -109,6 +81,6 @@
   "repelStrength": 15.0502232142857,
   "linkStrength": 0.899937739037623,
   "linkDistance": 50,
-  "scale": 0.1564821531271405,
+  "scale": 0.13390633792964124,
   "close": true
 }
