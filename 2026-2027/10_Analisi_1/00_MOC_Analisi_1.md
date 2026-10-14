@@ -70,14 +70,6 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 - [[40_Confronti_Asintotici]]
 - [[41_o_piccolo_e_Asintotico]]
 - [[42_Confronti_Asintotici_Proprieta_e_Notevoli]]
-
-## Lezioni originali (note sorgente)
-- [[AM1 - Lezione 1 (14-09-26)]]
-- [[AM1 - Lezione 2 (16-09-2026)]]
-- [[AM1 - Lezione 3 (18-09-2026)]]
-- [[AM1 - Lezione 4 (23-09-2026)]]
-- [[AM1 - Lezione 5 (25-09-2026)]]
-
 ## Cronologia delle lezioni
 | Lezione   | Data       | Note principali                                                                                                                                                                                                                                        |
 | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
