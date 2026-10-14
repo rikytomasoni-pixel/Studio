@@ -22,6 +22,7 @@ $$
 - **Riflessività**: ✓ — $A \subseteq A$ per ogni $A \in S$.
 - **Simmetria**: ✗ — se $A \subsetneq B$ questa inclusione non può essere invertita.
 - **Transitività**: ✓ — $A \subseteq B$ e $B \subseteq C$ $\Rightarrow$ $A \subseteq C$.
+![[transitivitàInsiemi.png]]
 
 > **Figura (disegno senza immagine disponibile):**
 >
