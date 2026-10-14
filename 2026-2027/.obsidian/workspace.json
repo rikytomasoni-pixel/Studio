@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ad53b95300f9b97c",
+        "id": "42731043f0993d7f",
         "type": "tabs",
         "children": [
           {
-            "id": "ff96239cdb928a93",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Tools_verificareImages/Screenshots/GAL/Step4MEG.png"
-              },
-              "icon": "lucide-image",
-              "title": "Step4MEG"
-            }
-          },
-          {
-            "id": "ad0c1c09679804cc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "GAL 2026-2027 - 20260930 - LEZIONE 3"
-            }
-          },
-          {
-            "id": "78465604d4d71289",
+            "id": "4cd94077d44d8c6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_GAL/03_Matrici/Il Campo F2.md",
+                "file": "00_Lezioni/2026-10-08 GAL Lezione 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Il Campo F2"
+              "title": "2026-10-08 GAL Lezione 7"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,8 +191,21 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "78465604d4d71289",
+  "active": "4cd94077d44d8c6a",
   "lastOpenFiles": [
+    "20_A1/02_Numeri_Reali/Assioma di Completezza.md",
+    "20_A1/02_Numeri_Reali/Densità di Q in R.md",
+    "20_A1/02_Numeri_Reali/Logaritmi.md",
+    "00_Lezioni/A1/2026-09-16 A1 Lezione 2.md",
+    "00_Claude_Workspace/Migrazione_UpdateVault/00_Report_Migrazione.md",
+    "00_Lezioni/A1/2026-09-18 A1 Lezione 3.md",
+    "00_Lezioni/A1/2026-09-23 A1 Lezione 4.md",
+    "00_Lezioni/A1/2026-09-25 A1 Lezione 5.md",
+    "00_Lezioni/A1",
+    "00_Lezioni/2026-09-30 GAL Lezione 3.md",
+    "00_Lezioni/2026-10-08 GAL Lezione 7.md",
+    "00_Lezioni/2026-09-17 GAL Lezione 1.md",
+    "00_Lezioni/2026-09-16 GAL Lezione 0.md",
     "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
     "10_GAL/03_Matrici/Il Campo F2.md",
     "10_GAL/03_Matrici/Efficienza Computazionale.md",
@@ -234,14 +222,9 @@
     "10_GAL/02_Vettori_Geometrici/Prodotto Interno e Ortogonalità.md",
     "10_GAL/02_Vettori_Geometrici/Prodotto Esterno e Determinanti.md",
     "10_GAL/01_Fondamenti/Relazione di Equivalenza.md",
-    "10_GAL/01_Fondamenti/Relazione d'Ordine.md",
     "99_Attachments/simmetriaInsiemi.png",
     "99_Attachments/transitivitàInsiemi.png",
     "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
-    "10_GAL/01_Fondamenti/Relazione Binaria.md",
-    "10_GAL/01_Fondamenti/Proprietà delle Relazioni.md",
-    "10_GAL/01_Fondamenti/Prodotto Cartesiano di più Insiemi.md",
-    "10_GAL/01_Fondamenti/Prodotto Cartesiano.md",
     "Tools_verificareImages/Screenshots/GAL/Step4MEG.png",
     "Tools_verificareImages/Screenshots/GAL/Step4BMEG.png",
     "Tools_verificareImages/Screenshots/GAL/Step3MEG.png",
@@ -249,20 +232,13 @@
     "Tools_verificareImages/Screenshots/GAL/ScalaPivotMEG.png",
     "Tools_verificareImages/Screenshots/GAL/MEGEsempio.png",
     "Tools_verificareImages/Screenshots/GAL/CalcoloRangoMEG.png",
-    "10_GAL/01_Fondamenti/Iniettività Surgettività Biettività.md",
     "99_Attachments/fBiettiva.png",
     "90_Archivio_Lezioni/LezioniGal/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf",
-    "10_GAL/01_Fondamenti/Funzioni.md",
-    "10_GAL/01_Fondamenti/Excursus Logico, Negazione dell'Implicazione.md",
-    "10_GAL/01_Fondamenti/00_GAL_Fondamenti.md",
-    "10_GAL/00_GAL_Indice.md",
-    "30_FdI/Linguaggio C.md",
     "30_FdI",
     "Tools_verificareImages/Screenshots/Analisi1/Limiti",
     "Tools_verificareImages/Screenshots/Analisi1/Funzioni",
     "Tools_verificareImages/Screenshots/Analisi1/Complessi",
     "Tools_verificareImages/Screenshots/GAL",
-    "Tools_verificareImages/Screenshots/FI",
     "Senza nome.canvas"
   ]
 }
