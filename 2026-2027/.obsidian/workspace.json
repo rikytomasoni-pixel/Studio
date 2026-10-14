@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#argomento/rango_e_determinante",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "Segnalibri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,8 +187,9 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "014f2874c0e4d5c2",
+  "active": "ff96239cdb928a93",
   "lastOpenFiles": [
+    "10_GAL/00_GAL_Indice.md",
     "30_FdI/Linguaggio C.md",
     "30_FdI/Introduzione, flow chart e algebra di Boole.md",
     "30_FdI/Indice Fondamenti di Informatica.md",
@@ -235,7 +235,6 @@
     "90_Archivio_Lezioni/Trascrizioni/00_GAL_Indice_vecchio.md",
     "90_Archivio_Lezioni/Trascrizioni/00_A1_Indice_vecchio.md",
     "20_A1/06_Forme_Indeterminate_e_Asintotici/Potenze con Base ed Esponente Variabili.md",
-    "20_A1/06_Forme_Indeterminate_e_Asintotici/Tecniche per le Forme Infinito meno Infinito.md",
     "Senza nome.canvas"
   ]
 }
