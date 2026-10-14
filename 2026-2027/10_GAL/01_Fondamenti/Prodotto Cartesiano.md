@@ -25,11 +25,7 @@ $$
 
 $\mathbb{R}^2 = \mathbb{R} \times \mathbb{R}$. Gli elementi del piano cartesiano sono **punti**. Fissato un sistema di riferimento (gli assi cartesiani), ogni punto è identificato in modo univoco da una coppia $(x,y)$ con $x \in \mathbb{R}$, $y \in \mathbb{R}$.
 
-> **Figura (disegno senza immagine disponibile):**
->
-> Piano cartesiano con asse $x$ orizzontale e asse $y$ verticale. Il punto $P = (x_P, y_P) = (2,4)$ (in rosso) ha coordinate $x_P$ sull'asse $x$ e $y_P$ sull'asse $y$ (indicate con parentesi graffe). Il punto $Q$ (in blu) è $Q = (4,2)$, cioè $P$ con le coordinate scambiate: l'**ordine** conta.
-
-Se scambio l'ordine, $(4,2) \in \mathbb{R} \times \mathbb{R}$ è un punto diverso ($Q$).
+![[Pasted image 20261014151604.png]]
 
 ### Esempio 2 — voti sufficienti
 

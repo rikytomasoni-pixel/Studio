@@ -13,7 +13,7 @@ aliases: []
 
 # Iniettività Surgettività Biettività
 
-> **Figura (disegno senza immagine disponibile):**
+**Figura (disegno senza immagine disponibile):**
 >
 > Quattro diagrammi a frecce tra due insiemi $A$ e $B$ (ovali con punti). (1) Frutta → lettere: anguria→"a", banana→"b", limone→"l", lampone→"l" (frecce rosse), $F$ = «l'iniziale di $\_$ è $\_$»: **non iniettiva** (due frecce arrivano in "l") ma **surgettiva**. (2) Tre frecce blu da tre punti di $A$ verso tre punti distinti di $B$ (che ne ha di più): **iniettiva**, non surgettiva. (3) Tre frecce blu che convergono su uno stesso punto di $B$: non iniettiva. (4) Surgettività: «ogni elemento del codominio è raggiunto da almeno una freccia»; esempio con $B$ avente punti non raggiunti → **non è surgettiva**.
 
