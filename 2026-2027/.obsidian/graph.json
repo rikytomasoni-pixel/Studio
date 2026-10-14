@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
-  "search": "",
-  "showTags": false,
+  "collapse-filter": false,
+  "search": "-path:90_Archivio_Lezioni  ",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
@@ -15,59 +15,45 @@
       }
     },
     {
-      "query": "tag:#funzioni  ",
+      "query": "tag:#argomento/rango_e_determinante  ",
       "color": {
         "a": 1,
-        "rgb": 15728688
+        "rgb": 4209849
       }
     },
     {
-      "query": "tag:#numeri-complessi  ",
+      "query": "tag:#argomento/eliminazione_di_gauss  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     },
     {
-      "query": "tag:#dimostrazioni  ",
+      "query": "tag:#argomento/matrici  ",
       "color": {
         "a": 1,
-        "rgb": 1966335
+        "rgb": 14048348
       }
     },
     {
-      "query": "tag:#limiti",
+      "query": "tag:#argomento/prodotto_matriciale",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
     },
     {
-      "query": "tag:#successioni  ",
+      "query": "tag: #argomento/vettori_geometrici  ",
       "color": {
         "a": 1,
-        "rgb": 16056557
+        "rgb": 65425
       }
     },
     {
-      "query": "tag:#prodotto-cartesiano  ",
+      "query": "",
       "color": {
         "a": 1,
         "rgb": 6053078
-      }
-    },
-    {
-      "query": "tag:#vettori  ",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "tag:#matrici  ",
-      "color": {
-        "a": 1,
-        "rgb": 15662848
       }
     }
   ],
@@ -81,6 +67,6 @@
   "repelStrength": 15.0502232142857,
   "linkStrength": 0.899937739037623,
   "linkDistance": 50,
-  "scale": 0.1961140067215579,
+  "scale": 0.13378324974432115,
   "close": false
 }

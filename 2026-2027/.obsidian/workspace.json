@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#argomento/rango_e_determinante",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "ff96239cdb928a93",
+  "active": "014f2874c0e4d5c2",
   "lastOpenFiles": [
     "30_FdI/Linguaggio C.md",
     "30_FdI/Introduzione, flow chart e algebra di Boole.md",
