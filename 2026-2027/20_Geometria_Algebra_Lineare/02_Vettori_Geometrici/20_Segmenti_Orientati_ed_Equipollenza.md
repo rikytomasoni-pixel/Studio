@@ -15,7 +15,7 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_2.pdf (p. 1)"
 > [!warning] Def. Equipollenza
 > Due segmenti orientati $(A,B)$ e $(C,D)$ sono **equipollenti** se i punti medi dei segmenti $AD$ e $BC$ coincidono. In questo caso si scrive $AB \triangleq CD$.
 
-**!!!** (disegno: quadrilatero con vertici $A, B, C, D$; diagonali $AD$ e $BC$ che si incontrano nel punto medio $E$; frecce $AB$ e $CD$; tratteggiati i lati $BD$ e $AC$)
+![[vettoriEquipollenti.png|494]]
 
 > [!note] Osservazione
 > Se $A, B, C, D$ non sono collineari questa condizione equivale a dire che $AB$ e $CD$ sono i lati opposti di un parallelogramma $ACDB$ con lo stesso verso.
