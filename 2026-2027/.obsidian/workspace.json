@@ -11,12 +11,14 @@
             "id": "940a381fa456941b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf"
+                "file": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/20_Segmenti_Orientati_ed_Equipollenza.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GAL 2026-2027 - 20260930 - LEZIONE 3"
+              "icon": "lucide-file",
+              "title": "20_Segmenti_Orientati_ed_Equipollenza"
             }
           }
         ]
@@ -191,10 +193,10 @@
   },
   "active": "940a381fa456941b",
   "lastOpenFiles": [
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/31_Il_Campo_F2.md",
     "99_Tools/Screenshots/GAL/operazioniF2.png",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
     "99_Tools/Screenshots/GAL/interruttoriAnd.png",
     "99_Tools/Screenshots/GAL/interruttoriXOR.png",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf",
