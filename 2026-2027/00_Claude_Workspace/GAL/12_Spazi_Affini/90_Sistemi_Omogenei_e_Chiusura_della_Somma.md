@@ -31,8 +31,7 @@ $\underline{v}+\underline{w}$ **non** è soluzione del sistema.
 - $r=\{\underline{x}=\underline{0}+t\underline{v}\}$ (retta per l'origine): la somma $\underline{v}+\underline{w}$ di due suoi vettori sta ancora sulla retta.
 - $s=\{\underline{x}=P+t\underline{v}\}$ (retta che non passa per l'origine): la somma $\underline{v}+\underline{w}$ di due suoi vettori **esce** dalla retta.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** slide 101, in alto. **Cosa cercare:** due piani cartesiani affiancati. A sinistra la retta $r$ per l'origine con $\underline{v}$ (verde), $\underline{w}$ (viola, verso opposto) e $\underline{v}+\underline{w}$ (rosso) tutti sulla retta. A destra la retta $s$ che non passa per l'origine con $\underline{v}$ e $\underline{w}$ che hanno la punta su $s$, ma la loro somma (diagonale del parallelogramma tratteggiato) cade fuori da $s$.
+![[sommaDiVettoriSpostamento.png]]
 
 ## "Pronti per il primo vero salto concettuale"
 

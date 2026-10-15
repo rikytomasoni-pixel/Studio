@@ -10,10 +10,10 @@ destinazione: "20_Geometria_Algebra_Lineare/12_Spazi_Affini"
 
 Lavoro su $\mathbb{K}=\mathbb{R}$.
 
-| Sistema lineare | | Soluzioni |
-|---|---|---|
+| Sistema lineare                                                                              |                                           | Soluzioni                                                                           |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------------------- |
 | $A\underline{x}=\underline{b}$, $\ A\in M_{\mathbb{R}}(m,n)$, $\underline{b}\in\mathbb{R}^m$ | $\xrightarrow{\ \text{MEG, teor. R-C}\ }$ | $\underline{x}=\underline{v}_0+t_1\underline{v}_1+\dots+t_{n-r}\underline{v}_{n-r}$ |
-| **equazioni cartesiane** (descrizione *implicita*) | | **equazioni parametriche** (descrizione *esplicita*) |
+| **equazioni cartesiane** (descrizione *implicita*)                                           |                                           | **equazioni parametriche** (descrizione *esplicita*)                                |
 
 > [!abstract] Definizione 11.1
 > Un (sotto)spazio **affine** di $\mathbb{R}^n$ è l'insieme delle soluzioni di un sistema lineare $A\underline{x}=\underline{b}$.
@@ -25,8 +25,7 @@ Uso [[82_Teorema_di_Rouche_Capelli]] e [[85_Teorema_di_Struttura_delle_Soluzioni
 $$r=\{\underline{x}=P+t\underline{v}\mid t\in\mathbb{R}\}$$
 scritta così non so dove ritrovo $r$ (con $P,\underline{v}\in\mathbb{R}^2$ in $\mathbb{R}^2$, $P,\underline{v}\in\mathbb{R}^3$ in $\mathbb{R}^3$, ...).
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** slide 97, in basso a destra. **Cosa cercare:** una retta $r$ con un punto $P$ evidenziato e il vettore direzione $\underline{v}$ (freccia viola) applicato in $P$.
+![[vettorev.png]]
 
 Voglio passare alle equazioni cartesiane: $r=\{\underline{x}\in\mathbb{R}^n\mid A\underline{x}=\underline{b}\}$.
 
@@ -42,8 +41,7 @@ Voglio passare alle equazioni cartesiane: $r=\{\underline{x}\in\mathbb{R}^n\mid 
 $$\alpha=\{\underline{x}=P+t_1\underline{v}+t_2\underline{w}\}$$
 Un piano è caratterizzato da **2 parametri liberi**.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** slide 98, in basso a destra. **Cosa cercare:** un piano (parallelogramma verde in prospettiva) con il punto $P$, i vettori $\underline{v}$ e $\underline{w}$ applicati in $P$ e il vettore somma tratteggiato come diagonale del parallelogramma.
+![[sommaVettoriPiano.png]]
 
 $\alpha=\{\underline{x}\in\mathbb{R}^n\mid A\underline{x}=\underline{b}\}$, con $A\in M_{\mathbb{R}}(?,n)$. Per Rouché-Capelli: $2=n-r\Rightarrow r=n-2$.
 - in $\mathbb{R}^2$: $2-2=0$ equazioni (il piano è tutto $\mathbb{R}^2$)

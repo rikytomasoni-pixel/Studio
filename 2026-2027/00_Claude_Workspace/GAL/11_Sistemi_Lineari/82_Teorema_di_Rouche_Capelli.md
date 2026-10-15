@@ -17,8 +17,6 @@ destinazione: "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari"
 > $$\underline{x}=\underline{v}_0+t_1\underline{v}_1+\dots+t_{n-r}\underline{v}_{n-r}$$
 > dove $t_1,\dots,t_{n-r}\in\mathbb{K}$ (parametri liberi).
 
-<DUBBIO posizione="slide 78, enunciato di TH2">Nella scrittura a mano le lettere $n$ e $m$ sono quasi indistinguibili: sembra scritto "$n-r+1$ vettori in $\mathbb{K}^m$" e "$t_1,\dots,t_{m-n}$". Ho trascritto $n-r$ e $\mathbb{K}^n$ perché $\underline{x}$ ha $n$ componenti (e $r$ è il rango). Da verificare sulle slide.</DUBBIO>
-
 ## Dimostrazione
 
 **Struttura.** $A\underline{x}=\underline{b}$ risolubile $\iff r(A)=r(A\mid\underline{b})$ equivale a dimostrare due implicazioni:
