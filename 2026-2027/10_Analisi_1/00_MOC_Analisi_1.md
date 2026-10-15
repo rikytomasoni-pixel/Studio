@@ -9,15 +9,7 @@ corso: Analisi Matematica 1
 
 # Analisi Matematica 1 — Indice Generale
 
-```mermaid
-flowchart LR
-    A[Insiemi e logica] --> B[Numeri reali]
-    B --> C[Numeri complessi]
-    B --> D[Funzioni]
-    D --> E[Successioni e limiti]
-```
-
-Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti` · `06_Lezioni_Originali`
+Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti`
 
 ## Fondamenti: insiemi e logica
 - [[01_Insiemi_Numerici]]

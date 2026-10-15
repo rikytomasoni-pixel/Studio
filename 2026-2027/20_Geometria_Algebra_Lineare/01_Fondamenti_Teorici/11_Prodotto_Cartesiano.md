@@ -23,7 +23,7 @@ fonte: "GAL_2026-2027_-_20260916_-_LEZIONE_0.pdf (slide 6-8)"
 >
 > Se scambio l'ordine: $(4,2) \in \mathbb{R} \times \mathbb{R}$ [annotazione: corrisponde al punto $Q$].
 
-**!!!** (disegno: assi $x$, $y$ con i punti $P$ (rosso) e $Q$ (blu); indicate $x_P$ e $y_P$)
+![[simmetriaBisettrice.png]]
 
 > [!example] Esempio 2 — voti
 > $A = \{\text{valutazioni sufficienti per la parte di esercizi}\} = \{16, 17, 18, \dots, 32\}$
