@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/11_Prodotto_Cartesiano.md",
-                "mode": "preview",
+                "file": "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/43_Asintotici_con_Funzioni_Composte.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11_Prodotto_Cartesiano"
+              "title": "43_Asintotici_con_Funzioni_Composte"
+            }
+          },
+          {
+            "id": "71edf60358726ba9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AM1 L10 26-27"
             }
           }
         ]
@@ -193,6 +205,15 @@
   },
   "active": "940a381fa456941b",
   "lastOpenFiles": [
+    "00_Claude_Workspace/Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
+    "99_Tools/Screenshots/Analisi1/IntroduzioneSerie.png",
+    "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
+    "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/46_Asintotici_Notevoli_e_Limiti_Notevoli.md",
+    "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/43_Asintotici_con_Funzioni_Composte.md",
+    "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/44_Esempio_Asintotici_con_Logaritmo_e_Arctan.md",
+    "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/45_Esercizio_Asintotici_Limite_21.md",
+    "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/11_Prodotto_Cartesiano.md",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260918 - LEZIONE 2.pdf",
     "90_Lezioni_pdf/GAL/lezione2GAL.pdf",
     "00_Claude_Workspace/sedhAu9PU",
     "00_Claude_Workspace/00_Guida_Inserimento.md",
@@ -206,12 +227,7 @@
     "00_Claude_Workspace/Analisi_1/06_Serie/50_Serie_Geometrica.md",
     "00_Claude_Workspace/Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
     "00_Claude_Workspace/Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
-    "00_Claude_Workspace/Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
     "00_Claude_Workspace/sedsmALvu",
-    "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/46_Asintotici_Notevoli_e_Limiti_Notevoli.md",
-    "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/45_Esercizio_Asintotici_Limite_21.md",
-    "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/44_Esempio_Asintotici_con_Logaritmo_e_Arctan.md",
-    "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/43_Asintotici_con_Funzioni_Composte.md",
     "00_Claude_Workspace/Kanban_Esercizi_per_Casa.md",
     "00_Claude_Workspace/GAL/10_Indici_Lezioni/12_Indice_Lezione_11.md",
     "00_Claude_Workspace/GAL/10_Indici_Lezioni/11_Indice_Lezione_10.md",
@@ -220,15 +236,11 @@
     "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
     "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
     "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
-    "00_Claude_Workspace/GAL/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
     "00_Claude_Workspace/Analisi_1/06_Serie",
     "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti",
     "00_Claude_Workspace/Analisi_1",
     "00_Claude_Workspace/GAL/10_Indici_Lezioni",
     "00_Claude_Workspace/GAL/13_Spazi_Vettoriali",
-    "00_Claude_Workspace/GAL/12_Spazi_Affini",
-    "00_Claude_Workspace/GAL/04_Matrice_Inversa",
-    "00_Claude_Workspace/GAL/11_Sistemi_Lineari",
     "99_Tools/Screenshots/GAL/votoFinaleGal.png",
     "99_Tools/Screenshots/GAL/votiGal.png",
     "99_Tools/Screenshots/GAL/Composizione.png",
@@ -238,7 +250,6 @@
     "99_Tools/Screenshots/GAL/graficoEsempiFunzione.png",
     "99_Tools/Screenshots/GAL/GrigliaVoti.png",
     "99_Tools/Screenshots/GAL/prodottoEsterno.png",
-    "99_Tools/Screenshots/GAL/versori.png",
     "Senza nome.canvas"
   ]
 }

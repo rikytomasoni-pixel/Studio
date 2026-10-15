@@ -17,8 +17,7 @@ destinazione: "10_Analisi_1/06_Serie"
 - Un rettangolo di lati $1$ e $2$ suddiviso in rettangoli di area $1,\ \frac12,\ \frac14,\ \frac18,\ \frac1{16},\dots$:
 $$2=1+\frac12+\frac14+\frac18+\frac1{16}+\dots+\frac1{2^n}+\dots$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** pag. 7 (in alto) e pag. 14 (esempio $q=\frac12$). **Cosa cercare:** un rettangolo $1\times2$ diviso a metà: la metà sinistra (area $1$) è un quadrato, la metà destra viene divisa di nuovo a metà a ogni passo con aree $\frac12$, $\frac14$, $\frac18$, $\frac1{16}$, ... che tendono a riempire il rettangolo.
+![[IntroduzioneSerie.png|236]]
 
 - $0,\overline9=1$ in base $10$; $\ 0,\overline7=1$ in base $8$ (vedi [[51_Rappresentazione_Decimale_e_Serie]]).
 - $r\in\mathbb{R}\Rightarrow r=\pm a_0,a_1a_2a_3\dots$ con $a_0\in\mathbb{N}$, $a_k\in\{0,1,2,\dots,9\}$ $\forall k\geq1$.
