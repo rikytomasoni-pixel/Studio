@@ -7,7 +7,7 @@ fonte: "GAL_2026-2027_-_20261015_-_LEZIONE_11.pdf"
 
 # Indice — Lezione 11 (2026-10-15)
 
-**Argomenti:** spazi affini: equazioni cartesiane e parametriche; spazio vettoriale: definizione ed esempi; sottospazi vettoriali.
+**Argomenti:** Spazi affini (cartesiane e parametriche); spazio vettoriale: definizione ed esempi; sottospazi vettoriali.
 
 | Ordine | Slide / pagine | Nota |
 |---|---|---|

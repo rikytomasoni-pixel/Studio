@@ -7,7 +7,7 @@ fonte: "GAL_2026-2027_-_20261012_-_LEZIONE_9.pdf"
 
 # Indice — Lezione 9 (2026-10-12)
 
-**Argomenti:** rappresentazioni matriciali di un sistema lineare; metodo di risoluzione via MEG; teorema di Rouché-Capelli.
+**Argomenti:** Rappresentazioni matriciali di un sistema lineare; risoluzione via MEG; teorema di Rouché-Capelli.
 
 | Ordine | Slide / pagine | Nota |
 |---|---|---|
@@ -17,7 +17,7 @@ fonte: "GAL_2026-2027_-_20261012_-_LEZIONE_9.pdf"
 
 ## Note collegate
 - [[00_MOC_GAL]]
-- [[08_Indice_Lezione_7]] (lezione precedente con PDF: la numerazione delle slide prosegue senza interruzione, L7 termina a 72 e L9 inizia a 73, quindi non risulta una Lezione 8)
+- [[08_Indice_Lezione_7]] (lezione precedente) (la numerazione delle slide prosegue senza interruzione: L7 termina a 72 e L9 inizia a 73, quindi non risulta una Lezione 8)
 - [[11_Indice_Lezione_10]] (lezione successiva)
 - Prima nota: [[80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare]]
 

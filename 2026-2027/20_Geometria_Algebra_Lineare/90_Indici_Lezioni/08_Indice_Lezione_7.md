@@ -25,6 +25,7 @@ fonte: "GAL_2026-2027_-_20261008_-_LEZIONE_7.pdf"
 ## Note collegate
 - [[00_MOC_GAL]]
 - [[07_Indice_Lezione_6]] (lezione precedente)
+- [[10_Indice_Lezione_9]] (lezione successiva)
 - Prima nota: [[70_Reversibilita_del_MEG]]
 
 #GAL/indici-lezioni/indice-lezione-7

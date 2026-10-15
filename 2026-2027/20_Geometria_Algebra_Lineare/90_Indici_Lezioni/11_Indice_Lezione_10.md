@@ -7,7 +7,7 @@ fonte: "GAL_2026-2027_-_20261014_-_LEZIONE_10.pdf"
 
 # Indice — Lezione 10 (2026-10-14)
 
-**Argomenti:** commenti al teorema di Rouché-Capelli; nucleo e sistema omogeneo associato ad una matrice; teorema di struttura delle soluzioni di un sistema lineare; teorema di Cramer; ricerca della matrice inversa; teorema sull'invertibilità della matrice.
+**Argomenti:** Commenti a Rouché-Capelli; nucleo; teorema di struttura; teorema di Cramer; ricerca della matrice inversa; teorema sull'invertibilità.
 
 | Ordine | Slide / pagine | Nota |
 |---|---|---|
