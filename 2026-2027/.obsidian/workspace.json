@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Claude_Workspace/Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
+                "file": "00_Claude_Workspace/00_Guida_Inserimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "53_Serie_Telescopiche_e_Mengoli"
+              "title": "00_Guida_Inserimento"
             }
           },
           {
@@ -205,10 +205,17 @@
   },
   "active": "940a381fa456941b",
   "lastOpenFiles": [
+    "00_Claude_Workspace/Kanban_Esercizi_per_Casa.md",
+    "00_Claude_Workspace/00_Guida_Inserimento.md",
+    "00_Claude_Workspace/Analisi_1/00_Proposta_Aggiornamento_MOC_Analisi_1.md",
+    "00_Claude_Workspace/Analisi_1/06_Serie/55_Serie_Armonica.md",
+    "99_Tools/Screenshots/Analisi1/graficoLogeDerivata.png",
+    "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
+    "00_Claude_Workspace/Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
+    "00_Claude_Workspace/Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
     "00_Claude_Workspace/Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
     "00_Claude_Workspace/Analisi_1/06_Serie/51_Rappresentazione_Decimale_e_Serie.md",
     "00_Claude_Workspace/Analisi_1/06_Serie/50_Serie_Geometrica.md",
-    "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
     "00_Claude_Workspace/Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
     "00_Claude_Workspace/Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
     "00_Claude_Workspace/Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
@@ -221,14 +228,8 @@
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260918 - LEZIONE 2.pdf",
     "90_Lezioni_pdf/GAL/lezione2GAL.pdf",
     "00_Claude_Workspace/sedhAu9PU",
-    "00_Claude_Workspace/00_Guida_Inserimento.md",
-    "00_Claude_Workspace/Analisi_1/00_Proposta_Aggiornamento_MOC_Analisi_1.md",
     "00_Claude_Workspace/GAL/00_Proposta_Aggiornamento_MOC_GAL.md",
-    "00_Claude_Workspace/Analisi_1/06_Serie/55_Serie_Armonica.md",
-    "00_Claude_Workspace/Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
-    "00_Claude_Workspace/Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
     "00_Claude_Workspace/sedsmALvu",
-    "00_Claude_Workspace/Kanban_Esercizi_per_Casa.md",
     "00_Claude_Workspace/GAL/10_Indici_Lezioni/12_Indice_Lezione_11.md",
     "00_Claude_Workspace/GAL/10_Indici_Lezioni/11_Indice_Lezione_10.md",
     "00_Claude_Workspace/GAL/10_Indici_Lezioni/10_Indice_Lezione_9.md",
@@ -249,7 +250,6 @@
     "99_Tools/Screenshots/GAL/sommaMatrici.png",
     "99_Tools/Screenshots/GAL/graficoEsempiFunzione.png",
     "99_Tools/Screenshots/GAL/GrigliaVoti.png",
-    "99_Tools/Screenshots/GAL/prodottoEsterno.png",
     "Senza nome.canvas"
   ]
 }

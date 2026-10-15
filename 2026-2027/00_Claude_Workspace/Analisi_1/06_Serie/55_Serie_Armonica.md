@@ -27,8 +27,7 @@ Infatti, per il [[38_Numero_di_Nepero]],
 $$e=\lim_{n\to\infty}\left(1+\frac1n\right)^n=\sup_{n\geq1}\left(1+\frac1n\right)^n\ \Rightarrow\ \left(1+\frac1n\right)^n\leq e$$
 $$\Rightarrow\log\left(1+\frac1n\right)^n\leq\log e=1\ \Rightarrow\ n\log\left(1+\frac1n\right)\leq1\ \Rightarrow\ \log\left(1+\frac1n\right)\leq\frac1n$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** pag. 20, a metà pagina. **Cosa cercare:** il grafico di $\log(1+x)$ (curva nera che passa per l'origine, concava) con la retta $y=x$ (in rosso) tangente nell'origine e sopra la curva; $x=\frac1n$ è indicato in rosso accanto all'asse. Mostra graficamente $\log(1+x)\leq x$.
+![[graficoLogeDerivata.png]]
 
 **Passo 2.** Allora
 $$S_N=\sum_{n=1}^N\frac1n\geq\sum_{n=1}^N\log\left(1+\frac1n\right)=\sum_{n=1}^N\log\left(\frac{n+1}n\right)=\sum_{n=1}^N\left(\log(n+1)-\log n\right)$$
