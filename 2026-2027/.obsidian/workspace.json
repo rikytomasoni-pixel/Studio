@@ -11,30 +11,29 @@
             "id": "940a381fa456941b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf"
+                "file": "20_Geometria_Algebra_Lineare/09_Organizzazione/10_Organizzazione_del_Corso.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GAL 2026-2027 - 20261001 - LEZIONE 4"
+              "icon": "lucide-file",
+              "title": "10_Organizzazione_del_Corso"
             }
           },
           {
             "id": "d356043b2f12c038",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/03_Matrici/42_Prodotto_e_Composizione_di_Funzioni.md",
-                "mode": "source",
-                "source": false
+                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf"
               },
-              "icon": "lucide-file",
-              "title": "42_Prodotto_e_Composizione_di_Funzioni"
+              "icon": "lucide-file-text",
+              "title": "GAL 2026-2027 - 20260916 - LEZIONE 0"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,11 +203,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ba7c57d61bd7477",
+  "active": "940a381fa456941b",
   "lastOpenFiles": [
-    "99_Tools/Screenshots/GAL/Composizione.png",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf",
+    "20_Geometria_Algebra_Lineare/09_Organizzazione/10_Organizzazione_del_Corso.md",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261007 - LEZIONE 6.pdf",
+    "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261008 - LEZIONE 7.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
     "20_Geometria_Algebra_Lineare/03_Matrici/42_Prodotto_e_Composizione_di_Funzioni.md",
+    "99_Tools/Screenshots/GAL/Composizione.png",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
     "20_Geometria_Algebra_Lineare/03_Matrici/41_Prodotto_Matriciale_Righe_per_Colonne.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/40_Opposto_di_una_Matrice.md",
@@ -233,25 +237,19 @@
     "99_Tools/Screenshots/GAL/prodottoInterno.png",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/24_Proprieta_delle_Operazioni_tra_Vettori.md",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/23_Sistemi_di_Riferimento_e_Coordinate.md",
-    "99_Tools/Screenshots/GAL/pianoCoordinato.png",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/22_Operazioni_tra_Vettori.md",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/21_Vettori_come_Classi_di_Equivalenza.md",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/20_Segmenti_Orientati_ed_Equipollenza.md",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/31_Il_Campo_F2.md",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260917 - LEZIONE 1.pdf",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/18_Iniettivita_Suriettivita_Biettivita.md",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/19_Prodotto_Cartesiano_di_Piu_Insiemi.md",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/15_Relazione_di_Ordine.md",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/16_Funzioni.md",
-    "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/11_Prodotto_Cartesiano.md",
-    "20_Geometria_Algebra_Lineare/06_Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
     "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L8 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
-    "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
-    "90_Lezioni_pdf/A1/AM1 L5 26-27.pdf",
     "Senza nome.canvas"
   ]
 }

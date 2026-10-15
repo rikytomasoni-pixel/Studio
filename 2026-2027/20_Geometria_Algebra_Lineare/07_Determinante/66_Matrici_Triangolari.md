@@ -30,7 +30,6 @@ fonte: "GAL_2026-2027_-_20261007_-_LEZIONE_6.pdf (slide 54-55)"
 > (la sottomatrice è ancora triangolare superiore)
 > $$= t_{11}\, t_{22} \cdots t_{nn}$$
 
-**!!!** (disegno — L6, p. 11/slide 55: sottomatrice $\hat{T}_{11}$ con riquadro blu sulla prima colonna $(t_{22}, 0, \dots, 0)^T$ e freccia rossa con la scritta «triangolare superiore»)
 
 > [!note] Osservazione
 > **Recap degli obiettivi:**
