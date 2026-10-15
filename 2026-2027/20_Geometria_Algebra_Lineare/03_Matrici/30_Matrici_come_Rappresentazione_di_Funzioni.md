@@ -16,7 +16,7 @@ fonte: "GAL_2026-2027_-_20260930_-_LEZIONE_3.pdf (slide 22-25)"
 
 **Obiettivo:** trovare una rappresentazione alternativa di $V$ (che sia più efficace / comunicativa).
 
-**!!!** (tabella stampata: griglia dei voti, colonne «ESERCIZI 70%» da 16 a 32, righe «TEORIA 30%» da 16 a 32, con i valori da 16 a 30L; celle rosse per le combinazioni insufficienti; annotazioni: «righe corrispondono agli elementi di $T$», «colonne corrispondono agli elementi di $E$»)
+![[GrigliaVoti.png]]
 
 > [!example] Esempio 2
 > $M = \{\text{esiti lancio di una moneta}\}$, $D = \{\text{esiti lancio di un dado}\}$
@@ -36,7 +36,7 @@ fonte: "GAL_2026-2027_-_20260930_-_LEZIONE_3.pdf (slide 22-25)"
 > $$v : \mathbb{R} \times \mathbb{R} \to \{0,1\},\qquad v(x,y) = \begin{cases} 1 & \text{se } (x,y) \in \Gamma(f) \\ 0 & \text{se } (x,y) \notin \Gamma(f) \end{cases}$$
 > $f(x) = x^2$
 
-**!!!** (disegno: piano $xy$ azzurro con la curva rossa $y = f(x)$ e, sopra di essa, la funzione $v(x,y)$ in blu con segmenti verticali)
+![[graficoEsempiFunzione.png]]
 
 > [!example] Esempio 4
 > $A = \{\text{arancia, limone, lampone}\}$, $B = \{\text{"a", "b", "l"}\}$

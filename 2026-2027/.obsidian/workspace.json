@@ -18,6 +18,20 @@
               "icon": "lucide-file-text",
               "title": "GAL 2026-2027 - 20260930 - LEZIONE 3"
             }
+          },
+          {
+            "id": "d356043b2f12c038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Geometria_Algebra_Lineare/03_Matrici/37_Efficienza_Computazionale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "37_Efficienza_Computazionale"
+            }
           }
         ]
       }
@@ -191,7 +205,17 @@
   },
   "active": "940a381fa456941b",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/03_Matrici/37_Efficienza_Computazionale.md",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
+    "20_Geometria_Algebra_Lineare/03_Matrici/36_Prodotto_di_una_Matrice_per_uno_Scalare.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/35_Somma_tra_Matrici.md",
+    "99_Tools/Screenshots/GAL/sommaMatrici.png",
+    "20_Geometria_Algebra_Lineare/03_Matrici/34_Confronto_e_Uguaglianza_tra_Matrici.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/33_Matrici_Casi_Speciali.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/32_Definizione_di_Matrice.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
+    "99_Tools/Screenshots/GAL/graficoEsempiFunzione.png",
+    "99_Tools/Screenshots/GAL/GrigliaVoti.png",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/27_Prodotto_Esterno.md",
     "99_Tools/Screenshots/GAL/prodottoEsterno.png",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/26_Prodotto_Interno_in_Coordinate.md",
@@ -205,12 +229,8 @@
     "99_Tools/Screenshots/GAL/sistemaRiferimentoAffine.png",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/22_Operazioni_tra_Vettori.md",
     "99_Tools/Screenshots/GAL/sommaVettori.png",
-    "99_Tools/Screenshots/GAL/SegmentoMoltiplicato.png",
-    "99_Tools/Screenshots/GAL/segmentoSomma.png",
-    "99_Tools/Screenshots/GAL/segmentoOpposto.png",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/21_Vettori_come_Classi_di_Equivalenza.md",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/20_Segmenti_Orientati_ed_Equipollenza.md",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/31_Il_Campo_F2.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf",
@@ -220,7 +240,6 @@
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/15_Relazione_di_Ordine.md",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/16_Funzioni.md",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/11_Prodotto_Cartesiano.md",
-    "20_Geometria_Algebra_Lineare/03_Matrici/35_Somma_tra_Matrici.md",
     "20_Geometria_Algebra_Lineare/06_Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
     "10_Analisi_1/00_MOC_Analisi_1.md",
     "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf",
@@ -231,12 +250,6 @@
     "90_Lezioni_pdf/A1/AM1 L5 26-27.pdf",
     "30_Fondamenti_Informatica/00_MOC_FdI.md",
     "30_Fondamenti_Informatica/01_Introduzione_e_Codifica/Codifica dell'informazione.md",
-    "30_Fondamenti_Informatica/01_Introduzione_e_Codifica/Introduzione, flow chart e algebra di Boole.md",
-    "10_Analisi_1/04_Funzioni/19_Funzioni_Generalita.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/18_Switch.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/17_Numeri_di_Kaprekar.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/16_Cicli_Iterativi.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/15_Condizione_if_else.md",
     "Senza nome.canvas"
   ]
 }

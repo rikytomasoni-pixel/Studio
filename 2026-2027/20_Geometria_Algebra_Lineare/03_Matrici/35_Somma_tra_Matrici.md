@@ -18,7 +18,7 @@ $f(x) = \dfrac{1}{x^2 - 1}$, $\quad g(x) = e^x$, $\quad (f+g)(1)\ ??$
 > [!example] Esempio
 > $$\begin{bmatrix} 1 & -2 \\ 0 & 3 \end{bmatrix} + \begin{bmatrix} -1 & 1 \\ 4 & 7 \end{bmatrix} = \begin{bmatrix} 1+(-1) & -2+1 \\ 0+4 & 3+7 \end{bmatrix} = \begin{bmatrix} 0 & -1 \\ 4 & 10 \end{bmatrix}$$
 
-**!!!** (colorazione: le quattro posizioni $(1,1)$, $(1,2)$, $(2,1)$, $(2,2)$ evidenziate con colori diversi in $A$, $B$ e $A+B$)
+![[sommaMatrici.png]]
 
 > [!abstract] Teorema (Proprietà)
 > «ereditiamo le proprietà della somma del campo» ([[24_Proprieta_delle_Operazioni_tra_Vettori]] per l'analogo sui vettori)
