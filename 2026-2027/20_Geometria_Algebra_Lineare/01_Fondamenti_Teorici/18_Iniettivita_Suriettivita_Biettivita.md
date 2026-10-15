@@ -9,7 +9,7 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_1.pdf (slide 17-18)"
 
 Siano $F \subseteq A \times B$ funzioni ([[16_Funzioni]]).
 
-**!!!** (disegno: quattro diagrammi a frecce tra $A$ e $B$ — iniettività: $F = $ «l'iniziale di \_\_ è \_\_» con arancia, banana, limone, lampone → "a", "b", "l", NON iniettiva; altro esempio iniettivo con tre frecce parallele; suriettività: «ogni elemento del codominio è raggiunto da almeno una freccia» — esempio NON suriettivo con un punto non raggiunto, esempio suriettivo con l'esempio della frutta)
+![[diagrammiIniettivaSuriettiva.png]]
 
 > [!warning] Def. 1.2 Funzione iniettiva
 > Una funzione $F \subseteq A \times B$ ($F : A \to B$) è **iniettiva** se $a_1, a_2 \in A$ e $(a_1,b),(a_2,b) \in F$ [cioè $F(a_1) = b$, $F(a_2) = b$, $F(a_1) = F(a_2)$] allora $a_1 = a_2$.
@@ -25,8 +25,7 @@ Siano $F \subseteq A \times B$ funzioni ([[16_Funzioni]]).
 > [!warning] Def. 1.2 Funzione biettiva
 > Una funzione $F \subseteq A \times B$ ($F : A \to B$) è **biettiva** se è simultaneamente iniettiva e suriettiva.
 
-**!!!** (disegno: esempio di biezione, due insiemi con frecce blu che abbinano a uno a uno i punti)
-
+![[diagrammaBisezione.png]]
 > [!note] Osservazione
 > N.B. le biezioni producono un abbinamento perfetto tra gli elementi del dominio e quelli del codominio.
 

@@ -29,7 +29,7 @@ Notazione: $F \subseteq A \times B$, $(a,b) \in F$ — oppure — $F : A \to B$,
 > Prendiamo un colore per cui ci sono almeno 3 individui con la maglia del colore scelto: $x, y, z$.
 > $(x,y) \in F$, $(y,z) \in F$, $(x,z) \in F$ — due coppie con $x$ come primo elemento.
 
-**!!!** (disegno: le tre coppie $(x,y),(y,z),(x,z)$ con $x$ cerchiato e frecce rosse sulle due coppie che hanno $x$ come primo elemento)
+![[esempioNonFunzione.png]]
 
 > [!example] Esempio
 > $A = \{\text{arancia, banana, limone, lampone}\}$, $B = \{\text{"a", "b", "l"}\}$
