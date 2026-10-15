@@ -19,10 +19,10 @@ fonte: "GAL_2026-2027_-_20260930_-_LEZIONE_3.pdf (slide 25-26)"
 
 **AND** — «sia l'uno che l'altro» [OCR: «né»; lettura di senso corretta] (prodotto in $\mathbb{F}_2$): circuito con batteria, due interruttori in serie e lampadina.
 
-**!!!** (disegno: circuito AND con due interruttori e lampadina; tabella 2×2 con i quattro casi: $0\cdot 0 \to 0$, $0 \cdot 1 \to 0$, $1 \cdot 0 \to 0$, $1 \cdot 1 \to 1$ (accesa))
+![[interruttoriAnd.png]]
 
 
-
+![[operazioniF2.png]]
 ## Note collegate
 - [[32_Definizione_di_Matrice]]
 - [[35_Somma_tra_Matrici]]
