@@ -4,7 +4,6 @@ data: 2026-09-17
 lezione: 1
 fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_1.pdf (slide 13-17)"
 ---
-
 # Funzioni
 
 > [!warning] Def. 1.1 Funzione

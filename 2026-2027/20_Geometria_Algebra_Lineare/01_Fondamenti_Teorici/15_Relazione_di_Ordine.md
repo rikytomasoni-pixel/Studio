@@ -15,12 +15,9 @@ Dalla lezione di ieri: «non tutte le relazioni sono di equivalenza» (vedi [[14
 > $$A \subseteq B \iff \forall\, a \in A \Rightarrow a \in B$$
 >
 > - **Riflessività?** ✓ — $A \subseteq A\ \ \forall A \in S$
-> - **Simmetria?** ✗ — $A \subsetneq B$ [questa inclusione non può essere invertita]
-> - **Transitività?** ✓ — $A \subseteq B,\ B \subseteq C \Rightarrow A \subseteq C$
+> - **Simmetria?** ✗ — $A \subsetneq B$ [questa inclusione non può essere invertita]![[simmetriaInsiemi.png]]
+> - **Transitività?** ✓ — $A \subseteq B,\ B \subseteq C \Rightarrow A \subseteq C$ ![[transitivitàinsiemi.png]]
 
-**!!!** (disegno: diagramma di Venn con $A$ (rosso) dentro $B$ (blu) e un punto in $B$ fuori da $A$)
-
-**!!!** (disegno: tre insiemi annidati $A \subset B \subset C$ a sinistra; $A \subset C$ a destra)
 
 > [!warning] Def. Proprietà di antisimmetria
 > Una relazione $R \subseteq S \times S$ si dice **antisimmetrica** se soddisfa la seguente proprietà:
