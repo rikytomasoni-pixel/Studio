@@ -10,7 +10,7 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_2.pdf (p. 3-4)"
 > [!warning] Def. Sistema di riferimento affine
 > Un **sistema di riferimento affine** in $\mathbb{E}^3$ è assegnato da una successione di 4 punti non complanari $(O, B_1, B_2, B_3)$.
 
-**!!!** (disegno: piano con origine $O$ e i punti $B_1, B_2$ nel piano; $B_3$ fuori dal piano, con le frecce $OB_1$, $OB_2$, $OB_3$)
+![[sistemaRiferimentoAffine.png]]
 
 Se i vettori $OB_1$, $OB_2$ e $OB_3$ sono ortogonali e i segmenti $OB_1$, $OB_2$ e $OB_3$ sono congruenti, diciamo che il riferimento è **cartesiano**.
 
@@ -19,7 +19,7 @@ Se i vettori $OB_1$, $OB_2$ e $OB_3$ sono ortogonali e i segmenti $OB_1$, $OB_2$
 >
 > Preso $X \in \mathbb{E}^3$ consideriamo il piano passante per $X$ e parallelo al piano coordinato $OB_2B_3$; detto $P_1$ l'intersezione di questo piano con l'asse coordinato $OB_1$, la lunghezza di $OP_1$, rispetto all'unità di misura $OB_1$, è l'**ascissa** di $X$. **Ordinata** e **quota** sono definite in modo simile.
 
-**!!!** (disegno: assi $OB_1, OB_2, OB_3$, piano coordinato $H$, punto $X$ con proiezioni tratteggiate e piano parallelo a $OB_2B_3$ passante per $X$)
+![[pianoCoordinato.png]]
 
 > [!note] Osservazione
 > Scelto un sistema di riferimento affine $(O, B_1, B_2, B_3)$, presi due vettori $u = [OA]$ e $v = [OB]$, se le coordinate di $A$ e $B$ rispetto al sistema di riferimento sono

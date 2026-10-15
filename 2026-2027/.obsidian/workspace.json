@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/22_Operazioni_tra_Vettori.md",
+                "file": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/25_Prodotto_Interno_e_Ortogonalita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22_Operazioni_tra_Vettori"
+              "title": "25_Prodotto_Interno_e_Ortogonalita"
             }
           }
         ]
@@ -191,25 +191,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ba7c57d61bd7477",
+  "active": "940a381fa456941b",
   "lastOpenFiles": [
+    "Pasted image 20261015124430.png",
+    "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/24_Proprieta_delle_Operazioni_tra_Vettori.md",
+    "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/23_Sistemi_di_Riferimento_e_Coordinate.md",
+    "99_Tools/Screenshots/GAL/pianoCoordinato.png",
+    "99_Tools/Screenshots/GAL/sistemaRiferimentoAffine.png",
+    "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/22_Operazioni_tra_Vettori.md",
+    "99_Tools/Screenshots/GAL/sommaVettori.png",
     "99_Tools/Screenshots/GAL/SegmentoMoltiplicato.png",
     "99_Tools/Screenshots/GAL/segmentoSomma.png",
     "99_Tools/Screenshots/GAL/segmentoOpposto.png",
     "99_Tools/Screenshots/GAL/segmentoNullo.png",
     "99_Tools/Screenshots/GAL/Step4MEG.png",
-    "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/22_Operazioni_tra_Vettori.md",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/21_Vettori_come_Classi_di_Equivalenza.md",
     "99_Tools/Screenshots/GAL/classeEquipollenza.png",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/20_Segmenti_Orientati_ed_Equipollenza.md",
     "99_Tools/Screenshots/GAL/vettoriEquipollenti.png",
-    "99_Tools/Screenshots/GAL/segmentoOrientato.png",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/31_Il_Campo_F2.md",
-    "99_Tools/Screenshots/GAL/operazioniF2.png",
-    "99_Tools/Screenshots/GAL/interruttoriAnd.png",
-    "99_Tools/Screenshots/GAL/interruttoriXOR.png",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260917 - LEZIONE 1.pdf",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/18_Iniettivita_Suriettivita_Biettivita.md",
@@ -237,8 +239,6 @@
     "30_Fondamenti_Informatica/02_Linguaggio_C/14_Struct.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/13_Typedef.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/12_Array_Multidimensionali.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/11_Operazioni_sulle_Stringhe.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/10_Stringhe_in_C.md",
     "Senza nome.canvas"
   ]
 }

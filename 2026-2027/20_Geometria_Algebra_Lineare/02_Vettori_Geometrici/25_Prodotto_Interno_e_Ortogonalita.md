@@ -13,8 +13,7 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_2.pdf (p. 4-5)"
 > - se $u, v \neq 0$ allora
 > $$u \cdot v = \|u\| \cdot \|v\| \cdot \cos\vartheta$$
 > dove $\|u\|$ e $\|v\|$ sono le lunghezze di $u$ e $v$ rispetto all'unità di misura.
-
-**!!!** (disegno: due vettori $u$ e $v$ uscenti da $O$ con l'angolo $\vartheta$ tra essi)
+![[Pasted image 20261015124430.png]]
 
 > [!warning] Def. Vettori ortogonali
 > Due vettori $u$ e $v$ sono **ortogonali** se l'angolo $\vartheta$ fra i due vettori è retto.

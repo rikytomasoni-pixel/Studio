@@ -30,6 +30,7 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_2.pdf (p. 2-3)"
 > [!note] Osservazione
 > Le operazioni fra vettori sono definite scegliendo un'origine $O$, effettuando le operazioni fra i rappresentanti dei vettori applicati in $O$ e prendendo la classe di equipollenza del risultato.
 > $$u + v = [OA] + [OB] = [OC]$$
+> ![[sommaVettori.png]]
 > $OA + OB = OC$. Il risultato non dipende dalla scelta dell'origine.
 
 **!!!** (disegno: parallelogramma $O, A, C, B$ con diagonale $OC$ e diagonale $AB$ tratteggiata)
