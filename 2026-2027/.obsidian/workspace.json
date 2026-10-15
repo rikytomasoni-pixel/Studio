@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "198eb280bd524273",
+        "id": "f745319ff8a596a9",
         "type": "tabs",
         "children": [
           {
@@ -13,24 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Claude_Workspace/00_Guida_Inserimento.md",
-                "mode": "source",
+                "file": "00_Claude_Workspace/GAL/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Guida_Inserimento"
+              "title": "82_Teorema_di_Rouche_Capelli"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "198eb280bd524273",
+        "type": "tabs",
+        "children": [
           {
             "id": "71edf60358726ba9",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf"
+                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261012 - LEZIONE 9.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "AM1 L10 26-27"
+              "title": "GAL 2026-2027 - 20261012 - LEZIONE 9"
             }
           }
         ]
@@ -205,12 +211,26 @@
   },
   "active": "940a381fa456941b",
   "lastOpenFiles": [
-    "00_Claude_Workspace/Kanban_Esercizi_per_Casa.md",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261012 - LEZIONE 9.pdf",
+    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
+    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/85_Teorema_di_Struttura_delle_Soluzioni.md",
+    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
+    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/84_Nucleo_e_Sistema_Omogeneo_Associato.md",
+    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli.md",
+    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico.md",
+    "99_Tools/Screenshots/GAL/soluzioneGraficaSistemaLineare.png",
+    "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
+    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
+    "00_Claude_Workspace/GAL/10_Indici_Lezioni/12_Indice_Lezione_11.md",
+    "00_Claude_Workspace/GAL/10_Indici_Lezioni/11_Indice_Lezione_10.md",
+    "00_Claude_Workspace/GAL/10_Indici_Lezioni/10_Indice_Lezione_9.md",
+    "00_Claude_Workspace/GAL/04_Matrice_Inversa/88_Teorema_sull_Invertibilita_della_Matrice.md",
+    "00_Claude_Workspace/GAL/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
     "00_Claude_Workspace/00_Guida_Inserimento.md",
+    "00_Claude_Workspace/Kanban_Esercizi_per_Casa.md",
     "00_Claude_Workspace/Analisi_1/00_Proposta_Aggiornamento_MOC_Analisi_1.md",
     "00_Claude_Workspace/Analisi_1/06_Serie/55_Serie_Armonica.md",
     "99_Tools/Screenshots/Analisi1/graficoLogeDerivata.png",
-    "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
     "00_Claude_Workspace/Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
     "00_Claude_Workspace/Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
     "00_Claude_Workspace/Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
@@ -220,28 +240,15 @@
     "00_Claude_Workspace/Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
     "00_Claude_Workspace/Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
     "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/43_Asintotici_con_Funzioni_Composte.md",
-    "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/46_Asintotici_Notevoli_e_Limiti_Notevoli.md",
-    "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/45_Esercizio_Asintotici_Limite_21.md",
-    "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/44_Esempio_Asintotici_con_Logaritmo_e_Arctan.md",
     "99_Tools/Screenshots/Analisi1/IntroduzioneSerie.png",
-    "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/11_Prodotto_Cartesiano.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260918 - LEZIONE 2.pdf",
     "90_Lezioni_pdf/GAL/lezione2GAL.pdf",
     "00_Claude_Workspace/sedhAu9PU",
-    "00_Claude_Workspace/GAL/00_Proposta_Aggiornamento_MOC_GAL.md",
     "00_Claude_Workspace/sedsmALvu",
-    "00_Claude_Workspace/GAL/10_Indici_Lezioni/12_Indice_Lezione_11.md",
-    "00_Claude_Workspace/GAL/10_Indici_Lezioni/11_Indice_Lezione_10.md",
-    "00_Claude_Workspace/GAL/10_Indici_Lezioni/10_Indice_Lezione_9.md",
-    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
-    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
-    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
-    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
     "00_Claude_Workspace/Analisi_1/06_Serie",
     "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti",
     "00_Claude_Workspace/Analisi_1",
     "00_Claude_Workspace/GAL/10_Indici_Lezioni",
-    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali",
     "99_Tools/Screenshots/GAL/votoFinaleGal.png",
     "99_Tools/Screenshots/GAL/votiGal.png",
     "99_Tools/Screenshots/GAL/Composizione.png",
@@ -249,7 +256,6 @@
     "99_Tools/Screenshots/GAL/efficienzaComputazionaleEsempio.png",
     "99_Tools/Screenshots/GAL/sommaMatrici.png",
     "99_Tools/Screenshots/GAL/graficoEsempiFunzione.png",
-    "99_Tools/Screenshots/GAL/GrigliaVoti.png",
     "Senza nome.canvas"
   ]
 }

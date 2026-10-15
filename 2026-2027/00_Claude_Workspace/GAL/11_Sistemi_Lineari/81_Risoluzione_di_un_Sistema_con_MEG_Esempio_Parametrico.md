@@ -43,8 +43,7 @@ $$\left[\begin{array}{cc|c} 3 & -2 & 1 \\ 0 & 1 & \frac{b-2}{a+4} \end{array}\ri
 | riga nulla anche nei termini noti | $\left[\begin{smallmatrix}3&-2&1\\0&0&0\end{smallmatrix}\right]$ | sì | infinite |
 | pivot nella colonna dei termini noti | $\left[\begin{smallmatrix}3&-2&1\\0&0&1\end{smallmatrix}\right]$ | no | $\emptyset$ |
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** slide 77, in basso, sezione "RIEPILOGO". **Cosa cercare:** tre matrici a blocchi con la linea rossa "a scala" che segue i pivot e dei pallini azzurri sui pivot. Nel primo caso (sol. unica) i pivot sono nelle due colonne delle incognite; nel secondo (sol. infinite) la linea scende solo di un gradino e la seconda riga è nulla; nel terzo ($\emptyset$) il secondo pivot cade nella colonna dei termini noti. Conviene fare uno screenshot e salvarlo in `99_Tools/Screenshots/GAL/`.
+![[soluzioneGraficaSistemaLineare.png]]
 
 Questa classificazione è generalizzata dal [[82_Teorema_di_Rouche_Capelli]].
 
