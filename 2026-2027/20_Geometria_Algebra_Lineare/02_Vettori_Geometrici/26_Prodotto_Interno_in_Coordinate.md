@@ -13,7 +13,7 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_2.pdf (p. 5-6)"
 > allora
 > $$u \cdot v = x_1 y_1 + x_2 y_2 + x_3 y_3.$$
 
-**dim:** Se $u$ ha coordinate $(x_1, x_2, x_3)^T$ [nell'originale: $(x_1,x_3,x_3)^T$, svista evidente] allora $u = x_1 e_1 + x_2 e_2 + x_3 e_3$ e allo stesso modo $v = y_1 e_1 + y_2 e_2 + y_3 e_3$. Allora
+**dim:** Se $u$ ha coordinate $(x_1, x_2, x_3)^T$ allora $u = x_1 e_1 + x_2 e_2 + x_3 e_3$ e allo stesso modo $v = y_1 e_1 + y_2 e_2 + y_3 e_3$. Allora
 $$
 \begin{aligned}
 u \cdot v &= \Big(\sum_{i=1}^{3} x_i e_i\Big) \cdot \Big(\sum_{j=1}^{3} y_j e_j\Big) \\
@@ -24,7 +24,7 @@ u \cdot v &= \Big(\sum_{i=1}^{3} x_i e_i\Big) \cdot \Big(\sum_{j=1}^{3} y_j e_j\
 \end{aligned}
 $$
 
-**!!!** (disegno: parallelepipedo con $O$ origine, versori $e_1, e_2, e_3$ e componenti $x_1, x_2, x_3$ del vettore $u$)
+![[versori.png|400]]
 
 ## Note collegate
 - [[25_Prodotto_Interno_e_Ortogonalita]]

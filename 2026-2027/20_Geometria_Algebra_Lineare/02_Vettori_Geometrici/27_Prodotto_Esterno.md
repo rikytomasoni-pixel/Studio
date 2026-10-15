@@ -14,7 +14,7 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_2.pdf (p. 6)"
 >
 > e $u \wedge v$ si trova sulla semiretta uscente da $O$ ortogonale al piano $H$ che contiene $O$, $P$ e $Q$ che vede la rotazione di $u$ verso $v$ lungo $\vartheta$ in senso antiorario.
 
-**!!!** (disegno: piano $H$ contenente $O$, $P$, $Q$ con $u = OP$, $v = OQ$, angolo $\vartheta$, freccia di rotazione antioraria da $u$ verso $v$, e retta ortogonale al piano per $O$ con la semiretta $OS$)
+![[prodottoEsterno.png|526]]
 
 Il prodotto esterno si calcola in coordinate con i determinanti: [[28_Determinanti_2x2_e_3x3]].
 

@@ -13,13 +13,13 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_2.pdf (p. 4-5)"
 > - se $u, v \neq 0$ allora
 > $$u \cdot v = \|u\| \cdot \|v\| \cdot \cos\vartheta$$
 > dove $\|u\|$ e $\|v\|$ sono le lunghezze di $u$ e $v$ rispetto all'unità di misura.
-![[Pasted image 20261015124430.png]]
+![[prodottoInterno.png]]
 
 > [!warning] Def. Vettori ortogonali
 > Due vettori $u$ e $v$ sono **ortogonali** se l'angolo $\vartheta$ fra i due vettori è retto.
 > Si conviene che il vettore $0$ sia ortogonale a tutti i vettori.
 
-**!!!** (disegno: $u$ orizzontale e $v$ verticale con angolo retto in $O$)
+![[vettoriOrtogonali.png]]
 
 > [!abstract] Teorema (Proposizione)
 > Dati due vettori $u$ e $v$,
