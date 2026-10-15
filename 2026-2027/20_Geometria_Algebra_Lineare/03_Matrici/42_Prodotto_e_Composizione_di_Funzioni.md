@@ -21,7 +21,7 @@ fonte: "GAL_2026-2027_-_20261001_-_LEZIONE_4.pdf (slide 38-39)"
 > $$BA = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 1 \end{bmatrix} \begin{bmatrix} 1 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 1 & 1 \end{bmatrix} = \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 1 \end{bmatrix}$$
 > con righe vocale, consonante e colonne arancia, limone, lampone.
 
-**!!!** (disegno: tre insiemi $F \to L \to T$ con frecce blu ($A$) e verdi ($B$) e frecce rosse della composizione direttamente da $F$ a $T$)
+![[Composizione.png]]
 
 > [!abstract] Teorema (Morale)
 > Il prodotto matriciale ([[41_Prodotto_Matriciale_Righe_per_Colonne]]) è congeniale per poter **codificare la composizione funzionale**!!!

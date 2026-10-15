@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf"
+                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "GAL 2026-2027 - 20260930 - LEZIONE 3"
+              "title": "GAL 2026-2027 - 20261001 - LEZIONE 4"
             }
           },
           {
@@ -25,15 +25,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/03_Matrici/37_Efficienza_Computazionale.md",
+                "file": "20_Geometria_Algebra_Lineare/03_Matrici/42_Prodotto_e_Composizione_di_Funzioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "37_Efficienza_Computazionale"
+              "title": "42_Prodotto_e_Composizione_di_Funzioni"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +204,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "940a381fa456941b",
+  "active": "0ba7c57d61bd7477",
   "lastOpenFiles": [
-    "20_Geometria_Algebra_Lineare/03_Matrici/37_Efficienza_Computazionale.md",
+    "99_Tools/Screenshots/GAL/Composizione.png",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
+    "20_Geometria_Algebra_Lineare/03_Matrici/42_Prodotto_e_Composizione_di_Funzioni.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
+    "20_Geometria_Algebra_Lineare/03_Matrici/41_Prodotto_Matriciale_Righe_per_Colonne.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/40_Opposto_di_una_Matrice.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/37_Efficienza_Computazionale.md",
+    "99_Tools/Screenshots/GAL/complessitaEmpirica.png",
+    "99_Tools/Screenshots/GAL/efficienzaComputazionaleEsempio.png",
     "20_Geometria_Algebra_Lineare/03_Matrici/36_Prodotto_di_una_Matrice_per_uno_Scalare.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/35_Somma_tra_Matrici.md",
     "99_Tools/Screenshots/GAL/sommaMatrici.png",
@@ -226,12 +234,9 @@
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/24_Proprieta_delle_Operazioni_tra_Vettori.md",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/23_Sistemi_di_Riferimento_e_Coordinate.md",
     "99_Tools/Screenshots/GAL/pianoCoordinato.png",
-    "99_Tools/Screenshots/GAL/sistemaRiferimentoAffine.png",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/22_Operazioni_tra_Vettori.md",
-    "99_Tools/Screenshots/GAL/sommaVettori.png",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/21_Vettori_come_Classi_di_Equivalenza.md",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/20_Segmenti_Orientati_ed_Equipollenza.md",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/31_Il_Campo_F2.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260916 - LEZIONE 0.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260917 - LEZIONE 1.pdf",
@@ -241,15 +246,12 @@
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/16_Funzioni.md",
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/11_Prodotto_Cartesiano.md",
     "20_Geometria_Algebra_Lineare/06_Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
-    "10_Analisi_1/00_MOC_Analisi_1.md",
     "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L8 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L5 26-27.pdf",
-    "30_Fondamenti_Informatica/00_MOC_FdI.md",
-    "30_Fondamenti_Informatica/01_Introduzione_e_Codifica/Codifica dell'informazione.md",
     "Senza nome.canvas"
   ]
 }
