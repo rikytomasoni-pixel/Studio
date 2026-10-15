@@ -9,7 +9,7 @@ corso: Analisi Matematica 1
 
 # Analisi Matematica 1 — Indice Generale
 
-Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti`
+Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti` · `06_Serie`
 
 ## Fondamenti: insiemi e logica
 - [[01_Insiemi_Numerici]]
@@ -62,6 +62,22 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 - [[40_Confronti_Asintotici]]
 - [[41_o_piccolo_e_Asintotico]]
 - [[42_Confronti_Asintotici_Proprieta_e_Notevoli]]
+- [[43_Asintotici_con_Funzioni_Composte]]
+- [[44_Esempio_Asintotici_con_Logaritmo_e_Arctan]]
+- [[45_Esercizio_Asintotici_Limite_21]]
+- [[46_Asintotici_Notevoli_e_Limiti_Notevoli]]
+
+## Serie
+- [[47_Serie_Introduzione_e_Somme_Parziali]]
+- [[48_Studio_del_Carattere_di_una_Serie]]
+- [[49_Esempi_Elementari_di_Serie]]
+- [[50_Serie_Geometrica]]
+- [[51_Rappresentazione_Decimale_e_Serie]]
+- [[52_Linearita_delle_Serie]]
+- [[53_Serie_Telescopiche_e_Mengoli]]
+- [[54_Condizione_Necessaria_di_Convergenza]]
+- [[55_Serie_Armonica]]
+
 ## Cronologia delle lezioni
 | Lezione   | Data       | Note principali                                                                                                                                                                                                                                        |
 | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -74,5 +90,6 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 | Lezione 7 | 02-10-2026 | [[31_Successioni_Monotone]], [[32_Successione_Convergente_e_Limitata]], [[33_Teorema_Permanenza_del_Segno]], [[34_Algebra_dei_Limiti]], [[35_Teoremi_del_Confronto]], [[36_Gerarchia_degli_Infiniti]]                                                  |
 | Lezione 8 | 07-10-2026 | [[37_Algebra_Limiti_Infiniti]], [[38_Numero_di_Nepero]], [[39_Criterio_del_Rapporto]], [[36_Gerarchia_degli_Infiniti]], [[40_Confronti_Asintotici]], [[41_o_piccolo_e_Asintotico]]                                                                     |
 | Lezione 9 | 09-10-2026 | [[42_Confronti_Asintotici_Proprieta_e_Notevoli]]                                                                                                                                                                                                        |
+| Lezione 10 | 14-10-2026 | [[43_Asintotici_con_Funzioni_Composte]], [[44_Esempio_Asintotici_con_Logaritmo_e_Arctan]], [[45_Esercizio_Asintotici_Limite_21]], [[46_Asintotici_Notevoli_e_Limiti_Notevoli]], [[47_Serie_Introduzione_e_Somme_Parziali]], [[48_Studio_del_Carattere_di_una_Serie]], [[49_Esempi_Elementari_di_Serie]], [[50_Serie_Geometrica]], [[51_Rappresentazione_Decimale_e_Serie]], [[52_Linearita_delle_Serie]], [[53_Serie_Telescopiche_e_Mengoli]], [[54_Condizione_Necessaria_di_Convergenza]], [[55_Serie_Armonica]] |
 
 #AM1/moc

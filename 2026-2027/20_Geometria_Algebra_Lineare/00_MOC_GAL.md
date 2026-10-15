@@ -1,8 +1,8 @@
 ---
 tags: [GAL, MOC, indice-generale]
-data: 2026-10-08
-lezione: 0-7
-fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4 e 6-7)"
+data: 2026-10-15
+lezione: 0-11
+fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7 e 9-11)"
 ---
 
 # MOC — Geometria e Algebra Lineare A.A. 2026-2027
@@ -18,9 +18,12 @@ flowchart LR
     E --> F[Rango]
     E --> G[Determinante]
     D --> G
+    E --> H[Sistemi lineari]
+    H --> I[Spazi affini]
+    I --> J[Spazi vettoriali]
 ```
 
-Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Matrici` · `04_Matrice_Inversa` · `05_Metodo_di_Eliminazione_di_Gauss` · `06_Rango` · `07_Determinante` · `08_Applicazioni` · `09_Organizzazione` · `10_Indici_Lezioni`
+Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Matrici` · `04_Matrice_Inversa` · `05_Metodo_di_Eliminazione_di_Gauss` · `06_Rango` · `07_Determinante` · `08_Applicazioni` · `09_Organizzazione` · `10_Indici_Lezioni` · `11_Sistemi_Lineari` · `12_Spazi_Affini` · `13_Spazi_Vettoriali`
 
 ## Linea cronologica
 
@@ -34,6 +37,10 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 | 5 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L4 termina a 44 e L6 inizia a 45) | — |
 | 6 | 2026-10-07 | Matrice invertibile; rango; determinante (sviluppo di Laplace); matrici triangolari; metodo di eliminazione di Gauss; pivot e matrice a scala | [[07_Indice_Lezione_6]] |
 | 7 | 2026-10-08 | Reversibilità del MEG; codifica del MEG con il prodotto matriciale; rango con il MEG; teorema di Binet; determinante con il MEG; proprietà del determinante | [[08_Indice_Lezione_7]] |
+| 8 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L7 termina a 72 e L9 inizia a 73) | — |
+| 9 | 2026-10-12 | Rappresentazioni matriciali di un sistema lineare; risoluzione via MEG; teorema di Rouché-Capelli | [[10_Indice_Lezione_9]] |
+| 10 | 2026-10-14 | Commenti a Rouché-Capelli; nucleo; teorema di struttura; teorema di Cramer; ricerca della matrice inversa; teorema sull'invertibilità | [[11_Indice_Lezione_10]] |
+| 11 | 2026-10-15 | Spazi affini (cartesiane e parametriche); spazio vettoriale: definizione ed esempi; sottospazi vettoriali | [[12_Indice_Lezione_11]] |
 
 ## Fondamenti teorici — insiemi, relazioni, funzioni
 - [[11_Prodotto_Cartesiano]] — Prodotto cartesiano *(L0)*
@@ -83,6 +90,8 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[61_Unicita_e_Bilateralita_dell_Inversa]] — Unicità e bilateralità dell'inversa *(L6)*
 - [[62_Non_Commutativita_del_Prodotto_Matriciale]] — Non commutatività del prodotto matriciale *(L6)*
 - [[72_Esistenza_della_Matrice_Inversa]] — Esistenza della matrice inversa *(L7)*
+- [[87_Ricerca_della_Matrice_Inversa]] — Ricerca della matrice inversa *(L10)*
+- [[88_Teorema_sull_Invertibilita_della_Matrice]] — Teorema sull'invertibilità della matrice *(L10)*
 
 ## Rango
 - [[63_Rango_di_una_Matrice]] — Rango di una matrice *(L6)*
@@ -106,6 +115,25 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[70_Reversibilita_del_MEG]] — Reversibilità del MEG *(L7)*
 - [[71_Codifica_del_MEG_con_il_Prodotto_Matriciale]] — Codifica del MEG con il prodotto matriciale *(L7)*
 
+## Sistemi lineari
+- [[80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare]] — Rappresentazioni matriciali di un sistema lineare *(L9)*
+- [[81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico]] — Risoluzione con il MEG: esempio con parametri *(L9)*
+- [[82_Teorema_di_Rouche_Capelli]] — Teorema di Rouché-Capelli *(L9)*
+- [[83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli]] — Esempio con parametro k *(L10)*
+- [[84_Nucleo_e_Sistema_Omogeneo_Associato]] — Nucleo e sistema omogeneo associato *(L10)*
+- [[85_Teorema_di_Struttura_delle_Soluzioni]] — Teorema di struttura delle soluzioni *(L10)*
+- [[86_Teorema_di_Cramer]] — Teorema di Cramer *(L10)*
+
+## Spazi affini
+- [[89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini]] — Interpretazione geometrica dei sistemi lineari *(L11)*
+- [[90_Sistemi_Omogenei_e_Chiusura_della_Somma]] — Sistemi omogenei e chiusura della somma *(L11)*
+
+## Spazi vettoriali
+- [[91_Spazio_Vettoriale_Definizione]] — Spazio vettoriale: definizione *(L11)*
+- [[92_Esempi_di_Spazi_Vettoriali]] — Esempi di spazi vettoriali *(L11)*
+- [[93_Proprieta_Fondamentali_degli_Spazi_Vettoriali]] — Proprietà fondamentali degli spazi vettoriali *(L11)*
+- [[94_Sottospazi_Vettoriali]] — Sottospazi vettoriali *(L11)*
+
 ## Note collegate
 - [[01_Indice_Lezione_0]]
 - [[02_Indice_Lezione_1]]
@@ -114,5 +142,8 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[05_Indice_Lezione_4]]
 - [[07_Indice_Lezione_6]]
 - [[08_Indice_Lezione_7]]
+- [[10_Indice_Lezione_9]]
+- [[11_Indice_Lezione_10]]
+- [[12_Indice_Lezione_11]]
 
 #GAL/moc
