@@ -31,8 +31,7 @@ $$\sum_{n=0}^\infty q^n=\lim_{N\to\infty}S_N=\begin{cases}+\infty&q\geq1\\[1mm]\
 ## Esempio: $q=\frac12$
 $$\sum_{n=0}^\infty\frac1{2^n}=1+\frac12+\frac14+\frac18+\frac1{16}+\dots+\frac1{2^n}+\dots=\frac1{1-\frac12}=2$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** pag. 14, a metà pagina. **Cosa cercare:** lo stesso rettangolo suddiviso di pag. 7 (quadrato di area $1$ a sinistra e a destra rettangoli di area $\frac12$, $\frac14$, $\frac18$, ...) che dà il significato geometrico di $\sum\frac1{2^n}=2$. Vedi [[47_Serie_Introduzione_e_Somme_Parziali]].
+Vedi [[47_Serie_Introduzione_e_Somme_Parziali]].
 
 ## Note collegate
 - [[47_Serie_Introduzione_e_Somme_Parziali]]
