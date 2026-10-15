@@ -10,7 +10,7 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_2.pdf (p. 1)"
 > [!warning] Def. Segmento orientato
 > Un **segmento orientato** (o vettore applicato) è una coppia di punti $(A,B)$ dello spazio euclideo 3-dimensionale $\mathbb{E}^3$. $A$ si chiama **punto di applicazione**.
 
-**!!!** (disegno: segmento orientato da $A$ a $B$ con freccia in $B$)
+![[segmentoOrientato.png|397]]
 
 > [!warning] Def. Equipollenza
 > Due segmenti orientati $(A,B)$ e $(C,D)$ sono **equipollenti** se i punti medi dei segmenti $AD$ e $BC$ coincidono. In questo caso si scrive $AB \triangleq CD$.
