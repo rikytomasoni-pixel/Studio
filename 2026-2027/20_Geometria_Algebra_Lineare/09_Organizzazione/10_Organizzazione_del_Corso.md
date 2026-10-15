@@ -38,15 +38,15 @@ Pagina WeBeep del corso: https://webeep.polimi.it/course/view.php?id=22687
 - Voto: max 32
 
 **Teoria**
-- Quesiti [«vero/falso»? lettura incerta] di carattere teorico (definizioni, teoremi, ...)
+- Quesiti vari di carattere teorico (definizioni, teoremi, ...)
 - Voto: max 32
 
-**!!!** (disegno: tre semafori — verde: $\geq 18/32$; arancione: $< 18/32$ e $\geq 16/32$; rosso: $< 16/32$)
+![[votiGal.png]]
 
 > [!warning] Def. Voto finale
 > Voto finale $= [\,70\%\ \text{esercizi},\ 30\%\ \text{teoria}\,]$
 
-**!!!** (disegno: due semafori — verde: voto finale $> 17$; rosso: voto finale $\leq 17$)
+![[votoFinaleGal.png]]
 
 ## Prova in itinere
 - Data: 30 ottobre 2026
