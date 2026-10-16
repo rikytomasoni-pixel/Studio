@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
+                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/62_Non_Commutativita_del_Prodotto_Matriciale.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "45_Matrice_Identita_e_Matrici_Diagonali"
+              "title": "62_Non_Commutativita_del_Prodotto_Matriciale"
             }
           }
         ]
@@ -193,9 +193,12 @@
   },
   "active": "940a381fa456941b",
   "lastOpenFiles": [
-    "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
-    "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
+    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/07_Indice_Lezione_6.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
+    "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
+    "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/61_Unicita_e_Bilateralita_dell_Inversa.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/42_Prodotto_e_Composizione_di_Funzioni.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/41_Prodotto_Matriciale_Righe_per_Colonne.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/36_Prodotto_di_una_Matrice_per_uno_Scalare.md",
@@ -213,13 +216,10 @@
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/11_Indice_Lezione_10.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/10_Indice_Lezione_9.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/08_Indice_Lezione_7.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/07_Indice_Lezione_6.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni",
     "00_Claude_Workspace/GAL/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
     "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
     "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
-    "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
-    "10_Analisi_1/06_Serie/51_Rappresentazione_Decimale_e_Serie.md",
     "10_Analisi_1/06_Serie",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali",
     "20_Geometria_Algebra_Lineare/12_Spazi_Affini",
