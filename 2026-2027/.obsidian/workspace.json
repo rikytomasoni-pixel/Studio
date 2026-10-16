@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
+                "file": "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30_Matrici_come_Rappresentazione_di_Funzioni"
+              "title": "43_PageRank_e_Matrice_di_Google"
             }
           }
         ]
@@ -193,9 +193,10 @@
   },
   "active": "940a381fa456941b",
   "lastOpenFiles": [
-    "20_Geometria_Algebra_Lineare/03_Matrici/32_Definizione_di_Matrice.md",
-    "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
+    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/04_Indice_Lezione_3.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/32_Definizione_di_Matrice.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/03_Indice_Lezione_2.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/02_Indice_Lezione_1.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/01_Indice_Lezione_0.md",
@@ -207,7 +208,6 @@
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/10_Indice_Lezione_9.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/08_Indice_Lezione_7.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/07_Indice_Lezione_6.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni",
     "00_Claude_Workspace/GAL/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
     "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
