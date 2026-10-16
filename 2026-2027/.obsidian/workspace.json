@@ -11,10 +11,14 @@
             "id": "940a381fa456941b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30_Matrici_come_Rappresentazione_di_Funzioni"
             }
           }
         ]
@@ -189,8 +193,14 @@
   },
   "active": "940a381fa456941b",
   "lastOpenFiles": [
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/32_Definizione_di_Matrice.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
+    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/04_Indice_Lezione_3.md",
+    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/03_Indice_Lezione_2.md",
+    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/02_Indice_Lezione_1.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/01_Indice_Lezione_0.md",
+    "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
     "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/12_Indice_Lezione_11.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/11_Indice_Lezione_10.md",
@@ -198,9 +208,6 @@
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/08_Indice_Lezione_7.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/07_Indice_Lezione_6.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/04_Indice_Lezione_3.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/03_Indice_Lezione_2.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/02_Indice_Lezione_1.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni",
     "00_Claude_Workspace/GAL/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
     "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
@@ -213,9 +220,6 @@
     "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
     "10_Analisi_1/05_Successioni_e_Limiti/46_Asintotici_Notevoli_e_Limiti_Notevoli.md",
     "10_Analisi_1/05_Successioni_e_Limiti/45_Esercizio_Asintotici_Limite_21.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/44_Esempio_Asintotici_con_Logaritmo_e_Arctan.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/43_Asintotici_con_Funzioni_Composte.md",
-    "20_Geometria_Algebra_Lineare/99_Indici_Lezioni/12_Indice_Lezione_11.md",
     "10_Analisi_1/06_Serie",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali",
     "20_Geometria_Algebra_Lineare/12_Spazi_Affini",
