@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
+                "file": "20_Geometria_Algebra_Lineare/03_Matrici/41_Prodotto_Matriciale_Righe_per_Colonne.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "43_PageRank_e_Matrice_di_Google"
+              "title": "41_Prodotto_Matriciale_Righe_per_Colonne"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "940a381fa456941b",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/04_Indice_Lezione_3.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
@@ -219,7 +220,6 @@
     "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
     "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
     "10_Analisi_1/05_Successioni_e_Limiti/46_Asintotici_Notevoli_e_Limiti_Notevoli.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/45_Esercizio_Asintotici_Limite_21.md",
     "10_Analisi_1/06_Serie",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali",
     "20_Geometria_Algebra_Lineare/12_Spazi_Affini",
