@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f745319ff8a596a9",
+        "id": "16ea554704c920c2",
         "type": "tabs",
         "children": [
           {
-            "id": "940a381fa456941b",
+            "id": "07f39ec37a8cd1ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "45_Matrice_Identita_e_Matrici_Diagonali"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -191,13 +187,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "940a381fa456941b",
+  "active": "07f39ec37a8cd1ca",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/41_Prodotto_Matriciale_Righe_per_Colonne.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/62_Non_Commutativita_del_Prodotto_Matriciale.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/07_Indice_Lezione_6.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
-    "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/61_Unicita_e_Bilateralita_dell_Inversa.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
