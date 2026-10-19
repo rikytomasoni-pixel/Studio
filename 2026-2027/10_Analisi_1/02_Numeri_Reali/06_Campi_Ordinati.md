@@ -36,7 +36,8 @@ Si scrive $a-b$ invece di $a+(-b)$, $\forall\, a,b$.
 > $$(a\cdot b)\cdot c = a\cdot (b\cdot c) \qquad \forall\, a,b,c$$
 > $(P_3)$ **Esistenza dell'elemento neutro**: $\exists\, 1$ tale che
 > $$a\cdot 1 = 1 \cdot a = a \qquad \forall\, a$$
-> $(P_4)$ **Esistenza dell'elemento inverso**: per ogni $a\neq 0$ esiste un elemento, che indichiamo con $a^{-1}=\dfrac{1}{a}$, tale che
+> $(P_4)$ **Esistenza dell'elemento inverso**: per ogni $a\neq 0$ esiste un elemento,
+> che indichiamo con $a^{-1}=\dfrac{1}{a}$, tale che
 > $$a\cdot a^{-1} = a^{-1}\cdot a = 1$$
 
 ## Distributività e definizione di campo

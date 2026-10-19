@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
+                "file": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_Dimostrazione_per_Induzione"
+              "title": "06_Campi_Ordinati"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.1752815246582
+    "width": 242.81723022460938
   },
   "right": {
     "id": "3beb91e54d21d6ea",
@@ -194,6 +194,7 @@
   "active": "30c86eb442469c86",
   "lastOpenFiles": [
     "10_Analisi_1/00_MOC_Analisi_1.md",
+    "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
     "10_Analisi_1/01_Insiemi_e_Logica/04_Dimostrazione_per_Assurdo.md",
     "10_Analisi_1/01_Insiemi_e_Logica/03_Dimostrazioni.md",
     "10_Analisi_1/01_Insiemi_e_Logica/02_Logica.md",
@@ -222,7 +223,6 @@
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/08_Indice_Lezione_7.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/07_Indice_Lezione_6.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
-    "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni",
     "10_Analisi_1/06_Serie",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali",
