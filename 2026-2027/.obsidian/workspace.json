@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
+                "file": "10_Analisi_1/02_Numeri_Reali/07_Insiemi_Limitati_Max_Min.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_Campi_Ordinati"
+              "title": "07_Insiemi_Limitati_Max_Min"
+            }
+          },
+          {
+            "id": "a87fff7c4302f5e6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -193,6 +203,11 @@
   },
   "active": "30c86eb442469c86",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/29_Successioni_Definizioni_Base.md",
+    "10_Analisi_1/02_Numeri_Reali/07_Insiemi_Limitati_Max_Min.md",
+    "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
+    "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
     "10_Analisi_1/00_MOC_Analisi_1.md",
     "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
     "10_Analisi_1/01_Insiemi_e_Logica/04_Dimostrazione_per_Assurdo.md",
@@ -219,16 +234,11 @@
     "10_Analisi_1/01_Insiemi_e_Logica/01_Insiemi_Numerici.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/12_Indice_Lezione_11.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/11_Indice_Lezione_10.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/10_Indice_Lezione_9.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/08_Indice_Lezione_7.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/07_Indice_Lezione_6.md",
-    "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni",
     "10_Analisi_1/06_Serie",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali",
     "20_Geometria_Algebra_Lineare/12_Spazi_Affini",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari",
-    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/sedoDP01o",
     "99_Tools/Screenshots/GAL/Mordor.png",
     "Pasted image 20261015171110.png",
     "99_Tools/Screenshots/GAL/sommaDiVettoriSpostamento.png",
