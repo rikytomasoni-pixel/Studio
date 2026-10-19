@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/12_Indice_Lezione_11.md",
-                "mode": "source",
+                "file": "10_Analisi_1/01_Insiemi_e_Logica/02_Logica.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12_Indice_Lezione_11"
+              "title": "02_Logica"
+            }
+          },
+          {
+            "id": "30c86eb442469c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Analisi_1/00_MOC_Analisi_1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_MOC_Analisi_1"
             }
           }
         ]
@@ -193,6 +207,9 @@
   },
   "active": "07f39ec37a8cd1ca",
   "lastOpenFiles": [
+    "10_Analisi_1/01_Insiemi_e_Logica/01_Insiemi_Numerici.md",
+    "10_Analisi_1/00_MOC_Analisi_1.md",
+    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/12_Indice_Lezione_11.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/11_Indice_Lezione_10.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/10_Indice_Lezione_9.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/08_Indice_Lezione_7.md",
@@ -216,9 +233,6 @@
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/02_Indice_Lezione_1.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/01_Indice_Lezione_0.md",
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
-    "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/12_Indice_Lezione_11.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni",
     "10_Analisi_1/06_Serie",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali",
