@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/01_Insiemi_e_Logica/02_Logica.md",
+                "file": "10_Analisi_1/01_Insiemi_e_Logica/04_Dimostrazione_per_Assurdo.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Logica"
+              "title": "04_Dimostrazione_per_Assurdo"
             }
           },
           {
@@ -207,6 +207,9 @@
   },
   "active": "07f39ec37a8cd1ca",
   "lastOpenFiles": [
+    "10_Analisi_1/01_Insiemi_e_Logica/03_Dimostrazioni.md",
+    "10_Analisi_1/01_Insiemi_e_Logica/04_Dimostrazione_per_Assurdo.md",
+    "10_Analisi_1/01_Insiemi_e_Logica/02_Logica.md",
     "00_Claude_Workspace/Analisi_1/00_Proposta_Aggiornamento_MOC_Analisi_1_L11.md",
     "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti/68_Formula_di_Stirling.md",
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/67_Esempio_Serie_n_Fattoriale_su_n_alla_n.md",
@@ -234,9 +237,6 @@
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/07_Indice_Lezione_6.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
-    "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/70_Reversibilita_del_MEG.md",
-    "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
-    "20_Geometria_Algebra_Lineare/03_Matrici/41_Prodotto_Matriciale_Righe_per_Colonne.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni",
     "10_Analisi_1/06_Serie",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali",
