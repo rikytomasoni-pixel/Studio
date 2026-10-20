@@ -1,8 +1,8 @@
 ---
 tags: [GAL, MOC, indice-generale]
-data: 2026-10-15
-lezione: 0-11
-fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7 e 9-11)"
+data: 2026-10-20
+lezione: 0-13
+fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11 e 13)"
 ---
 
 # MOC — Geometria e Algebra Lineare A.A. 2026-2027
@@ -21,9 +21,10 @@ flowchart LR
     E --> H[Sistemi lineari]
     H --> I[Spazi affini]
     I --> J[Spazi vettoriali]
+    J --> K[Indipendenza lineare, basi e dimensione]
 ```
 
-Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Matrici` · `04_Matrice_Inversa` · `05_Metodo_di_Eliminazione_di_Gauss` · `06_Rango` · `07_Determinante` · `08_Applicazioni` · `09_Organizzazione` · `10_Indici_Lezioni` · `11_Sistemi_Lineari` · `12_Spazi_Affini` · `13_Spazi_Vettoriali`
+Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Matrici` · `04_Matrice_Inversa` · `05_Metodo_di_Eliminazione_di_Gauss` · `06_Rango` · `07_Determinante` · `08_Applicazioni` · `09_Organizzazione` · `10_Indici_Lezioni` · `11_Sistemi_Lineari` · `12_Spazi_Affini` · `13_Spazi_Vettoriali` · `14_Indipendenza_Lineare_Basi_Dimensione`
 
 ## Linea cronologica
 
@@ -41,6 +42,8 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 | 9 | 2026-10-12 | Rappresentazioni matriciali di un sistema lineare; risoluzione via MEG; teorema di Rouché-Capelli | [[10_Indice_Lezione_9]] |
 | 10 | 2026-10-14 | Commenti a Rouché-Capelli; nucleo; teorema di struttura; teorema di Cramer; ricerca della matrice inversa; teorema sull'invertibilità | [[11_Indice_Lezione_10]] |
 | 11 | 2026-10-15 | Spazi affini (cartesiane e parametriche); spazio vettoriale: definizione ed esempi; sottospazi vettoriali | [[12_Indice_Lezione_11]] |
+| 12 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L11 termina a 107 e L13 inizia a 108) | — |
+| 13 | 2026-10-19 | Combinazioni lineari e span; generatori; vettori linearmente indipendenti; base; teorema di unicità della rappresentazione; dimensione | [[14_Indice_Lezione_13]] |
 
 ## Fondamenti teorici — insiemi, relazioni, funzioni
 - [[11_Prodotto_Cartesiano]] — Prodotto cartesiano *(L0)*
@@ -133,6 +136,16 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[92_Esempi_di_Spazi_Vettoriali]] — Esempi di spazi vettoriali *(L11)*
 - [[93_Proprieta_Fondamentali_degli_Spazi_Vettoriali]] — Proprietà fondamentali degli spazi vettoriali *(L11)*
 - [[94_Sottospazi_Vettoriali]] — Sottospazi vettoriali *(L11)*
+- [[95_Combinazioni_Lineari_e_Span]] — Combinazioni lineari e span *(L13)*
+- [[96_Insieme_di_Generatori]] — Insieme di generatori *(L13)*
+- [[97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple]] — Esempio: generatori di R3 e rappresentazioni multiple *(L13)*
+
+## Indipendenza lineare, basi e dimensione
+- [[98_Vettori_Linearmente_Indipendenti]] — Vettori linearmente indipendenti *(L13)*
+- [[99_Dipendenza_Lineare_e_Vettori_Ridondanti]] — Dipendenza lineare e vettori ridondanti *(L13)*
+- [[100_Base_di_uno_Spazio_Vettoriale]] — Base di uno spazio vettoriale *(L13)*
+- [[101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base]] — Teorema di unicità della rappresentazione *(L13)*
+- [[102_Dimensione_di_uno_Spazio_Vettoriale]] — Dimensione di uno spazio vettoriale *(L13)*
 
 ## Note collegate
 - [[01_Indice_Lezione_0]]
@@ -145,5 +158,6 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[10_Indice_Lezione_9]]
 - [[11_Indice_Lezione_10]]
 - [[12_Indice_Lezione_11]]
+- [[14_Indice_Lezione_13]]
 
 #GAL/moc

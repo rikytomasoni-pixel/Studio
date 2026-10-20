@@ -49,5 +49,6 @@ $$\Rightarrow \quad \lim_{n\to\infty} n^{1/n} = \lim_{n\to\infty} e^{\frac{\log 
 - [[36_Gerarchia_degli_Infiniti]] — usato negli esempi
 - [[38_Numero_di_Nepero]] — limite notevole $e$ usato nell'esempio $n^n/n!$
 - [[37_Algebra_Limiti_Infiniti]]
+- [[64_Criterio_del_Rapporto_per_Serie]] — versione per serie (con le conseguenze sul limite)
 
 #AM1/successioni-e-limiti/criterio-del-rapporto

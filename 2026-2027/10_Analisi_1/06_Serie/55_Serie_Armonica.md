@@ -45,6 +45,7 @@ e la serie **diverge** (anche se $\lim_{n\to\infty}\frac1n=0$). $\square$
 - [[38_Numero_di_Nepero]]
 - [[35_Teoremi_del_Confronto]]
 - [[47_Serie_Introduzione_e_Somme_Parziali]]
+- [[60_Serie_Armonica_Generalizzata]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/serie/serie-armonica

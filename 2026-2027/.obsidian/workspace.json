@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f745319ff8a596a9",
+        "id": "16ea554704c920c2",
         "type": "tabs",
         "children": [
           {
-            "id": "940a381fa456941b",
+            "id": "7ce7612855179a30",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_MOC_GAL"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.81723022460938
   },
   "right": {
     "id": "3beb91e54d21d6ea",
@@ -187,44 +191,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "940a381fa456941b",
+  "active": "7ce7612855179a30",
   "lastOpenFiles": [
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/01_Indice_Lezione_0.md",
-    "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/12_Indice_Lezione_11.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/11_Indice_Lezione_10.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/10_Indice_Lezione_9.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/08_Indice_Lezione_7.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/07_Indice_Lezione_6.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/04_Indice_Lezione_3.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/03_Indice_Lezione_2.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/02_Indice_Lezione_1.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni",
-    "00_Claude_Workspace/GAL/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
-    "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
-    "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
-    "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
-    "10_Analisi_1/06_Serie/51_Rappresentazione_Decimale_e_Serie.md",
-    "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
-    "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
-    "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
-    "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/46_Asintotici_Notevoli_e_Limiti_Notevoli.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/45_Esercizio_Asintotici_Limite_21.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/44_Esempio_Asintotici_con_Logaritmo_e_Arctan.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/43_Asintotici_con_Funzioni_Composte.md",
-    "20_Geometria_Algebra_Lineare/99_Indici_Lezioni/12_Indice_Lezione_11.md",
-    "10_Analisi_1/06_Serie",
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali",
-    "20_Geometria_Algebra_Lineare/12_Spazi_Affini",
-    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari",
-    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/sedoDP01o",
-    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/sed0azT9w",
-    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/sedGz2og5",
-    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/sedbKktTI",
-    "00_Claude_Workspace/GAL/11_Sistemi_Lineari/sednGuyn7",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
+    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
+    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/sedkYY1PG",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/sedlOS7YG",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/sed2FhOhJ",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/sed7PUrsO",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/sedSUlfd6",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/sed1gQkfl",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/sedjLLJFI",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/sedLDSSwU",
+    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/14_Indice_Lezione_13.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione",
+    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
+    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+    "99_Tools/Screenshots/GAL/BasecanonicaR2.png",
+    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
+    "99_Tools/Screenshots/GAL/AssiCartesiani.png",
+    "99_Tools/Screenshots/GAL/Kernell.png",
+    "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
+    "10_Analisi_1/01_Insiemi_e_Logica/01_Insiemi_Numerici.md",
+    "10_Analisi_1/01_Insiemi_e_Logica/02_Logica.md",
+    "10_Analisi_1/01_Insiemi_e_Logica/04_Dimostrazione_per_Assurdo.md",
+    "10_Analisi_1/01_Insiemi_e_Logica/03_Dimostrazioni.md",
+    "00_Claude_Workspace/GAL/00_Proposta_Aggiornamento_MOC_GAL_L13.md",
+    "00_Claude_Workspace/GAL/14_Indice_Lezione_13.md",
+    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
+    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
+    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
+    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
+    "00_Claude_Workspace/Analisi_1/00_Proposta_Aggiornamento_MOC_Analisi_1_L11.md",
     "99_Tools/Screenshots/GAL/Mordor.png",
     "Pasted image 20261015171110.png",
     "99_Tools/Screenshots/GAL/sommaDiVettoriSpostamento.png",
@@ -232,9 +238,6 @@
     "99_Tools/Screenshots/GAL/vettorev.png",
     "99_Tools/Screenshots/GAL/soluzioneGraficaSistemaLineare.png",
     "99_Tools/Screenshots/Analisi1/graficoLogeDerivata.png",
-    "99_Tools/Screenshots/Analisi1/IntroduzioneSerie.png",
-    "99_Tools/Screenshots/GAL/votoFinaleGal.png",
-    "99_Tools/Screenshots/GAL/votiGal.png",
     "Senza nome.canvas"
   ]
 }
