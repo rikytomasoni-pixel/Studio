@@ -33,7 +33,8 @@
               "title": "GAL 2026-2027 - 20261019 - LEZIONE 13"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +204,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a87fff7c4302f5e6",
+  "active": "7ce7612855179a30",
   "lastOpenFiles": [
-    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
+    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
+    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
+    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
+    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
     "99_Tools/Screenshots/GAL/AssiCartesiani.png",
     "99_Tools/Screenshots/GAL/Kernell.png",
     "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
@@ -216,10 +220,7 @@
     "10_Analisi_1/01_Insiemi_e_Logica/03_Dimostrazioni.md",
     "00_Claude_Workspace/GAL/00_Proposta_Aggiornamento_MOC_GAL_L13.md",
     "00_Claude_Workspace/GAL/14_Indice_Lezione_13.md",
-    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
     "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
-    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
-    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
     "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
     "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
     "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
