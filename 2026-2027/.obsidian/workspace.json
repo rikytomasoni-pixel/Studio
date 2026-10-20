@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
+                "file": "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_Dimostrazione_per_Induzione"
+              "title": "102_Dimensione_di_uno_Spazio_Vettoriale"
+            }
+          },
+          {
+            "id": "7ce7612855179a30",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GAL 2026-2027 - 20261019 - LEZIONE 13"
             }
           }
         ]
@@ -193,8 +205,12 @@
   },
   "active": "a87fff7c4302f5e6",
   "lastOpenFiles": [
-    "10_Analisi_1/01_Insiemi_e_Logica/01_Insiemi_Numerici.md",
+    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
+    "99_Tools/Screenshots/GAL/AssiCartesiani.png",
+    "99_Tools/Screenshots/GAL/Kernell.png",
+    "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
+    "10_Analisi_1/01_Insiemi_e_Logica/01_Insiemi_Numerici.md",
     "10_Analisi_1/01_Insiemi_e_Logica/02_Logica.md",
     "10_Analisi_1/01_Insiemi_e_Logica/04_Dimostrazione_per_Assurdo.md",
     "10_Analisi_1/01_Insiemi_e_Logica/03_Dimostrazioni.md",
@@ -206,7 +222,6 @@
     "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
     "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
     "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
-    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
     "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
     "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione",
     "00_Claude_Workspace/GAL/13_Spazi_Vettoriali",
@@ -223,7 +238,6 @@
     "10_Analisi_1/07_Serie_a_Termini_Positivi/67_Esempio_Serie_n_Fattoriale_su_n_alla_n.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi",
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/sedqAUWSA",
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/sedRyDLhi",
@@ -236,8 +250,6 @@
     "99_Tools/Screenshots/GAL/soluzioneGraficaSistemaLineare.png",
     "99_Tools/Screenshots/Analisi1/graficoLogeDerivata.png",
     "99_Tools/Screenshots/Analisi1/IntroduzioneSerie.png",
-    "99_Tools/Screenshots/GAL/votoFinaleGal.png",
-    "99_Tools/Screenshots/GAL/votiGal.png",
     "Senza nome.canvas"
   ]
 }

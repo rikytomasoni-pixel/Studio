@@ -33,16 +33,15 @@ che è una combinazione lineare. Dunque $\ker(A)=\operatorname{Span}(\underline{
 
 In generale $\ker(A)\subsetneq\mathbb{K}^n$, quindi $\{\underline{v}_1,\dots,\underline{v}_{n-r}\}$ **non** sono generatori di $\mathbb{K}^n$.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** slide 111, a metà pagina. **Cosa cercare:** un grande ovale $\mathbb{K}^n$ che contiene un ovale rosso più piccolo $\ker(A)$; fuori dall'ovale rosso ma dentro quello grande c'è un vettore $\underline{w}$ (blu), che non è generato dai vettori del nucleo.
+![[Kernell.png]]
 
 ### Retta per l'origine in $\mathbb{R}^3$
 Sia $n=3$, $\mathbb{R}^3$ spazio euclideo, $r$ una retta passante per l'origine:
+
+![[AssiCartesiani.png]]
+
 $$r=\left\{\begin{bmatrix}x\\y\\z\end{bmatrix}=t\,\underline{v}\ \middle|\ t\in\mathbb{R}\right\}=\operatorname{Span}(\underline{v})$$
 $\underline{v}$ è un generatore della retta ma **non** è un generatore di $\mathbb{R}^3$.
-
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** slide 111, a destra di "$n=3$". **Cosa cercare:** piccolo schizzo di tre assi cartesiani di $\mathbb{R}^3$.
 
 ## Note collegate
 - [[95_Combinazioni_Lineari_e_Span]]

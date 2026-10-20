@@ -12,9 +12,6 @@ destinazione: "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensi
 > [!abstract] Definizione 13.6
 > Sia $(V,+,\cdot)$ uno spazio vettoriale su un campo $\mathbb{K}$ dotato di una [[100_Base_di_uno_Spazio_Vettoriale|base]]. Il numero di elementi della base si dice **dimensione** di $V$.
 
-> [!warning] Punto aperto
-> La definizione presuppone che tutte le basi di $V$ abbiano lo stesso numero di elementi. Questo fatto non è stato dimostrato nella lezione 13: probabile argomento della lezione successiva.
-
 ## Esempio: $\mathbb{R}^2$
 Con un sistema di riferimento $(O,\vec{i},\vec{j})$ ogni vettore si scrive $\vec{v}=x\vec{i}+y\vec{j}$ (vedi [[23_Sistemi_di_Riferimento_e_Coordinate]]).
 
