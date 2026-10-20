@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/05_Successioni_e_Limiti/40_Confronti_Asintotici.md",
+                "file": "10_Analisi_1/02_Numeri_Reali/08_Estremo_Superiore_Inferiore.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "40_Confronti_Asintotici"
+              "title": "08_Estremo_Superiore_Inferiore"
             }
           },
           {
@@ -203,14 +203,15 @@
   },
   "active": "30c86eb442469c86",
   "lastOpenFiles": [
+    "10_Analisi_1/02_Numeri_Reali/07_Insiemi_Limitati_Max_Min.md",
+    "10_Analisi_1/00_MOC_Analisi_1.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/40_Confronti_Asintotici.md",
     "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
     "10_Analisi_1/05_Successioni_e_Limiti/37_Algebra_Limiti_Infiniti.md",
-    "10_Analisi_1/02_Numeri_Reali/07_Insiemi_Limitati_Max_Min.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
     "10_Analisi_1/05_Successioni_e_Limiti/29_Successioni_Definizioni_Base.md",
     "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
     "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
-    "10_Analisi_1/00_MOC_Analisi_1.md",
     "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
     "10_Analisi_1/01_Insiemi_e_Logica/04_Dimostrazione_per_Assurdo.md",
     "10_Analisi_1/01_Insiemi_e_Logica/03_Dimostrazioni.md",
@@ -233,7 +234,6 @@
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi",
     "00_Claude_Workspace/Analisi_1/06_Serie",
     "00_Claude_Workspace/Analisi_1",
-    "10_Analisi_1/01_Insiemi_e_Logica/01_Insiemi_Numerici.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni",
     "10_Analisi_1/06_Serie",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali",
