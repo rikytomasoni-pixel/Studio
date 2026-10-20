@@ -7,8 +7,6 @@ tags:
   - criterio-della-radice
 data: 2026-10-16
 fonte: "AM1 L11 26-27.pdf (pag. 16-17)"
-stato: da_verificare
-destinazione: 10_Analisi_1/07_Serie_a_Termini_Positivi (cartella nuova)
 ---
 
 # Esempio: rapporto e radice sulla serie armonica generalizzata ($\ell=1$)

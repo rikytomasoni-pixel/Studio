@@ -6,8 +6,6 @@ tags:
   - teorema
 data: 2026-10-16
 fonte: "AM1 L11 26-27.pdf (pag. 2-3)"
-stato: da_verificare
-destinazione: 10_Analisi_1/06_Serie
 ---
 
 # Resto N-esimo di una serie

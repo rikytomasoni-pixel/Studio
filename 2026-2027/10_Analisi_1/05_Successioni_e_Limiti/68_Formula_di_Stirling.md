@@ -7,8 +7,6 @@ tags:
   - fattoriale
 data: 2026-10-16
 fonte: "AM1 L11 26-27.pdf (pag. 18)"
-stato: da_verificare
-destinazione: 10_Analisi_1/05_Successioni_e_Limiti
 ---
 
 # Formula di Stirling

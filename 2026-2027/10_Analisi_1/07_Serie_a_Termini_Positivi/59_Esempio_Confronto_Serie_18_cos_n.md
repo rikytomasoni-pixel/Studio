@@ -6,8 +6,6 @@ tags:
   - criterio-del-confronto
 data: 2026-10-16
 fonte: "AM1 L11 26-27.pdf (pag. 11-12)"
-stato: da_verificare
-destinazione: 10_Analisi_1/07_Serie_a_Termini_Positivi (cartella nuova)
 ---
 
 # Esempio: $\displaystyle\sum_{n=2}^\infty\frac{18+\cos n}{n^2\log n}$

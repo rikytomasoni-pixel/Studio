@@ -8,8 +8,6 @@ tags:
   - dimostrazione
 data: 2026-10-16
 fonte: "AM1 L11 26-27.pdf (pag. 5-8)"
-stato: da_verificare
-destinazione: 10_Analisi_1/07_Serie_a_Termini_Positivi (cartella nuova)
 ---
 
 # Criterio del confronto per serie a termini positivi
