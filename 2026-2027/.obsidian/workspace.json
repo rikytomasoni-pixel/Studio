@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/02_Numeri_Reali/11_Radici_e_Potenze.md",
+                "file": "10_Analisi_1/03_Numeri_Complessi/13_Numeri_Complessi.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11_Radici_e_Potenze"
+              "title": "13_Numeri_Complessi"
             }
           },
           {
@@ -204,6 +204,8 @@
   "active": "30c86eb442469c86",
   "lastOpenFiles": [
     "10_Analisi_1/00_MOC_Analisi_1.md",
+    "10_Analisi_1/02_Numeri_Reali/12_Logaritmi.md",
+    "10_Analisi_1/02_Numeri_Reali/11_Radici_e_Potenze.md",
     "10_Analisi_1/02_Numeri_Reali/10_Retta_Reale_Intervalli.md",
     "10_Analisi_1/02_Numeri_Reali/09_Valore_Assoluto.md",
     "10_Analisi_1/02_Numeri_Reali/07_Insiemi_Limitati_Max_Min.md",
@@ -228,8 +230,6 @@
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/61_Serie_di_Bertrand_Generalizzata.md",
-    "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
-    "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/59_Esempio_Confronto_Serie_18_cos_n.md",
     "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti",
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi",
     "00_Claude_Workspace/Analisi_1/06_Serie",
