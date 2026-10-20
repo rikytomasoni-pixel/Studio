@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/03_Numeri_Complessi/13_Numeri_Complessi.md",
+                "file": "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13_Numeri_Complessi"
+              "title": "60_Serie_Armonica_Generalizzata"
+            }
+          },
+          {
+            "id": "5914d3416a393cdd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AM1 L11 26-27"
             }
           },
           {
@@ -203,6 +215,9 @@
   },
   "active": "30c86eb442469c86",
   "lastOpenFiles": [
+    "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
+    "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
+    "10_Analisi_1/03_Numeri_Complessi/13_Numeri_Complessi.md",
     "10_Analisi_1/00_MOC_Analisi_1.md",
     "10_Analisi_1/02_Numeri_Reali/12_Logaritmi.md",
     "10_Analisi_1/02_Numeri_Reali/11_Radici_e_Potenze.md",
@@ -215,7 +230,6 @@
     "10_Analisi_1/05_Successioni_e_Limiti/37_Algebra_Limiti_Infiniti.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
     "10_Analisi_1/05_Successioni_e_Limiti/29_Successioni_Definizioni_Base.md",
-    "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
     "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
     "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
     "10_Analisi_1/01_Insiemi_e_Logica/04_Dimostrazione_per_Assurdo.md",
@@ -227,9 +241,6 @@
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata.md",
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
-    "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
-    "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
-    "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi/61_Serie_di_Bertrand_Generalizzata.md",
     "00_Claude_Workspace/Analisi_1/05_Successioni_e_Limiti",
     "00_Claude_Workspace/Analisi_1/07_Serie_a_Termini_Positivi",
     "00_Claude_Workspace/Analisi_1/06_Serie",

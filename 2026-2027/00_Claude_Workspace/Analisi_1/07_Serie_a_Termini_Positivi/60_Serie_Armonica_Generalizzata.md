@@ -20,7 +20,7 @@ $$\sum_{n=1}^\infty\frac1{n^\alpha}=\begin{cases}\text{converge}&\alpha>1\\[1mm]
 > La dimostrazione si fa col **criterio del confronto integrale**, più in là nel corso. (Per $\alpha=1$ vedi già [[55_Serie_Armonica]].)
 
 ## Richiamo: serie geometrica con $q\geq0$
-$$\sum_{n=0}^\infty q^n=\begin{cases}\text{converge a }\dfrac1{1-q}&0\leq q<1\\[2mm]\text{diverge a }+\infty&q\geq1\end{cases}$$
+$$\sum_{n=1}^{\infty}q^{n}=\begin{cases}\text{converge a }\dfrac1{1-q} & 0\leq q<1\\[2 mm] \text{diverge a }+\infty & q\geq1\end{cases}$$
 
 > [!warning] Nota sull'indice
 > Negli appunti manoscritti la somma parte da $n=1$, ma il valore $\frac1{1-q}$ è quello della serie da $n=0$ (vedi [[50_Serie_Geometrica]]). Il carattere (converge/diverge) non cambia; da $n=1$ la somma sarebbe $\frac q{1-q}$. **Da verificare sul quaderno.**
