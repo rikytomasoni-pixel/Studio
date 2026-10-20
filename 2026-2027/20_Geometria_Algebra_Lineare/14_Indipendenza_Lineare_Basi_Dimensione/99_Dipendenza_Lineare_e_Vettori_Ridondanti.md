@@ -3,8 +3,6 @@ tags: [GAL, indipendenza-lineare, esempio, meg, vettore-ridondante, lezione-13]
 data: 2026-10-19
 lezione: 13
 fonte: "GAL_2026-2027_-_20261019_-_LEZIONE_13.pdf (slide 114-117)"
-stato: da-revisionare
-destinazione: "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione (nuova cartella)"
 ---
 
 # Dipendenza lineare e vettori ridondanti (esempio)

@@ -3,8 +3,6 @@ tags: [GAL, spazi-vettoriali, generatori, span, lezione-13]
 data: 2026-10-19
 lezione: 13
 fonte: "GAL_2026-2027_-_20261019_-_LEZIONE_13.pdf (slide 110-111)"
-stato: da-revisionare
-destinazione: "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali"
 ---
 
 # Insieme di generatori
