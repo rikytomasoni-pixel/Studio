@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+                "file": "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "102_Dimensione_di_uno_Spazio_Vettoriale"
+              "title": "99_Dipendenza_Lineare_e_Vettori_Ridondanti"
             }
           },
           {
@@ -206,10 +206,11 @@
   },
   "active": "7ce7612855179a30",
   "lastOpenFiles": [
-    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
     "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
     "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
+    "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+    "99_Tools/Screenshots/GAL/BasecanonicaR2.png",
     "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
     "99_Tools/Screenshots/GAL/AssiCartesiani.png",
     "99_Tools/Screenshots/GAL/Kernell.png",
@@ -250,7 +251,6 @@
     "99_Tools/Screenshots/GAL/vettorev.png",
     "99_Tools/Screenshots/GAL/soluzioneGraficaSistemaLineare.png",
     "99_Tools/Screenshots/Analisi1/graficoLogeDerivata.png",
-    "99_Tools/Screenshots/Analisi1/IntroduzioneSerie.png",
     "Senza nome.canvas"
   ]
 }

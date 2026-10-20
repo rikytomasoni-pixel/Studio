@@ -17,8 +17,7 @@ Con un sistema di riferimento $(O,\vec{i},\vec{j})$ ogni vettore si scrive $\vec
 
 $\{\vec{i},\vec{j}\}$ è la **base canonica** di $\mathbb{R}^2$. Poiché una base ha $2$ elementi, $\mathbb{R}^2$ è uno spazio vettoriale di **dimensione 2**.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** slide 118, a sinistra sotto "ESEMPIO". **Cosa cercare:** piano cartesiano $(x,y)$ con $\vec{i}$ (rosso, lungo l'asse $x$) e $\vec{j}$ (blu, lungo l'asse $y$) uscenti dall'origine e un vettore $\vec{v}$ (viola) che li combina: $\vec{v}=x\vec{i}+y\vec{j}$.
+![[BasecanonicaR2.png]]
 
 ## Note collegate
 - [[100_Base_di_uno_Spazio_Vettoriale]]

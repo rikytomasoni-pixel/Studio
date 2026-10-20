@@ -13,7 +13,7 @@ Esempio (come prima, vedi [[97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multi
 $$S=\left\{\begin{bmatrix}1\\0\\0\end{bmatrix},\begin{bmatrix}-2\\1\\0\end{bmatrix},\begin{bmatrix}0\\1\\1\end{bmatrix},\begin{bmatrix}1\\-1\\2\end{bmatrix}\right\}$$
 
 > [!question] $S$ è un insieme di vettori linearmente indipendenti?
-> Equivale a chiedersi se il sistema $\lambda_1\underline{v}_1+\lambda_2\underline{v}_2+\lambda_3\underline{v}_3+\lambda_4\underline{v}_4=\underline{b}$ ha un'unica soluzione.
+> Equivale a chiedersi se il sistema $\lambda_1\underline{v}_1+\lambda_2\underline{v}_2+\lambda_3\underline{v}_3+\lambda_4\underline{v}_4=\begin{pmatrix}0\\ 0\\ 0\end{pmatrix}$ ha un'unica soluzione?
 
 **Risposta: NO**, perché lo abbiamo già visto: ogni vettore $\begin{bmatrix}a\\b\\c\end{bmatrix}$ ha infinite rappresentazioni. **$S$ non è un insieme di vettori linearmente indipendenti.**
 
