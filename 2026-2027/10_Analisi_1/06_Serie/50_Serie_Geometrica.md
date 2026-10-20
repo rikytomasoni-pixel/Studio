@@ -36,6 +36,7 @@ Vedi [[47_Serie_Introduzione_e_Somme_Parziali]].
 - [[49_Esempi_Elementari_di_Serie]]
 - [[51_Rappresentazione_Decimale_e_Serie]]
 - [[52_Linearita_delle_Serie]]
+- [[58_Criterio_del_Confronto_per_Serie]] — la geometrica come serie di confronto
 - [[00_MOC_Analisi_1]]
 
 #AM1/serie/serie-geometrica

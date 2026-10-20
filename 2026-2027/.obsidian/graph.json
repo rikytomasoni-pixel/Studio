@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 15662848
       }
+    },
+    {
+      "query": "tag:#AM1/serie  ",
+      "color": {
+        "a": 1,
+        "rgb": 3174561
+      }
     }
   ],
   "collapse-display": false,
@@ -82,5 +89,5 @@
   "linkStrength": 0.899937739037623,
   "linkDistance": 50,
   "scale": 0.16107545890465072,
-  "close": true
+  "close": false
 }

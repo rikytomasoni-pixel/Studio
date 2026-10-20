@@ -9,7 +9,7 @@ corso: Analisi Matematica 1
 
 # Analisi Matematica 1 — Indice Generale
 
-Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti` · `06_Serie`
+Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti` · `06_Serie` · `07_Serie_a_Termini_Positivi`
 
 ## Fondamenti: insiemi e logica
 - [[01_Insiemi_Numerici]]
@@ -66,6 +66,7 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 - [[44_Esempio_Asintotici_con_Logaritmo_e_Arctan]]
 - [[45_Esercizio_Asintotici_Limite_21]]
 - [[46_Asintotici_Notevoli_e_Limiti_Notevoli]]
+- [[68_Formula_di_Stirling]]
 
 ## Serie
 - [[47_Serie_Introduzione_e_Somme_Parziali]]
@@ -77,6 +78,20 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 - [[53_Serie_Telescopiche_e_Mengoli]]
 - [[54_Condizione_Necessaria_di_Convergenza]]
 - [[55_Serie_Armonica]]
+- [[56_Resto_N-esimo_della_Serie]]
+
+### Serie a termini positivi
+- [[57_Serie_a_Termini_Positivi]]
+- [[58_Criterio_del_Confronto_per_Serie]]
+- [[59_Esempio_Confronto_Serie_18_cos_n]]
+- [[60_Serie_Armonica_Generalizzata]]
+- [[61_Serie_di_Bertrand_Generalizzata]]
+- [[62_Criterio_del_Confronto_Asintotico_per_Serie]]
+- [[63_Esempio_Confronto_Asintotico_con_Parametro]]
+- [[64_Criterio_del_Rapporto_per_Serie]]
+- [[65_Criterio_della_Radice_per_Serie]]
+- [[66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata]]
+- [[67_Esempio_Serie_n_Fattoriale_su_n_alla_n]]
 
 ## Cronologia delle lezioni
 | Lezione   | Data       | Note principali                                                                                                                                                                                                                                        |
@@ -91,5 +106,6 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 | Lezione 8 | 07-10-2026 | [[37_Algebra_Limiti_Infiniti]], [[38_Numero_di_Nepero]], [[39_Criterio_del_Rapporto]], [[36_Gerarchia_degli_Infiniti]], [[40_Confronti_Asintotici]], [[41_o_piccolo_e_Asintotico]]                                                                     |
 | Lezione 9 | 09-10-2026 | [[42_Confronti_Asintotici_Proprieta_e_Notevoli]]                                                                                                                                                                                                        |
 | Lezione 10 | 14-10-2026 | [[43_Asintotici_con_Funzioni_Composte]], [[44_Esempio_Asintotici_con_Logaritmo_e_Arctan]], [[45_Esercizio_Asintotici_Limite_21]], [[46_Asintotici_Notevoli_e_Limiti_Notevoli]], [[47_Serie_Introduzione_e_Somme_Parziali]], [[48_Studio_del_Carattere_di_una_Serie]], [[49_Esempi_Elementari_di_Serie]], [[50_Serie_Geometrica]], [[51_Rappresentazione_Decimale_e_Serie]], [[52_Linearita_delle_Serie]], [[53_Serie_Telescopiche_e_Mengoli]], [[54_Condizione_Necessaria_di_Convergenza]], [[55_Serie_Armonica]] |
+| Lezione 11 | 16-10-2026 | [[56_Resto_N-esimo_della_Serie]], [[57_Serie_a_Termini_Positivi]], [[58_Criterio_del_Confronto_per_Serie]], [[59_Esempio_Confronto_Serie_18_cos_n]], [[60_Serie_Armonica_Generalizzata]], [[61_Serie_di_Bertrand_Generalizzata]], [[62_Criterio_del_Confronto_Asintotico_per_Serie]], [[63_Esempio_Confronto_Asintotico_con_Parametro]], [[64_Criterio_del_Rapporto_per_Serie]], [[65_Criterio_della_Radice_per_Serie]], [[66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata]], [[67_Esempio_Serie_n_Fattoriale_su_n_alla_n]], [[68_Formula_di_Stirling]] |
 
 #AM1/moc
