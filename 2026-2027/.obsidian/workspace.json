@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "16ea554704c920c2",
+        "id": "d8611d59f658d738",
         "type": "tabs",
         "children": [
           {
-            "id": "7ce7612855179a30",
+            "id": "320efad9f9822113",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00_MOC_GAL"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -191,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ce7612855179a30",
+  "active": "0ba7c57d61bd7477",
   "lastOpenFiles": [
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
     "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
