@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_Tools/Excalidraw/Disegni Analisi1.md",
+                "file": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99_Tools/Excalidraw/Disegni Analisi1.md",
+                "file": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -218,7 +218,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0ba7c57d61bd7477",
+  "active": "320efad9f9822113",
   "lastOpenFiles": [
     "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
     "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
