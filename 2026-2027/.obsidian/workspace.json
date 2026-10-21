@@ -11,14 +11,10 @@
             "id": "320efad9f9822113",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-10-21.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-10-21"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -100,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-10-21.md",
+                "file": "99_Tools/Excalidraw/Disegni Analisi1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-10-21.md",
+                "file": "99_Tools/Excalidraw/Disegni Analisi1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-10-21.md",
+                "file": "99_Tools/Excalidraw/Disegni Analisi1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -220,8 +216,8 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
-    "99_Tools/Excalidraw/Disegni Analisi1.md",
     "2026-10-21.md",
+    "99_Tools/Excalidraw/Disegni Analisi1.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
     "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
