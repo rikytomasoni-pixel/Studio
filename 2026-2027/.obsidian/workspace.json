@@ -11,14 +11,12 @@
             "id": "320efad9f9822113",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
-                "mode": "preview",
-                "source": false
+                "file": "99_Tools/Excalidraw/Disegni Analisi1.md"
               },
-              "icon": "lucide-file",
-              "title": "64_Criterio_del_Rapporto_per_Serie"
+              "icon": "excalidraw-icon",
+              "title": "Disegni Analisi1"
             }
           }
         ]
@@ -92,7 +90,7 @@
       {
         "id": "ce4f1112a622b9fc",
         "type": "tabs",
-        "dimension": 61.67728237791932,
+        "dimension": 30.83864118895966,
         "children": [
           {
             "id": "3715fce1bab0cc5a",
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
+                "file": "99_Tools/Excalidraw/Disegni Analisi1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,27 +112,13 @@
             }
           },
           {
-            "id": "8e9a6b0a3c4d129b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
-            }
-          },
-          {
             "id": "b38e2c55ba60c217",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -162,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
+                "file": "99_Tools/Excalidraw/Disegni Analisi1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,7 +156,28 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "717d509ce3a4a82d",
+        "type": "tabs",
+        "dimension": 30.83864118895966,
+        "children": [
+          {
+            "id": "8e9a6b0a3c4d129b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99_Tools/Excalidraw/Disegni Analisi1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          }
+        ]
       },
       {
         "id": "6bdb6942047c16a9",
@@ -204,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +227,9 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "8e9a6b0a3c4d129b",
+  "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
     "2026-10-21.md",
     "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
@@ -261,7 +268,6 @@
     "00_Claude_Workspace/GAL/14_Indice_Lezione_13.md",
     "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
     "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
-    "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
     "99_Tools/Screenshots/GAL/Mordor.png",
     "Pasted image 20261015171110.png",
     "99_Tools/Screenshots/GAL/sommaDiVettoriSpostamento.png",
