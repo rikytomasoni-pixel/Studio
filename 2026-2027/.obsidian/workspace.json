@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
+                "file": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_Dimostrazione_per_Induzione"
+              "title": "06_Campi_Ordinati"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
     "00_Claude_Workspace/GAL/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
@@ -220,7 +221,6 @@
     "00_Claude_Workspace/GAL/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
     "99_Tools/Screenshots/GAL/AssiCartesiani.png",
     "99_Tools/Screenshots/GAL/Kernell.png",
-    "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
     "10_Analisi_1/01_Insiemi_e_Logica/01_Insiemi_Numerici.md",
     "10_Analisi_1/01_Insiemi_e_Logica/02_Logica.md",
     "10_Analisi_1/01_Insiemi_e_Logica/04_Dimostrazione_per_Assurdo.md",
