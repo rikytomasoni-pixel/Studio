@@ -1,0 +1,11 @@
+{
+  "obsidian-excalidraw-plugin:save": [],
+  "editor:insert-mathblock": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ]
+}
