@@ -90,6 +90,11 @@
             "timeKey": "10:20",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "12:00",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 2
@@ -143,6 +148,14 @@
           }
         ],
         "id": 7
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
+        "wordCountStart": 233,
+        "charCountStart": 1744,
+        "changes": [],
+        "id": 8
       }
     ]
   }
