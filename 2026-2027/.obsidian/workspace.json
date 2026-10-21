@@ -195,16 +195,6 @@
               "icon": "calendar-days",
               "title": "Keep the Rhythm"
             }
-          },
-          {
-            "id": "ec3c8dc16778a403",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ]
       }
