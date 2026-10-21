@@ -168,6 +168,16 @@
               "icon": "lucide-list",
               "title": "Struttura"
             }
+          },
+          {
+            "id": "a7c50dca106abb00",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 1
@@ -191,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "320efad9f9822113",
+  "active": "0ba7c57d61bd7477",
   "lastOpenFiles": [
     "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
