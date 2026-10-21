@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_Campi_Ordinati"
+              "title": "64_Criterio_del_Rapporto_per_Serie"
             }
           }
         ]
@@ -92,6 +92,7 @@
       {
         "id": "ce4f1112a622b9fc",
         "type": "tabs",
+        "dimension": 61.67728237791932,
         "children": [
           {
             "id": "3715fce1bab0cc5a",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,6 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,6 +177,7 @@
       {
         "id": "6bdb6942047c16a9",
         "type": "tabs",
+        "dimension": 38.32271762208068,
         "children": [
           {
             "id": "4468fce9f1839445",
@@ -185,8 +188,19 @@
               "icon": "calendar-days",
               "title": "Keep the Rhythm"
             }
+          },
+          {
+            "id": "ec3c8dc16778a403",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,8 +223,8 @@
   },
   "active": "8e9a6b0a3c4d129b",
   "lastOpenFiles": [
-    "2026-10-21.md",
     "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
+    "2026-10-21.md",
     "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",

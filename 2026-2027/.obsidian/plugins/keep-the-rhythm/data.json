@@ -85,8 +85,22 @@
         "filePath": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
         "wordCountStart": 610,
         "charCountStart": 4108,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 2
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
+        "wordCountStart": 197,
+        "charCountStart": 1597,
+        "changes": [],
+        "id": 5
       }
     ]
   }
