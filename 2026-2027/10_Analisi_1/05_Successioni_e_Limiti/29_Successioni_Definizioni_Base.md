@@ -18,9 +18,8 @@ fonte: Lezione 6
 **Esempi.**
 $$f(n) = \dfrac{1}{n}, \quad n\geq 1$$
 $$g(n) = \log(n-7), \quad n\geq 8$$
-
-> [!note] Nota di trascrizione
-> Nella pagina originale erano presenti altri due esempi, risultati illeggibili nella scansione fornita.
+$$h(n) = n^2, \quad n\geq 0$$
+$$v(n) = \dfrac{1}{n^2-49}, \quad n\geq 8$$
 
 **Osservazione.** A livello di notazione scriveremo $a_n, b_n,\dots$ invece di $f(n), g(n), h(n)\dots$
 
@@ -28,8 +27,7 @@ $$g(n) = \log(n-7), \quad n\geq 8$$
 $$\mathcal{G}(a_n) = \{(n,a_n)\in\mathbb{R}^2 : n\in\mathcal{D}(a_n),\ n\in\mathbb{N}\}$$
 
 ![[SuccessionePuntiIsolati.png]]
-**Esempio.** $a_n = \dfrac{1}{n}$
-
+**Esempio.** $a_n = \dfrac{2}{n+1}$, con punti del grafico $2,\ 1,\ \dfrac{2}{3},\ \dots,\ \dfrac{2}{n+1},\ \dots$
 
 ![[Successione1suN.png]]
 ## Limitatezza
@@ -52,9 +50,9 @@ $$|a_n|\leq k \qquad \forall\, n\in\mathbb{N}$$
 > Diremo che una successione $a_n$ soddisfa una certa proprietà $P$ **definitivamente** (in $n\in\mathbb{N}$) se
 > $$\exists\, N\in\mathbb{N} \text{ tale che } P \text{ è soddisfatta da } a_n \ \ \forall\, n\geq N$$
 
-**Esempio.** $a_n = \dfrac{1}{n}$ è definitivamente minore di $\dfrac{1}{10}$.
+**Esempio.** $a_n = \dfrac{1}{n}$ è definitivamente minore di $\dfrac{1}{\pi}$.
 
-Infatti $a_n < \dfrac{1}{10}$ se e solo se $\dfrac{1}{n} < \dfrac{1}{10}$ se e solo se $n>10$, cioè se $n\geq N=11$.
+Infatti $\dfrac{1}{n} < \dfrac{1}{\pi}$ se e solo se $n>\pi$, cioè se e solo se $n\geq N=4$.
 
 ### Note collegate
 - [[00_MOC_Analisi_1]]

@@ -38,11 +38,17 @@ $$P \leq a_n \leq L$$
 
 Quindi $a_n$ è limitata. $\blacksquare$
 
-## Esempio — successione geometrica
+## Esempi — successione $1/n^\alpha$ e successione geometrica
 
-**Esempio.** Sia $q\in\mathbb{R}$, $a_n = q^n$ (progressione geometrica di ragione $q$).
+**Esempio.** Sia $\alpha\in\mathbb{R}$, $a_n = \dfrac{1}{n^\alpha}$.
 
-$$\lim_{n\to\infty} q^n = \begin{cases} +\infty & \text{se } q>1 \quad \text{(crescente)} \\ 1 & \text{se } q=1 \\ 0 & \text{se } 0\leq q<1 \quad \text{(decrescente)} \\ 0 & \text{se } -1<q<0 \quad \text{(non monotona)} \\ \nexists & \text{se } q=-1 \quad \text{(limitata)} \\ \nexists & \text{se } q<-1 \quad \text{(illimitata)} \end{cases}$$
+$$\lim_{n\to\infty} \dfrac{1}{n^\alpha} = \begin{cases} 0 & \text{se } \alpha>0 \quad \text{(decresce)} \\ 1 & \text{se } \alpha=0 \\ +\infty & \text{se } \alpha<0 \quad \text{(cresce)} \end{cases}$$
+
+*(simile per $\lim_{n\to\infty} n^\beta$ con $\beta=-\alpha$)*
+
+**Esempio.** Sia $q\in\mathbb{R}$, $a_n = q^n$ (progressione geometrica di ragione $q\in\mathbb{R}$).
+
+$$\lim_{n\to\infty} q^n = \begin{cases} +\infty & \text{se } q>1 \quad \text{(crescente)} \\ 1 & \text{se } q=1 \\ 0 & \text{se } 0<q<1 \quad \text{(decresce)} \\ 0 & \text{se } q=0 \\ 0 & \text{se } -1<q<0 \quad \text{(non monotona)} \\ \nexists & \text{se } q=-1 \quad \text{(limitata)} \\ \nexists & \text{se } q<-1 \quad \text{(illimitata)} \end{cases}$$
 
 ### Note collegate
 - [[00_MOC_Analisi_1]]

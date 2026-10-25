@@ -12,12 +12,12 @@ fonte: Lezione 6 e Lezione 7
 
 > [!warning] Definizione — Successione monotona
 > Una successione $a_n$ si dice **monotona**:
-> - **crescente** se $a_n \leq a_m \ \ \forall\, n<m$ ($n,m\in\mathbb{N}$)
-> - **decrescente** se $a_n \geq a_m \ \ \forall\, n<m$
-> - **strettamente crescente** se $a_n < a_m \ \ \forall\, n<m$
-> - **strettamente decrescente** se $a_n > a_m \ \ \forall\, n<m$
+> - **crescente** se $a_n \leq a_{n+1} \ \ \forall\, n$ (equivalentemente, $m\leq n \Rightarrow a_m\leq a_n \ \ \forall\, n,m$)
+> - **decrescente** se $a_n \geq a_{n+1} \ \ \forall\, n$ (equivalentemente, $m\leq n \Rightarrow a_m\geq a_n \ \ \forall\, n,m$)
+> - **strettamente crescente** se $a_n < a_{n+1} \ \ \forall\, n$ (equivalentemente, $m<n \Rightarrow a_m<a_n \ \ \forall\, n,m$)
+> - **strettamente decrescente** se $a_n > a_{n+1} \ \ \forall\, n$ (equivalentemente, $m<n \Rightarrow a_m>a_n \ \ \forall\, n,m$)
 
-**Esempi.** $a_n=n$ cresce; $a_n=\dfrac{1}{n}$ decresce.
+**Esempi.** $a_n=2^n$ cresce; $a_n=\dfrac{1}{2^n}$ decresce.
 
 ## Teorema sul limite di successioni monotone e limitate
 
@@ -62,8 +62,8 @@ $$\Rightarrow \quad \text{per definizione} \quad \lim_{n\to\infty} a_n = l^-, \q
 > [!abstract] Teorema
 > Sia $a_n$ una successione monotona. Allora $a_n$ ammette limite, cioè $\exists\, \lim_{n\to\infty} a_n = l\in\overline{\mathbb{R}}$.
 >
-> - se $a_n$ cresce, allora $\lim_{n\to\infty} a_n = l^-$, con $l=\sup_{n\in\mathbb{N}} a_n \in\overline{\mathbb{R}}$
-> - se $a_n$ decresce, allora $\lim_{n\to\infty} a_n = l^+$, con $l=\inf_{n\in\mathbb{N}} a_n \in\overline{\mathbb{R}}$
+> - se $a_n$ cresce, allora $\lim_{n\to\infty} a_n = l$, con $l=\sup_{n\in\mathbb{N}} a_n \in\mathbb{R}\cup\{+\infty\}$
+> - se $a_n$ decresce, allora $\lim_{n\to\infty} a_n = l$, con $l=\inf_{n\in\mathbb{N}} a_n \in\mathbb{R}\cup\{-\infty\}$
 
 **Osservazione.** $a_n$ monotona $\Rightarrow$ $a_n$ regolare.
 

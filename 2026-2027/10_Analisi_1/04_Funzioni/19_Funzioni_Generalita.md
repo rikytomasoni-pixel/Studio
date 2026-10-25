@@ -20,7 +20,7 @@ fonte: Lezione 4
 > $B$ si chiama **codominio** di $f$
 > Se $x\in A$, l'elemento $y=f(x)\in B$ si dice **immagine** di $x$ tramite la funzione.
 
-**QUA DISEGNO**
+$$x \;\longmapsto\; \boxed{\,f\,} \;\longmapsto\; y=f(x) \qquad\quad x\in A,\ \ y\in B$$
 
 > [!info] Def
 > Si chiama **immagine di $A$ tramite $f$** (o immagine di $f$) l'insieme
@@ -90,13 +90,12 @@ $$h(n) = \log(n-5), \quad \forall\, n\geq 6$$
 
 ### Note collegate
 - [[00_MOC_Analisi_1]]
-- 
 - [[20_Funzioni_Limitate_Estremi]] — limitatezza, $\sup$, $\inf$ di una funzione
 - [[21_Campo_di_Esistenza]] — dominio assegnato tramite espressione analitica
 - [[23_Monotonia]]
 - [[25_Composizione_di_Funzioni]]
 - [[26_Iniettivita_Suriettivita_Inversa]] — suriettività, iniettività, inversa
-- - [[29_Successioni_Definizioni_Base]] — ulteriori esempi e definizione di limitatezza
+- [[29_Successioni_Definizioni_Base]] — ulteriori esempi e definizione di limitatezza
 - [[01_Insiemi_Numerici]] — $\mathbb{N}$, $\mathbb{R}$
 
 #AM1/funzioni/funzioni-generalita

@@ -33,6 +33,6 @@ $$a^{\log_a y} = y \qquad \forall\, y>0,\ \forall\, a>0,\ a\neq 1$$
 - [[27_Teorema_Monotone_Invertibili]] — le funzioni strettamente monotone sono invertibili
 - [[21_Campo_di_Esistenza]] — esempio $g(x)=\log(x-7)$
 - [[25_Composizione_di_Funzioni]] — esempi con $\log$
-- - [[28_Esempi_Funzioni_Inverse]] — esempi di funzioni inverse con logaritmi/esponenziali
+- [[28_Esempi_Funzioni_Inverse]] — esempi di funzioni inverse con logaritmi/esponenziali
 
 #AM1/numeri-reali/logaritmi
