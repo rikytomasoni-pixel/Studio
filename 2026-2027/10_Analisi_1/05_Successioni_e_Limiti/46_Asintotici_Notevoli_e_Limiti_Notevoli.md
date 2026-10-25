@@ -6,8 +6,6 @@ tags:
   - limiti-notevoli
 data: 2026-10-14
 fonte: "AM1 L10 26-27.pdf (pag. 6)"
-stato: da_verificare
-immagini_mancanti: false
 ---
 
 # Asintotici notevoli e limiti notevoli

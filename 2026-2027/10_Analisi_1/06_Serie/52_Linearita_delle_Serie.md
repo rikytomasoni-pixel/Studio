@@ -6,8 +6,6 @@ tags:
   - algebra-dei-limiti
 data: 2026-10-14
 fonte: "AM1 L10 26-27.pdf (pag. 15-16)"
-stato: da_verificare
-immagini_mancanti: false
 ---
 
 # Linearità delle serie

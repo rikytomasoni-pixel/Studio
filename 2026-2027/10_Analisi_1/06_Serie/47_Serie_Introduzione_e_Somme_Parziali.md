@@ -6,8 +6,6 @@ tags:
   - definizione
 data: 2026-10-14
 fonte: "AM1 L10 26-27.pdf (pag. 7-9)"
-stato: da_verificare
-immagini_mancanti: true
 ---
 
 # Serie di numeri reali: introduzione e somme parziali

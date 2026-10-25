@@ -7,8 +7,6 @@ tags:
   - esercizio
 data: 2026-10-14
 fonte: "AM1 L10 26-27.pdf (pag. 4 e 22-23)"
-stato: da_verificare
-immagini_mancanti: false
 ---
 
 # Esercizio: limite con asintotici (risultato $21$)

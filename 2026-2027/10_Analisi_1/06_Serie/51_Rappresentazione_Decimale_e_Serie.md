@@ -6,8 +6,6 @@ tags:
   - serie-geometrica
 data: 2026-10-14
 fonte: "AM1 L10 26-27.pdf (pag. 7, 14-15)"
-stato: da_verificare
-immagini_mancanti: false
 ---
 
 # Rappresentazione decimale come serie e $0,\overline9=1$

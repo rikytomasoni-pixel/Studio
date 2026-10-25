@@ -7,8 +7,6 @@ tags:
   - confronti-asintotici
 data: 2026-10-09
 fonte: Lezione 9
-stato: da_verificare
-immagini_mancanti: false
 ---
 
 # Proprietà degli infinitesimi equivalenti e o-piccolo

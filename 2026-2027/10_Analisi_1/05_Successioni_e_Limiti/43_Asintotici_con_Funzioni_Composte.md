@@ -7,8 +7,6 @@ tags:
   - funzioni-composte
 data: 2026-10-14
 fonte: "AM1 L10 26-27.pdf (pag. 2-4)"
-stato: da_verificare
-immagini_mancanti: false
 ---
 
 # Asintotici con funzioni composte
