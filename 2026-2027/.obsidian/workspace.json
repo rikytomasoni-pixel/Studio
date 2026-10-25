@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
+                "file": "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_Campi_Ordinati"
+              "title": "75_Calcolo_del_Determinante_con_il_MEG"
             }
           }
         ]
@@ -220,8 +220,8 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
     "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
     "90_Lezioni_pdf/A1/AM1 L5 26-27.pdf",

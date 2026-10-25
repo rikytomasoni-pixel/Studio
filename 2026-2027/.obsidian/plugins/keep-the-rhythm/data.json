@@ -172,9 +172,22 @@
             "timeKey": "17:35",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "18:25",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 9
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
+        "wordCountStart": 111,
+        "charCountStart": 1040,
+        "changes": [],
+        "id": 10
       }
     ]
   }
