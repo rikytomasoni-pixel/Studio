@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
+                "file": "10_Analisi_1/03_Numeri_Complessi/16_Formule_di_De_Moivre.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "75_Calcolo_del_Determinante_con_il_MEG"
+              "title": "16_Formule_di_De_Moivre"
             }
           }
         ]
@@ -218,8 +218,16 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0ba7c57d61bd7477",
+  "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "10_Analisi_1/02_Numeri_Reali/12_Logaritmi.md",
+    "10_Analisi_1/02_Numeri_Reali/11_Radici_e_Potenze.md",
+    "10_Analisi_1/02_Numeri_Reali/10_Retta_Reale_Intervalli.md",
+    "10_Analisi_1/02_Numeri_Reali/09_Valore_Assoluto.md",
+    "10_Analisi_1/02_Numeri_Reali/08_Estremo_Superiore_Inferiore.md",
+    "10_Analisi_1/02_Numeri_Reali/07_Insiemi_Limitati_Max_Min.md",
+    "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
+    "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
@@ -240,11 +248,6 @@
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/72_Esempio_Serie_a_alla_n_per_log_n_alla_b.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/71_Esempio_Serie_n_alla_a_per_b_alla_n.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/70_Esempio_Serie_a_alla_n_su_n_alla_n.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
-    "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
     "90_Lezioni_pdf/A1/AM1 L5 26-27.pdf",
@@ -253,7 +256,6 @@
     "90_Lezioni_pdf/A1/AM1 L8 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261007 - LEZIONE 6.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
-    "99_Tools/Template/Template.md",
     "99_Tools/Screenshots/GAL/sommaDiVettoriSpostamento.png",
     "99_Tools/Screenshots/GAL/sommaVettoriPiano.png",
     "99_Tools/Screenshots/GAL/vettorev.png",
@@ -264,8 +266,6 @@
     "99_Tools/Screenshots/GAL/versori.png",
     "99_Tools/Screenshots/GAL/vettoriOrtogonali.png",
     "99_Tools/Screenshots/GAL/prodottoInterno.png",
-    "99_Tools/Excalidraw/Disegni FI.md",
-    "99_Tools/Excalidraw/Disegni Analisi1.md",
     "Senza nome.canvas"
   ]
 }

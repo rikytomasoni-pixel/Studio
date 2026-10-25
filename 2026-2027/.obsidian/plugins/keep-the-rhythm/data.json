@@ -188,6 +188,62 @@
         "charCountStart": 1040,
         "changes": [],
         "id": 10
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/07_Insiemi_Limitati_Max_Min.md",
+        "wordCountStart": 299,
+        "charCountStart": 2021,
+        "changes": [],
+        "id": 11
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/08_Estremo_Superiore_Inferiore.md",
+        "wordCountStart": 846,
+        "charCountStart": 5410,
+        "changes": [],
+        "id": 12
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/09_Valore_Assoluto.md",
+        "wordCountStart": 154,
+        "charCountStart": 1106,
+        "changes": [],
+        "id": 13
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/10_Retta_Reale_Intervalli.md",
+        "wordCountStart": 656,
+        "charCountStart": 4423,
+        "changes": [],
+        "id": 14
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/11_Radici_e_Potenze.md",
+        "wordCountStart": 729,
+        "charCountStart": 4355,
+        "changes": [],
+        "id": 15
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/12_Logaritmi.md",
+        "wordCountStart": 194,
+        "charCountStart": 1399,
+        "changes": [],
+        "id": 16
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/16_Formule_di_De_Moivre.md",
+        "wordCountStart": 576,
+        "charCountStart": 3398,
+        "changes": [],
+        "id": 17
       }
     ]
   }
