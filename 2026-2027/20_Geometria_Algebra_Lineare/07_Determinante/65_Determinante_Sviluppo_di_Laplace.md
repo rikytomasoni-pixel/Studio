@@ -25,7 +25,9 @@ Determinante... (vedi anche i casi $2 \times 2$ e $3 \times 3$ in [[28_Determina
 >   - $j$ è un indice di colonna (qualsiasi) fissato
 >   - $a_{ij}$ è l'elemento di $A$ sulla $i$-esima riga e $j$-esima colonna
 >   - $\hat{A}_{ij} \in M_{\mathbb{K}}(n-1,n-1)$ è ottenuta da $A$ eliminando la $i$-esima riga e la $j$-esima colonna.
->   - Il **cofattore** $C_{ij}$ relativo all'elemento $a_{ij}$ di una matrice quadrata $A$ è il valore scalare definito da: $$C_{ij} = (-1)^{i+j} \det(\hat{A}_{ij})$$ dove:  **$\hat{A}_{ij} \in M_{\mathbb{K}}(n-1,n-1)$** è la sottomatrice (detta *minore complementare*) ottenuta eliminando da $A$ la $i$-esima riga e la $j$-esima colonna. **$(-1)^{i+j}$** è il segno algebrico associato alla posizione $(i,j)$.
+
+> [!note] Complemento (non presente nelle slide): cofattore
+> Il **cofattore** $C_{ij}$ relativo a $a_{ij}$ è $C_{ij}=(-1)^{i+j}\det(\hat{A}_{ij})$, dove $\hat{A}_{ij}$ è il minore complementare e $(-1)^{i+j}$ il segno associato alla posizione $(i,j)$. Lo sviluppo di Laplace è quindi $\det(A)=\sum_j a_{ij}C_{ij}$.
 
 > [!abstract] Teorema (Teorema di Laplace)
 > «il risultato non dipende dalla scelta di riga o colonna»

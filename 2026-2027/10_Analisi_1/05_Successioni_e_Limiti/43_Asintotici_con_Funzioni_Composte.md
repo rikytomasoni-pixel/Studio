@@ -23,9 +23,6 @@ $$e^{\varepsilon_n}\sim1+\varepsilon_n$$
 Questa è più **debole** ed è equivalente a
 $$e^{\varepsilon_n}\sim1+\frac1{n!},\qquad e^{\varepsilon_n}\sim1+\frac1{\log\varepsilon_n}\ \ (\text{se }\varepsilon_n>0\text{ definitivamente}),\qquad e^{\varepsilon_n}\sim1-\frac1{2^n},\qquad e^{\varepsilon_n}\sim1+o(1)$$
 
-> [!note] Commento aggiunto in fase di trascrizione
-> Tutte le espressioni a destra tendono a $1$, come $e^{\varepsilon_n}$; per questo sono tutte asintotiche a $1$ e quindi fra loro. Dice solo che $e^{\varepsilon_n}\to1$, mentre $e^{\varepsilon_n}=1+\varepsilon_n+o(\varepsilon_n)$ conserva l'informazione sul primo termine non banale.
-
 ## Osservazione: composizione
 > [!abstract] Osservazione
 > È possibile usare la relazione di asintotico $\sim$ con **funzioni composte**, **partendo dalla più esterna** quando si fa lo sviluppo.

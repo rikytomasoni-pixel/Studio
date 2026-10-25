@@ -16,6 +16,8 @@ fonte: "GAL_2026-2027_-_20261001_-_LEZIONE_4.pdf (slide 42-43)"
 
 **Attenzione all'efficienza computazionale:** ([[37_Efficienza_Computazionale]])
 
+**DISEGNO NON RAPPRESENTABILE** — Due grafici (slide 42): confronto dei tempi di esecuzione (secondi) tra le strategie $A(B+C)$ e $AB+AC$ per matrici di tipo $(500,750)$ e $(750,650)$ al variare del numero di ripetizioni (0-500), con $AB+AC$ più lento; a destra il rapporto tra i tempi (strategia 2 / strategia 1), tra circa $1{,}6$ e $2{,}2$.
+
 
 > [!abstract] Teorema (Proprietà)
 > - **Proprietà distributiva a sinistra** $\forall A, B \in M_{\mathbb{K}}(m,n)$, $\forall C \in M_{\mathbb{K}}(n,p)$:

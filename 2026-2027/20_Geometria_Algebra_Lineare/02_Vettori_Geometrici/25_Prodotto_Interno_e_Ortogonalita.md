@@ -25,7 +25,7 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_2.pdf (p. 4-5)"
 > Dati due vettori $u$ e $v$,
 > $$u \perp v \iff u \cdot v = 0.$$
 
-$\blacksquare$ [simbolo di fine presente nell'originale; dimostrazione non riportata]
+$\blacksquare$ *(dimostrazione non riportata)*
 
 > [!abstract] Teorema (Proposizione — Proprietà del prodotto interno)
 > 1. $u \cdot v = v \cdot u$

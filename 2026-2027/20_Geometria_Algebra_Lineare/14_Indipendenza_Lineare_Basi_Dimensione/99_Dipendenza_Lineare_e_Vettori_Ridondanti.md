@@ -11,12 +11,9 @@ Esempio (come prima, vedi [[97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multi
 $$S=\left\{\begin{bmatrix}1\\0\\0\end{bmatrix},\begin{bmatrix}-2\\1\\0\end{bmatrix},\begin{bmatrix}0\\1\\1\end{bmatrix},\begin{bmatrix}1\\-1\\2\end{bmatrix}\right\}$$
 
 > [!question] $S$ è un insieme di vettori linearmente indipendenti?
-> Equivale a chiedersi se il sistema $\lambda_1\begin{pmatrix}1\\ 0\\ 0\end{pmatrix}+\lambda_2\begin{pmatrix}-2\\ 1\\ 0\end{pmatrix}+\lambda_3\begin{pmatrix}0\\ 1\\ 1\end{pmatrix}+\lambda_4\begin{pmatrix}1\\ -1\\ 2\end{pmatrix}=\begin{pmatrix}0\\ 0\\ 0\end{pmatrix}$ ha un'unica soluzione?
+> Equivale a chiedersi se il sistema $\lambda_1\begin{pmatrix}1\\ 0\\ 0\end{pmatrix}+\lambda_2\begin{pmatrix}-2\\ 1\\ 0\end{pmatrix}+\lambda_3\begin{pmatrix}0\\ 1\\ 1\end{pmatrix}+\lambda_4\begin{pmatrix}1\\ -1\\ 2\end{pmatrix}=\underline{b}$ ha un'unica soluzione?
 
 **Risposta: NO**, perché lo abbiamo già visto: ogni vettore $\begin{bmatrix}a\\b\\c\end{bmatrix}$ ha infinite rappresentazioni. **$S$ non è un insieme di vettori linearmente indipendenti.**
-
-> [!info] Nota di trascrizione
-> Il termine noto scritto nel quaderno a inizio slide 115 è poco leggibile; è stato trascritto come generico $\underline{b}$.
 
 ## Studio delle soluzioni: relazioni tra i vettori
 Studiamo le soluzioni del sistema **omogeneo** per indagare le relazioni tra i vettori. Si aggiunge la riga $\lambda_4=t$ (parametro libero) e si applica il [[68_Metodo_di_Eliminazione_di_Gauss|MEG]]:

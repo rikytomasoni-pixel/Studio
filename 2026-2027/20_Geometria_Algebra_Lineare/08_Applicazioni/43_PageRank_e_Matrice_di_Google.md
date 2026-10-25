@@ -20,6 +20,8 @@ fonte: "GAL_2026-2027_-_20261001_-_LEZIONE_4.pdf (slide 39-42)"
 - **TAP:** mi muovo solo con i link ipertestuali.
 - **KEYBOARD:** mi muovo solo scrivendo l'indirizzo esplicito della pagina.
 
+**DISEGNO NON RAPPRESENTABILE** — Due grafi orientati su 3 pagine (slide 40). *TAP* (rosso): archi $1\to2$ con peso $\frac12$, $1\to3$ con peso $\frac12$, $2\to1$ con peso $1$, $3\to2$ con peso $1$. *KEYBOARD* (blu): grafo completo con anche i cappi su ogni pagina, tutti gli archi con peso $\frac13$.
+
 
 
 $$T = \begin{bmatrix} 0 & 1 & 0 \\ \tfrac12 & 0 & 1 \\ \tfrac12 & 0 & 0 \end{bmatrix}, \qquad K = \begin{bmatrix} \tfrac13 & \tfrac13 & \tfrac13 \\ \tfrac13 & \tfrac13 & \tfrac13 \\ \tfrac13 & \tfrac13 & \tfrac13 \end{bmatrix}$$
@@ -40,6 +42,8 @@ $$T = \begin{bmatrix} 0 & 1 & 0 \\ \tfrac12 & 0 & 1 \\ \tfrac12 & 0 & 0 \end{bma
 (Le potenze sono prodotti righe per colonne: [[41_Prodotto_Matriciale_Righe_per_Colonne]].)
 
 > [!example] Esempio (Python)
+>
+> **DISEGNO NON RAPPRESENTABILE** — Tre grafici «Evoluzione PageRank» (iterazione 0, 3 e 10) di un grafo con 5 pagine (nodi $0,\dots,4$) colorate in base al PageRank; col passare delle iterazioni i colori cambiano (slide 42).
 >
 > **Domande**
 > - è sempre vero che questo processo si stabilizza?

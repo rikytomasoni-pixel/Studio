@@ -26,7 +26,7 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_2.pdf (p. 1)"
 > 2. $AB \triangleq CD \Rightarrow CD \triangleq AB$ — proprietà simmetrica
 > 3. $(AB \triangleq CD) \wedge (CD \triangleq EF) \Rightarrow AB \triangleq EF$ — proprietà transitiva
 
-$\blacksquare$ [simbolo di fine presente nell'originale; dimostrazione non riportata negli appunti]
+$\blacksquare$ *(dimostrazione non riportata)*
 
 ## Note collegate
 - [[14_Relazione_di_Equivalenza]]

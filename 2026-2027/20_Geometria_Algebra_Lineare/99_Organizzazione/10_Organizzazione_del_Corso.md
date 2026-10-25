@@ -28,8 +28,8 @@ Pagina WeBeep del corso: https://webeep.polimi.it/course/view.php?id=22687
 - Registrazioni video (teoria / esercizi)
 
 ## Libri (consigliati)
-- Dulio, Pecco [lettura incerta]: *Algebra lineare e geometria analitica* (volumi 1 e 2)
-- Mauri, Schlesinger [lettura incerta]: *Esercizi di algebra lineare e geometria*
+- Dulio, Pecco: *Algebra lineare e geometria analitica* (volumi 1 e 2)
+- Mauri, Schlesinger: *Esercizi di algebra lineare e geometria*
 
 ## Esame
 **Esercizi**
@@ -66,7 +66,7 @@ Pagina WeBeep del corso: https://webeep.polimi.it/course/view.php?id=22687
 ## Quiz conoscitivo (slide 5)
 Quiz Wooclap: https://app.wooclap.com/KYAENAP?from=instruction-slide
 
-**!!!** (grafici: tre diagrammi radar con i risultati del quiz — frequenza di situazioni quotidiane; fonti a cui ci si rivolge per un'informazione; dimestichezza con nozioni matematiche: insiemi e funzioni, numeri reali, ragionamento logico, prodotti cartesiani, vettori nel piano e nello spazio, geometria analitica di rette e piani)
+**DISEGNO NON RAPPRESENTABILE** — (grafici: tre diagrammi radar con i risultati del quiz — frequenza di situazioni quotidiane; fonti a cui ci si rivolge per un'informazione; dimestichezza con nozioni matematiche: insiemi e funzioni, numeri reali, ragionamento logico, prodotti cartesiani, vettori nel piano e nello spazio, geometria analitica di rette e piani)
 
 ## Note collegate
 - [[11_Prodotto_Cartesiano]]

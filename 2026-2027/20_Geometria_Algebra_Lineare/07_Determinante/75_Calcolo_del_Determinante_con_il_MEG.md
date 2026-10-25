@@ -13,7 +13,6 @@ fonte: "GAL_2026-2027_-_20261008_-_LEZIONE_7.pdf (slide 69)"
 > $$\det(A) = \det(Z)\det(U) = \det(Z)\, u_{11}u_{22}\cdots u_{nn}$$
 > (primo passaggio per il [[74_Teorema_di_Binet]]; $Z$ come in [[72_Esistenza_della_Matrice_Inversa]])
 
-$$\det(A) = 1 \cdot 1 \cdot \big((0 \cdot (-7)) - ((-5) \cdot (-5))\big) = 1 \cdot (0 - 25) = -25$$
 ## Note collegate
 - [[74_Teorema_di_Binet]]
 - [[66_Matrici_Triangolari]]

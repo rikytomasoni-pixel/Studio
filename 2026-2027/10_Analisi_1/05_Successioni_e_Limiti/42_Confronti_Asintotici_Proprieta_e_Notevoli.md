@@ -9,114 +9,160 @@ data: 2026-10-09
 fonte: Lezione 9
 ---
 
-# Proprietà degli infinitesimi equivalenti e o-piccolo
+# Asintotici e $o$-piccolo: proprietà e asintotici notevoli
 
-Richiamo: date $a_n, b_n$ successioni ($b_n\neq 0$ definitivamente in $n\in\mathbb{N}$):
-$$\lim_{n\to\infty}\dfrac{a_n}{b_n}=0 \ \Rightarrow\ a_n=o(b_n) \ \text{ per } n\to\infty \qquad \lim_{n\to\infty}\dfrac{a_n}{b_n}=1 \ \Rightarrow\ a_n\sim b_n$$
-(vedi [[41_o_piccolo_e_Asintotico]])
+> [!warning] Definizione
+> Date $a_n, b_n$ successioni ($b_n\neq 0$ definitivamente in $n\in\mathbb{N}$):
+> - se $\displaystyle\lim_{n\to\infty}\dfrac{a_n}{b_n}=0$ scriviamo $a_n=o(b_n)$
+> - se $\displaystyle\lim_{n\to\infty}\dfrac{a_n}{b_n}=1$ scriviamo $a_n\sim b_n$
+>
+> (vedi [[41_o_piccolo_e_Asintotico]])
 
 ## Caratterizzazione dell'equivalenza asintotica
 
-> [!abstract] Proposizione
-> $$a_n\sim b_n \quad\Longleftrightarrow\quad a_n=b_n+o(b_n)$$
+**Osservazione.** $a_n\sim b_n \iff a_n=b_n+o(b_n)$
 
-**dim:**
-$$a_n\sim b_n \iff \lim_{n\to\infty}\dfrac{a_n}{b_n}=1 \iff \lim_{n\to\infty}\left(\dfrac{a_n}{b_n}-1\right)=0 \iff \lim_{n\to\infty}\dfrac{a_n-b_n}{b_n}=0 \iff a_n-b_n=o(b_n) \iff a_n=b_n+o(b_n)$$
+Infatti:
+$$a_n\sim b_n \iff \lim_{n\to\infty}\dfrac{a_n}{b_n}=1 \iff \lim_{n\to\infty}\left(\dfrac{a_n}{b_n}-1\right)=0 \iff \lim_{n\to\infty}\dfrac{a_n-b_n}{b_n}=0$$
+$$\iff a_n-b_n=o(b_n) \iff a_n=(a_n-b_n)+b_n=b_n+o(b_n)$$
 
-**Oss:** $b_n=o(1)$ per $n\to\infty$ $\iff$ $\lim_{n\to\infty} b_n=0$ $\iff$ $b_n$ è infinitesima.
+**Osservazione.** $b_n=o(1)$ per definizione, infatti
+$$\lim_{n\to\infty}\dfrac{b_n}{1}=0$$
+cioè $\displaystyle\lim_{n\to\infty} b_n=0$, cioè $b_n$ è infinitesima.
 
-## Ulteriori proprietà di $\sim$
+## Proprietà di $\sim$
 
-> [!note] Osservazione
-> - $a_n\sim b_n\ \Rightarrow\ a_n, b_n$ hanno lo stesso segno definitivamente in $n\in\mathbb{N}$
-> - $a_n\sim b_n$ e $b_n\to c$ $\ \Rightarrow\ a_n\to c$
-> - $a_n\sim b_n \iff b_n\sim a_n$
->
-> **dim (simmetria):** $\dfrac{b_n}{a_n}=\dfrac{1}{a_n/b_n}\to \dfrac{1}{1}=1$
+**Osservazioni.**
+- $a_n\sim a_n$ (ovvio)
+- $a_n\sim b_n$ e $b_n\sim c_n$ $\Rightarrow$ $a_n\sim c_n$. Infatti
+$$\dfrac{a_n}{c_n}=\dfrac{a_n}{b_n}\cdot\dfrac{b_n}{c_n}\to 1\cdot 1=1$$
+- $a_n\sim b_n$ $\Rightarrow$ $b_n\sim a_n$. Infatti
+$$\dfrac{b_n}{a_n}=\left(\dfrac{a_n}{b_n}\right)^{-1}\to 1^{-1}=1$$
 
-> [!note] Osservazione
-> $\sim$ è una relazione di equivalenza fra successioni (definitivamente $\neq 0$).
+$\sim$ è una **relazione di equivalenza** fra successioni (definitivamente $\neq 0$).
 
 ## Asintotici notevoli
 
-*(fonte: foglio "Asintotici notevoli" su WeBeep)*
+*(Vedi il "foglio asintotici notevoli" su WeBeep.)*
 
-Per $\varepsilon_n\to 0$ ($\varepsilon_n\neq 0$ definitivamente in $n\in\mathbb{N}$), per $n\to\infty$:
+**Esempio.** Per $n\to\infty$:
 
-$$\sin\varepsilon_n \sim \varepsilon_n, \qquad \sin\varepsilon_n = \varepsilon_n+o(\varepsilon_n)$$
-$$e^{\varepsilon_n}-1 \sim \varepsilon_n, \qquad e^{\varepsilon_n}-1=\varepsilon_n+o(\varepsilon_n) \ \Rightarrow\ e^{\varepsilon_n}=1+\varepsilon_n+o(\varepsilon_n)$$
-$$\log(1+\varepsilon_n)\sim\varepsilon_n, \qquad \log(1+\varepsilon_n)=\varepsilon_n+o(\varepsilon_n)$$
-$$1-\cos\varepsilon_n \sim \dfrac{\varepsilon_n^2}{2}, \qquad \cos\varepsilon_n = 1-\dfrac{\varepsilon_n^2}{2}+o(\varepsilon_n^2)$$
-$$(1+\varepsilon_n)^\alpha-1 \sim \alpha\,\varepsilon_n, \qquad (1+\varepsilon_n)^\alpha = 1+\alpha\,\varepsilon_n+o(\varepsilon_n)$$
-$$\arctan\varepsilon_n \sim \varepsilon_n, \qquad \arctan\varepsilon_n = \varepsilon_n+o(\varepsilon_n)$$
+$$\sin\dfrac1n\sim\dfrac1n \qquad\qquad \sin\dfrac1n=\dfrac1n+o\!\left(\dfrac1n\right)$$
+$$e^{\frac1n}-1\sim\dfrac1n \qquad\qquad e^{\frac1n}-1=\dfrac1n+o\!\left(\dfrac1n\right) \ \Rightarrow\ e^{\frac1n}=1+\dfrac1n+o\!\left(\dfrac1n\right)$$
+$$\log\left(1+\dfrac1n\right)\sim\dfrac1n \qquad\qquad \log\left(1+\dfrac1n\right)=\dfrac1n+o\!\left(\dfrac1n\right)$$
+$$1-\cos\dfrac1n\sim\dfrac{1}{2n^2} \qquad\qquad 1-\cos\dfrac1n=\dfrac{1}{2n^2}+o\!\left(\dfrac1{n^2}\right) \ \Rightarrow\ \cos\dfrac1n=1-\dfrac{1}{2n^2}+o\!\left(\dfrac1{n^2}\right)$$
+$$\left(1+\dfrac1n\right)^\alpha-1\sim\dfrac{\alpha}{n}\ \ (\alpha\neq 0) \qquad \left(1+\dfrac1n\right)^\alpha-1=\dfrac{\alpha}{n}+o\!\left(\dfrac1n\right) \ \Rightarrow\ \left(1+\dfrac1n\right)^\alpha=1+\dfrac{\alpha}{n}+o\!\left(\dfrac1n\right)$$
+$$\arctan\dfrac1n\sim\dfrac1n \qquad\qquad \arctan\dfrac1n=\dfrac1n+o\!\left(\dfrac1n\right)$$
+$$\ldots$$
 
-<DUBBIO posizione="blocco ripetuto subito dopo la tabella principale, prima degli esempi finali">Il testo originale ripete una seconda volta (quasi identica) la tabella degli asintotici notevoli, introdotta da "Es: (fogli asintotici su WeBeup) Se εn→0 (εn≠0 definitivamente) allora...". Non è chiaro se si tratti di una ripetizione per promemoria durante la lezione o se contenesse una voce aggiuntiva rispetto alla prima tabella (la scansione è duplicata e di qualità peggiore).</DUBBIO>
+## Proprietà di compatibilità di $\sim$
 
-## Proprietà di compatibilità di $\sim$ con prodotto, quoziente, potenza e limite
+> [!abstract] Proposizione
+> 1. Se $a_n\sim a_n'$ e $b_n\sim b_n'$ $\Rightarrow$ $a_nb_n\sim a_n'b_n'$
+> 2. Se $a_n\sim a_n'$ e $b_n\sim b_n'$ $\Rightarrow$ $\dfrac{a_n}{b_n}\sim\dfrac{a_n'}{b_n'}$
+> 3. Se $a_n\sim a_n'$, $\alpha\in\mathbb{R}$ $\Rightarrow$ $a_n^{\,\alpha}\sim(a_n')^{\,\alpha}$ (assumendo che l'operazione abbia senso)
+> 4. Se $a_n\sim a_n'$ allora le due successioni hanno lo stesso carattere, cioè o convergono entrambe allo stesso limite $l\in\mathbb{R}$, o divergono entrambe a $+\infty$, o entrambe a $-\infty$, o sono entrambe indeterminate (non ammettono limite).
 
-> [!abstract] Teorema (Proprietà)
-> 1. Se $a_n\sim a_n'$ e $b_n\sim b_n'$ allora $a_n b_n \sim a_n' b_n'$
-> 2. Se $a_n\sim a_n'$ e $b_n\sim b_n'$ allora $\dfrac{a_n}{b_n}\sim\dfrac{a_n'}{b_n'}$
-> 3. Se $a_n\sim a_n'$, $\alpha\in\mathbb{R}$, allora $a_n^{\,\alpha}\sim (a_n')^{\,\alpha}$ (assumendo che l'operazione abbia senso)
-> 4. Se $a_n\sim b_n$ allora le due successioni hanno lo stesso carattere, cioè: convergono entrambe allo stesso limite, oppure divergono entrambe a $+\infty$, oppure divergono entrambe a $-\infty$, oppure sono entrambe irregolari (non ammettono limite)
+**Osservazione.** In generale, $a_n\sim a_n'$ e $b_n\sim b_n'$ **non implicano**
+$$a_n\pm b_n\sim a_n'\pm b_n', \qquad a_n^{\,b_n}\sim(a_n')^{\,b_n'}, \qquad e^{a_n}\sim e^{a_n'}, \qquad \log(a_n)\sim\log(a_n')$$
 
-**dim:**
+**Osservazione.** In generale:
+$$a_n\sim b_n \ \not\Rightarrow\ a_n-b_n\to 0 \qquad\qquad a_n-b_n\to 0 \ \not\Rightarrow\ a_n\sim b_n$$
 
-1. $$\dfrac{a_nb_n}{a_n'b_n'} = \dfrac{a_n}{a_n'}\cdot\dfrac{b_n}{b_n'} \to 1\cdot 1 = 1$$
+**dim (della proposizione).** Siano $a_n\sim a_n'$, $b_n\sim b_n'$.
 
-2. analoga a 1) con il quoziente al posto del prodotto
+1. $\dfrac{a_n'b_n'}{a_nb_n}=\left(\dfrac{a_n'}{a_n}\right)\cdot\left(\dfrac{b_n'}{b_n}\right)\to 1\cdot 1=1$, quindi $a_nb_n\sim a_n'b_n'$.
 
-3. $$\left(\dfrac{a_n}{a_n'}\right)^{\alpha} \to 1^{\alpha} = 1$$
+2. $\dfrac{\;\dfrac{a_n}{b_n}\;}{\dfrac{a_n'}{b_n'}}=\dfrac{a_n}{b_n}\cdot\dfrac{b_n'}{a_n'}=\left(\dfrac{a_n}{a_n'}\right)\cdot\left(\dfrac{b_n}{b_n'}\right)^{-1}\to 1\cdot 1^{-1}=1$, quindi $\dfrac{a_n}{b_n}\sim\dfrac{a_n'}{b_n'}$.
 
-4. Se $\exists\, \lim_{n\to\infty} a_n = l \in\overline{\mathbb{R}}$, allora $b_n = a_n\cdot\dfrac{b_n}{a_n} \to l\cdot 1 = l$, quindi $\exists\, \lim_{n\to\infty} b_n = l$.
-   Se invece $\nexists\, \lim_{n\to\infty} b_n$: per assurdo supponiamo $\exists\, \lim_{n\to\infty} a_n = l$; per quanto appena dimostrato dovrebbe allora essere $\exists\, \lim_{n\to\infty} b_n = l$, assurdo. Quindi $\nexists\, \lim_{n\to\infty} a_n$. $\blacksquare$
+3. $\dfrac{a_n^{\,\alpha}}{(a_n')^{\alpha}}=\left(\dfrac{a_n}{a_n'}\right)^{\alpha}\to 1^\alpha=1$, quindi $a_n^{\,\alpha}\sim(a_n')^{\alpha}$.
 
-> [!danger] Attenzione
-> In generale, se $a_n\sim a_n'$ e $b_n\sim b_n'$, **non è detto** che
-> $$a_n^{\,b_n} \sim (a_n')^{\,b_n'} \qquad \text{oppure} \qquad \log(a_n) \sim \log(a_n')$$
+4. Se $\exists\,\displaystyle\lim_{n\to\infty}a_n'=l\in\overline{\mathbb{R}}$, allora
+$$a_n=\dfrac{a_n}{a_n'}\cdot a_n'\to 1\cdot l=l\in\overline{\mathbb{R}}$$
+Se invece $a_n'$ non ammette limite in $\overline{\mathbb{R}}$, per assurdo supponiamo $\exists\,\displaystyle\lim_{n\to\infty}a_n=l\in\overline{\mathbb{R}}$; allora
+$$a_n'=\dfrac{a_n'}{a_n}\cdot a_n\to 1\cdot l=l\in\overline{\mathbb{R}}$$
+cioè $\exists\,\displaystyle\lim_{n\to\infty}a_n'=l\in\overline{\mathbb{R}}$, assurdo. Quindi $\nexists\,\displaystyle\lim_{n\to\infty}a_n$ in $\overline{\mathbb{R}}$. $\blacksquare$
 
-> [!danger] Attenzione
-> In generale $a_n\sim b_n$ **non implica** $a_n-b_n\to 0$.
+**Esempio.**
+$$a_n=\dfrac{3n^7+5n^{42/95}-\log n-\cos n+5}{2n^6-18n^3+\arctan n+(\log n)^2-2}$$
+Numeratore: $N=3n^7+o(n^7)\sim 3n^7$. Denominatore: $D=2n^6+o(n^6)\sim 2n^6$. Quindi
+$$a_n=\dfrac{3n^7+o(n^7)}{2n^6+o(n^6)}\sim\dfrac{3n^7}{2n^6}=\dfrac32\,n\to+\infty \quad\Rightarrow\quad \lim_{n\to\infty}a_n=+\infty$$
 
-## Esempio
+## Asintotici notevoli con $\varepsilon_n\to 0$
 
-$$a_n = 3n^7+\log n + o(n^7) \sim 3n^7, \qquad b_n = 2n^6+o(n^6)\sim 2n^6$$
-$$\Rightarrow \quad \dfrac{a_n}{b_n} \sim \dfrac{3n^7}{2n^6} = \dfrac32\, n \ \longrightarrow\ +\infty \qquad (n\to\infty)$$
+**Esempio.** *(foglio asintotici su WeBeep)* Se $\varepsilon_n\to0$ ($\varepsilon_n\neq 0$ definitivamente) allora, per $n\to\infty$:
 
-## Esempio (sviluppo con radice cubica)
+$$\sin\varepsilon_n\sim\varepsilon_n \qquad \sin\varepsilon_n=\varepsilon_n+o(\varepsilon_n)$$
+$$1-\cos\varepsilon_n\sim\dfrac{\varepsilon_n^2}{2} \qquad 1-\cos\varepsilon_n=\dfrac{\varepsilon_n^2}{2}+o(\varepsilon_n^2) \ \Rightarrow\ \cos\varepsilon_n=1-\dfrac{\varepsilon_n^2}{2}+o(\varepsilon_n^2)$$
+$$e^{\varepsilon_n}-1\sim\varepsilon_n \qquad e^{\varepsilon_n}-1=\varepsilon_n+o(\varepsilon_n) \ \Rightarrow\ e^{\varepsilon_n}=1+\varepsilon_n+o(\varepsilon_n)$$
+$$\log(1+\varepsilon_n)\sim\varepsilon_n \qquad \log(1+\varepsilon_n)=\varepsilon_n+o(\varepsilon_n)$$
+$$(1+\varepsilon_n)^\alpha-1\sim\alpha\varepsilon_n\ \ (\alpha\neq 0) \qquad (1+\varepsilon_n)^\alpha-1=\alpha\varepsilon_n+o(\varepsilon_n) \ \Rightarrow\ (1+\varepsilon_n)^\alpha=1+\alpha\varepsilon_n+o(\varepsilon_n)$$
+$$\ldots$$
 
-<DUBBIO posizione="esempio con (n^3+n^2)^(1/3) - (n^3-n)^(1/3)">Il passaggio è ricostruito a partire da appunti molto frammentati; i coefficienti numerici intermedi (in particolare l'ultimo valore del limite, trascritto in modo ambiguo tra "⅓" e "5") sono incerti.</DUBBIO>
+## Esempi di calcolo di limiti
 
-$$a_n = \left(n^3+n^2\right)^{1/3} - \left(n^3-n\right)^{1/3}$$
+**Esempio.** $a_n=\dfrac{\sin\frac{1}{n^2}}{e^{7/n}-1}\cdot n$
 
-Usando $a^3-b^3=(a-b)(a^2+ab+b^2)$ e gli sviluppi notevoli $(1+\varepsilon_n)^\alpha = 1+\alpha\varepsilon_n+o(\varepsilon_n)$:
+- $\varepsilon_n=\dfrac1{n^2}\to0$, $\ \sin\varepsilon_n\sim\varepsilon_n$, quindi $\sin\dfrac1{n^2}\sim\dfrac1{n^2}$
+- $\varepsilon_n=\dfrac7n\to0$, $\ e^{\varepsilon_n}-1\sim\varepsilon_n$, quindi $e^{7/n}-1\sim\dfrac7n$
 
-$$\left(n^3+n^2\right)^{1/3} = n\left(1+\dfrac1n\right)^{1/3} = n\left(1+\dfrac{1}{3n}+o\!\left(\dfrac1n\right)\right) = n+\dfrac13+o(1)$$
+$$a_n\sim\dfrac{\frac1{n^2}}{\frac7n}\cdot n=\dfrac17 \quad\Rightarrow\quad \lim_{n\to\infty}a_n=\dfrac17$$
 
-$$\left(n^3-n\right)^{1/3} = n\left(1-\dfrac{1}{n^2}\right)^{1/3} = n\left(1-\dfrac{1}{3n^2}+o\!\left(\dfrac1{n^2}\right)\right) = n-\dfrac{1}{3n}+o\!\left(\dfrac1n\right)$$
+**Osservazione.** Una successione $\varepsilon_n\to0$ è una successione di punti $\varepsilon_0,\varepsilon_1,\varepsilon_2,\varepsilon_3,\ldots,\varepsilon_n,\ldots$ che si avvicinano all'asse delle $n$ (anche oscillando sopra e sotto l'asse).
 
-$$a_n = \left(n+\dfrac13+o(1)\right) - \left(n-\dfrac{1}{3n}+o\!\left(\dfrac1n\right)\right) = \dfrac13+o(1) \ \longrightarrow\ \dfrac13 \qquad (n\to\infty)$$
+**DISEGNO NON RAPPRESENTABILE** — Grafico di una successione $\varepsilon_n$ (in rosso) con punti $\varepsilon_0,\varepsilon_1,\varepsilon_2,\varepsilon_3,\ldots,\varepsilon_n$ sopra e sotto l'asse delle $n$ che tendono a $0$ (pagina 10 del PDF della Lezione 9).
 
-## Esempio
+**Esempio.**
+$$a_n=\dfrac{\sqrt[3]{1+n}-n^{1/3}}{1-e^{2/n}}\cdot\arctan\dfrac1{n^2}\cdot n^{5/3}$$
 
-<DUBBIO posizione="esempio con e^(1/n)-1 e arctan, poco dopo il richiamo degli asintotici notevoli">Il blocco di appunti relativo a un esempio con $a_n = e^{1/n}-1$ e uno con $\arctan$ è troppo frammentato (simboli sovrapposti, numeri di riga incerti) per essere trascritto senza rischio di errore. Andrebbe verificato sulla registrazione/slide della lezione.</DUBBIO>
+- $\arctan\dfrac1{n^2}\sim\dfrac1{n^2}$, perché $\arctan\varepsilon_n\sim\varepsilon_n$ con $\varepsilon_n=\dfrac1{n^2}\to0$
+- $1-e^{2/n}\sim-\dfrac2n$, perché $-(e^{\varepsilon_n}-1)\sim-\varepsilon_n$ con $\varepsilon_n=\dfrac2n\to0$
+- $\sqrt[3]{1+n}-n^{1/3}\sim\ ?$
 
-## Ulteriori proprietà di o-piccolo
+> [!danger] Attenzione — cosa NON si può fare
+> - $\sqrt[3]{1+n}=(1+n)^{1/3}\neq 1+\dfrac n3+o(n)$, perché $\varepsilon_n=n\not\to0$
+> - $\sqrt[3]{1+n}\sim n^{1/3}$ è vero, **ma non** si può concludere $\sqrt[3]{1+n}-n^{1/3}\sim n^{1/3}-n^{1/3}=0$: non si usa $\sim$ in somme e sottrazioni.
 
-> [!abstract] Teorema (Proprietà)
-> $$o(a_n)\cdot o(b_n) = o(a_n b_n)$$
-> $$o\big(o(a_n)\big) = o(a_n)$$
-> $$o\!\left(\dfrac1n\right)+o\!\left(\dfrac{1}{n^2}\right) = o\!\left(\dfrac1n\right)$$
-> $$o(n)+o(n^2) = o(n^2)$$
+Si procede così:
+$$\sqrt[3]{1+n}=n^{1/3}\left(1+\dfrac1n\right)^{1/3}\qquad\text{con } (1+\varepsilon_n)^\alpha,\ \varepsilon_n=\dfrac1n,\ \alpha=\dfrac13$$
+$$=n^{1/3}\left(1+\dfrac{1}{3n}+o\!\left(\dfrac1n\right)\right)=n^{1/3}+\dfrac{1}{3n^{2/3}}+n^{1/3}\cdot o\!\left(\dfrac1n\right)$$
+Infatti $\dfrac{n^{1/3}\cdot o(1/n)}{1/n^{2/3}}=\dfrac{o(1/n)}{1/n}\to0$, quindi $n^{1/3}\cdot o\!\left(\dfrac1n\right)=o\!\left(\dfrac1{n^{2/3}}\right)$. Allora
+$$\sqrt[3]{1+n}-n^{1/3}=\cancel{n^{1/3}}+\dfrac{1}{3n^{2/3}}+o\!\left(\dfrac1{n^{2/3}}\right)-\cancel{n^{1/3}}=\dfrac{1}{3n^{2/3}}+o\!\left(\dfrac1{n^{2/3}}\right)\sim\dfrac{1}{3n^{2/3}}$$
+$$a_n\sim\dfrac{\frac{1}{3n^{2/3}}}{-\frac2n}\cdot\dfrac1{n^2}\cdot n^{5/3}=-\dfrac16 \quad\Rightarrow\quad \lim_{n\to\infty}a_n=-\dfrac16$$
 
-**dim (prima proprietà):** $\dfrac{o(a_n)}{a_n}\to 0$, $\dfrac{o(b_n)}{b_n}\to 0$ per definizione, quindi $\dfrac{o(a_n)\cdot o(b_n)}{a_n\cdot b_n} = \dfrac{o(a_n)}{a_n}\cdot\dfrac{o(b_n)}{b_n}\to 0\cdot 0 = 0$.
+**Esempio.** $a_n=(n^3+n^2)^{1/3}-(n^3-n)^{1/3}$
 
-**dim (seconda proprietà):** $o(a_n)\to 0\cdot a_n$; applicando di nuovo la definizione di $o$-piccolo a una successione che è già $o(a_n)$ si ottiene ancora $o(a_n)$.
+Posto $a=\sqrt[3]{n^3+n^2}$, $b=\sqrt[3]{n^3-n}$, vale $a^3-b^3=(a-b)(a^2+ab+b^2)$, cioè $a-b=\dfrac{a^3-b^3}{a^2+ab+b^2}$ (…). Qui però si procede con gli sviluppi di $(1+\varepsilon_n)^\alpha=1+\alpha\varepsilon_n+o(\varepsilon_n)$:
 
-> [!note] Osservazione
-> $$a_n-b_n = o(a_n) \quad\Longleftrightarrow\quad a_n\sim b_n$$
+$$(n^3+n^2)^{1/3}=n\left(1+\dfrac1n\right)^{1/3}=n\left(1+\dfrac1{3n}+o\!\left(\dfrac1n\right)\right)\ \sim\ n$$
+$$(n^3-n)^{1/3}=n\left(1-\dfrac1{n^2}\right)^{1/3}=n\left(1-\dfrac1{3n^2}+o\!\left(\dfrac1{n^2}\right)\right)\ \sim\ n$$
 
-<DUBBIO posizione="ultima pagina, dopo le proprietà di o-piccolo">La riga finale ("ad esempio o(√n)=o(n)" o simile) e l'ultimo esempio numerico della lezione, con una forma indeterminata del tipo $\left[\dfrac{0}{0}\right]$ coinvolgente $\varepsilon_n\sim 2n$ e $\sin\varepsilon_n$, sono troppo illeggibili per essere trascritti con sicurezza: mancano dati sufficienti per ricostruire la successione $a_n$ e il valore del limite richiesto ("$\lim_{n\to\infty} a_n = ?$").</DUBBIO>
+$$a_n=n\left(1+\dfrac1{3n}+o\!\left(\dfrac1n\right)\right)-n\left(1-\dfrac1{3n^2}+o\!\left(\dfrac1{n^2}\right)\right)$$
+$$=\cancel{n}+\dfrac13+n\,o\!\left(\dfrac1n\right)-\cancel{n}+\dfrac1{3n}-n\,o\!\left(\dfrac1{n^2}\right)$$
+$$=\dfrac13+\dfrac1{3n}+n\,o\!\left(\dfrac1n\right)+n\,o\!\left(\dfrac1{n^2}\right)$$
+
+Infatti $\dfrac{n\,o(1/n)}{1}=\dfrac{o(1/n)}{1/n}\to0$, quindi $n\,o\!\left(\dfrac1n\right)=o(1)$; analogamente $\dfrac{n\,o(1/n^2)}{1/n}=\dfrac{o(1/n^2)}{1/n^2}\to0$, quindi $n\,o\!\left(\dfrac1{n^2}\right)=o\!\left(\dfrac1n\right)$. Perciò
+$$a_n=\dfrac13+\dfrac1{3n}+o(1)=\dfrac13+o(1)\ \longrightarrow\ \dfrac13$$
+
+## Proprietà di $o$-piccolo
+
+**Osservazioni.**
+- $a_n\cdot o(b_n)=o(a_nb_n)$. Infatti $\dfrac{a_n\cdot o(b_n)}{a_nb_n}=\dfrac{o(b_n)}{b_n}\to0$ per definizione.
+- $o(a_n)=a_n\cdot o(1)$
+- $c\cdot o(a_n)=o(a_n)\quad\forall\,c\neq0$. Infatti $\dfrac{c\,o(a_n)}{a_n}\to c\cdot0=0$.
+- $\pm\,o(a_n)=o(a_n)$
+- $o\!\left(\dfrac1n\right)+o\!\left(\dfrac1{n^2}\right)=o\!\left(\dfrac1n\right)$
+- $o(n)+o(n^2)=o(n^2)$
+- Se $a_n\sim b_n$ $\Rightarrow$ $o(a_n)=o(b_n)$. Infatti
+$$\dfrac{o(a_n)}{b_n}=\dfrac{o(a_n)}{a_n}\cdot\dfrac{a_n}{b_n}\to 0\cdot1=0$$
+Ad esempio $o\!\left(\sin\dfrac1n\right)=o\!\left(\dfrac1n\right)$.
+
+**Esempio.** $a_n=\dfrac{\sin\frac1n-\frac1n}{\frac1{n^3}}$ è una forma indeterminata $\left[\dfrac00\right]$.
+
+Con $\varepsilon_n=\dfrac1n\to0$: $\sin\varepsilon_n\sim\varepsilon_n$, $\ \sin\varepsilon_n=\varepsilon_n+o(\varepsilon_n)$, cioè
+$$\sin\dfrac1n-\dfrac1n=\dfrac1n+o\!\left(\dfrac1n\right)-\dfrac1n=o\!\left(\dfrac1n\right)$$
+$$\Rightarrow\quad a_n=\dfrac{o\!\left(\frac1n\right)}{\frac1{n^3}}=n^3\,o\!\left(\dfrac1n\right)=o(n^2)$$
+$$\lim_{n\to\infty}a_n=\ ?$$
 
 ### Note collegate
 - [[00_MOC_Analisi_1]]
@@ -126,5 +172,6 @@ $$a_n = \left(n+\dfrac13+o(1)\right) - \left(n-\dfrac{1}{3n}+o\!\left(\dfrac1n\r
 - [[37_Algebra_Limiti_Infiniti]]
 - [[39_Criterio_del_Rapporto]]
 - [[34_Algebra_dei_Limiti]]
+- [[43_Asintotici_con_Funzioni_Composte]]
 
 #AM1/successioni-e-limiti/confronti-asintotici-proprieta-e-notevoli
