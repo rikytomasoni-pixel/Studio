@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
+                "file": "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "72_Esistenza_della_Matrice_Inversa"
+              "title": "75_Calcolo_del_Determinante_con_il_MEG"
             }
           }
         ]
@@ -220,6 +220,7 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/74_Teorema_di_Binet.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/76_Determinante_Normalizzato_e_Alternante.md",
@@ -248,7 +249,6 @@
     "10_Analisi_1/02_Numeri_Reali/08_Estremo_Superiore_Inferiore.md",
     "10_Analisi_1/02_Numeri_Reali/07_Insiemi_Limitati_Max_Min.md",
     "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
-    "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
     "10_Analisi_1/09_Limiti_di_Funzioni",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
