@@ -689,6 +689,22 @@
         "charCountStart": 1784,
         "changes": [],
         "id": 69
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
+        "wordCountStart": 152,
+        "charCountStart": 1042,
+        "changes": [],
+        "id": 70
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
+        "wordCountStart": 206,
+        "charCountStart": 1347,
+        "changes": [],
+        "id": 71
       }
     ]
   }

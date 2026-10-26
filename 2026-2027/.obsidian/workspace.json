@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
+                "file": "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "48_Studio_del_Carattere_di_una_Serie"
+              "title": "50_Serie_Geometrica"
             }
           }
         ]
@@ -221,6 +221,9 @@
   "active": "320efad9f9822113",
   "lastOpenFiles": [
     "10_Analisi_1/00_MOC_Analisi_1.md",
+    "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
+    "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
+    "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
     "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
@@ -244,9 +247,6 @@
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/27_Prodotto_Esterno.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/02_Indice_Lezione_1.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/01_Indice_Lezione_0.md",
-    "20_Geometria_Algebra_Lineare/99_Organizzazione/10_Organizzazione_del_Corso.md",
-    "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
-    "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/31_Il_Campo_F2.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261009 - EE1 MATRICE SOMMA DI RANGO 1.pdf",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
