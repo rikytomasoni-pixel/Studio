@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
+                "file": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "87_Ricerca_della_Matrice_Inversa"
+              "title": "80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare"
             }
           }
         ]
@@ -220,6 +220,7 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/62_Non_Commutativita_del_Prodotto_Matriciale.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/61_Unicita_e_Bilateralita_dell_Inversa.md",
@@ -246,7 +247,6 @@
     "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/69_Pivot_e_Matrice_a_Scala.md",
     "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/68_Metodo_di_Eliminazione_di_Gauss.md",
     "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/67_Operazioni_Elementari_sulle_Righe.md",
-    "20_Geometria_Algebra_Lineare/06_Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf",
