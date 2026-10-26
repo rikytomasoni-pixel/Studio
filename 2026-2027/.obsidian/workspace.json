@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(unici)",
+                "query": "line:(definizione di limi)",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Segnalibri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,6 +220,8 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
     "10_Analisi_1/04_Funzioni/27_Teorema_Monotone_Invertibili.md",
     "10_Analisi_1/02_Numeri_Reali/12_Logaritmi.md",
     "10_Analisi_1/03_Numeri_Complessi/18_Equazioni_in_C.md",
@@ -246,8 +247,6 @@
     "20_Geometria_Algebra_Lineare/07_Determinante/79_Determinante_con_Righe_Uguali.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/74_Teorema_di_Binet.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/07_Indice_Lezione_6.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
-    "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261009 - EE1 MATRICE SOMMA DI RANGO 1.pdf",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
