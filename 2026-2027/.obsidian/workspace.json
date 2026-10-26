@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli.md",
+                "file": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli"
+              "title": "80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare"
             }
           }
         ]
@@ -220,6 +220,7 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/10_Indice_Lezione_9.md",
@@ -246,7 +247,6 @@
     "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/31_Il_Campo_F2.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/85_Teorema_di_Struttura_delle_Soluzioni.md",
-    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/84_Nucleo_e_Sistema_Omogeneo_Associato.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261009 - EE1 MATRICE SOMMA DI RANGO 1.pdf",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
