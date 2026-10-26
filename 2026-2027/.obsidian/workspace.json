@@ -11,12 +11,14 @@
             "id": "320efad9f9822113",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf"
+                "file": "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "AM1 L4 26-27"
+              "icon": "lucide-file",
+              "title": "65_Determinante_Sviluppo_di_Laplace"
             }
           }
         ]
@@ -218,6 +220,9 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/28_Determinanti_2x2_e_3x3.md",
+    "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
+    "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "10_Analisi_1/03_Numeri_Complessi/17_Radici_Complesse.md",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf",
@@ -245,10 +250,7 @@
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/78_Osservazioni_sul_Criterio_di_Leibniz.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/77_Esempio_Serie_Alternata_con_Parametro_alpha.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
-    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/75_Esempio_Convergenza_Assoluta_sin_n_su_n_alla_3_su_2.md",
-    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile",
-    "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
     "90_Lezioni_pdf/A1/AM1 L5 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261014 - LEZIONE 10.pdf",

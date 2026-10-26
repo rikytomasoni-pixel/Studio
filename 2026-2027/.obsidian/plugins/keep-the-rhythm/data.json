@@ -252,6 +252,28 @@
         "charCountStart": 4638,
         "changes": [],
         "id": 18
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
+        "wordCountStart": 645,
+        "charCountStart": 3935,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/28_Determinanti_2x2_e_3x3.md",
+        "wordCountStart": 94,
+        "charCountStart": 820,
+        "changes": [],
+        "id": 20
       }
     ]
   }
