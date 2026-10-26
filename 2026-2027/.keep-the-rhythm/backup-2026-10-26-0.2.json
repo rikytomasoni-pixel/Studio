@@ -280,7 +280,13 @@
         "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
         "wordCountStart": 259,
         "charCountStart": 2248,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "11:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 21
       },
       {
@@ -394,6 +400,52 @@
         "charCountStart": 1557,
         "changes": [],
         "id": 35
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/107_Confronto_Metodi_Calcolo_Determinante.md",
+        "wordCountStart": 254,
+        "charCountStart": 2191,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/106_Determinante_Metodo_Misto_MEG_e_Laplace.md",
+        "wordCountStart": 211,
+        "charCountStart": 1625,
+        "changes": [],
+        "id": 37
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/105_Determinante_Laplace_Esempio_3x3_Riga_3.md",
+        "wordCountStart": 259,
+        "charCountStart": 1751,
+        "changes": [],
+        "id": 38
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe.md",
+        "wordCountStart": 325,
+        "charCountStart": 2344,
+        "changes": [],
+        "id": 39
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/103_Esercizio_5_1_Calcolo_del_Determinante.md",
+        "wordCountStart": 237,
+        "charCountStart": 1852,
+        "changes": [
+          {
+            "timeKey": "11:45",
+            "w": -34,
+            "c": -205
+          }
+        ],
+        "id": 40
       }
     ]
   }
