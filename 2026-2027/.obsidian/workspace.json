@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "87_Ricerca_della_Matrice_Inversa"
             }
-          },
-          {
-            "id": "c0ed1b0a38513490",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261014 - LEZIONE 10.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "GAL 2026-2027 - 20261014 - LEZIONE 10"
-            }
           }
         ]
       }
@@ -230,7 +218,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "320efad9f9822113",
+  "active": "0ba7c57d61bd7477",
   "lastOpenFiles": [
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261014 - LEZIONE 10.pdf",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
