@@ -491,6 +491,22 @@
         "charCountStart": 3757,
         "changes": [],
         "id": 45
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico.md",
+        "wordCountStart": 373,
+        "charCountStart": 2674,
+        "changes": [],
+        "id": 46
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
+        "wordCountStart": 657,
+        "charCountStart": 4554,
+        "changes": [],
+        "id": 47
       }
     ]
   }

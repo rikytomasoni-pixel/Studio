@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
+                "file": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare"
+              "title": "82_Teorema_di_Rouche_Capelli"
             }
           }
         ]
@@ -220,6 +220,8 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico.md",
+    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/62_Non_Commutativita_del_Prodotto_Matriciale.md",
@@ -245,8 +247,6 @@
     "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/71_Codifica_del_MEG_con_il_Prodotto_Matriciale.md",
     "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/70_Reversibilita_del_MEG.md",
     "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/69_Pivot_e_Matrice_a_Scala.md",
-    "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/68_Metodo_di_Eliminazione_di_Gauss.md",
-    "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/67_Operazioni_Elementari_sulle_Righe.md",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf",
