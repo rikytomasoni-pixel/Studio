@@ -73,7 +73,9 @@ la matrice **inversa a destra**.
 
 ## Procedimento generale per l'inverso destro
 > [!warning] N.B.
-> $$[A\mid\text{colonne dei termini noti dei sistemi da risolvere}]=[A\mid\mathrm{Id}]\ \xrightarrow{\ \text{MEG}\ }\ [\mathrm{Id}\mid\text{soluzioni del primo sistema}\ \dots\ \text{soluzioni dell'ultimo sistema}]=[\mathrm{Id}\mid A^{-1}]$$
+> $$[A\mid\text{colonne dei termini noti dei sistemi da risolvere}]
+> = [A\mid\mathrm{Id}]\ \xrightarrow{\ \text{MEG}\ }\ [\mathrm{Id}\mid\text{soluzioni del primo sistema}
+> \ \dots\ \text{soluzioni dell'ultimo sistema}]=[\mathrm{Id}\mid A^{-1}]$$
 > Le soluzioni dei sistemi sono le colonne dell'inversa: la prima soluzione è la prima colonna dell'inverso, e così via.
 
 > [!warning] N.B.

@@ -481,7 +481,13 @@
         "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
         "wordCountStart": 1133,
         "charCountStart": 6748,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 7
+          }
+        ],
         "id": 44
       },
       {
@@ -635,6 +641,22 @@
         "charCountStart": 1801,
         "changes": [],
         "id": 63
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/10_Indice_Lezione_9.md",
+        "wordCountStart": 82,
+        "charCountStart": 899,
+        "changes": [],
+        "id": 64
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/11_Indice_Lezione_10.md",
+        "wordCountStart": 76,
+        "charCountStart": 976,
+        "changes": [],
+        "id": 65
       }
     ]
   }
