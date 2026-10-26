@@ -745,6 +745,22 @@
         "charCountStart": 3263,
         "changes": [],
         "id": 76
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/12_Logaritmi.md",
+        "wordCountStart": 194,
+        "charCountStart": 1399,
+        "changes": [],
+        "id": 77
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/04_Funzioni/27_Teorema_Monotone_Invertibili.md",
+        "wordCountStart": 379,
+        "charCountStart": 2578,
+        "changes": [],
+        "id": 78
       }
     ]
   }
