@@ -507,6 +507,62 @@
         "charCountStart": 4554,
         "changes": [],
         "id": 47
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli.md",
+        "wordCountStart": 473,
+        "charCountStart": 3024,
+        "changes": [],
+        "id": 48
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/84_Nucleo_e_Sistema_Omogeneo_Associato.md",
+        "wordCountStart": 295,
+        "charCountStart": 2204,
+        "changes": [],
+        "id": 49
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/85_Teorema_di_Struttura_delle_Soluzioni.md",
+        "wordCountStart": 124,
+        "charCountStart": 1115,
+        "changes": [],
+        "id": 50
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
+        "wordCountStart": 121,
+        "charCountStart": 1136,
+        "changes": [],
+        "id": 51
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+        "wordCountStart": 1032,
+        "charCountStart": 11626,
+        "changes": [],
+        "id": 52
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/31_Il_Campo_F2.md",
+        "wordCountStart": 132,
+        "charCountStart": 1107,
+        "changes": [],
+        "id": 53
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/99_Organizzazione/10_Organizzazione_del_Corso.md",
+        "wordCountStart": 374,
+        "charCountStart": 2998,
+        "changes": [],
+        "id": 54
       }
     ]
   }

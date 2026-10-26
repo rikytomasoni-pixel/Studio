@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
+                "file": "20_Geometria_Algebra_Lineare/99_Organizzazione/10_Organizzazione_del_Corso.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "82_Teorema_di_Rouche_Capelli"
+              "title": "10_Organizzazione_del_Corso"
             }
           }
         ]
@@ -220,6 +220,13 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+    "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/31_Il_Campo_F2.md",
+    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
+    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/85_Teorema_di_Struttura_delle_Soluzioni.md",
+    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/84_Nucleo_e_Sistema_Omogeneo_Associato.md",
+    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli.md",
+    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
@@ -240,13 +247,6 @@
     "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/76_Determinante_Normalizzato_e_Alternante.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/77_Determinante_Multilineare.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/78_Determinante_e_Sostituzione.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/74_Teorema_di_Binet.md",
-    "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/71_Codifica_del_MEG_con_il_Prodotto_Matriciale.md",
-    "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/70_Reversibilita_del_MEG.md",
-    "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/69_Pivot_e_Matrice_a_Scala.md",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf",
