@@ -665,6 +665,30 @@
         "charCountStart": 937,
         "changes": [],
         "id": 66
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
+        "wordCountStart": 355,
+        "charCountStart": 2448,
+        "changes": [],
+        "id": 67
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/00_MOC_Analisi_1.md",
+        "wordCountStart": 286,
+        "charCountStart": 9177,
+        "changes": [],
+        "id": 68
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
+        "wordCountStart": 248,
+        "charCountStart": 1784,
+        "changes": [],
+        "id": 69
       }
     ]
   }
