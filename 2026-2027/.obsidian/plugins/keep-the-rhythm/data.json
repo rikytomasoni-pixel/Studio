@@ -274,6 +274,126 @@
         "charCountStart": 820,
         "changes": [],
         "id": 20
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
+        "wordCountStart": 259,
+        "charCountStart": 2248,
+        "changes": [],
+        "id": 21
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
+        "wordCountStart": 111,
+        "charCountStart": 1040,
+        "changes": [],
+        "id": 22
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/74_Teorema_di_Binet.md",
+        "wordCountStart": 230,
+        "charCountStart": 1769,
+        "changes": [],
+        "id": 23
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/76_Determinante_Normalizzato_e_Alternante.md",
+        "wordCountStart": 141,
+        "charCountStart": 1301,
+        "changes": [],
+        "id": 24
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/77_Determinante_Multilineare.md",
+        "wordCountStart": 268,
+        "charCountStart": 2028,
+        "changes": [],
+        "id": 25
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/78_Determinante_e_Sostituzione.md",
+        "wordCountStart": 189,
+        "charCountStart": 1555,
+        "changes": [],
+        "id": 26
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/79_Determinante_con_Righe_Uguali.md",
+        "wordCountStart": 127,
+        "charCountStart": 1166,
+        "changes": [],
+        "id": 27
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/63_Rango_di_una_Matrice.md",
+        "wordCountStart": 278,
+        "charCountStart": 1925,
+        "changes": [],
+        "id": 28
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
+        "wordCountStart": 295,
+        "charCountStart": 2259,
+        "changes": [],
+        "id": 29
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/67_Operazioni_Elementari_sulle_Righe.md",
+        "wordCountStart": 232,
+        "charCountStart": 1844,
+        "changes": [],
+        "id": 30
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/68_Metodo_di_Eliminazione_di_Gauss.md",
+        "wordCountStart": 578,
+        "charCountStart": 3922,
+        "changes": [],
+        "id": 31
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/69_Pivot_e_Matrice_a_Scala.md",
+        "wordCountStart": 198,
+        "charCountStart": 1525,
+        "changes": [],
+        "id": 32
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/70_Reversibilita_del_MEG.md",
+        "wordCountStart": 227,
+        "charCountStart": 1800,
+        "changes": [],
+        "id": 33
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/71_Codifica_del_MEG_con_il_Prodotto_Matriciale.md",
+        "wordCountStart": 319,
+        "charCountStart": 2375,
+        "changes": [],
+        "id": 34
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
+        "wordCountStart": 189,
+        "charCountStart": 1557,
+        "changes": [],
+        "id": 35
       }
     ]
   }
