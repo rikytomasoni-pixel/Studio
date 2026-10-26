@@ -22,6 +22,9 @@ fonte: "GAL_2026-2027_-_20261008_-_LEZIONE_7.pdf"
 | 9 | slide 71 | [[78_Determinante_e_Sostituzione]] |
 | 10 | slide 72 | [[79_Determinante_con_Righe_Uguali]] |
 
+## Esercizi collegati (esercizi del 2026-10-09, non slide)
+- [[103_Esercizio_5_1_Calcolo_del_Determinante]] — esempi di calcolo del determinante con MEG, Laplace e metodo misto: [[104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe]], [[105_Determinante_Laplace_Esempio_3x3_Riga_3]], [[106_Determinante_Metodo_Misto_MEG_e_Laplace]], [[107_Confronto_Metodi_Calcolo_Determinante]]
+
 ## Note collegate
 - [[00_MOC_GAL]]
 - [[07_Indice_Lezione_6]] (lezione precedente)

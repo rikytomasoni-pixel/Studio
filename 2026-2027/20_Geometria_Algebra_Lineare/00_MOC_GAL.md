@@ -1,6 +1,6 @@
 ---
 tags: [GAL, MOC, indice-generale]
-data: 2026-10-20
+data: 2026-10-26
 lezione: 0-13
 fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11 e 13)"
 ---
@@ -38,6 +38,7 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 | 5 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L4 termina a 44 e L6 inizia a 45) | — |
 | 6 | 2026-10-07 | Matrice invertibile; rango; determinante (sviluppo di Laplace); matrici triangolari; metodo di eliminazione di Gauss; pivot e matrice a scala | [[07_Indice_Lezione_6]] |
 | 7 | 2026-10-08 | Reversibilità del MEG; codifica del MEG con il prodotto matriciale; rango con il MEG; teorema di Binet; determinante con il MEG; proprietà del determinante | [[08_Indice_Lezione_7]] |
+| Es. 5.1 | 2026-10-09 | Esercizi: calcolo del determinante con MEG, Laplace e metodo misto (solo matrice A svolta) | [[103_Esercizio_5_1_Calcolo_del_Determinante]] |
 | 8 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L7 termina a 72 e L9 inizia a 73) | — |
 | 9 | 2026-10-12 | Rappresentazioni matriciali di un sistema lineare; risoluzione via MEG; teorema di Rouché-Capelli | [[10_Indice_Lezione_9]] |
 | 10 | 2026-10-14 | Commenti a Rouché-Capelli; nucleo; teorema di struttura; teorema di Cramer; ricerca della matrice inversa; teorema sull'invertibilità | [[11_Indice_Lezione_10]] |
@@ -110,6 +111,11 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[77_Determinante_Multilineare]] — Determinante multilineare *(L7)*
 - [[78_Determinante_e_Sostituzione]] — Determinante e operazione di sostituzione *(L7)*
 - [[79_Determinante_con_Righe_Uguali]] — Determinante con righe uguali *(L7)*
+- [[103_Esercizio_5_1_Calcolo_del_Determinante]] — Esercizio 5.1: calcolo del determinante *(esercizi 09-10)*
+- [[104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe]] — Esempio con il MEG e scambio di righe *(esercizi 09-10)*
+- [[105_Determinante_Laplace_Esempio_3x3_Riga_3]] — Esempio con Laplace sulla riga 3 *(esercizi 09-10)*
+- [[106_Determinante_Metodo_Misto_MEG_e_Laplace]] — Metodo misto MEG + Laplace *(esercizi 09-10)*
+- [[107_Confronto_Metodi_Calcolo_Determinante]] — Confronto tra i metodi *(esercizi 09-10)*
 
 ## Metodo di eliminazione di Gauss (MEG)
 - [[67_Operazioni_Elementari_sulle_Righe]] — Operazioni elementari sulle righe *(L6)*

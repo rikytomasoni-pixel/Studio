@@ -42,6 +42,7 @@ fonte: "GAL_2026-2027_-_20261007_-_LEZIONE_6.pdf (slide 54-55)"
 - [[45_Matrice_Identita_e_Matrici_Diagonali]]
 - [[68_Metodo_di_Eliminazione_di_Gauss]]
 - [[75_Calcolo_del_Determinante_con_il_MEG]]
+- [[103_Esercizio_5_1_Calcolo_del_Determinante]] (esempio numerico)
 - Indice: [[07_Indice_Lezione_6]] · [[00_MOC_GAL]]
 
 #GAL/determinante/matrici-triangolari
