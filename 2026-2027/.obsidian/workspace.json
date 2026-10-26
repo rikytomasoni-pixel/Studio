@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
+                "file": "10_Analisi_1/03_Numeri_Complessi/18_Equazioni_in_C.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "53_Serie_Telescopiche_e_Mengoli"
+              "title": "18_Equazioni_in_C"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Teorema fondamentale dell",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,6 +221,8 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "10_Analisi_1/03_Numeri_Complessi/17_Radici_Complesse.md",
+    "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
     "10_Analisi_1/00_MOC_Analisi_1.md",
     "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
     "10_Analisi_1/06_Serie/51_Rappresentazione_Decimale_e_Serie.md",
@@ -245,8 +248,6 @@
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/04_Indice_Lezione_3.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/03_Indice_Lezione_2.md",
-    "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/27_Prodotto_Esterno.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261009 - EE1 MATRICE SOMMA DI RANGO 1.pdf",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",

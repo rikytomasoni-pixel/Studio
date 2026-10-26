@@ -729,6 +729,22 @@
         "charCountStart": 1426,
         "changes": [],
         "id": 74
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/17_Radici_Complesse.md",
+        "wordCountStart": 795,
+        "charCountStart": 4638,
+        "changes": [],
+        "id": 75
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/18_Equazioni_in_C.md",
+        "wordCountStart": 540,
+        "charCountStart": 3263,
+        "changes": [],
+        "id": 76
       }
     ]
   }
