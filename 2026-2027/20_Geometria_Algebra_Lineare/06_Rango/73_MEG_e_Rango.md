@@ -41,6 +41,7 @@ Il MEG è il modo **EFFICIENTE** per calcolare il rango di una matrice!!
 - [[68_Metodo_di_Eliminazione_di_Gauss]]
 - [[69_Pivot_e_Matrice_a_Scala]]
 - [[71_Codifica_del_MEG_con_il_Prodotto_Matriciale]]
+- [[108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1]] (esercizio EE1)
 - Indice: [[08_Indice_Lezione_7]] · [[00_MOC_GAL]]
 
 #GAL/rango/meg-e-rango

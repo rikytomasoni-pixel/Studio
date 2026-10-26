@@ -39,6 +39,7 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 | 6 | 2026-10-07 | Matrice invertibile; rango; determinante (sviluppo di Laplace); matrici triangolari; metodo di eliminazione di Gauss; pivot e matrice a scala | [[07_Indice_Lezione_6]] |
 | 7 | 2026-10-08 | Reversibilità del MEG; codifica del MEG con il prodotto matriciale; rango con il MEG; teorema di Binet; determinante con il MEG; proprietà del determinante | [[08_Indice_Lezione_7]] |
 | Es. 5.1 | 2026-10-09 | Esercizi: calcolo del determinante con MEG, Laplace e metodo misto (solo matrice A svolta) | [[103_Esercizio_5_1_Calcolo_del_Determinante]] |
+| Es. EE1 | 2026-10-09 | Esercizio: matrice come somma di $r$ matrici di rango 1 (MEG, matrici elementari, $A=PLU$) | [[108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1]] |
 | 8 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L7 termina a 72 e L9 inizia a 73) | — |
 | 9 | 2026-10-12 | Rappresentazioni matriciali di un sistema lineare; risoluzione via MEG; teorema di Rouché-Capelli | [[10_Indice_Lezione_9]] |
 | 10 | 2026-10-14 | Commenti a Rouché-Capelli; nucleo; teorema di struttura; teorema di Cramer; ricerca della matrice inversa; teorema sull'invertibilità | [[11_Indice_Lezione_10]] |
@@ -101,6 +102,10 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[63_Rango_di_una_Matrice]] — Rango di una matrice *(L6)*
 - [[64_Rango_e_Matrice_di_Probabilita_Congiunta]] — Rango e matrice di probabilità congiunta *(L6)*
 - [[73_MEG_e_Rango]] — MEG e rango *(L7)*
+- [[108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1]] — Esercizio EE1: somma di matrici di rango 1 *(esercizi 09-10)*
+- [[109_EE1_Riduzione_a_Scala_di_A]] — EE1: riduzione a scala *(esercizi 09-10)*
+- [[110_EE1_Fattorizzazione_con_Matrici_Elementari]] — EE1: matrici elementari e $A=PLU$ *(esercizi 09-10)*
+- [[111_EE1_Somma_di_Tre_Matrici_di_Rango_1]] — EE1: somma di tre matrici di rango 1 *(esercizi 09-10)*
 
 ## Determinante
 - [[65_Determinante_Sviluppo_di_Laplace]] — Determinante: sviluppo di Laplace *(L6)*

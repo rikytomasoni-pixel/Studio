@@ -26,6 +26,9 @@ fonte: "GAL_2026-2027_-_20261008_-_LEZIONE_7.pdf (slide 63-64)"
 
 Domani a esercitazione maggiori dettagli.
 
+> [!note] Osservazione (non presente negli appunti)
+> I dettagli dell'esercitazione del 09-10 (matrici elementari $S_{ij}$, $L_{ij}(c)$ e fattorizzazione) sono in [[110_EE1_Fattorizzazione_con_Matrici_Elementari]].
+
 > [!abstract] Teorema (Morale)
 > $A \overset{\text{MEG}}{\leadsto} U$: esiste una matrice $T$ tale che $TA = U$.
 
@@ -37,6 +40,7 @@ Conseguenza (matrici inverse): [[72_Esistenza_della_Matrice_Inversa]].
 - [[41_Prodotto_Matriciale_Righe_per_Colonne]]
 - [[67_Operazioni_Elementari_sulle_Righe]]
 - [[74_Teorema_di_Binet]]
+- [[110_EE1_Fattorizzazione_con_Matrici_Elementari]] (esercizio EE1)
 - Indice: [[08_Indice_Lezione_7]] · [[00_MOC_GAL]]
 
 #GAL/metodo-di-eliminazione-di-gauss/codifica-del-meg-con-il-prodotto-matriciale

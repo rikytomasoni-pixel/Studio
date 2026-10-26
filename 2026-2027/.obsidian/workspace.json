@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
+                "file": "20_Geometria_Algebra_Lineare/07_Determinante/103_Esercizio_5_1_Calcolo_del_Determinante.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "66_Matrici_Triangolari"
+              "title": "103_Esercizio_5_1_Calcolo_del_Determinante"
             }
           }
         ]
@@ -220,6 +220,16 @@
   },
   "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261009 - EE1 MATRICE SOMMA DI RANGO 1.pdf",
+    "20_Geometria_Algebra_Lineare/06_Rango/111_EE1_Somma_di_Tre_Matrici_di_Rango_1.md",
+    "20_Geometria_Algebra_Lineare/06_Rango/110_EE1_Fattorizzazione_con_Matrici_Elementari.md",
+    "20_Geometria_Algebra_Lineare/06_Rango/109_EE1_Riduzione_a_Scala_di_A.md",
+    "20_Geometria_Algebra_Lineare/06_Rango/108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1.md",
+    "20_Geometria_Algebra_Lineare/07_Determinante/104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe.md",
+    "20_Geometria_Algebra_Lineare/07_Determinante/105_Determinante_Laplace_Esempio_3x3_Riga_3.md",
+    "20_Geometria_Algebra_Lineare/07_Determinante/106_Determinante_Metodo_Misto_MEG_e_Laplace.md",
+    "20_Geometria_Algebra_Lineare/07_Determinante/107_Confronto_Metodi_Calcolo_Determinante.md",
+    "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/76_Determinante_Normalizzato_e_Alternante.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/77_Determinante_Multilineare.md",
@@ -235,20 +245,10 @@
     "20_Geometria_Algebra_Lineare/06_Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
     "20_Geometria_Algebra_Lineare/06_Rango/63_Rango_di_una_Matrice.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/79_Determinante_con_Righe_Uguali.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/28_Determinanti_2x2_e_3x3.md",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
-    "10_Analisi_1/03_Numeri_Complessi/17_Radici_Complesse.md",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf",
-    "10_Analisi_1/03_Numeri_Complessi/16_Formule_di_De_Moivre.md",
-    "10_Analisi_1/02_Numeri_Reali/12_Logaritmi.md",
-    "10_Analisi_1/02_Numeri_Reali/11_Radici_e_Potenze.md",
-    "10_Analisi_1/02_Numeri_Reali/10_Retta_Reale_Intervalli.md",
-    "10_Analisi_1/02_Numeri_Reali/09_Valore_Assoluto.md",
-    "10_Analisi_1/02_Numeri_Reali/08_Estremo_Superiore_Inferiore.md",
-    "10_Analisi_1/02_Numeri_Reali/07_Insiemi_Limitati_Max_Min.md",
-    "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
     "10_Analisi_1/09_Limiti_di_Funzioni",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",

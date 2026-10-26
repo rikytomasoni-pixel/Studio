@@ -22,9 +22,6 @@ Negli appunti è svolta **solo la matrice $A$** (punto 1), e viene calcolata in 
 
 Confronto e osservazioni: [[107_Confronto_Metodi_Calcolo_Determinante]].
 
-> [!warning] Matrici $B$ e $C$
-> Le matrici $B$ ($4\times4$) e $C$ ($5\times5$) sono nel testo ma **non sono svolte** nel PDF. Quando avrai gli svolgimenti, aggiungili come nuove note collegate a questa.
-
 > [!note] Osservazione
 > Poiché $\det(A)=-25\neq0$, per il [[88_Teorema_sull_Invertibilita_della_Matrice]] la matrice $A$ è invertibile e ha rango $3$.
 

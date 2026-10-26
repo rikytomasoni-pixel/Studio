@@ -29,6 +29,7 @@ Esempio con la matrice di probabilità congiunta: [[64_Rango_e_Matrice_di_Probab
 - [[62_Non_Commutativita_del_Prodotto_Matriciale]]
 - [[64_Rango_e_Matrice_di_Probabilita_Congiunta]]
 - [[73_MEG_e_Rango]]
+- [[108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1]] (esercizio: somma di $r$ matrici di rango 1)
 - [[33_Matrici_Casi_Speciali]]
 - Indice: [[07_Indice_Lezione_6]] · [[00_MOC_GAL]]
 
