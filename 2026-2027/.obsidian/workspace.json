@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,13 +243,13 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "46273d3d29d271b3",
+  "active": "c4199d1d7f9cabef",
   "lastOpenFiles": [
+    "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
     "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
     "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
     "10_Analisi_1/02_Numeri_Reali/08_Estremo_Superiore_Inferiore.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
