@@ -25,6 +25,8 @@ Il teorema è la chiave per dimostrare l'invertibilità: vedi [[88_Teorema_sull_
 - [[87_Ricerca_della_Matrice_Inversa]]
 - [[88_Teorema_sull_Invertibilita_della_Matrice]]
 - [[63_Rango_di_una_Matrice]]
+- [[116_Strategia_Determinante_per_Sistemi_con_Parametro]] — uso con parametri *(osservazione mia)*
+- [[112_Esercizio_5_4_Sistemi_con_Parametro]] — esercizio applicativo
 - Indice: [[11_Indice_Lezione_10]] · [[00_MOC_GAL]]
 
 #GAL/sistemi-lineari/teorema-di-cramer

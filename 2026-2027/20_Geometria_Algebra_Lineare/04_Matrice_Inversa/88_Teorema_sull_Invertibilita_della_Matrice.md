@@ -58,6 +58,7 @@ $$\begin{cases}AB=\mathrm{Id}_n\\BA=\mathrm{Id}_n\end{cases}\Rightarrow B=A^{-1}
 - [[86_Teorema_di_Cramer]]
 - [[74_Teorema_di_Binet]]
 - [[72_Esistenza_della_Matrice_Inversa]]
+- [[116_Strategia_Determinante_per_Sistemi_con_Parametro]] — uso pratico *(osservazione mia)*
 - [[60_Matrice_Invertibile]]
 - [[63_Rango_di_una_Matrice]]
 - [[65_Determinante_Sviluppo_di_Laplace]]

@@ -137,6 +137,11 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[84_Nucleo_e_Sistema_Omogeneo_Associato]] — Nucleo e sistema omogeneo associato *(L10)*
 - [[85_Teorema_di_Struttura_delle_Soluzioni]] — Teorema di struttura delle soluzioni *(L10)*
 - [[86_Teorema_di_Cramer]] — Teorema di Cramer *(L10)*
+- [[112_Esercizio_5_4_Sistemi_con_Parametro]] — Esercizio 5.4: sistemi con parametro *(esercizi)*
+- [[113_Esercizio_5_4_i_Determinante_Sempre_Nullo]] — 5.4 (i): determinante sempre nullo *(esercizi)*
+- [[114_Esercizio_5_4_ii_Cramer_e_Caso_Singolare]] — 5.4 (ii): Cramer e caso singolare *(esercizi)*
+- [[115_Esercizio_5_4_iii_Quattro_Equazioni_Tre_Incognite]] — 5.4 (iii): 4 equazioni, 3 incognite *(esercizi)*
+- [[116_Strategia_Determinante_per_Sistemi_con_Parametro]] — Strategia: determinante e parametri *(osservazione)*
 
 ## Spazi affini
 - [[89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini]] — Interpretazione geometrica dei sistemi lineari *(L11)*
