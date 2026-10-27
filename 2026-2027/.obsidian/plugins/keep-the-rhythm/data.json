@@ -1140,6 +1140,54 @@
         "charCountStart": 3339,
         "changes": [],
         "id": 124
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/68_Formula_di_Stirling.md",
+        "wordCountStart": 79,
+        "charCountStart": 773,
+        "changes": [],
+        "id": 125
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/40_Confronti_Asintotici.md",
+        "wordCountStart": 219,
+        "charCountStart": 1606,
+        "changes": [],
+        "id": 126
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
+        "wordCountStart": 471,
+        "charCountStart": 2850,
+        "changes": [],
+        "id": 127
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/38_Numero_di_Nepero.md",
+        "wordCountStart": 314,
+        "charCountStart": 2146,
+        "changes": [],
+        "id": 128
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/37_Algebra_Limiti_Infiniti.md",
+        "wordCountStart": 1543,
+        "charCountStart": 8750,
+        "changes": [],
+        "id": 129
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
+        "wordCountStart": 202,
+        "charCountStart": 1498,
+        "changes": [],
+        "id": 130
       }
     ]
   }
