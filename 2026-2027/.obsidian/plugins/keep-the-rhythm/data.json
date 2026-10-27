@@ -865,6 +865,78 @@
         "charCountStart": 4403,
         "changes": [],
         "id": 91
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
+        "wordCountStart": 262,
+        "charCountStart": 2316,
+        "changes": [],
+        "id": 92
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
+        "wordCountStart": 156,
+        "charCountStart": 1621,
+        "changes": [],
+        "id": 93
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/107_Confronto_Metodi_Calcolo_Determinante.md",
+        "wordCountStart": 254,
+        "charCountStart": 2191,
+        "changes": [],
+        "id": 94
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/106_Determinante_Metodo_Misto_MEG_e_Laplace.md",
+        "wordCountStart": 211,
+        "charCountStart": 1625,
+        "changes": [],
+        "id": 95
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/105_Determinante_Laplace_Esempio_3x3_Riga_3.md",
+        "wordCountStart": 259,
+        "charCountStart": 1751,
+        "changes": [],
+        "id": 96
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe.md",
+        "wordCountStart": 325,
+        "charCountStart": 2344,
+        "changes": [],
+        "id": 97
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/103_Esercizio_5_1_Calcolo_del_Determinante.md",
+        "wordCountStart": 203,
+        "charCountStart": 1647,
+        "changes": [],
+        "id": 98
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/79_Determinante_con_Righe_Uguali.md",
+        "wordCountStart": 127,
+        "charCountStart": 1166,
+        "changes": [],
+        "id": 99
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/78_Determinante_e_Sostituzione.md",
+        "wordCountStart": 189,
+        "charCountStart": 1555,
+        "changes": [],
+        "id": 100
       }
     ]
   }
