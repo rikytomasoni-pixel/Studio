@@ -1188,6 +1188,78 @@
         "charCountStart": 1498,
         "changes": [],
         "id": 130
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/44_Esempio_Asintotici_con_Logaritmo_e_Arctan.md",
+        "wordCountStart": 211,
+        "charCountStart": 1542,
+        "changes": [],
+        "id": 131
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/43_Asintotici_con_Funzioni_Composte.md",
+        "wordCountStart": 327,
+        "charCountStart": 2646,
+        "changes": [],
+        "id": 132
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
+        "wordCountStart": 355,
+        "charCountStart": 2448,
+        "changes": [],
+        "id": 133
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
+        "wordCountStart": 248,
+        "charCountStart": 1784,
+        "changes": [],
+        "id": 134
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
+        "wordCountStart": 152,
+        "charCountStart": 1042,
+        "changes": [],
+        "id": 135
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
+        "wordCountStart": 206,
+        "charCountStart": 1347,
+        "changes": [],
+        "id": 136
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/51_Rappresentazione_Decimale_e_Serie.md",
+        "wordCountStart": 209,
+        "charCountStart": 1273,
+        "changes": [],
+        "id": 137
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+        "wordCountStart": 167,
+        "charCountStart": 1218,
+        "changes": [],
+        "id": 138
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
+        "wordCountStart": 256,
+        "charCountStart": 1789,
+        "changes": [],
+        "id": 139
       }
     ]
   }
