@@ -25,12 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
+                "file": "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31_Successioni_Monotone"
+              "title": "32_Successione_Convergente_e_Limitata"
+            }
+          },
+          {
+            "id": "c4199d1d7f9cabef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AM1 L6 26-27"
             }
           }
         ],
@@ -233,10 +245,11 @@
   },
   "active": "46273d3d29d271b3",
   "lastOpenFiles": [
-    "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
     "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
+    "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
+    "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
     "10_Analisi_1/02_Numeri_Reali/08_Estremo_Superiore_Inferiore.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
@@ -259,7 +272,6 @@
     "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/116_Strategia_Determinante_per_Sistemi_con_Parametro.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/115_Esercizio_5_4_iii_Quattro_Equazioni_Tre_Incognite.md",
-    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/114_Esercizio_5_4_ii_Cramer_e_Caso_Singolare.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261014 - LEZIONE 10.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261009 - EE1 MATRICE SOMMA DI RANGO 1.pdf",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
@@ -268,7 +280,6 @@
     "10_Analisi_1/09_Limiti_di_Funzioni",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
-    "90_Lezioni_pdf/A1/AM1 L5 26-27.pdf",
     "99_Tools/Screenshots/GAL/sommaDiVettoriSpostamento.png",
     "99_Tools/Screenshots/GAL/sommaVettoriPiano.png",
     "99_Tools/Screenshots/GAL/vettorev.png",
