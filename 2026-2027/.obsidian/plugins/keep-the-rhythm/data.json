@@ -945,6 +945,30 @@
         "charCountStart": 3551,
         "changes": [],
         "id": 101
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
+        "wordCountStart": 172,
+        "charCountStart": 1553,
+        "changes": [],
+        "id": 102
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/61_Unicita_e_Bilateralita_dell_Inversa.md",
+        "wordCountStart": 173,
+        "charCountStart": 1398,
+        "changes": [],
+        "id": 103
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/62_Non_Commutativita_del_Prodotto_Matriciale.md",
+        "wordCountStart": 183,
+        "charCountStart": 1458,
+        "changes": [],
+        "id": 104
       }
     ]
   }
