@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "31_Successioni_Monotone"
             }
-          },
-          {
-            "id": "8a6928288b405407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "87_Ricerca_della_Matrice_Inversa"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +218,24 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "8a6928288b405407",
+  "active": "0ba7c57d61bd7477",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
+    "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/88_Teorema_sull_Invertibilita_della_Matrice.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/61_Unicita_e_Bilateralita_dell_Inversa.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
-    "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/62_Non_Commutativita_del_Prodotto_Matriciale.md",
     "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/116_Strategia_Determinante_per_Sistemi_con_Parametro.md",
@@ -250,17 +246,6 @@
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/79_Determinante_con_Righe_Uguali.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/78_Determinante_e_Sostituzione.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/103_Esercizio_5_1_Calcolo_del_Determinante.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/105_Determinante_Laplace_Esempio_3x3_Riga_3.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/106_Determinante_Metodo_Misto_MEG_e_Laplace.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/107_Confronto_Metodi_Calcolo_Determinante.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
-    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli.md",
-    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/84_Nucleo_e_Sistema_Omogeneo_Associato.md",
-    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/85_Teorema_di_Struttura_delle_Soluzioni.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261014 - LEZIONE 10.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261009 - EE1 MATRICE SOMMA DI RANGO 1.pdf",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",

@@ -977,6 +977,102 @@
         "charCountStart": 3843,
         "changes": [],
         "id": 105
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
+        "wordCountStart": 316,
+        "charCountStart": 2652,
+        "changes": [],
+        "id": 106
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
+        "wordCountStart": 308,
+        "charCountStart": 2291,
+        "changes": [],
+        "id": 107
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
+        "wordCountStart": 274,
+        "charCountStart": 2127,
+        "changes": [],
+        "id": 108
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+        "wordCountStart": 379,
+        "charCountStart": 2816,
+        "changes": [],
+        "id": 109
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
+        "wordCountStart": 366,
+        "charCountStart": 2626,
+        "changes": [],
+        "id": 110
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
+        "wordCountStart": 331,
+        "charCountStart": 2397,
+        "changes": [],
+        "id": 111
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
+        "wordCountStart": 483,
+        "charCountStart": 3437,
+        "changes": [],
+        "id": 112
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
+        "wordCountStart": 182,
+        "charCountStart": 1616,
+        "changes": [],
+        "id": 113
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
+        "wordCountStart": 796,
+        "charCountStart": 4935,
+        "changes": [],
+        "id": 114
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
+        "wordCountStart": 162,
+        "charCountStart": 1466,
+        "changes": [],
+        "id": 115
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
+        "wordCountStart": 286,
+        "charCountStart": 2388,
+        "changes": [],
+        "id": 116
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+        "wordCountStart": 119,
+        "charCountStart": 1046,
+        "changes": [],
+        "id": 117
       }
     ]
   }
