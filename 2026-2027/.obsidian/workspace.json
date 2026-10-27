@@ -218,8 +218,11 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0ba7c57d61bd7477",
+  "active": "320efad9f9822113",
   "lastOpenFiles": [
+    "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
@@ -243,9 +246,6 @@
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/114_Esercizio_5_4_ii_Cramer_e_Caso_Singolare.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/113_Esercizio_5_4_i_Determinante_Sempre_Nullo.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/112_Esercizio_5_4_Sistemi_con_Parametro.md",
-    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/79_Determinante_con_Righe_Uguali.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/78_Determinante_e_Sostituzione.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261014 - LEZIONE 10.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261009 - EE1 MATRICE SOMMA DI RANGO 1.pdf",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
