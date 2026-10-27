@@ -34,7 +34,7 @@ fonte: Lezione 6 e Lezione 7
 
 Perché $a_n$ crescente, $a_n$ è automaticamente limitata dal basso: $a_0\leq a_n \ \ \forall\, n\in\mathbb{N}$.
 
-Sia $l=\displaystyle\sup_{n\in\mathbb{N}} a_n \in \mathbb{R}\cup\{+\infty\}$. Esso esiste grazie all'assioma dell'estremo superiore, che $\mathbb{R}$ soddisfa.
+Sia $l=\displaystyle\sup_{n\in\mathbb{N}} a_n \in \mathbb{R}\cup\{+\infty\}$. Esso esiste grazie all'assioma dell'estremo superiore [[08_Estremo_Superiore_Inferiore#Proprietà dell'estremo superiore (assioma di continuità)]], che $\mathbb{R}$ soddisfa.
 
 Perché per ipotesi $a_n$ è limitata dall'alto, deve essere $l=\sup a_n\in\mathbb{R}$ ($l$ è un maggiorante di $\{a_n\}$).
 
