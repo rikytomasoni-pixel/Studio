@@ -785,6 +785,78 @@
         "charCountStart": 5061,
         "changes": [],
         "id": 81
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
+        "wordCountStart": 657,
+        "charCountStart": 4554,
+        "changes": [],
+        "id": 82
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
+        "wordCountStart": 535,
+        "charCountStart": 3757,
+        "changes": [],
+        "id": 83
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico.md",
+        "wordCountStart": 373,
+        "charCountStart": 2674,
+        "changes": [],
+        "id": 84
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli.md",
+        "wordCountStart": 473,
+        "charCountStart": 3024,
+        "changes": [],
+        "id": 85
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/84_Nucleo_e_Sistema_Omogeneo_Associato.md",
+        "wordCountStart": 295,
+        "charCountStart": 2204,
+        "changes": [],
+        "id": 86
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/85_Teorema_di_Struttura_delle_Soluzioni.md",
+        "wordCountStart": 124,
+        "charCountStart": 1115,
+        "changes": [],
+        "id": 87
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
+        "wordCountStart": 121,
+        "charCountStart": 1136,
+        "changes": [],
+        "id": 88
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
+        "wordCountStart": 189,
+        "charCountStart": 1557,
+        "changes": [],
+        "id": 89
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
+        "wordCountStart": 1131,
+        "charCountStart": 6745,
+        "changes": [],
+        "id": 90
       }
     ]
   }
