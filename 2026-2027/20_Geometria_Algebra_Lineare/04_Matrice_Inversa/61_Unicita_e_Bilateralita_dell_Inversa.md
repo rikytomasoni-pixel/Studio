@@ -20,6 +20,9 @@ $$B \overset{\text{EL. NEUTRO}}{=} \mathrm{Id}_n B \overset{(2)}{=} (CA)B \overs
 
 **(TH2)** Supponiamo di avere due matrici inverse $B, C \in M_{\mathbb{K}}(n,m)$. Devo dimostrare $B = C$. $B$ e $C$ sono sia inverse destre che sinistre. Interpreto $B$ come inverso destro, $C$ come inverso sinistro e ripeto l'argomento di prima. $\blacksquare$
 
+> [!note] Osservazione (non presente negli appunti)
+> La proposizione riguarda matrici invertibili da **entrambi** i lati, quindi quadrate ($r(A)=m$ e $r(A)=n$, vedi [[60_Matrice_Invertibile]]). Per una matrice non quadrata che ha solo l'inverso destro (o solo il sinistro) l'inverso, se esiste, **non è unico**: esempio $2\times3$ in [[87_Ricerca_della_Matrice_Inversa]].
+
 ## Note collegate
 - [[60_Matrice_Invertibile]]
 - [[72_Esistenza_della_Matrice_Inversa]]

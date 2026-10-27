@@ -23,6 +23,9 @@ fonte: "GAL_2026-2027_-_20261007_-_LEZIONE_6.pdf (slide 48-49)"
 > $A \in M_{\mathbb{K}}(m,n)$: $\quad 0 \leq r(A) \leq \min(m,n)$
 > $$r(A) = 0 \iff A = \begin{bmatrix} 0 & \cdots & 0 \\ \vdots & & \vdots \\ 0 & \cdots & 0 \end{bmatrix}$$
 
+> [!note] Osservazione (non presente negli appunti): rango e invertibilità
+> Per $A\in M_{\mathbb{K}}(m,n)$: $r(A)=m\iff A$ invertibile a destra; $r(A)=n\iff A$ invertibile a sinistra ([[60_Matrice_Invertibile]]). Rango massimo nel caso quadrato ($r(A)=n$) $\iff A$ invertibile $\iff\det(A)\neq0$ ([[88_Teorema_sull_Invertibilita_della_Matrice]]).
+
 Esempio con la matrice di probabilità congiunta: [[64_Rango_e_Matrice_di_Probabilita_Congiunta]]. Calcolo efficiente del rango: [[73_MEG_e_Rango]].
 
 ## Note collegate
@@ -31,6 +34,8 @@ Esempio con la matrice di probabilità congiunta: [[64_Rango_e_Matrice_di_Probab
 - [[73_MEG_e_Rango]]
 - [[108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1]] (esercizio: somma di $r$ matrici di rango 1)
 - [[33_Matrici_Casi_Speciali]]
+- [[60_Matrice_Invertibile]] (rango e invertibilità destra/sinistra)
+- [[88_Teorema_sull_Invertibilita_della_Matrice]]
 - Indice: [[07_Indice_Lezione_6]] · [[00_MOC_GAL]]
 
 #GAL/rango/rango-di-una-matrice

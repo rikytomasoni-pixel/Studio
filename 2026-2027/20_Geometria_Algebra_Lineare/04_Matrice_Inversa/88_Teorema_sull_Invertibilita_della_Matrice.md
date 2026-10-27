@@ -53,6 +53,13 @@ $$\begin{cases}AB=\mathrm{Id}_n\\BA=\mathrm{Id}_n\end{cases}\Rightarrow B=A^{-1}
 > [!note] Risposta alla domanda aperta di [[87_Ricerca_della_Matrice_Inversa]]
 > Il determinante non è comparso per caso nell'inversione $2\times2$: $\det(A)\neq0$ è equivalente all'invertibilità.
 
+> [!note] Osservazione (non presente negli appunti): $\det(A)\neq0$ e invertibilità destra/sinistra
+> - Il determinante è definito **solo per matrici quadrate**: l'equivalenza (I)$\iff$(III) vale per $A\in M_{\mathbb{K}}(n,n)$. Per $A\in M_{\mathbb{K}}(m,n)$ con $m\neq n$ non ha senso $\det(A)$ e l'invertibilità si legge dal rango ([[60_Matrice_Invertibile]]):
+>   $$A\ \text{invertibile a destra}\iff r(A)=m,\qquad A\ \text{invertibile a sinistra}\iff r(A)=n$$
+> - Nel caso quadrato $m=n$ le due condizioni sono la stessa condizione $r(A)=n$: per questo la (II) è il "ponte" del teorema e, per quadrate, invertibile a destra $\iff$ a sinistra $\iff$ invertibile $\iff r(A)=n\iff\det(A)\neq0$.
+> - Nella dimostrazione [II $\Rightarrow$ I] il rango massimo dà **subito** l'inverso destro (Cramer: $n$ sistemi risolubili); il passaggio con Binet serve a dimostrare che $B$ funziona anche a sinistra, cosa che per matrici non quadrate è **falsa** (non esiste proprio un inverso sinistro quando $m<n$).
+> - $\det(A)=0$ $\iff$ $r(A)<n$ $\iff$ $A$ non è invertibile né a destra né a sinistra.
+
 ## Note collegate
 - [[87_Ricerca_della_Matrice_Inversa]]
 - [[86_Teorema_di_Cramer]]
