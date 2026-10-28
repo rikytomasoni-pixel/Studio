@@ -1574,7 +1574,13 @@
         "filePath": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
         "wordCountStart": 400,
         "charCountStart": 3551,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": 0,
+            "c": 6
+          }
+        ],
         "id": 177
       }
     ]

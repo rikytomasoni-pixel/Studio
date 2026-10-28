@@ -16,7 +16,8 @@ Lavoro su $\mathbb{K}=\mathbb{R}$.
 
 > [!abstract] Definizione 11.1
 > Un (sotto)spazio **affine** di $\mathbb{R}^n$ è l'insieme delle soluzioni di un sistema lineare $A\underline{x}=\underline{b}$.
-> $$S=\{\underline{x}\in\mathbb{R}^n\mid A\underline{x}=\underline{b}\}\ \ (\text{eq. cartesiane})=\{\underline{x}=\underline{v}_0+t_1\underline{v}_1+\dots+t_{n-r}\underline{v}_{n-r}\}\ \ (\text{eq. parametriche})=\underline{v}_0+\ker(A)$$
+> $$S=\{\underline{x}\in\mathbb{R}^n\mid A\underline{x}=\underline{b}\}\ \ (\text{eq. cartesiane})=\{\underline{x}=\underline{v}_0+t_1\underline{v}_1+\dots+t_{n-r}\underline{v}_{n-r}\}\ \ $$
+>  (\text{eq. parametriche})=\underline{v}_0+\ker(A)$$
 
 Uso [[82_Teorema_di_Rouche_Capelli]] e [[85_Teorema_di_Struttura_delle_Soluzioni]]. Studio il caso di **rette e piani**.
 
