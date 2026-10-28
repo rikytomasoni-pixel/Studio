@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46273d3d29d271b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "31_Successioni_Monotone"
-            }
-          },
-          {
             "id": "f2c04d3e85733aa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "52_Linearita_delle_Serie"
+              "title": "74_Criterio_di_Convergenza_Assoluta"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -244,6 +229,7 @@
   },
   "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
+    "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
@@ -264,7 +250,6 @@
     "Senza nome.base",
     "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
     "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
-    "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
     "10_Analisi_1/06_Serie/51_Rappresentazione_Decimale_e_Serie.md",
     "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
     "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
