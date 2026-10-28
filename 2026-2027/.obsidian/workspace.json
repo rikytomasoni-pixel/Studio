@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+                "file": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "94_Sottospazi_Vettoriali"
+              "title": "90_Sistemi_Omogenei_e_Chiusura_della_Somma"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+                "file": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+                "file": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+                "file": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -229,6 +229,7 @@
   },
   "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
@@ -255,7 +256,6 @@
     "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
     "Senza nome.base",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
