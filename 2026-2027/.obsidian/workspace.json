@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "74_Criterio_di_Convergenza_Assoluta"
+              "title": "76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -229,8 +229,10 @@
   },
   "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
-    "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/75_Esempio_Convergenza_Assoluta_sin_n_su_n_alla_3_su_2.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
+    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
+    "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/81_Esempio_Confronto_Asintotico_con_Bertrand.md",
@@ -255,8 +257,6 @@
     "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
     "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/57_Serie_a_Termini_Positivi.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf",
