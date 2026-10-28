@@ -31,7 +31,7 @@ Voglio passare alle equazioni cartesiane: $r=\{\underline{x}\in\mathbb{R}^n\mid 
 > [!question] Domanda
 > Quante equazioni devo determinare, cioè quante righe ha $A\in M_{\mathbb{R}}(?,n)$? Più precisamente, quante equazioni **non ridondanti**: $A\in M_{\mathbb{R}}(r,n)$?
 
-**Risposta.** $r=\{\underline{x}=P+t\underline{v}\}$ $\xrightarrow{\text{R-C}}$ ho **1 parametro libero**, inoltre $1=n-r$, cioè $r=n-1$.
+**Risposta.** $r=\{\underline{x}=P+t\underline{v}\}$ $\xrightarrow{\text{R-C}}$ ho **1 parametro libero**, inoltre $1=n-rk$, cioè $r=n-1$.
 - $n=2$, piano euclideo: una retta è descritta da $2-1=1$ equazione cartesiana
 - $n=3$, spazio euclideo: una retta è descritta da $3-1=2$ equazioni cartesiane
 - in $\mathbb{R}^n$: una retta è descritta da $n-1$ equazioni cartesiane

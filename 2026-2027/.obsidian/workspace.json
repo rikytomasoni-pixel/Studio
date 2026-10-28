@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -229,6 +229,11 @@
   },
   "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
+    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
+    "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/116_Strategia_Determinante_per_Sistemi_con_Parametro.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/80_Esempio_Serie_alpha_meno_1_alla_n_su_n_2_alla_n.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
@@ -251,12 +256,7 @@
     "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/61_Serie_di_Bertrand_Generalizzata.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
-    "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/59_Esempio_Confronto_Serie_18_cos_n.md",
     "Senza nome.base",
-    "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
-    "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf",
