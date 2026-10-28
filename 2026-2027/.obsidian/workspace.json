@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/61_Serie_di_Bertrand_Generalizzata.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "58_Criterio_del_Confronto_per_Serie"
+              "title": "61_Serie_di_Bertrand_Generalizzata"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/61_Serie_di_Bertrand_Generalizzata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/61_Serie_di_Bertrand_Generalizzata.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/61_Serie_di_Bertrand_Generalizzata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -245,6 +245,8 @@
   },
   "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
+    "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/59_Esempio_Confronto_Serie_18_cos_n.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
     "Senza nome.base",
@@ -260,7 +262,6 @@
     "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
     "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
     "10_Analisi_1/06_Serie/56_Resto_N-esimo_della_Serie.md",
-    "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
     "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
     "10_Analisi_1/05_Successioni_e_Limiti/43_Asintotici_con_Funzioni_Composte.md",
     "10_Analisi_1/05_Successioni_e_Limiti/44_Esempio_Asintotici_con_Logaritmo_e_Arctan.md",
@@ -275,7 +276,6 @@
     "10_Analisi_1/05_Successioni_e_Limiti/40_Confronti_Asintotici.md",
     "10_Analisi_1/05_Successioni_e_Limiti/68_Formula_di_Stirling.md",
     "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261014 - LEZIONE 10.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261009 - EE1 MATRICE SOMMA DI RANGO 1.pdf",

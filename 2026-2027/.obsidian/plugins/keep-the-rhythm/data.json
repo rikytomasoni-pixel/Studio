@@ -1402,6 +1402,22 @@
         "charCountStart": 809,
         "changes": [],
         "id": 156
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
+        "wordCountStart": 125,
+        "charCountStart": 1151,
+        "changes": [],
+        "id": 157
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/61_Serie_di_Bertrand_Generalizzata.md",
+        "wordCountStart": 107,
+        "charCountStart": 892,
+        "changes": [],
+        "id": 158
       }
     ]
   }
