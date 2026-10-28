@@ -1346,6 +1346,54 @@
         "charCountStart": 2776,
         "changes": [],
         "id": 149
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
+        "wordCountStart": 248,
+        "charCountStart": 1784,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
+        "wordCountStart": 152,
+        "charCountStart": 1042,
+        "changes": [],
+        "id": 151
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
+        "wordCountStart": 206,
+        "charCountStart": 1347,
+        "changes": [],
+        "id": 152
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/51_Rappresentazione_Decimale_e_Serie.md",
+        "wordCountStart": 209,
+        "charCountStart": 1273,
+        "changes": [],
+        "id": 153
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+        "wordCountStart": 167,
+        "charCountStart": 1218,
+        "changes": [],
+        "id": 154
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
+        "wordCountStart": 213,
+        "charCountStart": 1426,
+        "changes": [],
+        "id": 155
       }
     ]
   }
