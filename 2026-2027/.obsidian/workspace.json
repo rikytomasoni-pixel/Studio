@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
+                "file": "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "36_Gerarchia_degli_Infiniti"
+              "title": "31_Successioni_Monotone"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/06_Serie/56_Resto_N-esimo_della_Serie.md",
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/57_Serie_a_Termini_Positivi.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "56_Resto_N-esimo_della_Serie"
+              "title": "57_Serie_a_Termini_Positivi"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,8 +232,11 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "f2c04d3e85733aa0",
+  "active": "46273d3d29d271b3",
   "lastOpenFiles": [
+    "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/57_Serie_a_Termini_Positivi.md",
     "10_Analisi_1/06_Serie/56_Resto_N-esimo_della_Serie.md",
     "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
@@ -248,20 +250,17 @@
     "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
     "10_Analisi_1/05_Successioni_e_Limiti/43_Asintotici_con_Funzioni_Composte.md",
     "10_Analisi_1/05_Successioni_e_Limiti/44_Esempio_Asintotici_con_Logaritmo_e_Arctan.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
     "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L8 26-27.pdf",
-    "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
     "10_Analisi_1/05_Successioni_e_Limiti/37_Algebra_Limiti_Infiniti.md",
     "10_Analisi_1/05_Successioni_e_Limiti/38_Numero_di_Nepero.md",
     "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
     "10_Analisi_1/05_Successioni_e_Limiti/40_Confronti_Asintotici.md",
     "10_Analisi_1/05_Successioni_e_Limiti/68_Formula_di_Stirling.md",
     "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
     "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
     "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
