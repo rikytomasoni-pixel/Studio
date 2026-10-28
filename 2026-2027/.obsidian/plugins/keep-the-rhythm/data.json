@@ -1418,6 +1418,28 @@
         "charCountStart": 892,
         "changes": [],
         "id": 158
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
+        "wordCountStart": 336,
+        "charCountStart": 2631,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 0,
+            "c": -40
+          }
+        ],
+        "id": 159
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
+        "wordCountStart": 233,
+        "charCountStart": 1744,
+        "changes": [],
+        "id": 160
       }
     ]
   }
