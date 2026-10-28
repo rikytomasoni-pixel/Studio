@@ -1588,7 +1588,7 @@
           {
             "timeKey": "13:15",
             "w": 0,
-            "c": 1
+            "c": 0
           }
         ],
         "id": 177
@@ -1624,6 +1624,30 @@
         "charCountStart": 2691,
         "changes": [],
         "id": 181
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
+        "wordCountStart": 130,
+        "charCountStart": 1306,
+        "changes": [],
+        "id": 182
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
+        "wordCountStart": 274,
+        "charCountStart": 2127,
+        "changes": [],
+        "id": 183
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+        "wordCountStart": 379,
+        "charCountStart": 2816,
+        "changes": [],
+        "id": 184
       }
     ]
   }
