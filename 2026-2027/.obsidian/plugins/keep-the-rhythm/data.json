@@ -1298,6 +1298,22 @@
         "charCountStart": 1843,
         "changes": [],
         "id": 143
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/56_Resto_N-esimo_della_Serie.md",
+        "wordCountStart": 159,
+        "charCountStart": 1132,
+        "changes": [],
+        "id": 144
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/57_Serie_a_Termini_Positivi.md",
+        "wordCountStart": 196,
+        "charCountStart": 1468,
+        "changes": [],
+        "id": 145
       }
     ]
   }

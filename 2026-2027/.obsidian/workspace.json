@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
+                "file": "10_Analisi_1/06_Serie/56_Resto_N-esimo_della_Serie.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "55_Serie_Armonica"
+              "title": "56_Resto_N-esimo_della_Serie"
             }
           }
         ],
@@ -235,8 +235,10 @@
   },
   "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
-    "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/57_Serie_a_Termini_Positivi.md",
+    "10_Analisi_1/06_Serie/56_Resto_N-esimo_della_Serie.md",
     "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
+    "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
     "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
     "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
     "10_Analisi_1/06_Serie/51_Rappresentazione_Decimale_e_Serie.md",
@@ -264,8 +266,6 @@
     "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
     "10_Analisi_1/02_Numeri_Reali/08_Estremo_Superiore_Inferiore.md",
-    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
-    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261014 - LEZIONE 10.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261009 - EE1 MATRICE SOMMA DI RANGO 1.pdf",
     "90_Lezioni_pdf/A1/AM1 L4 26-27.pdf",
