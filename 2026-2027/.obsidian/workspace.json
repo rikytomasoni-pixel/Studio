@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/57_Serie_a_Termini_Positivi.md",
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "57_Serie_a_Termini_Positivi"
+              "title": "58_Criterio_del_Confronto_per_Serie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,12 +233,12 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "46273d3d29d271b3",
+  "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
-    "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/57_Serie_a_Termini_Positivi.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
     "10_Analisi_1/06_Serie/56_Resto_N-esimo_della_Serie.md",
     "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
     "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
