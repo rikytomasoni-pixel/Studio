@@ -1440,6 +1440,38 @@
         "charCountStart": 1744,
         "changes": [],
         "id": 160
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
+        "wordCountStart": 197,
+        "charCountStart": 1707,
+        "changes": [],
+        "id": 161
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata.md",
+        "wordCountStart": 193,
+        "charCountStart": 1367,
+        "changes": [],
+        "id": 162
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
+        "wordCountStart": 113,
+        "charCountStart": 967,
+        "changes": [],
+        "id": 163
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+        "wordCountStart": 651,
+        "charCountStart": 4003,
+        "changes": [],
+        "id": 164
       }
     ]
   }
