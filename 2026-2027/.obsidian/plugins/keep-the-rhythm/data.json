@@ -1472,6 +1472,46 @@
         "charCountStart": 4003,
         "changes": [],
         "id": 164
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/70_Esempio_Serie_a_alla_n_su_n_alla_n.md",
+        "wordCountStart": 229,
+        "charCountStart": 1542,
+        "changes": [],
+        "id": 165
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/72_Esempio_Serie_a_alla_n_per_log_n_alla_b.md",
+        "wordCountStart": 256,
+        "charCountStart": 1843,
+        "changes": [],
+        "id": 166
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/81_Esempio_Confronto_Asintotico_con_Bertrand.md",
+        "wordCountStart": 374,
+        "charCountStart": 2710,
+        "changes": [],
+        "id": 167
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
+        "wordCountStart": 266,
+        "charCountStart": 2413,
+        "changes": [],
+        "id": 168
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
+        "wordCountStart": 243,
+        "charCountStart": 1975,
+        "changes": [],
+        "id": 169
       }
     ]
   }

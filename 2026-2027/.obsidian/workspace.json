@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie"
+              "title": "74_Criterio_di_Convergenza_Assoluta"
             }
           }
         ],
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -244,8 +244,13 @@
   },
   "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
-    "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
+    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
+    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/81_Esempio_Confronto_Asintotico_con_Bertrand.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/72_Esempio_Serie_a_alla_n_per_log_n_alla_b.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/70_Esempio_Serie_a_alla_n_su_n_alla_n.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+    "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata.md",
@@ -267,10 +272,6 @@
     "10_Analisi_1/07_Serie_a_Termini_Positivi/57_Serie_a_Termini_Positivi.md",
     "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
     "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
-    "10_Analisi_1/06_Serie/56_Resto_N-esimo_della_Serie.md",
-    "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/43_Asintotici_con_Funzioni_Composte.md",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf",
