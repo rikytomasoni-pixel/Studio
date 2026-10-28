@@ -1276,6 +1276,28 @@
         "charCountStart": 1843,
         "changes": [],
         "id": 141
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
+        "wordCountStart": 256,
+        "charCountStart": 1789,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 142
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
+        "wordCountStart": 255,
+        "charCountStart": 1843,
+        "changes": [],
+        "id": 143
       }
     ]
   }
