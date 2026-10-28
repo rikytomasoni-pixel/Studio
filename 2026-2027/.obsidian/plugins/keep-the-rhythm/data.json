@@ -1560,6 +1560,22 @@
         "charCountStart": 2974,
         "changes": [],
         "id": 175
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/116_Strategia_Determinante_per_Sistemi_con_Parametro.md",
+        "wordCountStart": 230,
+        "charCountStart": 1943,
+        "changes": [],
+        "id": 176
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
+        "wordCountStart": 400,
+        "charCountStart": 3551,
+        "changes": [],
+        "id": 177
       }
     ]
   }
