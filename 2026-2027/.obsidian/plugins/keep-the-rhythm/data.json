@@ -1758,6 +1758,30 @@
         "charCountStart": 2816,
         "changes": [],
         "id": 197
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
+        "wordCountStart": 400,
+        "charCountStart": 3538,
+        "changes": [],
+        "id": 198
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
+        "wordCountStart": 362,
+        "charCountStart": 2691,
+        "changes": [],
+        "id": 199
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
+        "wordCountStart": 366,
+        "charCountStart": 2626,
+        "changes": [],
+        "id": 200
       }
     ]
   }
