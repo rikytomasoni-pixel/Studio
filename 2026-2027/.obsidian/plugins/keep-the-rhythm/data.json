@@ -1734,6 +1734,30 @@
         "charCountStart": 2652,
         "changes": [],
         "id": 194
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
+        "wordCountStart": 308,
+        "charCountStart": 2291,
+        "changes": [],
+        "id": 195
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
+        "wordCountStart": 274,
+        "charCountStart": 2127,
+        "changes": [],
+        "id": 196
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+        "wordCountStart": 379,
+        "charCountStart": 2816,
+        "changes": [],
+        "id": 197
       }
     ]
   }

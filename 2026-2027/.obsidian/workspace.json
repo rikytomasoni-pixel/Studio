@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
+                "file": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "91_Spazio_Vettoriale_Definizione"
+              "title": "94_Sottospazi_Vettoriali"
             }
           }
         ]
@@ -229,6 +229,9 @@
   },
   "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
@@ -241,9 +244,6 @@
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
     "20_Geometria_Algebra_Lineare/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
     "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
