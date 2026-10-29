@@ -11,12 +11,14 @@
             "id": "f2c04d3e85733aa0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf"
+                "file": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GAL 2026-2027 - 20261019 - LEZIONE 13"
+              "icon": "lucide-file",
+              "title": "102_Dimensione_di_uno_Spazio_Vettoriale"
             }
           }
         ]
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
+                "file": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
+                "file": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
+                "file": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -227,8 +229,10 @@
   },
   "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
-    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
@@ -253,7 +257,6 @@
     "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/81_Esempio_Confronto_Asintotico_con_Bertrand.md",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
     "Senza nome.base",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",

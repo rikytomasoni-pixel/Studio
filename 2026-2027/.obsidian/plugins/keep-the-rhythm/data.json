@@ -1688,6 +1688,44 @@
         "charCountStart": 4935,
         "changes": [],
         "id": 189
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
+        "wordCountStart": 162,
+        "charCountStart": 1466,
+        "changes": [],
+        "id": 190
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
+        "wordCountStart": 286,
+        "charCountStart": 2388,
+        "changes": [],
+        "id": 191
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+        "wordCountStart": 119,
+        "charCountStart": 1046,
+        "changes": [],
+        "id": 192
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+        "wordCountStart": 119,
+        "charCountStart": 1046,
+        "changes": [
+          {
+            "timeKey": "08:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 193
       }
     ]
   }
