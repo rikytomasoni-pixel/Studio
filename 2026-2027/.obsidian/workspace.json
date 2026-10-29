@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
+                "file": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "95_Combinazioni_Lineari_e_Span"
+              "title": "99_Dipendenza_Lineare_e_Vettori_Ridondanti"
             }
           }
         ]
@@ -229,6 +229,10 @@
   },
   "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
@@ -242,10 +246,6 @@
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
-    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/116_Strategia_Determinante_per_Sistemi_con_Parametro.md",

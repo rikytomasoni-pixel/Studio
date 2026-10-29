@@ -1782,6 +1782,38 @@
         "charCountStart": 2626,
         "changes": [],
         "id": 200
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
+        "wordCountStart": 331,
+        "charCountStart": 2397,
+        "changes": [],
+        "id": 201
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
+        "wordCountStart": 483,
+        "charCountStart": 3437,
+        "changes": [],
+        "id": 202
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
+        "wordCountStart": 182,
+        "charCountStart": 1616,
+        "changes": [],
+        "id": 203
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
+        "wordCountStart": 796,
+        "charCountStart": 4935,
+        "changes": [],
+        "id": 204
       }
     ]
   }
