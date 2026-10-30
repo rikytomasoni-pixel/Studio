@@ -58,7 +58,7 @@ $$\Rightarrow \quad g^{-1}(y) = -\sqrt{y} \qquad \forall\, y\in\operatorname{Im}
 
 ### Note collegate
 - [[00_MOC_Analisi_1]]
-- [[19_Funzioni_Generalita]] — suriettività, immagine, dominio e codominio
+- [[19_Funzioni_Generalità]] — suriettività, immagine, dominio e codominio
 - [[28_Esempi_Funzioni_Inverse]] — esempi: potenza n-esima, tangente, seno, coseno
 - [[27_Teorema_Monotone_Invertibili]] — le funzioni strettamente monotone sono invertibili
 - [[23_Monotonia]]

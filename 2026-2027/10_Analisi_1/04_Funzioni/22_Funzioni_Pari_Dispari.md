@@ -24,7 +24,7 @@ fonte: Lezione 5
 
 ### Note collegate
 - [[00_MOC_Analisi_1]]
-- [[19_Funzioni_Generalita]] — grafico di una funzione
+- [[19_Funzioni_Generalità]] — grafico di una funzione
 - [[24_Funzioni_Periodiche]]
 - [[23_Monotonia]]
 

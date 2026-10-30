@@ -46,7 +46,7 @@ $$f \text{ decrescente} \quad\Longleftrightarrow\quad \dfrac{f(x_2)-f(x_1)}{x_2-
 - [[00_MOC_Analisi_1]]
 - [[27_Teorema_Monotone_Invertibili]] — le funzioni strettamente monotone sono invertibili
 - [[26_Iniettivita_Suriettivita_Inversa]]
-- [[19_Funzioni_Generalita]]
+- [[19_Funzioni_Generalità]]
 - [[11_Radici_e_Potenze]] — $t\mapsto t^n$ strettamente crescente
 - [[12_Logaritmi]] — $a^x$ strettamente monotona
 

@@ -48,7 +48,7 @@ $$0=\inf_{x\in\mathbb{R}}f, \qquad \nexists\, \min_{x\in\mathbb{R}}f, \qquad \su
 
 ### Note collegate
 - [[00_MOC_Analisi_1]]
-- [[19_Funzioni_Generalita]] — $\operatorname{Im}f$, dominio, codominio
+- [[19_Funzioni_Generalità]] — $\operatorname{Im}f$, dominio, codominio
 - [[07_Insiemi_Limitati_Max_Min]] — insiemi limitati, massimo e minimo
 - [[08_Estremo_Superiore_Inferiore]] — $\sup$ e $\inf$ di un insieme
 - [[10_Retta_Reale_Intervalli]] — intervalli, $\overline{\mathbb{R}}$

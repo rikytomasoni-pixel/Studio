@@ -56,7 +56,7 @@ Infatti $\dfrac{1}{n} < \dfrac{1}{\pi}$ se e solo se $n>\pi$, cioè se e solo se
 
 ### Note collegate
 - [[00_MOC_Analisi_1]]
-- [[19_Funzioni_Generalita]] — definizione generale di successione e primi esempi
+- [[19_Funzioni_Generalità]] — definizione generale di successione e primi esempi
 - [[30_Limiti_di_Successioni]] — convergenza e divergenza
 - [[31_Successioni_Monotone]]
 - [[07_Insiemi_Limitati_Max_Min]] — limitatezza di un insieme

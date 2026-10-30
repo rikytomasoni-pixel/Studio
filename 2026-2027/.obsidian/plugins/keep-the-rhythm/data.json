@@ -2018,8 +2018,150 @@
         "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
         "wordCountStart": 483,
         "charCountStart": 3437,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 229
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/16_Formule_di_De_Moivre.md",
+        "wordCountStart": 576,
+        "charCountStart": 3398,
+        "changes": [],
+        "id": 230
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/15_Forma_Trigonometrica_Esponenziale.md",
+        "wordCountStart": 679,
+        "charCountStart": 4527,
+        "changes": [],
+        "id": 231
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/01_Insiemi_e_Logica/01_Insiemi_Numerici.md",
+        "wordCountStart": 524,
+        "charCountStart": 3451,
+        "changes": [],
+        "id": 232
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/01_Insiemi_e_Logica/04_Dimostrazione_per_Assurdo.md",
+        "wordCountStart": 313,
+        "charCountStart": 2128,
+        "changes": [],
+        "id": 233
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/01_Insiemi_e_Logica/05_Dimostrazione_per_Induzione.md",
+        "wordCountStart": 335,
+        "charCountStart": 1919,
+        "changes": [],
+        "id": 234
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/04_Funzioni/19_Funzioni_Generalità.md",
+        "wordCountStart": 713,
+        "charCountStart": 4276,
+        "changes": [],
+        "id": 235
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/04_Funzioni/20_Funzioni_Limitate_Estremi.md",
+        "wordCountStart": 355,
+        "charCountStart": 2434,
+        "changes": [],
+        "id": 236
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/04_Funzioni/21_Campo_di_Esistenza.md",
+        "wordCountStart": 140,
+        "charCountStart": 1063,
+        "changes": [],
+        "id": 237
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/04_Funzioni/22_Funzioni_Pari_Dispari.md",
+        "wordCountStart": 123,
+        "charCountStart": 853,
+        "changes": [],
+        "id": 238
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/04_Funzioni/24_Funzioni_Periodiche.md",
+        "wordCountStart": 106,
+        "charCountStart": 791,
+        "changes": [],
+        "id": 239
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/04_Funzioni/23_Monotonia.md",
+        "wordCountStart": 262,
+        "charCountStart": 1983,
+        "changes": [],
+        "id": 240
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/04_Funzioni/25_Composizione_di_Funzioni.md",
+        "wordCountStart": 342,
+        "charCountStart": 1963,
+        "changes": [],
+        "id": 241
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/04_Funzioni/26_Iniettivita_Suriettivita_Inversa.md",
+        "wordCountStart": 504,
+        "charCountStart": 3308,
+        "changes": [],
+        "id": 242
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/04_Funzioni/27_Teorema_Monotone_Invertibili.md",
+        "wordCountStart": 379,
+        "charCountStart": 2578,
+        "changes": [],
+        "id": 243
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/17_Radici_Complesse.md",
+        "wordCountStart": 795,
+        "charCountStart": 4638,
+        "changes": [],
+        "id": 244
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/29_Successioni_Definizioni_Base.md",
+        "wordCountStart": 357,
+        "charCountStart": 2402,
+        "changes": [],
+        "id": 245
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
+        "wordCountStart": 908,
+        "charCountStart": 6335,
+        "changes": [],
+        "id": 246
       }
     ]
   }
