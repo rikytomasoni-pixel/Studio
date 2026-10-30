@@ -2170,6 +2170,22 @@
         "charCountStart": 5153,
         "changes": [],
         "id": 247
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
+        "wordCountStart": 348,
+        "charCountStart": 2409,
+        "changes": [],
+        "id": 248
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
+        "wordCountStart": 470,
+        "charCountStart": 2890,
+        "changes": [],
+        "id": 249
       }
     ]
   }
