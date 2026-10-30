@@ -11,14 +11,12 @@
             "id": "f2c04d3e85733aa0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "00_Claude_Workspace/Indice_Teoremi_AM1.md",
-                "mode": "preview",
-                "source": false
+                "file": "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Indice_Teoremi_AM1"
+              "icon": "lucide-file-text",
+              "title": "AM1 L6 26-27"
             }
           }
         ]
@@ -229,14 +227,14 @@
   },
   "active": "f2c04d3e85733aa0",
   "lastOpenFiles": [
-    "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
-    "00_Claude_Workspace/Indice_Teoremi_AM1.md",
     "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
+    "00_Claude_Workspace/Indice_Teoremi_AM1.md",
+    "10_Analisi_1/04_Funzioni/27_Teorema_Monotone_Invertibili.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
     "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
     "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
     "10_Analisi_1/05_Successioni_e_Limiti/29_Successioni_Definizioni_Base.md",
     "10_Analisi_1/03_Numeri_Complessi/17_Radici_Complesse.md",
-    "10_Analisi_1/04_Funzioni/27_Teorema_Monotone_Invertibili.md",
     "10_Analisi_1/04_Funzioni/26_Iniettivita_Suriettivita_Inversa.md",
     "10_Analisi_1/04_Funzioni/25_Composizione_di_Funzioni.md",
     "10_Analisi_1/04_Funzioni/24_Funzioni_Periodiche.md",
