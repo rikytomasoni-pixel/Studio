@@ -1,0 +1,2026 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": 500,
+    "preferredUnit": "WORD",
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "ignoreComments": false,
+    "ignoreTasks": false,
+    "ignoreDeletedFiles": false,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "alignLeft": false,
+      "numberOfWeeks": 52,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 1000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": [
+        {
+          "index": 0,
+          "option": "CURRENT_DAY",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 1,
+          "option": "CURRENT_WEEK",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 2,
+          "option": "LAST_MONTH",
+          "unit": "WORD",
+          "calc": "AVG"
+        }
+      ]
+    },
+    "backupConfig": {
+      "enabled": true,
+      "folderPath": ".keep-the-rhythm",
+      "maxNumberOfBackups": 3
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [],
+    "dailyActivity": [
+      {
+        "date": "2026-10-21",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
+        "wordCountStart": 610,
+        "charCountStart": 4108,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 2
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
+        "wordCountStart": 197,
+        "charCountStart": 1597,
+        "changes": [],
+        "id": 5
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "99_Tools/Excalidraw/Disegni Analisi1.md",
+        "wordCountStart": 6379,
+        "charCountStart": 215006,
+        "changes": [],
+        "id": 6
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "2026-10-21.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 5,
+            "c": 25
+          },
+          {
+            "timeKey": "10:35",
+            "w": 3,
+            "c": 40
+          },
+          {
+            "timeKey": "10:40",
+            "w": -8,
+            "c": -65
+          },
+          {
+            "timeKey": "10:45",
+            "w": 0,
+            "c": 6
+          },
+          {
+            "timeKey": "11:25",
+            "w": 0,
+            "c": -6
+          }
+        ],
+        "id": 7
+      },
+      {
+        "date": "2026-10-21",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
+        "wordCountStart": 233,
+        "charCountStart": 1744,
+        "changes": [],
+        "id": 8
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/06_Campi_Ordinati.md",
+        "wordCountStart": 610,
+        "charCountStart": 4108,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 9
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
+        "wordCountStart": 111,
+        "charCountStart": 1040,
+        "changes": [],
+        "id": 10
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/07_Insiemi_Limitati_Max_Min.md",
+        "wordCountStart": 299,
+        "charCountStart": 2021,
+        "changes": [],
+        "id": 11
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/08_Estremo_Superiore_Inferiore.md",
+        "wordCountStart": 846,
+        "charCountStart": 5410,
+        "changes": [],
+        "id": 12
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/09_Valore_Assoluto.md",
+        "wordCountStart": 154,
+        "charCountStart": 1106,
+        "changes": [],
+        "id": 13
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/10_Retta_Reale_Intervalli.md",
+        "wordCountStart": 656,
+        "charCountStart": 4423,
+        "changes": [],
+        "id": 14
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/11_Radici_e_Potenze.md",
+        "wordCountStart": 729,
+        "charCountStart": 4355,
+        "changes": [],
+        "id": 15
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/12_Logaritmi.md",
+        "wordCountStart": 194,
+        "charCountStart": 1399,
+        "changes": [],
+        "id": 16
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/16_Formule_di_De_Moivre.md",
+        "wordCountStart": 576,
+        "charCountStart": 3398,
+        "changes": [],
+        "id": 17
+      },
+      {
+        "date": "2026-10-25",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/17_Radici_Complesse.md",
+        "wordCountStart": 795,
+        "charCountStart": 4638,
+        "changes": [],
+        "id": 18
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
+        "wordCountStart": 645,
+        "charCountStart": 3935,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/28_Determinanti_2x2_e_3x3.md",
+        "wordCountStart": 94,
+        "charCountStart": 820,
+        "changes": [],
+        "id": 20
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
+        "wordCountStart": 259,
+        "charCountStart": 2248,
+        "changes": [
+          {
+            "timeKey": "11:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 21
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
+        "wordCountStart": 111,
+        "charCountStart": 1040,
+        "changes": [],
+        "id": 22
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/74_Teorema_di_Binet.md",
+        "wordCountStart": 230,
+        "charCountStart": 1769,
+        "changes": [],
+        "id": 23
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/76_Determinante_Normalizzato_e_Alternante.md",
+        "wordCountStart": 141,
+        "charCountStart": 1301,
+        "changes": [],
+        "id": 24
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/77_Determinante_Multilineare.md",
+        "wordCountStart": 268,
+        "charCountStart": 2028,
+        "changes": [],
+        "id": 25
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/78_Determinante_e_Sostituzione.md",
+        "wordCountStart": 189,
+        "charCountStart": 1555,
+        "changes": [],
+        "id": 26
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/79_Determinante_con_Righe_Uguali.md",
+        "wordCountStart": 127,
+        "charCountStart": 1166,
+        "changes": [],
+        "id": 27
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/63_Rango_di_una_Matrice.md",
+        "wordCountStart": 278,
+        "charCountStart": 1925,
+        "changes": [],
+        "id": 28
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
+        "wordCountStart": 295,
+        "charCountStart": 2259,
+        "changes": [],
+        "id": 29
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/67_Operazioni_Elementari_sulle_Righe.md",
+        "wordCountStart": 232,
+        "charCountStart": 1844,
+        "changes": [],
+        "id": 30
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/68_Metodo_di_Eliminazione_di_Gauss.md",
+        "wordCountStart": 578,
+        "charCountStart": 3922,
+        "changes": [],
+        "id": 31
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/69_Pivot_e_Matrice_a_Scala.md",
+        "wordCountStart": 198,
+        "charCountStart": 1525,
+        "changes": [],
+        "id": 32
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/70_Reversibilita_del_MEG.md",
+        "wordCountStart": 227,
+        "charCountStart": 1800,
+        "changes": [],
+        "id": 33
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/71_Codifica_del_MEG_con_il_Prodotto_Matriciale.md",
+        "wordCountStart": 319,
+        "charCountStart": 2375,
+        "changes": [],
+        "id": 34
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
+        "wordCountStart": 189,
+        "charCountStart": 1557,
+        "changes": [],
+        "id": 35
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/107_Confronto_Metodi_Calcolo_Determinante.md",
+        "wordCountStart": 254,
+        "charCountStart": 2191,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/106_Determinante_Metodo_Misto_MEG_e_Laplace.md",
+        "wordCountStart": 211,
+        "charCountStart": 1625,
+        "changes": [],
+        "id": 37
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/105_Determinante_Laplace_Esempio_3x3_Riga_3.md",
+        "wordCountStart": 259,
+        "charCountStart": 1751,
+        "changes": [],
+        "id": 38
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe.md",
+        "wordCountStart": 325,
+        "charCountStart": 2344,
+        "changes": [],
+        "id": 39
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/103_Esercizio_5_1_Calcolo_del_Determinante.md",
+        "wordCountStart": 237,
+        "charCountStart": 1852,
+        "changes": [
+          {
+            "timeKey": "11:45",
+            "w": -34,
+            "c": -205
+          },
+          {
+            "timeKey": "13:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 40
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
+        "wordCountStart": 172,
+        "charCountStart": 1553,
+        "changes": [],
+        "id": 41
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/61_Unicita_e_Bilateralita_dell_Inversa.md",
+        "wordCountStart": 173,
+        "charCountStart": 1398,
+        "changes": [],
+        "id": 42
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/62_Non_Commutativita_del_Prodotto_Matriciale.md",
+        "wordCountStart": 183,
+        "charCountStart": 1458,
+        "changes": [],
+        "id": 43
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
+        "wordCountStart": 1133,
+        "charCountStart": 6748,
+        "changes": [
+          {
+            "timeKey": "13:45",
+            "w": -2,
+            "c": -3
+          }
+        ],
+        "id": 44
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
+        "wordCountStart": 535,
+        "charCountStart": 3757,
+        "changes": [],
+        "id": 45
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico.md",
+        "wordCountStart": 373,
+        "charCountStart": 2674,
+        "changes": [],
+        "id": 46
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
+        "wordCountStart": 657,
+        "charCountStart": 4554,
+        "changes": [],
+        "id": 47
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli.md",
+        "wordCountStart": 473,
+        "charCountStart": 3024,
+        "changes": [],
+        "id": 48
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/84_Nucleo_e_Sistema_Omogeneo_Associato.md",
+        "wordCountStart": 295,
+        "charCountStart": 2204,
+        "changes": [],
+        "id": 49
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/85_Teorema_di_Struttura_delle_Soluzioni.md",
+        "wordCountStart": 124,
+        "charCountStart": 1115,
+        "changes": [],
+        "id": 50
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
+        "wordCountStart": 121,
+        "charCountStart": 1136,
+        "changes": [],
+        "id": 51
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+        "wordCountStart": 1032,
+        "charCountStart": 11626,
+        "changes": [],
+        "id": 52
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/31_Il_Campo_F2.md",
+        "wordCountStart": 132,
+        "charCountStart": 1107,
+        "changes": [],
+        "id": 53
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/99_Organizzazione/10_Organizzazione_del_Corso.md",
+        "wordCountStart": 374,
+        "charCountStart": 2998,
+        "changes": [],
+        "id": 54
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/01_Indice_Lezione_0.md",
+        "wordCountStart": 59,
+        "charCountStart": 683,
+        "changes": [],
+        "id": 55
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/02_Indice_Lezione_1.md",
+        "wordCountStart": 67,
+        "charCountStart": 805,
+        "changes": [],
+        "id": 56
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/03_Indice_Lezione_2.md",
+        "wordCountStart": 85,
+        "charCountStart": 1068,
+        "changes": [],
+        "id": 57
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/27_Prodotto_Esterno.md",
+        "wordCountStart": 128,
+        "charCountStart": 1026,
+        "changes": [],
+        "id": 58
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/04_Indice_Lezione_3.md",
+        "wordCountStart": 85,
+        "charCountStart": 999,
+        "changes": [],
+        "id": 59
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
+        "wordCountStart": 78,
+        "charCountStart": 929,
+        "changes": [],
+        "id": 60
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
+        "wordCountStart": 173,
+        "charCountStart": 1436,
+        "changes": [],
+        "id": 61
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/07_Indice_Lezione_6.md",
+        "wordCountStart": 95,
+        "charCountStart": 1155,
+        "changes": [],
+        "id": 62
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/08_Indice_Lezione_7.md",
+        "wordCountStart": 141,
+        "charCountStart": 1801,
+        "changes": [],
+        "id": 63
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/10_Indice_Lezione_9.md",
+        "wordCountStart": 82,
+        "charCountStart": 899,
+        "changes": [],
+        "id": 64
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/11_Indice_Lezione_10.md",
+        "wordCountStart": 76,
+        "charCountStart": 976,
+        "changes": [],
+        "id": 65
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/12_Indice_Lezione_11.md",
+        "wordCountStart": 69,
+        "charCountStart": 937,
+        "changes": [],
+        "id": 66
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
+        "wordCountStart": 355,
+        "charCountStart": 2448,
+        "changes": [],
+        "id": 67
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/00_MOC_Analisi_1.md",
+        "wordCountStart": 286,
+        "charCountStart": 9177,
+        "changes": [],
+        "id": 68
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
+        "wordCountStart": 248,
+        "charCountStart": 1784,
+        "changes": [],
+        "id": 69
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
+        "wordCountStart": 152,
+        "charCountStart": 1042,
+        "changes": [],
+        "id": 70
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
+        "wordCountStart": 206,
+        "charCountStart": 1347,
+        "changes": [],
+        "id": 71
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/06_Serie/51_Rappresentazione_Decimale_e_Serie.md",
+        "wordCountStart": 209,
+        "charCountStart": 1273,
+        "changes": [],
+        "id": 72
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+        "wordCountStart": 167,
+        "charCountStart": 1218,
+        "changes": [],
+        "id": 73
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
+        "wordCountStart": 213,
+        "charCountStart": 1426,
+        "changes": [],
+        "id": 74
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/17_Radici_Complesse.md",
+        "wordCountStart": 795,
+        "charCountStart": 4638,
+        "changes": [],
+        "id": 75
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/18_Equazioni_in_C.md",
+        "wordCountStart": 540,
+        "charCountStart": 3263,
+        "changes": [],
+        "id": 76
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/12_Logaritmi.md",
+        "wordCountStart": 194,
+        "charCountStart": 1399,
+        "changes": [],
+        "id": 77
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/04_Funzioni/27_Teorema_Monotone_Invertibili.md",
+        "wordCountStart": 379,
+        "charCountStart": 2578,
+        "changes": [],
+        "id": 78
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
+        "wordCountStart": 908,
+        "charCountStart": 6335,
+        "changes": [],
+        "id": 79
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
+        "wordCountStart": 470,
+        "charCountStart": 2890,
+        "changes": [],
+        "id": 80
+      },
+      {
+        "date": "2026-10-26",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
+        "wordCountStart": 737,
+        "charCountStart": 5061,
+        "changes": [],
+        "id": 81
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
+        "wordCountStart": 657,
+        "charCountStart": 4554,
+        "changes": [],
+        "id": 82
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
+        "wordCountStart": 535,
+        "charCountStart": 3757,
+        "changes": [],
+        "id": 83
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico.md",
+        "wordCountStart": 373,
+        "charCountStart": 2674,
+        "changes": [],
+        "id": 84
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli.md",
+        "wordCountStart": 473,
+        "charCountStart": 3024,
+        "changes": [],
+        "id": 85
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/84_Nucleo_e_Sistema_Omogeneo_Associato.md",
+        "wordCountStart": 295,
+        "charCountStart": 2204,
+        "changes": [],
+        "id": 86
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/85_Teorema_di_Struttura_delle_Soluzioni.md",
+        "wordCountStart": 124,
+        "charCountStart": 1115,
+        "changes": [],
+        "id": 87
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
+        "wordCountStart": 121,
+        "charCountStart": 1136,
+        "changes": [],
+        "id": 88
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
+        "wordCountStart": 189,
+        "charCountStart": 1557,
+        "changes": [],
+        "id": 89
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/87_Ricerca_della_Matrice_Inversa.md",
+        "wordCountStart": 1131,
+        "charCountStart": 6745,
+        "changes": [],
+        "id": 90
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
+        "wordCountStart": 679,
+        "charCountStart": 4403,
+        "changes": [],
+        "id": 91
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
+        "wordCountStart": 262,
+        "charCountStart": 2316,
+        "changes": [],
+        "id": 92
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
+        "wordCountStart": 156,
+        "charCountStart": 1621,
+        "changes": [],
+        "id": 93
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/107_Confronto_Metodi_Calcolo_Determinante.md",
+        "wordCountStart": 254,
+        "charCountStart": 2191,
+        "changes": [],
+        "id": 94
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/106_Determinante_Metodo_Misto_MEG_e_Laplace.md",
+        "wordCountStart": 211,
+        "charCountStart": 1625,
+        "changes": [],
+        "id": 95
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/105_Determinante_Laplace_Esempio_3x3_Riga_3.md",
+        "wordCountStart": 259,
+        "charCountStart": 1751,
+        "changes": [],
+        "id": 96
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe.md",
+        "wordCountStart": 325,
+        "charCountStart": 2344,
+        "changes": [],
+        "id": 97
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/103_Esercizio_5_1_Calcolo_del_Determinante.md",
+        "wordCountStart": 203,
+        "charCountStart": 1647,
+        "changes": [],
+        "id": 98
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/79_Determinante_con_Righe_Uguali.md",
+        "wordCountStart": 127,
+        "charCountStart": 1166,
+        "changes": [],
+        "id": 99
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/78_Determinante_e_Sostituzione.md",
+        "wordCountStart": 189,
+        "charCountStart": 1555,
+        "changes": [],
+        "id": 100
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
+        "wordCountStart": 400,
+        "charCountStart": 3551,
+        "changes": [],
+        "id": 101
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
+        "wordCountStart": 172,
+        "charCountStart": 1553,
+        "changes": [],
+        "id": 102
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/61_Unicita_e_Bilateralita_dell_Inversa.md",
+        "wordCountStart": 173,
+        "charCountStart": 1398,
+        "changes": [],
+        "id": 103
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/62_Non_Commutativita_del_Prodotto_Matriciale.md",
+        "wordCountStart": 183,
+        "charCountStart": 1458,
+        "changes": [],
+        "id": 104
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/88_Teorema_sull_Invertibilita_della_Matrice.md",
+        "wordCountStart": 535,
+        "charCountStart": 3843,
+        "changes": [],
+        "id": 105
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
+        "wordCountStart": 316,
+        "charCountStart": 2652,
+        "changes": [],
+        "id": 106
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
+        "wordCountStart": 308,
+        "charCountStart": 2291,
+        "changes": [],
+        "id": 107
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
+        "wordCountStart": 274,
+        "charCountStart": 2127,
+        "changes": [],
+        "id": 108
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+        "wordCountStart": 379,
+        "charCountStart": 2816,
+        "changes": [],
+        "id": 109
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
+        "wordCountStart": 366,
+        "charCountStart": 2626,
+        "changes": [],
+        "id": 110
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
+        "wordCountStart": 331,
+        "charCountStart": 2397,
+        "changes": [],
+        "id": 111
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
+        "wordCountStart": 483,
+        "charCountStart": 3437,
+        "changes": [],
+        "id": 112
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
+        "wordCountStart": 182,
+        "charCountStart": 1616,
+        "changes": [],
+        "id": 113
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
+        "wordCountStart": 796,
+        "charCountStart": 4935,
+        "changes": [],
+        "id": 114
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
+        "wordCountStart": 162,
+        "charCountStart": 1466,
+        "changes": [],
+        "id": 115
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
+        "wordCountStart": 286,
+        "charCountStart": 2388,
+        "changes": [],
+        "id": 116
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+        "wordCountStart": 119,
+        "charCountStart": 1046,
+        "changes": [],
+        "id": 117
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
+        "wordCountStart": 737,
+        "charCountStart": 5061,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 7,
+            "c": 91
+          },
+          {
+            "timeKey": "20:00",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 118
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
+        "wordCountStart": 908,
+        "charCountStart": 6335,
+        "changes": [],
+        "id": 119
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/02_Numeri_Reali/08_Estremo_Superiore_Inferiore.md",
+        "wordCountStart": 846,
+        "charCountStart": 5410,
+        "changes": [],
+        "id": 120
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
+        "wordCountStart": 348,
+        "charCountStart": 2409,
+        "changes": [],
+        "id": 121
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
+        "wordCountStart": 470,
+        "charCountStart": 2890,
+        "changes": [],
+        "id": 122
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
+        "wordCountStart": 489,
+        "charCountStart": 3368,
+        "changes": [],
+        "id": 123
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
+        "wordCountStart": 514,
+        "charCountStart": 3339,
+        "changes": [],
+        "id": 124
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/68_Formula_di_Stirling.md",
+        "wordCountStart": 79,
+        "charCountStart": 773,
+        "changes": [],
+        "id": 125
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/40_Confronti_Asintotici.md",
+        "wordCountStart": 219,
+        "charCountStart": 1606,
+        "changes": [],
+        "id": 126
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
+        "wordCountStart": 471,
+        "charCountStart": 2850,
+        "changes": [],
+        "id": 127
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/38_Numero_di_Nepero.md",
+        "wordCountStart": 314,
+        "charCountStart": 2146,
+        "changes": [],
+        "id": 128
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/37_Algebra_Limiti_Infiniti.md",
+        "wordCountStart": 1543,
+        "charCountStart": 8750,
+        "changes": [],
+        "id": 129
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
+        "wordCountStart": 202,
+        "charCountStart": 1498,
+        "changes": [],
+        "id": 130
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/44_Esempio_Asintotici_con_Logaritmo_e_Arctan.md",
+        "wordCountStart": 211,
+        "charCountStart": 1542,
+        "changes": [],
+        "id": 131
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/43_Asintotici_con_Funzioni_Composte.md",
+        "wordCountStart": 327,
+        "charCountStart": 2646,
+        "changes": [],
+        "id": 132
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
+        "wordCountStart": 355,
+        "charCountStart": 2448,
+        "changes": [],
+        "id": 133
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
+        "wordCountStart": 248,
+        "charCountStart": 1784,
+        "changes": [],
+        "id": 134
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
+        "wordCountStart": 152,
+        "charCountStart": 1042,
+        "changes": [],
+        "id": 135
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
+        "wordCountStart": 206,
+        "charCountStart": 1347,
+        "changes": [],
+        "id": 136
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/51_Rappresentazione_Decimale_e_Serie.md",
+        "wordCountStart": 209,
+        "charCountStart": 1273,
+        "changes": [],
+        "id": 137
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+        "wordCountStart": 167,
+        "charCountStart": 1218,
+        "changes": [],
+        "id": 138
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
+        "wordCountStart": 256,
+        "charCountStart": 1789,
+        "changes": [],
+        "id": 139
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
+        "wordCountStart": 213,
+        "charCountStart": 1426,
+        "changes": [],
+        "id": 140
+      },
+      {
+        "date": "2026-10-27",
+        "filePath": "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
+        "wordCountStart": 255,
+        "charCountStart": 1843,
+        "changes": [],
+        "id": 141
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
+        "wordCountStart": 256,
+        "charCountStart": 1789,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 142
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
+        "wordCountStart": 255,
+        "charCountStart": 1843,
+        "changes": [],
+        "id": 143
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/56_Resto_N-esimo_della_Serie.md",
+        "wordCountStart": 159,
+        "charCountStart": 1132,
+        "changes": [],
+        "id": 144
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/57_Serie_a_Termini_Positivi.md",
+        "wordCountStart": 196,
+        "charCountStart": 1468,
+        "changes": [],
+        "id": 145
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
+        "wordCountStart": 744,
+        "charCountStart": 5153,
+        "changes": [],
+        "id": 146
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
+        "wordCountStart": 202,
+        "charCountStart": 1498,
+        "changes": [],
+        "id": 147
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
+        "wordCountStart": 348,
+        "charCountStart": 2409,
+        "changes": [],
+        "id": 148
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
+        "wordCountStart": 404,
+        "charCountStart": 2776,
+        "changes": [],
+        "id": 149
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
+        "wordCountStart": 248,
+        "charCountStart": 1784,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
+        "wordCountStart": 152,
+        "charCountStart": 1042,
+        "changes": [],
+        "id": 151
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
+        "wordCountStart": 206,
+        "charCountStart": 1347,
+        "changes": [],
+        "id": 152
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/51_Rappresentazione_Decimale_e_Serie.md",
+        "wordCountStart": 209,
+        "charCountStart": 1273,
+        "changes": [],
+        "id": 153
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+        "wordCountStart": 167,
+        "charCountStart": 1218,
+        "changes": [],
+        "id": 154
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
+        "wordCountStart": 213,
+        "charCountStart": 1426,
+        "changes": [],
+        "id": 155
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/59_Esempio_Confronto_Serie_18_cos_n.md",
+        "wordCountStart": 113,
+        "charCountStart": 809,
+        "changes": [],
+        "id": 156
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
+        "wordCountStart": 125,
+        "charCountStart": 1151,
+        "changes": [],
+        "id": 157
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/61_Serie_di_Bertrand_Generalizzata.md",
+        "wordCountStart": 107,
+        "charCountStart": 892,
+        "changes": [],
+        "id": 158
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
+        "wordCountStart": 336,
+        "charCountStart": 2631,
+        "changes": [
+          {
+            "timeKey": "10:15",
+            "w": 0,
+            "c": -40
+          }
+        ],
+        "id": 159
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
+        "wordCountStart": 233,
+        "charCountStart": 1744,
+        "changes": [],
+        "id": 160
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
+        "wordCountStart": 197,
+        "charCountStart": 1707,
+        "changes": [],
+        "id": 161
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata.md",
+        "wordCountStart": 193,
+        "charCountStart": 1367,
+        "changes": [],
+        "id": 162
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
+        "wordCountStart": 113,
+        "charCountStart": 967,
+        "changes": [],
+        "id": 163
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+        "wordCountStart": 651,
+        "charCountStart": 4003,
+        "changes": [],
+        "id": 164
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/70_Esempio_Serie_a_alla_n_su_n_alla_n.md",
+        "wordCountStart": 229,
+        "charCountStart": 1542,
+        "changes": [],
+        "id": 165
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/72_Esempio_Serie_a_alla_n_per_log_n_alla_b.md",
+        "wordCountStart": 256,
+        "charCountStart": 1843,
+        "changes": [],
+        "id": 166
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/81_Esempio_Confronto_Asintotico_con_Bertrand.md",
+        "wordCountStart": 374,
+        "charCountStart": 2710,
+        "changes": [],
+        "id": 167
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
+        "wordCountStart": 266,
+        "charCountStart": 2413,
+        "changes": [],
+        "id": 168
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
+        "wordCountStart": 243,
+        "charCountStart": 1975,
+        "changes": [],
+        "id": 169
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
+        "wordCountStart": 399,
+        "charCountStart": 2732,
+        "changes": [],
+        "id": 170
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/75_Esempio_Convergenza_Assoluta_sin_n_su_n_alla_3_su_2.md",
+        "wordCountStart": 154,
+        "charCountStart": 1196,
+        "changes": [],
+        "id": 171
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
+        "wordCountStart": 271,
+        "charCountStart": 2202,
+        "changes": [],
+        "id": 172
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/77_Esempio_Serie_Alternata_con_Parametro_alpha.md",
+        "wordCountStart": 236,
+        "charCountStart": 1857,
+        "changes": [],
+        "id": 173
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/78_Osservazioni_sul_Criterio_di_Leibniz.md",
+        "wordCountStart": 301,
+        "charCountStart": 2242,
+        "changes": [],
+        "id": 174
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/80_Esempio_Serie_alpha_meno_1_alla_n_su_n_2_alla_n.md",
+        "wordCountStart": 396,
+        "charCountStart": 2974,
+        "changes": [],
+        "id": 175
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/116_Strategia_Determinante_per_Sistemi_con_Parametro.md",
+        "wordCountStart": 230,
+        "charCountStart": 1943,
+        "changes": [],
+        "id": 176
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
+        "wordCountStart": 400,
+        "charCountStart": 3551,
+        "changes": [
+          {
+            "timeKey": "13:05",
+            "w": 0,
+            "c": -7
+          },
+          {
+            "timeKey": "13:10",
+            "w": 0,
+            "c": -6
+          },
+          {
+            "timeKey": "13:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 177
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
+        "wordCountStart": 657,
+        "charCountStart": 4554,
+        "changes": [],
+        "id": 178
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
+        "wordCountStart": 316,
+        "charCountStart": 2652,
+        "changes": [],
+        "id": 179
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
+        "wordCountStart": 308,
+        "charCountStart": 2291,
+        "changes": [],
+        "id": 180
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
+        "wordCountStart": 362,
+        "charCountStart": 2691,
+        "changes": [],
+        "id": 181
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
+        "wordCountStart": 130,
+        "charCountStart": 1306,
+        "changes": [],
+        "id": 182
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
+        "wordCountStart": 274,
+        "charCountStart": 2127,
+        "changes": [],
+        "id": 183
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+        "wordCountStart": 379,
+        "charCountStart": 2816,
+        "changes": [],
+        "id": 184
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
+        "wordCountStart": 366,
+        "charCountStart": 2626,
+        "changes": [],
+        "id": 185
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
+        "wordCountStart": 331,
+        "charCountStart": 2397,
+        "changes": [],
+        "id": 186
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
+        "wordCountStart": 483,
+        "charCountStart": 3437,
+        "changes": [],
+        "id": 187
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
+        "wordCountStart": 182,
+        "charCountStart": 1616,
+        "changes": [],
+        "id": 188
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
+        "wordCountStart": 796,
+        "charCountStart": 4935,
+        "changes": [],
+        "id": 189
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
+        "wordCountStart": 162,
+        "charCountStart": 1466,
+        "changes": [],
+        "id": 190
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base.md",
+        "wordCountStart": 286,
+        "charCountStart": 2388,
+        "changes": [],
+        "id": 191
+      },
+      {
+        "date": "2026-10-28",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+        "wordCountStart": 119,
+        "charCountStart": 1046,
+        "changes": [],
+        "id": 192
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+        "wordCountStart": 119,
+        "charCountStart": 1046,
+        "changes": [
+          {
+            "timeKey": "08:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 193
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
+        "wordCountStart": 316,
+        "charCountStart": 2652,
+        "changes": [],
+        "id": 194
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
+        "wordCountStart": 308,
+        "charCountStart": 2291,
+        "changes": [],
+        "id": 195
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
+        "wordCountStart": 274,
+        "charCountStart": 2127,
+        "changes": [],
+        "id": 196
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+        "wordCountStart": 379,
+        "charCountStart": 2816,
+        "changes": [],
+        "id": 197
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
+        "wordCountStart": 400,
+        "charCountStart": 3538,
+        "changes": [],
+        "id": 198
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
+        "wordCountStart": 362,
+        "charCountStart": 2691,
+        "changes": [],
+        "id": 199
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/95_Combinazioni_Lineari_e_Span.md",
+        "wordCountStart": 366,
+        "charCountStart": 2626,
+        "changes": [],
+        "id": 200
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/96_Insieme_di_Generatori.md",
+        "wordCountStart": 331,
+        "charCountStart": 2397,
+        "changes": [],
+        "id": 201
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
+        "wordCountStart": 483,
+        "charCountStart": 3437,
+        "changes": [],
+        "id": 202
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/98_Vettori_Linearmente_Indipendenti.md",
+        "wordCountStart": 182,
+        "charCountStart": 1616,
+        "changes": [],
+        "id": 203
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/99_Dipendenza_Lineare_e_Vettori_Ridondanti.md",
+        "wordCountStart": 796,
+        "charCountStart": 4935,
+        "changes": [],
+        "id": 204
+      },
+      {
+        "date": "2026-10-29",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/100_Base_di_uno_Spazio_Vettoriale.md",
+        "wordCountStart": 162,
+        "charCountStart": 1466,
+        "changes": [],
+        "id": 205
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/27_Prodotto_Esterno.md",
+        "wordCountStart": 128,
+        "charCountStart": 1026,
+        "changes": [
+          {
+            "timeKey": "14:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 206
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/26_Prodotto_Interno_in_Coordinate.md",
+        "wordCountStart": 179,
+        "charCountStart": 1340,
+        "changes": [],
+        "id": 207
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/28_Determinanti_2x2_e_3x3.md",
+        "wordCountStart": 94,
+        "charCountStart": 820,
+        "changes": [],
+        "id": 208
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/37_Efficienza_Computazionale.md",
+        "wordCountStart": 137,
+        "charCountStart": 1277,
+        "changes": [],
+        "id": 209
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/35_Somma_tra_Matrici.md",
+        "wordCountStart": 349,
+        "charCountStart": 2452,
+        "changes": [],
+        "id": 210
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
+        "wordCountStart": 173,
+        "charCountStart": 1436,
+        "changes": [],
+        "id": 211
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
+        "wordCountStart": 510,
+        "charCountStart": 3704,
+        "changes": [],
+        "id": 212
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/61_Unicita_e_Bilateralita_dell_Inversa.md",
+        "wordCountStart": 224,
+        "charCountStart": 1772,
+        "changes": [],
+        "id": 213
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/88_Teorema_sull_Invertibilita_della_Matrice.md",
+        "wordCountStart": 719,
+        "charCountStart": 4933,
+        "changes": [],
+        "id": 214
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/73_MEG_e_Rango.md",
+        "wordCountStart": 496,
+        "charCountStart": 3492,
+        "changes": [],
+        "id": 215
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1.md",
+        "wordCountStart": 250,
+        "charCountStart": 2069,
+        "changes": [],
+        "id": 216
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/110_EE1_Fattorizzazione_con_Matrici_Elementari.md",
+        "wordCountStart": 537,
+        "charCountStart": 3245,
+        "changes": [],
+        "id": 217
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/109_EE1_Riduzione_a_Scala_di_A.md",
+        "wordCountStart": 349,
+        "charCountStart": 2252,
+        "changes": [],
+        "id": 218
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/74_Teorema_di_Binet.md",
+        "wordCountStart": 230,
+        "charCountStart": 1769,
+        "changes": [],
+        "id": 219
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
+        "wordCountStart": 156,
+        "charCountStart": 1621,
+        "changes": [],
+        "id": 220
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/76_Determinante_Normalizzato_e_Alternante.md",
+        "wordCountStart": 141,
+        "charCountStart": 1301,
+        "changes": [],
+        "id": 221
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/77_Determinante_Multilineare.md",
+        "wordCountStart": 268,
+        "charCountStart": 2028,
+        "changes": [],
+        "id": 222
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/78_Determinante_e_Sostituzione.md",
+        "wordCountStart": 189,
+        "charCountStart": 1555,
+        "changes": [],
+        "id": 223
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/79_Determinante_con_Righe_Uguali.md",
+        "wordCountStart": 127,
+        "charCountStart": 1166,
+        "changes": [],
+        "id": 224
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/103_Esercizio_5_1_Calcolo_del_Determinante.md",
+        "wordCountStart": 203,
+        "charCountStart": 1647,
+        "changes": [],
+        "id": 225
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/105_Determinante_Laplace_Esempio_3x3_Riga_3.md",
+        "wordCountStart": 259,
+        "charCountStart": 1751,
+        "changes": [],
+        "id": 226
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/106_Determinante_Metodo_Misto_MEG_e_Laplace.md",
+        "wordCountStart": 211,
+        "charCountStart": 1625,
+        "changes": [],
+        "id": 227
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
+        "wordCountStart": 535,
+        "charCountStart": 3757,
+        "changes": [],
+        "id": 228
+      },
+      {
+        "date": "2026-10-30",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
+        "wordCountStart": 483,
+        "charCountStart": 3437,
+        "changes": [],
+        "id": 229
+      }
+    ]
+  }
+}
