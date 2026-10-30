@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
+                "file": "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "34_Algebra_dei_Limiti"
+              "title": "35_Teoremi_del_Confronto"
             }
           }
         ],
@@ -242,9 +242,9 @@
   },
   "active": "3d9c6831ca306ba5",
   "lastOpenFiles": [
+    "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
-    "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
     "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
     "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
     "00_Claude_Workspace/Indice_Teoremi_AM1.md",
