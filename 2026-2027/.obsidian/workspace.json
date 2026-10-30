@@ -32,9 +32,23 @@
               "icon": "lucide-file",
               "title": "35_Teoremi_del_Confronto"
             }
+          },
+          {
+            "id": "620b2f413cfe6739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "39_Criterio_del_Rapporto"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,14 +254,16 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "3d9c6831ca306ba5",
+  "active": "620b2f413cfe6739",
   "lastOpenFiles": [
+    "00_Claude_Workspace/Indice_Teoremi_AM1.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
     "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
     "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
     "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
-    "00_Claude_Workspace/Indice_Teoremi_AM1.md",
     "10_Analisi_1/04_Funzioni/27_Teorema_Monotone_Invertibili.md",
     "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
     "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
@@ -268,7 +284,6 @@
     "10_Analisi_1/03_Numeri_Complessi/16_Formule_di_De_Moivre.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
-    "20_Geometria_Algebra_Lineare/07_Determinante/106_Determinante_Metodo_Misto_MEG_e_Laplace.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
