@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Indice_Teoremi_AM1"
             }
+          },
+          {
+            "id": "5cedbab165558d9c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AM1 L7 26-27"
+            }
           }
         ]
       }
@@ -268,11 +280,11 @@
   },
   "active": "d511662a93ee185c",
   "lastOpenFiles": [
-    "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
+    "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "00_Claude_Workspace/Indice_Teoremi_AM1.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
     "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
     "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
-    "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
     "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
     "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
