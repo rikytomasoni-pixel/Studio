@@ -76,6 +76,20 @@
         "a": 1,
         "rgb": 3174561
       }
+    },
+    {
+      "query": "tag:#GAL/spazi-vettoriali  ",
+      "color": {
+        "a": 1,
+        "rgb": 5998479
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,
