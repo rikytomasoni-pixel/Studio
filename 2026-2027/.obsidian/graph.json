@@ -74,7 +74,7 @@
       "query": "tag:#AM1/serie  ",
       "color": {
         "a": 1,
-        "rgb": 3174561
+        "rgb": 65437
       }
     },
     {
@@ -85,10 +85,10 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#GAL/sistemi-lineari  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 6323494
       }
     }
   ],
@@ -102,6 +102,6 @@
   "repelStrength": 15.0502232142857,
   "linkStrength": 0.899937739037623,
   "linkDistance": 50,
-  "scale": 0.16107545890465072,
+  "scale": 0.16107545890465078,
   "close": false
 }
