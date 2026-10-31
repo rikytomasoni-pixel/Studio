@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
+                "file": "00_Claude_Workspace/Indice_Teoremi_AM1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "39_Criterio_del_Rapporto"
+              "title": "Indice_Teoremi_AM1"
             }
           }
         ],
@@ -256,6 +256,7 @@
   },
   "active": "620b2f413cfe6739",
   "lastOpenFiles": [
+    "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
     "00_Claude_Workspace/Indice_Teoremi_AM1.md",
     "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
     "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
@@ -283,7 +284,6 @@
     "10_Analisi_1/03_Numeri_Complessi/15_Forma_Trigonometrica_Esponenziale.md",
     "10_Analisi_1/03_Numeri_Complessi/16_Formule_di_De_Moivre.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple.md",
-    "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
