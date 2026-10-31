@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "60_Serie_Armonica_Generalizzata"
+              "title": "76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz"
             }
           }
         ]
@@ -351,11 +351,11 @@
   },
   "active": "d511662a93ee185c",
   "lastOpenFiles": [
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
     "00_Claude_Workspace/Indice_Teoremi_AM1.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
     "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
     "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
     "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
