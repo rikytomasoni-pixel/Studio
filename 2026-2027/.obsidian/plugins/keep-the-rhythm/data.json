@@ -2245,6 +2245,11 @@
             "timeKey": "10:20",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "10:45",
+            "w": 0,
+            "c": 974
           }
         ],
         "id": 256
@@ -2256,6 +2261,22 @@
         "charCountStart": 6335,
         "changes": [],
         "id": 257
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
+        "wordCountStart": 489,
+        "charCountStart": 3368,
+        "changes": [],
+        "id": 258
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
+        "wordCountStart": 470,
+        "charCountStart": 2890,
+        "changes": [],
+        "id": 259
       }
     ]
   }

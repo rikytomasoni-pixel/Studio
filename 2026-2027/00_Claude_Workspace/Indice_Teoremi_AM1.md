@@ -62,15 +62,15 @@ Nessuna dimostrazione dell'elenco (reali, estremo superiore, complessi in forma 
 
 ### Lezione 7 — 02-10-2026 (con inizio in L6)
 
-| Teorema | Nota | Dimostrazione |
-| --- | --- | --- |
-| Successioni monotone: regolarità / esistenza del limite (Teor. 3.36), caso limitato e caso generale | [[31_Successioni_Monotone]] | **DIM. SCRITTO (n°9)** |
-| Successione convergente $\Rightarrow$ limitata (Teor. 3.13) | [[32_Successione_Convergente_e_Limitata]] | **DIM. SCRITTO (n°6)** |
-| Permanenza del segno (Teor. 3.25, Cor. 3.27, Cor. 3.29) | [[33_Teorema_Permanenza_del_Segno]] | **DIM. SCRITTO (n°7)** |
-| Algebra dei limiti (Teor. 3.19) | [[34_Algebra_dei_Limiti]] | dim. orale |
-| Teorema del confronto / dei due carabinieri (Teor. 3.30) | [[35_Teoremi_del_Confronto]] | **DIM. SCRITTO (n°8)** |
-| Confronto per successioni divergenti (Teor. 3.31) | [[35_Teoremi_del_Confronto]] | dim. orale |
-| Gerarchia degli infiniti (formule 3.18, 3.19) | [[36_Gerarchia_degli_Infiniti]] | dim. orale — *nella nota c'è solo l'enunciato*, vedi sotto |
+| Teorema                                                                                             | Nota                                      | Dimostrazione                                              |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------- |
+| Successioni monotone: regolarità / esistenza del limite (Teor. 3.36), caso limitato e caso generale | [[31_Successioni_Monotone]]               | **DIM. SCRITTO (n°9)**                                     |
+| Successione convergente $\Rightarrow$ limitata (Teor. 3.13)                                         | [[32_Successione_Convergente_e_Limitata]] | **DIM. SCRITTO (n°6)**                                     |
+| Permanenza del segno (Teor. 3.25, Cor. 3.27, Cor. 3.29)                                             | [[33_Teorema_Permanenza_del_Segno]]       | **DIM. SCRITTO (n°7)**                                     |
+| Algebra dei limiti (Teor. 3.19)                                                                     | [[34_Algebra_dei_Limiti]]                 | dim. orale                                                 |
+| Teorema del confronto / dei due carabinieri (Teor. 3.30)                                            | [[35_Teoremi_del_Confronto]]              | **DIM. SCRITTO (n°8)**                                     |
+| Confronto per successioni divergenti (Teor. 3.31)                                                   | [[35_Teoremi_del_Confronto]]              | dim. orale                                                 |
+| Gerarchia degli infiniti (formule 3.18, 3.19)                                                       | [[36_Gerarchia_degli_Infiniti]]           | dim. orale — *nella nota c'è solo l'enunciato*, vedi sotto |
 
 > [!warning] Da verificare
 > Il programma indica che la **dimostrazione di (3.18) e (3.19)** della gerarchia degli infiniti è stata data; nella nota 36 è presente solo l'enunciato (con rimando a [[39_Criterio_del_Rapporto]]). Controllare il quaderno e integrare se serve.

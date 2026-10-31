@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "00_Claude_Workspace/Indice_Teoremi_AM1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -240,17 +240,17 @@
             "type": "tabs",
             "children": [
               {
-                "id": "b36170251965657b",
+                "id": "01f5684b8885c09f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
+                    "file": "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
                     "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "31_Successioni_Monotone"
+                  "title": "33_Teorema_Permanenza_del_Segno"
                 }
               }
             ]
@@ -266,18 +266,18 @@
       }
     ]
   },
-  "active": "b36170251965657b",
+  "active": "d511662a93ee185c",
   "lastOpenFiles": [
+    "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
     "00_Claude_Workspace/Indice_Teoremi_AM1.md",
     "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
     "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
     "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
     "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
-    "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
     "10_Analisi_1/04_Funzioni/27_Teorema_Monotone_Invertibili.md",
     "10_Analisi_1/05_Successioni_e_Limiti/32_Successione_Convergente_e_Limitata.md",
     "10_Analisi_1/05_Successioni_e_Limiti/29_Successioni_Definizioni_Base.md",
