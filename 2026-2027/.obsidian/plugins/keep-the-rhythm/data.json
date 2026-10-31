@@ -2293,6 +2293,22 @@
         "charCountStart": 1789,
         "changes": [],
         "id": 261
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
+        "wordCountStart": 255,
+        "charCountStart": 1843,
+        "changes": [],
+        "id": 262
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
+        "wordCountStart": 206,
+        "charCountStart": 1347,
+        "changes": [],
+        "id": 263
       }
     ]
   }
