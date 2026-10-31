@@ -33,8 +33,7 @@
               "title": "AM1 L7 26-27"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,7 +272,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -294,12 +293,12 @@
       }
     ]
   },
-  "active": "a5f316bd94fa53e2",
+  "active": "d511662a93ee185c",
   "lastOpenFiles": [
     "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
     "00_Claude_Workspace/Indice_Teoremi_AM1.md",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
-    "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
     "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
     "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
     "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
