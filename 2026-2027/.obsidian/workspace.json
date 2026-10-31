@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Claude_Workspace/Indice_Teoremi_AM1.md",
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indice_Teoremi_AM1"
+              "title": "60_Serie_Armonica_Generalizzata"
             }
           }
         ]
@@ -349,11 +349,11 @@
       }
     ]
   },
-  "active": "87253fcc096e6881",
+  "active": "d511662a93ee185c",
   "lastOpenFiles": [
     "00_Claude_Workspace/Indice_Teoremi_AM1.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
     "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
