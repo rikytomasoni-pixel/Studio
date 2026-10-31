@@ -2226,6 +2226,30 @@
         "charCountStart": 1347,
         "changes": [],
         "id": 254
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
+        "wordCountStart": 744,
+        "charCountStart": 5153,
+        "changes": [],
+        "id": 255
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "00_Claude_Workspace/Indice_Teoremi_AM1.md",
+        "wordCountStart": 1106,
+        "charCountStart": 9837,
+        "changes": [],
+        "id": 256
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
+        "wordCountStart": 908,
+        "charCountStart": 6335,
+        "changes": [],
+        "id": 257
       }
     ]
   }
