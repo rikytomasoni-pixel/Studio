@@ -2357,6 +2357,22 @@
         "charCountStart": 2202,
         "changes": [],
         "id": 269
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
+        "wordCountStart": 113,
+        "charCountStart": 967,
+        "changes": [],
+        "id": 270
+      },
+      {
+        "date": "2026-10-31",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+        "wordCountStart": 651,
+        "charCountStart": 4003,
+        "changes": [],
+        "id": 271
       }
     ]
   }
