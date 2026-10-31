@@ -2240,7 +2240,13 @@
         "filePath": "00_Claude_Workspace/Indice_Teoremi_AM1.md",
         "wordCountStart": 1106,
         "charCountStart": 9837,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 256
       },
       {
