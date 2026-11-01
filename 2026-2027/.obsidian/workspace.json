@@ -33,7 +33,8 @@
               "title": "AM1 L12 26-27"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,131 +253,20 @@
             "type": "tabs",
             "children": [
               {
-                "id": "a5f316bd94fa53e2",
+                "id": "96965cc4c181bc3f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
+                    "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
                     "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "35_Teoremi_del_Confronto"
-                }
-              },
-              {
-                "id": "0e725a8bd090985e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10_Analisi_1/06_Serie/54_Condizione_Necessaria_di_Convergenza.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "54_Condizione_Necessaria_di_Convergenza"
-                }
-              },
-              {
-                "id": "cf1c95c9b65dc22a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "55_Serie_Armonica"
-                }
-              },
-              {
-                "id": "409a9d56935aa5a4",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "AM1 L11 26-27"
-                }
-              },
-              {
-                "id": "31b718aa0d23d6a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "50_Serie_Geometrica"
-                }
-              },
-              {
-                "id": "7a617bd41c556d06",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "58_Criterio_del_Confronto_per_Serie"
-                }
-              },
-              {
-                "id": "87253fcc096e6881",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "62_Criterio_del_Confronto_Asintotico_per_Serie"
-                }
-              },
-              {
-                "id": "86a53cf4b38bdb65",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie"
-                }
-              },
-              {
-                "id": "64b12d16f270c7cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "74_Criterio_di_Convergenza_Assoluta"
+                  "title": "76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz"
                 }
               }
-            ],
-            "currentTab": 8
+            ]
           }
         ],
         "direction": "vertical",
@@ -389,25 +279,25 @@
       }
     ]
   },
-  "active": "d511662a93ee185c",
+  "active": "96965cc4c181bc3f",
   "lastOpenFiles": [
-    "10_Analisi_1/05_Successioni_e_Limiti/42_Confronti_Asintotici_Proprieta_e_Notevoli.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
+    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
     "00_Claude_Workspace/Indice_Teoremi_AM1.md",
+    "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
+    "10_Analisi_1/05_Successioni_e_Limiti/42_Confronti_Asintotici_Proprieta_e_Notevoli.md",
     "10_Analisi_1/05_Successioni_e_Limiti/41_o_piccolo_e_Asintotico.md",
     "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
     "10_Analisi_1/05_Successioni_e_Limiti/38_Numero_di_Nepero.md",
     "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
     "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
     "10_Analisi_1/02_Numeri_Reali/11_Radici_e_Potenze.md",
-    "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
-    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
-    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/77_Esempio_Serie_Alternata_con_Parametro_alpha.md",
     "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
@@ -419,7 +309,6 @@
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "10_Analisi_1/05_Successioni_e_Limiti/33_Teorema_Permanenza_del_Segno.md",
     "10_Analisi_1/05_Successioni_e_Limiti/31_Successioni_Monotone.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/30_Limiti_di_Successioni.md",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
