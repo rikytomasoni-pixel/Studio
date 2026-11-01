@@ -2445,6 +2445,22 @@
         "charCountStart": 10811,
         "changes": [],
         "id": 280
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
+        "wordCountStart": 243,
+        "charCountStart": 1975,
+        "changes": [],
+        "id": 281
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
+        "wordCountStart": 266,
+        "charCountStart": 2413,
+        "changes": [],
+        "id": 282
       }
     ]
   }
