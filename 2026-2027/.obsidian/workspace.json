@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
+                "file": "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "62_Criterio_del_Confronto_Asintotico_per_Serie"
+              "title": "49_Esempi_Elementari_di_Serie"
             }
           }
         ],
@@ -244,6 +244,15 @@
   },
   "active": "6fc8ee10be1cf9ca",
   "lastOpenFiles": [
+    "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
+    "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
+    "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/37_Algebra_Limiti_Infiniti.md",
+    "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
+    "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/61_Serie_di_Bertrand_Generalizzata.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/74_Criterio_di_Convergenza_Assoluta.md",
@@ -262,16 +271,7 @@
     "10_Analisi_1/05_Successioni_e_Limiti/42_Confronti_Asintotici_Proprieta_e_Notevoli.md",
     "10_Analisi_1/05_Successioni_e_Limiti/41_o_piccolo_e_Asintotico.md",
     "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/38_Numero_di_Nepero.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/36_Gerarchia_degli_Infiniti.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/34_Algebra_dei_Limiti.md",
-    "10_Analisi_1/02_Numeri_Reali/11_Radici_e_Potenze.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
     "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
-    "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf",

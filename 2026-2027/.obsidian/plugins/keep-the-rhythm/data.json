@@ -2573,6 +2573,70 @@
         "charCountStart": 892,
         "changes": [],
         "id": 296
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/63_Esempio_Confronto_Asintotico_con_Parametro.md",
+        "wordCountStart": 233,
+        "charCountStart": 1744,
+        "changes": [],
+        "id": 297
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
+        "wordCountStart": 255,
+        "charCountStart": 1843,
+        "changes": [],
+        "id": 298
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
+        "wordCountStart": 206,
+        "charCountStart": 1347,
+        "changes": [],
+        "id": 299
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
+        "wordCountStart": 167,
+        "charCountStart": 1218,
+        "changes": [],
+        "id": 300
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/37_Algebra_Limiti_Infiniti.md",
+        "wordCountStart": 1543,
+        "charCountStart": 8750,
+        "changes": [],
+        "id": 301
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
+        "wordCountStart": 355,
+        "charCountStart": 2448,
+        "changes": [],
+        "id": 302
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
+        "wordCountStart": 248,
+        "charCountStart": 1784,
+        "changes": [],
+        "id": 303
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
+        "wordCountStart": 152,
+        "charCountStart": 1042,
+        "changes": [],
+        "id": 304
       }
     ]
   }
