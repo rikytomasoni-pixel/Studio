@@ -2397,6 +2397,54 @@
         "charCountStart": 2591,
         "changes": [],
         "id": 274
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
+        "wordCountStart": 197,
+        "charCountStart": 1707,
+        "changes": [],
+        "id": 275
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+        "wordCountStart": 651,
+        "charCountStart": 4003,
+        "changes": [],
+        "id": 276
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
+        "wordCountStart": 113,
+        "charCountStart": 967,
+        "changes": [],
+        "id": 277
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
+        "wordCountStart": 271,
+        "charCountStart": 2202,
+        "changes": [],
+        "id": 278
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
+        "wordCountStart": 125,
+        "charCountStart": 1151,
+        "changes": [],
+        "id": 279
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "00_Claude_Workspace/Indice_Teoremi_AM1.md",
+        "wordCountStart": 1106,
+        "charCountStart": 10811,
+        "changes": [],
+        "id": 280
       }
     ]
   }

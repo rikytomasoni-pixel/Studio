@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
+                "file": "00_Claude_Workspace/Indice_Teoremi_AM1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "58_Criterio_del_Confronto_per_Serie"
+              "title": "Indice_Teoremi_AM1"
             }
           }
         ]
@@ -334,9 +334,23 @@
                   "icon": "lucide-file",
                   "title": "62_Criterio_del_Confronto_Asintotico_per_Serie"
                 }
+              },
+              {
+                "id": "86a53cf4b38bdb65",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie"
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 7
           }
         ],
         "direction": "vertical",
@@ -349,17 +363,17 @@
       }
     ]
   },
-  "active": "87253fcc096e6881",
+  "active": "86a53cf4b38bdb65",
   "lastOpenFiles": [
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
-    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/77_Esempio_Serie_Alternata_con_Parametro_alpha.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
-    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
     "00_Claude_Workspace/Indice_Teoremi_AM1.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
+    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
+    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/77_Esempio_Serie_Alternata_con_Parametro_alpha.md",
     "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
     "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
     "10_Analisi_1/06_Serie/53_Serie_Telescopiche_e_Mengoli.md",
