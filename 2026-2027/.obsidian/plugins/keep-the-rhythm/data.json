@@ -2549,6 +2549,30 @@
         "charCountStart": 3339,
         "changes": [],
         "id": 293
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/78_Osservazioni_sul_Criterio_di_Leibniz.md",
+        "wordCountStart": 301,
+        "charCountStart": 2242,
+        "changes": [],
+        "id": 294
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/75_Esempio_Convergenza_Assoluta_sin_n_su_n_alla_3_su_2.md",
+        "wordCountStart": 154,
+        "charCountStart": 1196,
+        "changes": [],
+        "id": 295
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/61_Serie_di_Bertrand_Generalizzata.md",
+        "wordCountStart": 107,
+        "charCountStart": 892,
+        "changes": [],
+        "id": 296
       }
     ]
   }
