@@ -2485,6 +2485,22 @@
         "charCountStart": 1498,
         "changes": [],
         "id": 285
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/39_Criterio_del_Rapporto.md",
+        "wordCountStart": 471,
+        "charCountStart": 2850,
+        "changes": [],
+        "id": 286
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/38_Numero_di_Nepero.md",
+        "wordCountStart": 314,
+        "charCountStart": 2146,
+        "changes": [],
+        "id": 287
       }
     ]
   }
