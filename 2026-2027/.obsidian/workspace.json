@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Indice_Teoremi_AM1"
             }
+          },
+          {
+            "id": "6fc8ee10be1cf9ca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AM1 L12 26-27"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -363,12 +376,12 @@
       }
     ]
   },
-  "active": "86a53cf4b38bdb65",
+  "active": "6fc8ee10be1cf9ca",
   "lastOpenFiles": [
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
     "00_Claude_Workspace/Indice_Teoremi_AM1.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/62_Criterio_del_Confronto_Asintotico_per_Serie.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/60_Serie_Armonica_Generalizzata.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
