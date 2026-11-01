@@ -2517,6 +2517,30 @@
         "charCountStart": 2581,
         "changes": [],
         "id": 289
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/15_Forma_Trigonometrica_Esponenziale.md",
+        "wordCountStart": 679,
+        "charCountStart": 4527,
+        "changes": [],
+        "id": 290
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/16_Formule_di_De_Moivre.md",
+        "wordCountStart": 576,
+        "charCountStart": 3398,
+        "changes": [],
+        "id": 291
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/14_Piano_di_Argand_Gauss.md",
+        "wordCountStart": 585,
+        "charCountStart": 4072,
+        "changes": [],
+        "id": 292
       }
     ]
   }
