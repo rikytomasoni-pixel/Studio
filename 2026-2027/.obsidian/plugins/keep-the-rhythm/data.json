@@ -2373,6 +2373,22 @@
         "charCountStart": 4003,
         "changes": [],
         "id": 271
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/77_Esempio_Serie_Alternata_con_Parametro_alpha.md",
+        "wordCountStart": 236,
+        "charCountStart": 1857,
+        "changes": [],
+        "id": 272
+      },
+      {
+        "date": "2026-11-01",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/58_Criterio_del_Confronto_per_Serie.md",
+        "wordCountStart": 404,
+        "charCountStart": 2776,
+        "changes": [],
+        "id": 273
       }
     ]
   }
