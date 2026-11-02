@@ -2637,6 +2637,20 @@
         "charCountStart": 1042,
         "changes": [],
         "id": 304
+      },
+      {
+        "date": "2026-11-02",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
+        "wordCountStart": 514,
+        "charCountStart": 3339,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 305
       }
     ]
   }
