@@ -63,6 +63,7 @@ Tre pivot su tre colonne $\Rightarrow$ nessun parametro libero $\Rightarrow$ uni
 - [[68_Metodo_di_Eliminazione_di_Gauss]]
 - [[84_Nucleo_e_Sistema_Omogeneo_Associato]]
 - Successiva: [[100_Base_di_uno_Spazio_Vettoriale]]
+- Estrazione di una base (lezione 15): [[122_Estrazione_e_Completamento_Due_Problemi_Classici]]
 - Indice: [[14_Indice_Lezione_13]] · [[00_MOC_GAL]]
 
 #GAL/indipendenza-lineare/dipendenza

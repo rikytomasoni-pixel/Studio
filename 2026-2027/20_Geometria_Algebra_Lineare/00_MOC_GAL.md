@@ -1,8 +1,8 @@
 ---
 tags: [GAL, MOC, indice-generale]
-data: 2026-10-26
-lezione: 0-13
-fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11 e 13)"
+data: 2026-11-03
+lezione: 0-15
+fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11, 13 e 15)"
 ---
 
 # MOC — Geometria e Algebra Lineare A.A. 2026-2027
@@ -46,6 +46,8 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 | 11 | 2026-10-15 | Spazi affini (cartesiane e parametriche); spazio vettoriale: definizione ed esempi; sottospazi vettoriali | [[12_Indice_Lezione_11]] |
 | 12 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L11 termina a 107 e L13 inizia a 108) | — |
 | 13 | 2026-10-19 | Combinazioni lineari e span; generatori; vettori linearmente indipendenti; base; teorema di unicità della rappresentazione; dimensione | [[14_Indice_Lezione_13]] |
+| 14 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L13 termina a 118 e L15 inizia a 119) | — |
+| 15 | 2026-10-28 | Lemma fondamentale; teorema della dimensione; significato della dimensione; spazi finitamente generati; basi canoniche; estrazione e completamento di una base; fac-simile d'esame | [[16_Indice_Lezione_15]] |
 
 ## Fondamenti teorici — insiemi, relazioni, funzioni
 - [[11_Prodotto_Cartesiano]] — Prodotto cartesiano *(L0)*
@@ -162,6 +164,19 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[100_Base_di_uno_Spazio_Vettoriale]] — Base di uno spazio vettoriale *(L13)*
 - [[101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base]] — Teorema di unicità della rappresentazione *(L13)*
 - [[102_Dimensione_di_uno_Spazio_Vettoriale]] — Dimensione di uno spazio vettoriale *(L13)*
+- [[117_Lemma_Fondamentale_Teorema_15_1]] — Lemma fondamentale (Teorema 15.1) *(L15)*
+- [[118_Teorema_della_Dimensione_Teorema_15_2]] — Teorema della dimensione (Teorema 15.2) *(L15)*
+- [[119_Significato_della_Dimensione_Massimo_Indipendenti_e_Minimo_Generatori]] — Significato della dimensione *(L15)*
+- [[120_Spazi_Vettoriali_Finitamente_Generati_e_Non]] — Spazi vettoriali finitamente generati e non *(L15)*
+- [[121_Basi_Canoniche]] — Basi canoniche *(L15)*
+- [[122_Estrazione_e_Completamento_Due_Problemi_Classici]] — Estrazione e completamento: due problemi classici *(L15)*
+- [[123_Base_per_Costruzione_Libera_con_il_MEG_sulle_Righe]] — Base per costruzione libera: MEG sulle righe *(L15)*
+- [[124_Estrazione_di_una_Base_con_i_Pivot_delle_Colonne]] — Estrazione di una base: pivot delle colonne *(L15)*
+- [[125_Completamento_ad_una_Base]] — Completamento ad una base *(L15)*
+- [[126_Fac_simile_28_10_Esercizio_su_Sottospazi_Dimensione_e_Basi]] — Fac-simile 28-10: sottospazi, dimensione e basi *(esercizi)*
+- [[127_Fac_simile_i_V_e_un_Sottospazio_Due_Strategie]] — Fac-simile (i): $V$ è un sottospazio *(esercizi)*
+- [[128_Fac_simile_ii_Dimensione_e_Basi_di_V_e_W]] — Fac-simile (ii): dimensione e basi di $V$ e $W$ *(esercizi)*
+- [[129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W]] — Fac-simile (iii): $\mathrm{Id}_2=A_1+A_2$ *(esercizi)*
 
 ## Note collegate
 - [[01_Indice_Lezione_0]]
@@ -175,5 +190,6 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[11_Indice_Lezione_10]]
 - [[12_Indice_Lezione_11]]
 - [[14_Indice_Lezione_13]]
+- [[16_Indice_Lezione_15]]
 
 #GAL/moc
