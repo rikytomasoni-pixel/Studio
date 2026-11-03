@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf"
+                "file": "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "GAL 2026-2027 - 20261028 - LEZIONE 15"
+              "title": "AM1 L9 26-27"
             }
           },
           {
@@ -25,16 +25,124 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W.md",
-                "mode": "preview",
+                "file": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W"
+              "title": "69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie"
+            }
+          },
+          {
+            "id": "293a50154faf37cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz"
+            }
+          },
+          {
+            "id": "ec4254f523da64fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "79_Esempio_Serie_Alternata_log_n_su_n"
+            }
+          },
+          {
+            "id": "acaab338753a017f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/83_Punti_di_Accumulazione.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "83_Punti_di_Accumulazione"
+            }
+          },
+          {
+            "id": "812246b65661f8f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "87_Definizioni_Metriche_di_Limite_all_Infinito"
+            }
+          },
+          {
+            "id": "9ef0c76c59d152c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto"
+            }
+          },
+          {
+            "id": "61f7cb726213a3cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "89_Asintoto_Obliquo"
+            }
+          },
+          {
+            "id": "3b9583cd68c194a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "43_PageRank_e_Matrice_di_Google"
+            }
+          },
+          {
+            "id": "c701ce9e9ca264d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -240,8 +348,19 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "bad67c102b44353b",
+  "active": "c701ce9e9ca264d5",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/83_Punti_di_Accumulazione.md",
+    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
+    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
+    "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+    "10_Analisi_1/05_Successioni_e_Limiti/42_Confronti_Asintotici_Proprieta_e_Notevoli.md",
+    "99_Tools/Screenshots/Analisi1/AsintoticoInfinitesimo.png",
+    "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/127_Fac_simile_i_V_e_un_Sottospazio_Due_Strategie.md",
@@ -260,14 +379,6 @@
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/118_Teorema_della_Dimensione_Teorema_15_2.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/117_Lemma_Fondamentale_Teorema_15_1.md",
     "10_Analisi_1/05_Successioni_e_Limiti/35_Teoremi_del_Confronto.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/65_Criterio_della_Radice_per_Serie.md",
-    "10_Analisi_1/06_Serie/50_Serie_Geometrica.md",
-    "10_Analisi_1/06_Serie/49_Esempi_Elementari_di_Serie.md",
-    "10_Analisi_1/06_Serie/48_Studio_del_Carattere_di_una_Serie.md",
-    "10_Analisi_1/06_Serie/47_Serie_Introduzione_e_Somme_Parziali.md",
-    "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
-    "10_Analisi_1/05_Successioni_e_Limiti/37_Algebra_Limiti_Infiniti.md",
-    "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
@@ -276,7 +387,6 @@
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
     "Senza nome.base",
     "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
-    "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf",
     "99_Tools/Screenshots/GAL/sommaDiVettoriSpostamento.png",
     "99_Tools/Screenshots/GAL/sommaVettoriPiano.png",
     "99_Tools/Screenshots/GAL/vettorev.png",
@@ -286,7 +396,6 @@
     "99_Tools/Screenshots/GAL/sommaMatrici.png",
     "99_Tools/Screenshots/GAL/versori.png",
     "99_Tools/Screenshots/GAL/vettoriOrtogonali.png",
-    "99_Tools/Screenshots/GAL/prodottoInterno.png",
     "Senza nome.canvas"
   ]
 }

@@ -110,7 +110,7 @@ $$a_n\sim\dfrac{\frac1{n^2}}{\frac7n}\cdot n=\dfrac17 \quad\Rightarrow\quad \lim
 
 **Osservazione.** Una successione $\varepsilon_n\to0$ è una successione di punti $\varepsilon_0,\varepsilon_1,\varepsilon_2,\varepsilon_3,\ldots,\varepsilon_n,\ldots$ che si avvicinano all'asse delle $n$ (anche oscillando sopra e sotto l'asse).
 
-**DISEGNO NON RAPPRESENTABILE** — Grafico di una successione $\varepsilon_n$ (in rosso) con punti $\varepsilon_0,\varepsilon_1,\varepsilon_2,\varepsilon_3,\ldots,\varepsilon_n$ sopra e sotto l'asse delle $n$ che tendono a $0$ (pagina 10 del PDF della Lezione 9).
+![[AsintoticoInfinitesimo.png]]
 
 **Esempio.**
 $$a_n=\dfrac{\sqrt[3]{1+n}-n^{1/3}}{1-e^{2/n}}\cdot\arctan\dfrac1{n^2}\cdot n^{5/3}$$

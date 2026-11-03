@@ -2743,6 +2743,84 @@
           }
         ],
         "id": 312
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "10_Analisi_1/05_Successioni_e_Limiti/42_Confronti_Asintotici_Proprieta_e_Notevoli.md",
+        "wordCountStart": 1792,
+        "charCountStart": 10949,
+        "changes": [
+          {
+            "timeKey": "21:55",
+            "w": -34,
+            "c": -231
+          }
+        ],
+        "id": 313
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
+        "wordCountStart": 651,
+        "charCountStart": 4003,
+        "changes": [],
+        "id": 314
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
+        "wordCountStart": 271,
+        "charCountStart": 2202,
+        "changes": [],
+        "id": 315
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
+        "wordCountStart": 399,
+        "charCountStart": 2732,
+        "changes": [],
+        "id": 316
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/83_Punti_di_Accumulazione.md",
+        "wordCountStart": 269,
+        "charCountStart": 1952,
+        "changes": [],
+        "id": 317
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
+        "wordCountStart": 403,
+        "charCountStart": 2827,
+        "changes": [],
+        "id": 318
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
+        "wordCountStart": 339,
+        "charCountStart": 2346,
+        "changes": [],
+        "id": 319
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
+        "wordCountStart": 326,
+        "charCountStart": 2028,
+        "changes": [],
+        "id": 320
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
+        "wordCountStart": 405,
+        "charCountStart": 3023,
+        "changes": [],
+        "id": 321
       }
     ]
   }
