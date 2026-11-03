@@ -2679,8 +2679,22 @@
         "filePath": "00_Claude_Workspace/Indice_Teoremi_AM1.md",
         "wordCountStart": 1106,
         "charCountStart": 10811,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": -1106,
+            "c": -10811
+          }
+        ],
         "id": 308
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/120_Spazi_Vettoriali_Finitamente_Generati_e_Non.md",
+        "wordCountStart": 248,
+        "charCountStart": 2072,
+        "changes": [],
+        "id": 309
       }
     ]
   }
