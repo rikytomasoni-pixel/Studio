@@ -2810,6 +2810,11 @@
             "timeKey": "22:05",
             "w": -95,
             "c": -516
+          },
+          {
+            "timeKey": "22:10",
+            "w": -2,
+            "c": -9
           }
         ],
         "id": 317
@@ -2819,7 +2824,13 @@
         "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
         "wordCountStart": 403,
         "charCountStart": 2827,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": -134,
+            "c": -792
+          }
+        ],
         "id": 318
       },
       {
@@ -2827,7 +2838,13 @@
         "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
         "wordCountStart": 339,
         "charCountStart": 2346,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:10",
+            "w": -58,
+            "c": -359
+          }
+        ],
         "id": 319
       },
       {

@@ -30,7 +30,7 @@ fonte: "AM1 L13 26-27.pdf (pag. 2-4)"
 > [!example] $I=\mathbb{Q}$
 > L'insieme dei punti di accumulazione di $\mathbb{Q}$ è $\overline{\mathbb{R}}=\mathbb{R}\cup\{+\infty\}\cup\{-\infty\}$.
 
-![[Pasted image 20261103220946.png]]
+![[PuntiAccumulazione.png]]
 
 ## Note collegate
 - [[82_Intorni_di_un_Punto_e_di_Infinito]]
