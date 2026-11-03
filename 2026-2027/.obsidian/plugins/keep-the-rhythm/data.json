@@ -2777,7 +2777,13 @@
         "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
         "wordCountStart": 271,
         "charCountStart": 2202,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": -56,
+            "c": -320
+          }
+        ],
         "id": 315
       },
       {
@@ -2785,7 +2791,13 @@
         "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
         "wordCountStart": 399,
         "charCountStart": 2732,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 1,
+            "c": 17
+          }
+        ],
         "id": 316
       },
       {
@@ -2793,7 +2805,13 @@
         "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/83_Punti_di_Accumulazione.md",
         "wordCountStart": 269,
         "charCountStart": 1952,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": -95,
+            "c": -516
+          }
+        ],
         "id": 317
       },
       {
@@ -2865,6 +2883,20 @@
         "charCountStart": 233076,
         "changes": [],
         "id": 325
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "99_Tools/Screenshots/Analisi1/Seire.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 326
       }
     ]
   }

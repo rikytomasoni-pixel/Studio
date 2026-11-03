@@ -33,6 +33,7 @@ Sia $f(x)=\dfrac{\log x}{x}$: è una funzione derivabile, che interpola i valori
 $$f'(x)=\frac{1-\log x}{x^2}\quad\forall x>0\ \Rightarrow\ f'(x)\leq0\ \ \forall x\geq e\ \Rightarrow\ f\text{ decresce in }[e,\infty)\ \Rightarrow\ a_n=f(n)\text{ decresce }\forall n\geq3>e$$
 
 Pertanto, per Leibniz ([[76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz]]), $\displaystyle\sum_{n=1}^\infty(-1)^n\frac{\log n}{n}$ **converge semplicemente** (ma non assolutamente).
+![[LogXsuX.png]]
 
 > [!warning] DISEGNO NON RAPPRESENTABILE
 > **Dove:** pag. 24, in alto. **Cosa cercare:** grafico di $f(x)=\frac{\log x}{x}$ in rosso (sale fino a un massimo vicino a $x=e$ e poi decresce verso $0$), con le ascisse $1,2,e,3,4,5$ segnate sull'asse e i punti $a_2,a_3,a_4,a_5$ evidenziati sul grafico.

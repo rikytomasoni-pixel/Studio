@@ -13,38 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf"
+                "file": "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "AM1 L12 26-27"
-            }
-          },
-          {
-            "id": "293a50154faf37cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz"
-            }
-          },
-          {
-            "id": "ec4254f523da64fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "79_Esempio_Serie_Alternata_log_n_su_n"
+              "title": "AM1 L13 26-27"
             }
           },
           {
@@ -366,13 +338,20 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "293a50154faf37cf",
+  "active": "acaab338753a017f",
   "lastOpenFiles": [
+    "Pasted image 20261103220946.png",
+    "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
+    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
+    "99_Tools/Screenshots/Analisi1/Serie/LogXsuX.png",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
+    "99_Tools/Screenshots/Analisi1/Serie",
+    "99_Tools/Screenshots/Analisi1/Seire.md",
+    "99_Tools/Screenshots/Analisi1/Serie/ConvergenzaPariDispari.png",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
     "99_Tools/Excalidraw/Disegni Analisi1.md",
-    "99_Tools/Screenshots/Analisi1/CriterioDelRapportoPerSerie.png",
+    "99_Tools/Screenshots/Analisi1/Serie/CriterioDelRapportoPerSerie.png",
     "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf",
     "20_Geometria_Algebra_Lineare/99_Organizzazione/10_Organizzazione_del_Corso.md",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
@@ -382,9 +361,8 @@
     "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/83_Punti_di_Accumulazione.md",
-    "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
     "10_Analisi_1/05_Successioni_e_Limiti/42_Confronti_Asintotici_Proprieta_e_Notevoli.md",
-    "99_Tools/Screenshots/Analisi1/AsintoticoInfinitesimo.png",
+    "99_Tools/Screenshots/Analisi1/Serie/AsintoticoInfinitesimo.png",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/127_Fac_simile_i_V_e_un_Sottospazio_Due_Strategie.md",
@@ -397,22 +375,17 @@
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/126_Fac_simile_28_10_Esercizio_su_Sottospazi_Dimensione_e_Basi.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/125_Completamento_ad_una_Base.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/123_Base_per_Costruzione_Libera_con_il_MEG_sulle_Righe.md",
-    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/122_Estrazione_e_Completamento_Due_Problemi_Classici.md",
     "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
-    "Senza nome.base",
-    "90_Lezioni_pdf/A1/AM1 L10 26-27.pdf",
     "99_Tools/Screenshots/GAL/sommaDiVettoriSpostamento.png",
     "99_Tools/Screenshots/GAL/sommaVettoriPiano.png",
     "99_Tools/Screenshots/GAL/vettorev.png",
     "99_Tools/Screenshots/GAL/soluzioneGraficaSistemaLineare.png",
     "99_Tools/Screenshots/GAL/votoFinaleGal.png",
     "99_Tools/Screenshots/GAL/votiGal.png",
-    "99_Tools/Screenshots/GAL/sommaMatrici.png",
-    "99_Tools/Screenshots/GAL/versori.png",
     "Senza nome.canvas"
   ]
 }
