@@ -15,8 +15,7 @@ fonte: "AM1 L13 26-27.pdf (pag. 15-16)"
 > $f$ ha **asintoto obliquo** $y=mx+q$, con $m\in\mathbb{R}\setminus\{0\}$ e $q\in\mathbb{R}$, per $x\to+\infty$ (rispettivamente $x\to-\infty$) se
 > $$\lim_{x\to+\infty}\big(f(x)-(mx+q)\big)=0\qquad\left(\text{rispettivamente }\lim_{x\to-\infty}\big(f(x)-(mx+q)\big)=0\right)$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** pag. 16, in alto. **Cosa cercare:** grafico di $f(x)$ (nero) che si avvicina alla retta $y=mx+q$ (blu) al crescere di $x$; in un punto $x$ è tracciato un segmento verticale tratteggiato rosso tra $f(x)$ e $mx+q$.
+![[AsintotoObliquo.png]]
 
 $|f(x)-(mx+q)|$ è la lunghezza del segmento verticale di estremi $(x,f(x))$ e $(x,mx+q)$, rispettivamente sul grafico di $f$ e sull'asintoto.
 

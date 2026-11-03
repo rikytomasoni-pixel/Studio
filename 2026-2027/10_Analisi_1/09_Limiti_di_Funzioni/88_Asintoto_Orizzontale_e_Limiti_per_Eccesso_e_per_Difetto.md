@@ -37,7 +37,8 @@ fonte: "AM1 L13 26-27.pdf (pag. 11-13)"
 > - $\displaystyle\lim_{x\to+\infty}f(x)=\ell^-$, $\ell\in\mathbb{R}$: $\ \forall\varepsilon>0\ \exists M>0$ tale che $\ x>M\ \Rightarrow\ \ell-\varepsilon<f(x)\leq\ell$.
 > - Similmente per $\displaystyle\lim_{x\to-\infty}f(x)=\ell^+$ e $\displaystyle\lim_{x\to-\infty}f(x)=\ell^-$.
 
-![[l+.png]]
+![[L+.png]]
+![[L-.png]]
 
 ## Note collegate
 - [[87_Definizioni_Metriche_di_Limite_all_Infinito]]

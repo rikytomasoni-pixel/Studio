@@ -18,12 +18,13 @@ Specificando la forma esplicita degli intorni $\mathcal{U}(\ell)$, $\mathcal{U}(
 > [!abstract] $\displaystyle\lim_{x\to+\infty}f(x)=\ell$
 > $\forall\varepsilon>0\ \exists M>0$ tale che
 > $$x>M\ \Rightarrow\ f(x)\in(\ell-\varepsilon,\ell+\varepsilon)\quad\text{cioè}\quad\ell-\varepsilon<f(x)<\ell+\varepsilon\quad\text{cioè}\quad|f(x)-\ell|<\varepsilon$$
+![[LimiteFinitoInfinito.png]]
 
 > [!abstract] $\displaystyle\lim_{x\to-\infty}f(x)=\ell$
 > $\forall\varepsilon>0\ \exists M>0$ tale che
 > $$x<-M\ \Rightarrow\ f(x)\in(\ell-\varepsilon,\ell+\varepsilon)\quad\text{cioè}\quad|f(x)-\ell|<\varepsilon$$
+> ![[LimiteFinito-Infinito 1.png]]
 
-![[LimiteFinitoInfinito.png]]
 
 > [!example] Esempi
 > $$\lim_{x\to+\infty}e^{-x}=0\qquad\qquad\lim_{x\to-\infty}\frac1x=0$$
@@ -37,7 +38,7 @@ Specificando la forma esplicita degli intorni $\mathcal{U}(\ell)$, $\mathcal{U}(
 > $\forall M>0\ \exists K>0$ tale che $\quad x>K\ \Rightarrow\ f(x)<-M$
 
 Similmente per $\displaystyle\lim_{x\to-\infty}f(x)=+\infty$ e $\displaystyle\lim_{x\to-\infty}f(x)=-\infty$.
-![[LimiteFinitoInfinito.png]]
+
 
 
 > [!example] Esempi

@@ -2829,6 +2829,11 @@
             "timeKey": "22:10",
             "w": -134,
             "c": -792
+          },
+          {
+            "timeKey": "22:15",
+            "w": 2,
+            "c": 10
           }
         ],
         "id": 318
@@ -2843,6 +2848,11 @@
             "timeKey": "22:10",
             "w": -58,
             "c": -359
+          },
+          {
+            "timeKey": "22:15",
+            "w": 2,
+            "c": 12
           }
         ],
         "id": 319
@@ -2852,7 +2862,13 @@
         "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
         "wordCountStart": 326,
         "charCountStart": 2028,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": -45,
+            "c": -241
+          }
+        ],
         "id": 320
       },
       {
