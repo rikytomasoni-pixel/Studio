@@ -62,12 +62,6 @@ Pagina WeBeep del corso: https://webeep.polimi.it/course/view.php?id=22687
 > [!example] Esempio
 > 1. Prova in itinere 23, esercizi gennaio 27 $\Rightarrow$ 27.
 > 2. Prova in itinere 23, esercizi febbraio 21 (a gennaio non ho partecipato) $\Rightarrow \frac{1}{3}\,23 + \frac{2}{3}\,21 = 21.67$.
-
-## Quiz conoscitivo (slide 5)
-Quiz Wooclap: https://app.wooclap.com/KYAENAP?from=instruction-slide
-
-**DISEGNO NON RAPPRESENTABILE** — (grafici: tre diagrammi radar con i risultati del quiz — frequenza di situazioni quotidiane; fonti a cui ci si rivolge per un'informazione; dimestichezza con nozioni matematiche: insiemi e funzioni, numeri reali, ragionamento logico, prodotti cartesiani, vettori nel piano e nello spazio, geometria analitica di rette e piani)
-
 ## Note collegate
 - [[11_Prodotto_Cartesiano]]
 - [[30_Matrici_come_Rappresentazione_di_Funzioni]]

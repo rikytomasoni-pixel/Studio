@@ -2763,7 +2763,13 @@
         "filePath": "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
         "wordCountStart": 651,
         "charCountStart": 4003,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": -56,
+            "c": -310
+          }
+        ],
         "id": 314
       },
       {
@@ -2821,6 +2827,44 @@
         "charCountStart": 3023,
         "changes": [],
         "id": 321
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
+        "wordCountStart": 326,
+        "charCountStart": 2336,
+        "changes": [],
+        "id": 322
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+        "wordCountStart": 379,
+        "charCountStart": 2816,
+        "changes": [],
+        "id": 323
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "20_Geometria_Algebra_Lineare/99_Organizzazione/10_Organizzazione_del_Corso.md",
+        "wordCountStart": 374,
+        "charCountStart": 2998,
+        "changes": [
+          {
+            "timeKey": "22:00",
+            "w": -56,
+            "c": -463
+          }
+        ],
+        "id": 324
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "99_Tools/Excalidraw/Disegni Analisi1.md",
+        "wordCountStart": 6798,
+        "charCountStart": 233076,
+        "changes": [],
+        "id": 325
       }
     ]
   }

@@ -20,8 +20,7 @@ fonte: "AM1 L12 26-27.pdf (pag. 2-6)"
 
 L'enunciato è in [[64_Criterio_del_Rapporto_per_Serie]]. Qui si riporta la dimostrazione.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** pag. 2, subito sotto l'enunciato. **Cosa cercare:** retta reale con i punti $0$ e $1$ e due piccoli intorni di $\ell$ (di ampiezza $\varepsilon$, estremi $\ell-\varepsilon$ e $\ell+\varepsilon$): in rosso per il caso $\ell<1$ (a sinistra di $1$), in blu per il caso $\ell>1$ (a destra di $1$).
+![[CriterioDelRapportoPerSerie.png]]
 
 ## Dimostrazione
 
