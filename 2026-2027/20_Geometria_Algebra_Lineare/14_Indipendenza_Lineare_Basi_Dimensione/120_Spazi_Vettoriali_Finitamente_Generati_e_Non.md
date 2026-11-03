@@ -21,18 +21,6 @@ $\Rightarrow$ $\mathbb{K}[t]$ **non è finitamente generato**.
 > [!note] Osservazione (non presente negli appunti)
 > Motivazione diretta: dato un insieme finito di polinomi, sia $D$ il massimo grado; ogni loro combinazione lineare ha grado $\le D$, quindi $t^{D+1}$ non appartiene allo span e l'insieme non può generare $\mathbb{K}[t]$. Vedi anche [[92_Esempi_di_Spazi_Vettoriali]].
 
-## Il bivio
-
-| Spazi vettoriali finitamente generati | Spazi vettoriali **non** finitamente generati |
-|---|---|
-| $\mathbb{R}^n$ | $\mathbb{K}[t]$ |
-| $M_{\mathbb{K}}(m,n)$ | $C^0(I)$ (funzioni continue su $I$) |
-| $\mathbb{K}[t]_{\le d}$ | |
-| **Algebra lineare** | **Analisi matematica** |
-
-> [!warning] Da controllare sul quaderno
-> Nella slide il simbolo dell'ultimo spazio a destra è scritto a mano e di lettura incerta: l'ho interpretato come $C^0(I)$ (funzioni continue su un intervallo $I$), coerente con il riferimento all'Analisi matematica.
-
 ## Note collegate
 - [[119_Significato_della_Dimensione_Massimo_Indipendenti_e_Minimo_Generatori]]
 - [[92_Esempi_di_Spazi_Vettoriali]]

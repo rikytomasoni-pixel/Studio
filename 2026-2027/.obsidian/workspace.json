@@ -11,17 +11,30 @@
             "id": "d511662a93ee185c",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GAL 2026-2027 - 20261028 - LEZIONE 15"
+            }
+          },
+          {
+            "id": "bad67c102b44353b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/120_Spazi_Vettoriali_Finitamente_Generati_e_Non.md",
+                "file": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/127_Fac_simile_i_V_e_un_Sottospazio_Due_Strategie.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "120_Spazi_Vettoriali_Finitamente_Generati_e_Non"
+              "title": "127_Fac_simile_i_V_e_un_Sottospazio_Due_Strategie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.0317687988281
+    "width": 393.4504585266113
   },
   "right": {
     "id": "3beb91e54d21d6ea",
@@ -227,21 +240,22 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "d511662a93ee185c",
+  "active": "bad67c102b44353b",
   "lastOpenFiles": [
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/127_Fac_simile_i_V_e_un_Sottospazio_Due_Strategie.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/124_Estrazione_di_una_Base_con_i_Pivot_delle_Colonne.md",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/120_Spazi_Vettoriali_Finitamente_Generati_e_Non.md",
     "00_Claude_Workspace/Indice_Teoremi_AM1.md",
     "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/16_Indice_Lezione_15.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/128_Fac_simile_ii_Dimensione_e_Basi_di_V_e_W.md",
-    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/127_Fac_simile_i_V_e_un_Sottospazio_Due_Strategie.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/126_Fac_simile_28_10_Esercizio_su_Sottospazi_Dimensione_e_Basi.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/125_Completamento_ad_una_Base.md",
-    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/124_Estrazione_di_una_Base_con_i_Pivot_delle_Colonne.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/123_Base_per_Costruzione_Libera_con_il_MEG_sulle_Righe.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/122_Estrazione_e_Completamento_Due_Problemi_Classici.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/121_Basi_Canoniche.md",
-    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/120_Spazi_Vettoriali_Finitamente_Generati_e_Non.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/119_Significato_della_Dimensione_Massimo_Indipendenti_e_Minimo_Generatori.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/118_Teorema_della_Dimensione_Teorema_15_2.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/117_Lemma_Fondamentale_Teorema_15_1.md",
@@ -254,12 +268,10 @@
     "10_Analisi_1/06_Serie/52_Linearita_delle_Serie.md",
     "10_Analisi_1/05_Successioni_e_Limiti/37_Algebra_Limiti_Infiniti.md",
     "10_Analisi_1/06_Serie/55_Serie_Armonica.md",
-    "10_Analisi_1/07_Serie_a_Termini_Positivi/64_Criterio_del_Rapporto_per_Serie.md",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
     "Senza nome.base",

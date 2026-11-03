@@ -28,9 +28,6 @@ Vettori come colonne:
 $$A=\begin{bmatrix}0&4&4\\2&1&-3\\1&2&0\end{bmatrix}\xrightarrow{\ \mathrm{I}\leftrightarrow\mathrm{III}\ }\begin{bmatrix}1&2&0\\2&1&-3\\0&4&4\end{bmatrix}\xrightarrow{\ \mathrm{II}-2\mathrm{I}\to\mathrm{II}\ }\begin{bmatrix}1&2&0\\0&-3&-3\\0&4&4\end{bmatrix}$$
 $$\xrightarrow[\ \mathrm{III}+\frac43\mathrm{II}\to\mathrm{III}\ ]{\ -\frac13\mathrm{II}\to\mathrm{II}\ }U=\begin{bmatrix}1&2&0\\0&1&1\\0&0&0\end{bmatrix}$$
 
-> [!warning] Da controllare sul quaderno
-> Le due operazioni dell'ultimo passaggio sono scritte insieme sulla slide. L'operazione $\mathrm{III}+\frac43\mathrm{II}$ è corretta se applicata alla matrice **prima** di moltiplicare la riga II per $-\tfrac13$ (altrimenti sarebbe $\mathrm{III}-4\,\mathrm{II}$): le ho lette come eseguite in parallelo.
-
 Relazioni tra le colonne di $U$: risolvo il sistema omogeneo aggiungendo la riga $\lambda_3=t$ (come in [[99_Dipendenza_Lineare_e_Vettori_Ridondanti]]):
 $$\left[\begin{array}{ccc|c}1&2&0&0\\0&1&1&0\\0&0&1&t\end{array}\right]\leadsto\left[\begin{array}{ccc|c}1&2&0&0\\0&1&0&-t\\0&0&1&t\end{array}\right]\leadsto\left[\begin{array}{ccc|c}1&0&0&2t\\0&1&0&-t\\0&0&1&t\end{array}\right]$$
 Con $t=1$:

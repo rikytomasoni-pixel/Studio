@@ -25,8 +25,6 @@ $$B\begin{bmatrix}a&b\\c&d\end{bmatrix}=\begin{bmatrix}1&2\\3&6\end{bmatrix}\beg
 $$V=\left\{\begin{bmatrix}a&b\\c&d\end{bmatrix}\in M_{\mathbb{R}}(2,2)\ \middle|\ \begin{cases}a+2c=0\\ b+2d=0\\ 3a+6c=0\\ 3b+6d=0\end{cases}\right\}$$
 Gli elementi di $V$ sono soluzioni di un **sistema omogeneo** (chiuse rispetto a somma e prodotto per scalari, vedi [[90_Sistemi_Omogenei_e_Chiusura_della_Somma]]), quindi $V$ è un sottospazio vettoriale.
 
-> [!warning] Da controllare sul quaderno
-> Nella frase iniziale della Strategia 2 la parola subito prima di «delle soluzioni di un sistema omogeneo» è di lettura incerta (letta «riconoscerlo come insieme»). Il senso è comunque chiaro dal seguito.
 
 > [!note] Osservazione (non presente negli appunti)
 > Le quattro equazioni si riducono a due indipendenti ($a+2c=0$ e $b+2d=0$; le altre due sono 3 volte le prime): è ciò che si vede in [[128_Fac_simile_ii_Dimensione_e_Basi_di_V_e_W]] con il MEG.
