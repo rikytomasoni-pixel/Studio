@@ -2651,6 +2651,28 @@
           }
         ],
         "id": 305
+      },
+      {
+        "date": "2026-11-02",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
+        "wordCountStart": 535,
+        "charCountStart": 3757,
+        "changes": [],
+        "id": 306
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
+        "wordCountStart": 535,
+        "charCountStart": 3757,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 307
       }
     ]
   }
