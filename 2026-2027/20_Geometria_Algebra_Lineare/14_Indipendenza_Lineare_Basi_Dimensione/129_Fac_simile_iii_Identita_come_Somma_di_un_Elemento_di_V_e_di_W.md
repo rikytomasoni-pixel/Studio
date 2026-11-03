@@ -22,9 +22,6 @@ $$\underbrace{\left(-\tfrac37\begin{bmatrix}-2&0\\1&0\end{bmatrix}+\tfrac17\begi
 
 **Risposta: sì.**
 
-> [!warning] Da controllare sul quaderno
-> Sotto le due parentesi graffe le etichette sono scritte «$A_1$ — $A_2$ = $\mathrm{Id}_2$»: il segno tra $A_1$ e $A_2$ è un tratto che ho letto come $+$ (la somma richiesta dal testo).
-
 > [!note] Osservazione (non presente negli appunti)
 > Calcolando i prodotti: $A_1=\begin{bmatrix}\frac67&-\frac27\\-\frac37&\frac17\end{bmatrix}\in V$ e $A_2=\begin{bmatrix}\frac17&\frac27\\\frac37&\frac67\end{bmatrix}\in W$ (verificato: $BA_1=\underline{0}$ e $A_1+A_2=\mathrm{Id}_2$). Inoltre la matrice dei coefficienti è stata ridotta a quattro pivot: i quattro vettori delle basi di $V$ e $W$ sono indipendenti e generano $M_{\mathbb{R}}(2,2)$ ($\dim=2+2=4$). Quindi **ogni** matrice $2\times2$ si scrive in modo unico come somma di un elemento di $V$ e uno di $W$, non solo $\mathrm{Id}_2$.
 

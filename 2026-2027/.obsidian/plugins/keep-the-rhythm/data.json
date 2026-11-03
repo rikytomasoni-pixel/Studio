@@ -2729,6 +2729,20 @@
           }
         ],
         "id": 311
+      },
+      {
+        "date": "2026-11-03",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W.md",
+        "wordCountStart": 593,
+        "charCountStart": 3520,
+        "changes": [
+          {
+            "timeKey": "21:50",
+            "w": -37,
+            "c": -228
+          }
+        ],
+        "id": 312
       }
     ]
   }
