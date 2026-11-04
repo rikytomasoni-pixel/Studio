@@ -5,6 +5,7 @@ tags:
   - sizeof
   - limits
   - float
+  - funzioni
 date: 2026-09-24
 materia: Fondamenti di Informatica
 fonte: Linguaggio C

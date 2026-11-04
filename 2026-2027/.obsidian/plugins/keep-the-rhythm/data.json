@@ -2997,8 +2997,13 @@
           },
           {
             "timeKey": "09:05",
-            "w": 6,
-            "c": 98
+            "w": 15,
+            "c": 224
+          },
+          {
+            "timeKey": "09:10",
+            "w": 15,
+            "c": 116
           }
         ],
         "id": 327
@@ -3042,6 +3047,54 @@
         "charCountStart": 143,
         "changes": [],
         "id": 332
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/10_Stringhe_in_C.md",
+        "wordCountStart": 97,
+        "charCountStart": 842,
+        "changes": [],
+        "id": 333
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/09_Array_Monodimensionali.md",
+        "wordCountStart": 181,
+        "charCountStart": 1206,
+        "changes": [],
+        "id": 334
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/08_Conversione_fra_Tipi.md",
+        "wordCountStart": 54,
+        "charCountStart": 578,
+        "changes": [],
+        "id": 335
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/07_sizeof_e_Librerie_limits_float.md",
+        "wordCountStart": 59,
+        "charCountStart": 621,
+        "changes": [],
+        "id": 336
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/05_Tipi_di_Dato.md",
+        "wordCountStart": 56,
+        "charCountStart": 761,
+        "changes": [],
+        "id": 337
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/04_Input_Output_e_Stream.md",
+        "wordCountStart": 114,
+        "charCountStart": 905,
+        "changes": [],
+        "id": 338
       }
     ]
   }

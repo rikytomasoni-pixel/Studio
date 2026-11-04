@@ -1,8 +1,9 @@
 ---
 tags:
-  - FdI/c/input-output
-  - FdI/c/tipi-di-dato
-  - FdI/c/struttura-programma
+  - funzioni
+  - FI
+  - input-output
+  - struttura-programma
 date: 2026-11-04
 materia: Fondamenti di Informatica
 fonte:
@@ -22,6 +23,10 @@ Gli input verranno chiamati **parametri formali** gli output **valori di ritorno
 ``` C
 int factorial(int);
 ```
+### Parametri Formali
+- zero o pù
+- di ogni tipo (primitivi, user-defined, scalari, composti)
+### Valore di ritorno
 ## Definizione
 
 Si da il nome ai parametri formali e si *dichiarano variabili locali* nel *corpo della funzione*
@@ -46,3 +51,4 @@ fatt = factorial(num);
 - [[05_Tipi_di_Dato]]
 - [[03_Struttura_di_un_Programma_C]]
 - [[04_Input_Output_e_Stream]]
+- [[19_Funzioni_Generalità]]
