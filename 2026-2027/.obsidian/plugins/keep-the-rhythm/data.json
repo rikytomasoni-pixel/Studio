@@ -3019,6 +3019,11 @@
             "timeKey": "09:40",
             "w": 40,
             "c": 298
+          },
+          {
+            "timeKey": "09:50",
+            "w": -2,
+            "c": -4
           }
         ],
         "id": 327
@@ -3110,6 +3115,38 @@
         "charCountStart": 905,
         "changes": [],
         "id": 338
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/84_Definizione_Successionale_di_Limite.md",
+        "wordCountStart": 257,
+        "charCountStart": 1794,
+        "changes": [],
+        "id": 339
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/85_Teorema_di_Unicita_del_Limite.md",
+        "wordCountStart": 161,
+        "charCountStart": 1188,
+        "changes": [],
+        "id": 340
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/86_Definizione_Topologica_di_Limite.md",
+        "wordCountStart": 468,
+        "charCountStart": 3336,
+        "changes": [],
+        "id": 341
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
+        "wordCountStart": 272,
+        "charCountStart": 2087,
+        "changes": [],
+        "id": 342
       }
     ]
   }
