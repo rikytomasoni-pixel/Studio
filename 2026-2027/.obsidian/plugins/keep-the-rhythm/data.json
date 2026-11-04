@@ -2977,8 +2977,13 @@
           },
           {
             "timeKey": "08:45",
-            "w": 15,
-            "c": 108
+            "w": 18,
+            "c": 125
+          },
+          {
+            "timeKey": "08:50",
+            "w": 0,
+            "c": 9
           }
         ],
         "id": 327
@@ -2990,6 +2995,22 @@
         "charCountStart": 15888,
         "changes": [],
         "id": 328
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/18_Switch.md",
+        "wordCountStart": 141,
+        "charCountStart": 1271,
+        "changes": [],
+        "id": 329
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/17_Numeri_di_Kaprekar.md",
+        "wordCountStart": 167,
+        "charCountStart": 1166,
+        "changes": [],
+        "id": 330
       }
     ]
   }
