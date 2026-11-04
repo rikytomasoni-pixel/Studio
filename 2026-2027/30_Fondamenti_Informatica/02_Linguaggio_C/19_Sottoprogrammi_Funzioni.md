@@ -53,6 +53,13 @@ Si da in pasto alla funzione i **parametri attuali** che devono avere una corris
 ```C
 fatt = factorial(num);
 ```
+![[Pasted image 20261104094016.png]]
+### Record di attivazione
+- Parametri
+- Variabili locali
+- ...
+Quando si chiama una funzione viene *allocato* un record di attivazione (o impilato) e quando incontra un return viene deallocato.
+Struttura LIFO (last in first out) formata di Pile (o Stack)
 ## Note collegate
 - [[05_Tipi_di_Dato]]
 - [[03_Struttura_di_un_Programma_C]]
