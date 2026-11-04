@@ -58,8 +58,8 @@ fatt = factorial(num);
 - Parametri
 - Variabili locali
 - ...
-Quando si chiama una funzione viene *allocato* un record di attivazione (o impilato) e quando incontra un return viene deallocato.
-Struttura LIFO (last in first out) formata di Pile (o Stack)
+Quando si chiama una funzione viene *allocato* un record di attivazione (o impilato) e quando *incontra un return viene deallocato*.
+**Struttura LIFO** (last in first out) formata di Pile (o Stack)
 ## Note collegate
 - [[05_Tipi_di_Dato]]
 - [[03_Struttura_di_un_Programma_C]]
