@@ -3161,6 +3161,44 @@
         "charCountStart": 1999,
         "changes": [],
         "id": 343
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "10_Analisi_1/00_MOC_Analisi_1.md",
+        "wordCountStart": 286,
+        "charCountStart": 9177,
+        "changes": [],
+        "id": 344
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "10_Analisi_1/03_Numeri_Complessi/15_Forma_Trigonometrica_Esponenziale.md",
+        "wordCountStart": 679,
+        "charCountStart": 4527,
+        "changes": [
+          {
+            "timeKey": "21:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 345
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "99_Tools/Excalidraw/Disegni Analisi1.md",
+        "wordCountStart": 6798,
+        "charCountStart": 233076,
+        "changes": [],
+        "id": 346
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
+        "wordCountStart": 266,
+        "charCountStart": 2413,
+        "changes": [],
+        "id": 347
       }
     ]
   }
