@@ -33,9 +33,11 @@ Specificando la forma esplicita degli intorni $\mathcal{U}(\ell)$, $\mathcal{U}(
 
 > [!abstract] $\displaystyle\lim_{x\to+\infty}f(x)=+\infty$
 > $\forall M>0\ \exists K>0$ tale che $\quad x>K\ \Rightarrow\ f(x)>M$
+> ![[LimiteInfInf.png]]
 
 > [!abstract] $\displaystyle\lim_{x\to+\infty}f(x)=-\infty$
 > $\forall M>0\ \exists K>0$ tale che $\quad x>K\ \Rightarrow\ f(x)<-M$
+> ![[LimInf-Inf.png]]
 
 Similmente per $\displaystyle\lim_{x\to-\infty}f(x)=+\infty$ e $\displaystyle\lim_{x\to-\infty}f(x)=-\infty$.
 

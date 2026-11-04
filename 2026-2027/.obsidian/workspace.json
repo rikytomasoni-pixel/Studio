@@ -4,89 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "74fbadcedbb8a3a2",
+        "id": "1609145f66c43198",
         "type": "tabs",
         "children": [
           {
-            "id": "d511662a93ee185c",
+            "id": "aff00f88170e11f1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "AM1 L13 26-27"
-            }
-          },
-          {
-            "id": "fc16086180d153b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "87_Definizioni_Metriche_di_Limite_all_Infinito"
-            }
-          },
-          {
-            "id": "61f7cb726213a3cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "89_Asintoto_Obliquo"
-            }
-          },
-          {
-            "id": "3b9583cd68c194a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "43_PageRank_e_Matrice_di_Google"
-            }
-          },
-          {
-            "id": "c701ce9e9ca264d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "44_Proprieta_del_Prodotto_Matriciale"
-            }
-          },
-          {
-            "id": "c3ea20b7951fb5ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "94_Sottospazi_Vettoriali"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -295,12 +223,20 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "d511662a93ee185c",
+  "active": "aff00f88170e11f1",
   "lastOpenFiles": [
-    "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
-    "99_Tools/Screenshots/Analisi1/Funzioni/LimiteFinito-Infinito 1.png",
+    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
+    "99_Tools/Screenshots/GAL/SottospaziVett.png",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
     "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf",
+    "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
+    "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
+    "99_Tools/Screenshots/Analisi1/Funzioni/LimInf-Inf.png",
+    "99_Tools/Screenshots/Analisi1/Funzioni/LimiteInfInf.png",
+    "99_Tools/Screenshots/Analisi1/Funzioni/LimiteFinito-Infinito 1.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/AsintotoObliquo.png",
     "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/L+.png",
@@ -308,22 +244,16 @@
     "99_Tools/Screenshots/Analisi1/Funzioni/L-.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/l+.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/LimiteFinito-Infinito.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/LimiteFinitoInfinito.png",
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
     "20_Geometria_Algebra_Lineare/99_Organizzazione/10_Organizzazione_del_Corso.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/83_Punti_di_Accumulazione.md",
-    "99_Tools/Screenshots/Analisi1/Funzioni/PuntiAccumulazione.png",
     "90_Lezioni_pdf/A1/AM1 L12 26-27.pdf",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
-    "99_Tools/Screenshots/Analisi1/Serie/LogXsuX.png",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
     "99_Tools/Screenshots/Analisi1/Serie",
     "99_Tools/Screenshots/Analisi1/Seire.md",
     "10_Analisi_1/07_Serie_a_Termini_Positivi/69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie.md",
     "99_Tools/Excalidraw/Disegni Analisi1.md",
     "90_Lezioni_pdf/A1/AM1 L9 26-27.pdf",
-    "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
-    "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
     "10_Analisi_1/05_Successioni_e_Limiti/42_Confronti_Asintotici_Proprieta_e_Notevoli.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261028 - LEZIONE 15.pdf",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W.md",
@@ -340,8 +270,6 @@
     "90_Lezioni_pdf/A1/AM1 L11 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L7 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L6 26-27.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261019 - LEZIONE 13.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261015 - LEZIONE 11.pdf",
     "Senza nome.canvas"
   ]
 }

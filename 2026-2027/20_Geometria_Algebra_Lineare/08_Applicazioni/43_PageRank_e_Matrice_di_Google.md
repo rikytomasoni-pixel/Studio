@@ -41,14 +41,6 @@ $$T = \begin{bmatrix} 0 & 1 & 0 \\ \tfrac12 & 0 & 1 \\ \tfrac12 & 0 & 0 \end{bma
 
 (Le potenze sono prodotti righe per colonne: [[41_Prodotto_Matriciale_Righe_per_Colonne]].)
 
-> [!example] Esempio (Python)
->
-> **DISEGNO NON RAPPRESENTABILE** — Tre grafici «Evoluzione PageRank» (iterazione 0, 3 e 10) di un grafo con 5 pagine (nodi $0,\dots,4$) colorate in base al PageRank; col passare delle iterazioni i colori cambiano (slide 42).
->
-> **Domande**
-> - è sempre vero che questo processo si stabilizza?
-> - è importante come allochiamo le masse iniziali?
-
 ## Note collegate
 - [[42_Prodotto_e_Composizione_di_Funzioni]]
 - [[41_Prodotto_Matriciale_Righe_per_Colonne]]

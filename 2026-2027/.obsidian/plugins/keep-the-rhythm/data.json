@@ -2834,6 +2834,11 @@
             "timeKey": "22:15",
             "w": 2,
             "c": 10
+          },
+          {
+            "timeKey": "22:20",
+            "w": 1,
+            "c": 42
           }
         ],
         "id": 318
@@ -2876,7 +2881,13 @@
         "filePath": "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
         "wordCountStart": 405,
         "charCountStart": 3023,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": -54,
+            "c": -380
+          }
+        ],
         "id": 321
       },
       {
@@ -2884,7 +2895,13 @@
         "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
         "wordCountStart": 326,
         "charCountStart": 2336,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": -59,
+            "c": -346
+          }
+        ],
         "id": 322
       },
       {
@@ -2892,7 +2909,13 @@
         "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
         "wordCountStart": 379,
         "charCountStart": 2816,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": -80,
+            "c": -494
+          }
+        ],
         "id": 323
       },
       {
