@@ -14,5 +14,19 @@ int factorial(int);
 ```
 # Definizione
 
+Si assegnano *variabili locali* e il *corpo della funzione*
+``` C
+int factorial(int n){
+	int fatt, i;
+	fatt = 1;
+	for(i = 2; i <= n; i++)
+		fatt *= i;
+		
+	return fatt;
+}
+```
 
-
+# Invocazione/Chiamata
+```C
+fatt = factorial()
+```
