@@ -7,7 +7,9 @@ tags:
 date: 2026-11-04
 materia: Fondamenti di Informatica
 fonte:
+
 ---
+
 ![[FunzioniC.png]]
 
 1. Riuso
@@ -29,7 +31,8 @@ int factorial(int);
 ### Valore di ritorno
 - al più 1 valore di ritotno
 - scalare (primitivo, user-defined), Struct [NO ARRAY]
-- opzione ```void```
+- opzione ```void``` -> *Procedure*
+
 ## Definizione
 
 Si da il nome ai parametri formali e si *dichiarano variabili locali* nel *corpo della funzione*

@@ -3,5 +3,5 @@
   "promptDelete": false,
   "defaultViewMode": "preview",
   "livePreview": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "visible"
 }

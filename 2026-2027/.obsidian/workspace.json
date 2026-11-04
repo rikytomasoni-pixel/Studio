@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.4504585266113
+    "width": 337.8643798828125
   },
   "right": {
     "id": "3beb91e54d21d6ea",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/102_Dimensione_di_uno_Spazio_Vettoriale.md",
+                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +237,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "4468fce9f1839445",
+  "active": "aff00f88170e11f1",
   "lastOpenFiles": [
     "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/04_Input_Output_e_Stream.md",
