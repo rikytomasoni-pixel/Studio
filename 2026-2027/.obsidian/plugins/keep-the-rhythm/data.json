@@ -2953,6 +2953,28 @@
           }
         ],
         "id": 326
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/Sottoprogrammi_Funzioni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": 7,
+            "c": 60
+          }
+        ],
+        "id": 327
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "99_Tools/Excalidraw/Disegni FI.md",
+        "wordCountStart": 494,
+        "charCountStart": 15888,
+        "changes": [],
+        "id": 328
       }
     ]
   }
