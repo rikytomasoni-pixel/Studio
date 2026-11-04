@@ -2956,7 +2956,7 @@
       },
       {
         "date": "2026-11-04",
-        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/Sottoprogrammi_Funzioni.md",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -2992,8 +2992,13 @@
           },
           {
             "timeKey": "09:00",
-            "w": 17,
-            "c": 95
+            "w": 31,
+            "c": 235
+          },
+          {
+            "timeKey": "09:05",
+            "w": 6,
+            "c": 98
           }
         ],
         "id": 327
@@ -3021,6 +3026,22 @@
         "charCountStart": 1166,
         "changes": [],
         "id": 330
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/11_Operazioni_sulle_Stringhe.md",
+        "wordCountStart": 192,
+        "charCountStart": 1369,
+        "changes": [],
+        "id": 331
+      },
+      {
+        "date": "2026-11-04",
+        "filePath": "99_Tools/Template/Template.md",
+        "wordCountStart": 14,
+        "charCountStart": 143,
+        "changes": [],
+        "id": 332
       }
     ]
   }
