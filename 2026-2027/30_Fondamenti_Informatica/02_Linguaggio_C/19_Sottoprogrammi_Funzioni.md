@@ -27,6 +27,9 @@ int factorial(int);
 - zero o pù
 - di ogni tipo (primitivi, user-defined, scalari, composti)
 ### Valore di ritorno
+- al più 1 valore di ritotno
+- scalare (primitivo, user-defined), Struct [NO ARRAY]
+- opzione ```void```
 ## Definizione
 
 Si da il nome ai parametri formali e si *dichiarano variabili locali* nel *corpo della funzione*
