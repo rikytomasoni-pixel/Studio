@@ -23,7 +23,7 @@ Specificando la forma esplicita degli intorni $\mathcal{U}(\ell)$, $\mathcal{U}(
 > [!abstract] $\displaystyle\lim_{x\to-\infty}f(x)=\ell$
 > $\forall\varepsilon>0\ \exists M>0$ tale che
 > $$x<-M\ \Rightarrow\ f(x)\in(\ell-\varepsilon,\ell+\varepsilon)\quad\text{cioè}\quad|f(x)-\ell|<\varepsilon$$
-> ![[LimiteFinito-Infinito 1.png]]
+> ![[LimiteFinito-Inf.png]]
 
 
 > [!example] Esempi

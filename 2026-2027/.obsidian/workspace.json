@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1609145f66c43198",
+        "id": "3a455b7308f37522",
         "type": "tabs",
         "children": [
           {
-            "id": "e674e82727f98544",
+            "id": "c868c305137d4cd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "87_Definizioni_Metriche_di_Limite_all_Infinito"
-            }
-          },
-          {
-            "id": "cc9120de88b38cfe",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "AM1 L13 26-27"
+              "title": "Nuova scheda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +143,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -240,10 +220,13 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "cc9120de88b38cfe",
+  "active": "c868c305137d4cd1",
   "lastOpenFiles": [
-    "99_Tools/Excalidraw/Disegni FI.md",
+    "90_Lezioni_pdf/A1/AM1 L13 26-27.pdf",
+    "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
+    "99_Tools/Screenshots/Analisi1/Funzioni/LimiteFinito-Inf.png",
+    "99_Tools/Excalidraw/Disegni FI.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/86_Definizione_Topologica_di_Limite.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/85_Teorema_di_Unicita_del_Limite.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/84_Definizione_Successionale_di_Limite.md",
@@ -256,7 +239,6 @@
     "99_Tools/Screenshots/Analisi1/Funzioni/L+.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/L-.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/ImmagineDiF.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/GraficoTgx.png",
     "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/04_Input_Output_e_Stream.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/05_Tipi_di_Dato.md",
@@ -277,17 +259,14 @@
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261009 - EE1 MATRICE SOMMA DI RANGO 1.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261008 - LEZIONE 7.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261007 - LEZIONE 6.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
     "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
-    "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
     "20_Geometria_Algebra_Lineare/99_Organizzazione/10_Organizzazione_del_Corso.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/83_Punti_di_Accumulazione.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/79_Esempio_Serie_Alternata_log_n_su_n.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz.md",
-    "99_Tools/Screenshots/Analisi1/Seire.md",
     "Senza nome.canvas"
   ]
 }
