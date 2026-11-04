@@ -30,8 +30,21 @@
               "icon": "lucide-git-fork",
               "title": "Vista grafo"
             }
+          },
+          {
+            "id": "cc9120de88b38cfe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "99_Tools/Excalidraw/Disegni FI.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Disegni FI"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
+                "file": "99_Tools/Excalidraw/Disegni FI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
+                "file": "99_Tools/Excalidraw/Disegni FI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
+                "file": "99_Tools/Excalidraw/Disegni FI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -237,7 +250,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "aff00f88170e11f1",
+  "active": "cc9120de88b38cfe",
   "lastOpenFiles": [
     "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/04_Input_Output_e_Stream.md",
