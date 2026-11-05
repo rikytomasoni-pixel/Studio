@@ -29,7 +29,6 @@ ptr = &x //il puntatore punta all'indirizzo di x;
 puntatore -> (operatore di dereferenziazione) puntatore -> valore
 ``` C
 printf("%f\n", *ptn); //scrive il valore alla variabile a cui punta ptr
-
 ```
 
 
