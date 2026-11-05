@@ -61,7 +61,11 @@ fatt = factorial(num);
 Quando si chiama una funzione viene *allocato* un record di attivazione (o impilato) e quando *incontra un return viene deallocato*.
 **Struttura LIFO** (last in first out) formata di Pile (o Stack)
 ## Note collegate
+
+- [[00_MOC_FdI]]
 - [[05_Tipi_di_Dato]]
 - [[03_Struttura_di_un_Programma_C]]
 - [[04_Input_Output_e_Stream]]
 - [[19_Funzioni_Generalità]]
+
+#FdI/c/Funzioni

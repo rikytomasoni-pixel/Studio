@@ -26,7 +26,9 @@ float *ptr;
 ptr = &x //il puntatore punta all'indirizzo di x;
 ```
 
-> [!NO
+``` C
+float *ptr1 = NULL; //dobbiamo ancora assegnare un indirizzo al puntatore
+```
 
 ## Operazione di dereferenziazione
 puntatore -> (operatore di dereferenziazione) puntatore -> valore
@@ -46,4 +48,5 @@ printf("%f\n", *ptn); //scrive il valore alla variabile a cui punta ptr
 - [[05_Tipi_di_Dato]]
 - [[FunzioniC.png]]
 
-#materia/argomento/sottoargomento
+#FdI/c/puntatori
+
