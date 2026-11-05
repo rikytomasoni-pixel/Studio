@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
+                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19_Sottoprogrammi_Funzioni"
+              "title": "20_Puntatori"
             }
           }
         ]
@@ -228,6 +228,8 @@
   },
   "active": "c868c305137d4cd1",
   "lastOpenFiles": [
+    "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/LimInf-Inf.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/L+.png",
@@ -249,7 +251,6 @@
     "99_Tools/Screenshots/Analisi1/Funzioni/LimiteFinito-Infinito.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/L-.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/ImmagineDiF.png",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/04_Input_Output_e_Stream.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/05_Tipi_di_Dato.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/07_sizeof_e_Librerie_limits_float.md",
@@ -273,7 +274,6 @@
     "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
     "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
-    "20_Geometria_Algebra_Lineare/99_Organizzazione/10_Organizzazione_del_Corso.md",
     "Senza nome.canvas"
   ]
 }

@@ -3213,6 +3213,20 @@
           }
         ],
         "id": 348
+      },
+      {
+        "date": "2026-11-05",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": 1,
+            "c": 12
+          }
+        ],
+        "id": 349
       }
     ]
   }
