@@ -9,7 +9,6 @@ materia: Fondamenti di Informatica
 fonte:
 
 ---
-
 ![[FunzioniC.png]]
 
 1. Riuso

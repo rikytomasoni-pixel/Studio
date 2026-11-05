@@ -3210,6 +3210,11 @@
             "timeKey": "10:25",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "10:45",
+            "w": 0,
+            "c": -1
           }
         ],
         "id": 348
@@ -3224,9 +3229,49 @@
             "timeKey": "10:40",
             "w": 1,
             "c": 12
+          },
+          {
+            "timeKey": "10:45",
+            "w": -1,
+            "c": -12
+          },
+          {
+            "timeKey": "10:45",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 349
+      },
+      {
+        "date": "2026-11-05",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/Senza nome.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:45",
+            "w": 39,
+            "c": 315
+          }
+        ],
+        "id": 350
+      },
+      {
+        "date": "2026-11-05",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/05_Tipi_di_Dato.md",
+        "wordCountStart": 56,
+        "charCountStart": 761,
+        "changes": [],
+        "id": 351
+      },
+      {
+        "date": "2026-11-05",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/06_Tipi_Semplici_Int_Char_Float_Double.md",
+        "wordCountStart": 114,
+        "charCountStart": 999,
+        "changes": [],
+        "id": 352
       }
     ]
   }
