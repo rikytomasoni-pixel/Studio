@@ -3382,6 +3382,20 @@
           }
         ],
         "id": 355
+      },
+      {
+        "date": "2026-11-05",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 14,
+            "c": 143
+          }
+        ],
+        "id": 356
       }
     ]
   }
