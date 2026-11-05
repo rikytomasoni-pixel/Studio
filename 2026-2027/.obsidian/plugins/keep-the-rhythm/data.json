@@ -3199,6 +3199,20 @@
         "charCountStart": 2413,
         "changes": [],
         "id": 347
+      },
+      {
+        "date": "2026-11-05",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
+        "wordCountStart": 180,
+        "charCountStart": 1473,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 348
       }
     ]
   }
