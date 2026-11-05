@@ -46,7 +46,7 @@ printf("%f\n", *ptn); //scrive il valore alla variabile a cui punta ptr
 ## Passaggio per indirizzo
 Similmente al passaggio per copia di [[FunzioniC.png]]
 ```C
-void swap(int *x, int *y){
+void swap(int *x, int *y){ //puntatori come parametri formali
 	int temp;
 	temp = *x;
 	*x = *y;
@@ -55,7 +55,7 @@ void swap(int *x, int *y){
 int main(){
 	int a, b;
 	scanf("%d%d",&a,&b);
-	swap(&a,&b);
+	swap(&a,&b);//parametri attuali come indirizzi
 	printf("%d, %d\n",a,b);
 	return 0;
 }
