@@ -11,7 +11,7 @@ fonte:
 Ogni dato è assegnato ad un indirizzo di memoria.
 Il puntatore è una *variabile che ospita un indirizzo di memoria*
 
-- & operatore di referenziazione (associa alla variabie l'indirizzo)
+- & **operatore di referenziazione** (associa alla variabie l'indirizzo)
 - %p carattere di formato
 
 ```C
@@ -25,6 +25,9 @@ printf("%p\n",&x);
 float *ptr;
 ptr = &x //il puntatore punta all'indirizzo di x;
 ```
+
+> [!NO
+
 ## Operazione di dereferenziazione
 puntatore -> (operatore di dereferenziazione) puntatore -> valore
 ``` C
@@ -34,6 +37,9 @@ printf("%f\n", *ptn); //scrive il valore alla variabile a cui punta ptr
 > [!important] Tipizzazione dei puntatori
 > I puntatori sono tipizzati perché diversamente non potrebbe funzionare la dereferenziazione
 
+
+> [!WARNING] Puntatore a Void
+> Il puntatore di tipo void non è tipizzato, ma non può essere dereferenziato se non tramite casting
 
 ## Note collegate
 - [[00_MOC_FdI]]
