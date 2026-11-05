@@ -20,7 +20,14 @@ printf("%p\n",&x);
 ```
 
 ## Dichiarazione
-type *identificatore
+``` C
+<tipo> *<identificatore>
+float *ptr;
+ptr = &x //il puntatore punta all'indirizzo di x;
+```
+## Operazione di dereferenziazione
+%puntatore% -> (operatore di dereferenziazione) puntatore -> valore
+
 ## Note collegate
 - [[00_MOC_FdI]]
 - [[05_Tipi_di_Dato]]
