@@ -3232,20 +3232,25 @@
           },
           {
             "timeKey": "10:45",
-            "w": -1,
-            "c": -12
+            "w": 39,
+            "c": 315
           },
           {
-            "timeKey": "10:45",
+            "timeKey": "10:50",
+            "w": 20,
+            "c": 201
+          },
+          {
+            "timeKey": "10:55",
             "w": 0,
-            "c": 0
+            "c": 4
           }
         ],
         "id": 349
       },
       {
         "date": "2026-11-05",
-        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/Senza nome.md",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3253,6 +3258,16 @@
             "timeKey": "10:45",
             "w": 39,
             "c": 315
+          },
+          {
+            "timeKey": "10:50",
+            "w": 20,
+            "c": 201
+          },
+          {
+            "timeKey": "10:55",
+            "w": 0,
+            "c": 4
           }
         ],
         "id": 350
@@ -3272,6 +3287,36 @@
         "charCountStart": 999,
         "changes": [],
         "id": 352
+      },
+      {
+        "date": "2026-11-05",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/03_Struttura_di_un_Programma_C.md",
+        "wordCountStart": 54,
+        "charCountStart": 569,
+        "changes": [],
+        "id": 353
+      },
+      {
+        "date": "2026-11-05",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/04_Input_Output_e_Stream.md",
+        "wordCountStart": 115,
+        "charCountStart": 918,
+        "changes": [],
+        "id": 354
+      },
+      {
+        "date": "2026-11-05",
+        "filePath": "30_Fondamenti_Informatica/00_MOC_FdI.md",
+        "wordCountStart": 216,
+        "charCountStart": 2070,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": 4,
+            "c": 75
+          }
+        ],
+        "id": 355
       }
     ]
   }

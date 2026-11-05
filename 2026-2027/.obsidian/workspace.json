@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/06_Tipi_Semplici_Int_Char_Float_Double.md",
+                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_Tipi_Semplici_Int_Char_Float_Double"
+              "title": "20_Puntatori"
             }
           }
         ]
@@ -229,9 +229,12 @@
   "active": "c868c305137d4cd1",
   "lastOpenFiles": [
     "30_Fondamenti_Informatica/02_Linguaggio_C/05_Tipi_di_Dato.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/Senza nome.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
+    "30_Fondamenti_Informatica/00_MOC_FdI.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/04_Input_Output_e_Stream.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/03_Struttura_di_un_Programma_C.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/06_Tipi_Semplici_Int_Char_Float_Double.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
     "10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile/73_Convergenza_Assoluta_e_Semplice.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/LimInf-Inf.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/L+.png",
@@ -253,7 +256,6 @@
     "99_Tools/Screenshots/Analisi1/Funzioni/LimiteFinito-Infinito.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/L-.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/ImmagineDiF.png",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/04_Input_Output_e_Stream.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/07_sizeof_e_Librerie_limits_float.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/08_Conversione_fra_Tipi.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/09_Array_Monodimensionali.md",
@@ -272,8 +274,6 @@
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261008 - LEZIONE 7.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261007 - LEZIONE 6.pdf",
     "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/94_Sottospazi_Vettoriali.md",
-    "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
-    "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
     "Senza nome.canvas"
   ]
 }
