@@ -4,7 +4,7 @@ date:
 materia:
 fonte:
 ---
-# Titolo
+# Regole di Visibilità (Scope Rules)
 
 Contenuto della nota.
 
