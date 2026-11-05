@@ -31,6 +31,9 @@ puntatore -> (operatore di dereferenziazione) puntatore -> valore
 printf("%f\n", *ptn); //scrive il valore alla variabile a cui punta ptr
 ```
 
+> [!important] Tipizzazione dei puntatori
+> I puntatori sono tipizzati perché diversamente non potrebbe funzionare la dereferenziazione
+
 
 ## Note collegate
 - [[00_MOC_FdI]]
