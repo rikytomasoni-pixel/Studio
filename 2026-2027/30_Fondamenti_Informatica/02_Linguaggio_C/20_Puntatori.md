@@ -26,7 +26,12 @@ float *ptr;
 ptr = &x //il puntatore punta all'indirizzo di x;
 ```
 ## Operazione di dereferenziazione
-%puntatore% -> (operatore di dereferenziazione) puntatore -> valore
+puntatore -> (operatore di dereferenziazione) puntatore -> valore
+``` C
+printf("%f\n", *ptn); //scrive il valore alla variabile a cui punta ptr
+
+```
+
 
 ## Note collegate
 - [[00_MOC_FdI]]
