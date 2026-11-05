@@ -43,6 +43,23 @@ printf("%f\n", *ptn); //scrive il valore alla variabile a cui punta ptr
 > [!WARNING] Puntatore a Void
 > Il puntatore di tipo void non è tipizzato, ma non può essere dereferenziato se non tramite casting
 
+## Passaggio per indirizzo
+Similmente al passaggio per copia di [[FunzioniC.png]]
+```C
+void swap(int *x, int *y){
+	int temp;
+	temp = *x;
+	*x = *y;
+	*y = temp;
+}
+int main(){
+	int a, b;
+	scanf("%d%d",&a,&b);
+	swap(&a,&b);
+	printf("%d, %d\n",a,b);
+	return 0;
+}
+```
 ## Note collegate
 - [[00_MOC_FdI]]
 - [[05_Tipi_di_Dato]]
