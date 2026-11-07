@@ -4,7 +4,7 @@ tags:
   - puntatori
   - indirizzi-di-memoria
 date: 2026-11-05
-materia:
+materia: Fondamenti di Informatica
 fonte:
 ---
 # Puntatori

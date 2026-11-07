@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#FdI",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,7 +226,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "c868c305137d4cd1",
+  "active": "0ba7c57d61bd7477",
   "lastOpenFiles": [
     "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",

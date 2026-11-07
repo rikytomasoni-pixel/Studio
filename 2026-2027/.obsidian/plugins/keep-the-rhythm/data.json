@@ -3279,6 +3279,11 @@
             "timeKey": "11:50",
             "w": 23,
             "c": 140
+          },
+          {
+            "timeKey": "12:40",
+            "w": 3,
+            "c": 26
           }
         ],
         "id": 349
@@ -3333,6 +3338,11 @@
             "timeKey": "11:50",
             "w": 23,
             "c": 140
+          },
+          {
+            "timeKey": "12:40",
+            "w": 3,
+            "c": 26
           }
         ],
         "id": 350
@@ -3408,9 +3418,22 @@
             "timeKey": "12:35",
             "w": 52,
             "c": 314
+          },
+          {
+            "timeKey": "12:40",
+            "w": 10,
+            "c": 181
           }
         ],
         "id": 356
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
+        "wordCountStart": 91,
+        "charCountStart": 778,
+        "changes": [],
+        "id": 357
       }
     ]
   }
