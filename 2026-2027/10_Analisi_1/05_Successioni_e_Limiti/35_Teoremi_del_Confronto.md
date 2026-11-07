@@ -67,6 +67,7 @@ $$\lim_{n\to\infty} \dfrac{\sin n}{n} = \lim_{n\to\infty} b_n\cdot c_n = 0$$
 anche se $\nexists\, \lim_{n\to\infty} \sin n$.
 
 ### Note collegate
+- [[100_Teorema_del_Confronto_per_Limiti_di_Funzioni]] (versione per funzioni, L14)
 - [[00_MOC_Analisi_1]]
 - [[30_Limiti_di_Successioni]]
 - [[33_Teorema_Permanenza_del_Segno]]

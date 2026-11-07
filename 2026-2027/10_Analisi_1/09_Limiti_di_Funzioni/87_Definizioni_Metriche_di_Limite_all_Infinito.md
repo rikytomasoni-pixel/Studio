@@ -47,6 +47,7 @@ Similmente per $\displaystyle\lim_{x\to-\infty}f(x)=+\infty$ e $\displaystyle\li
 > $$\lim_{x\to-\infty}e^{-x}=+\infty\qquad\qquad\lim_{x\to+\infty}\log x=+\infty$$
 
 ## Note collegate
+- Prosegue con [[90_Limite_Infinito_in_un_Punto_Finito]] e [[92_Limite_Finito_in_un_Punto_Finito]] (L14)
 - [[86_Definizione_Topologica_di_Limite]]
 - [[88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto]]
 - [[89_Asintoto_Obliquo]]

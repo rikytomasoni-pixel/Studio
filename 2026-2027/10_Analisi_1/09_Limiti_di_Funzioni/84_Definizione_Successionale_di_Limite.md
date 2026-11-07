@@ -41,6 +41,7 @@ fonte: "AM1 L13 26-27.pdf (pag. 4-6)"
 > $$\lim_{n\to\infty}\sin z_n=-1\neq1=\lim_{n\to\infty}\sin x_n\ \Rightarrow\ \nexists\lim_{x\to+\infty}\sin x$$
 
 ## Note collegate
+- [[93_Continuita_in_un_Punto]] e [[95_Funzione_di_Dirichlet]] (applicazioni, L14)
 - [[83_Punti_di_Accumulazione]]
 - [[85_Teorema_di_Unicita_del_Limite]]
 - [[86_Definizione_Topologica_di_Limite]]

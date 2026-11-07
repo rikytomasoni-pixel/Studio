@@ -25,6 +25,7 @@ Per $\varepsilon_n\to0$:
 Gli appunti terminano con dei puntini di sospensione ("..."), a indicare che l'elenco prosegue (vedi anche la tabella completa in [[42_Confronti_Asintotici_Proprieta_e_Notevoli]]).
 
 ## Note collegate
+- [[108_Limiti_Notevoli_di_Funzioni]] (versione per funzioni, L15) e [[118_Dimostrazione_dei_Limiti_Notevoli]]
 - [[42_Confronti_Asintotici_Proprieta_e_Notevoli]]
 - [[43_Asintotici_con_Funzioni_Composte]]
 - [[44_Esempio_Asintotici_con_Logaritmo_e_Arctan]]

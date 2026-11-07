@@ -28,6 +28,7 @@ fonte: "GAL_2026-2027_-_20261015_-_LEZIONE_11.pdf (slide 102)"
 Esempi: [[92_Esempi_di_Spazi_Vettoriali]]. Conseguenze delle proprietà: [[93_Proprieta_Fondamentali_degli_Spazi_Vettoriali]]. Sottoinsiemi che sono a loro volta spazi vettoriali: [[94_Sottospazi_Vettoriali]].
 
 ## Note collegate
+- [[136_Applicazioni_Lineari_Definizione_17_1]] (omomorfismi tra spazi vettoriali, L17)
 - [[92_Esempi_di_Spazi_Vettoriali]]
 - [[93_Proprieta_Fondamentali_degli_Spazi_Vettoriali]]
 - [[94_Sottospazi_Vettoriali]]

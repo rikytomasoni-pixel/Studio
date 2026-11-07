@@ -33,6 +33,7 @@ Sia $\dim(V)=n$ e consideriamo $n$ vettori $\{\underline{v}_1,\dots,\underline{v
 > - *Indipendenti $\Rightarrow$ generatori.* Se non generassero $V$, per il N.B. precedente si potrebbe aggiungere $\underline{u}$ restando indipendenti, ottenendo $n+1$ vettori indipendenti: assurdo perché il massimo è $\dim V=n$.
 
 ## Note collegate
+- [[132_Significato_della_Dimensione_Seconda_Parte]] (seconda parte, L16)
 - [[117_Lemma_Fondamentale_Teorema_15_1]]
 - [[118_Teorema_della_Dimensione_Teorema_15_2]]
 - [[102_Dimensione_di_uno_Spazio_Vettoriale]]

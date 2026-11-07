@@ -55,6 +55,7 @@ $f$ invertibile e **non** monotona, con inversa $f^{-1}:[0,2]\to\mathbb{R}$:
 $$f^{-1}(y) = \begin{cases} y & y\in[0,1) \\ 3-y & y\in[1,2] \end{cases}$$
 
 ### Note collegate
+- [[116_Continuita_e_Invertibilita]] (caso di funzioni continue su un intervallo, L16)
 - [[00_MOC_Analisi_1]]
 - [[23_Monotonia]] — definizione di funzione monotona
 - [[26_Iniettivita_Suriettivita_Inversa]] — iniettività e funzione inversa

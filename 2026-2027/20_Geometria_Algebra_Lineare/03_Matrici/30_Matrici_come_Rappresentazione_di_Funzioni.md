@@ -55,6 +55,7 @@ fonte: "GAL_2026-2027_-_20260930_-_LEZIONE_3.pdf (slide 22-25)"
 Ora definiamo le matrici in generale → [[32_Definizione_di_Matrice]].
 
 ## Note collegate
+- [[136_Applicazioni_Lineari_Definizione_17_1]] e [[144_Applicazioni_Lineari_da_Kn_a_Km_e_Matrice_Associata]] (L17)
 - [[11_Prodotto_Cartesiano]]
 - [[16_Funzioni]]
 - [[32_Definizione_di_Matrice]]

@@ -1,8 +1,8 @@
 ---
 tags: [GAL, MOC, indice-generale]
-data: 2026-11-03
-lezione: 0-15
-fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11, 13 e 15)"
+data: 2026-11-07
+lezione: 0-17
+fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11, 13 e 15-17)"
 ---
 
 # MOC — Geometria e Algebra Lineare A.A. 2026-2027
@@ -22,9 +22,11 @@ flowchart LR
     H --> I[Spazi affini]
     I --> J[Spazi vettoriali]
     J --> K[Indipendenza lineare, basi e dimensione]
+    K --> L[Somma, intersezione e Grassmann]
+    K --> M[Applicazioni lineari]
 ```
 
-Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Matrici` · `04_Matrice_Inversa` · `05_Metodo_di_Eliminazione_di_Gauss` · `06_Rango` · `07_Determinante` · `08_Applicazioni` · `09_Organizzazione` · `10_Indici_Lezioni` · `11_Sistemi_Lineari` · `12_Spazi_Affini` · `13_Spazi_Vettoriali` · `14_Indipendenza_Lineare_Basi_Dimensione`
+Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Matrici` · `04_Matrice_Inversa` · `05_Metodo_di_Eliminazione_di_Gauss` · `06_Rango` · `07_Determinante` · `08_Applicazioni` · `09_Organizzazione` · `10_Indici_Lezioni` · `11_Sistemi_Lineari` · `12_Spazi_Affini` · `13_Spazi_Vettoriali` · `14_Indipendenza_Lineare_Basi_Dimensione` · `15_Somma_Intersezione_e_Grassmann` · `16_Applicazioni_Lineari`
 
 ## Linea cronologica
 
@@ -48,6 +50,8 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 | 13 | 2026-10-19 | Combinazioni lineari e span; generatori; vettori linearmente indipendenti; base; teorema di unicità della rappresentazione; dimensione | [[14_Indice_Lezione_13]] |
 | 14 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L13 termina a 118 e L15 inizia a 119) | — |
 | 15 | 2026-10-28 | Lemma fondamentale; teorema della dimensione; significato della dimensione; spazi finitamente generati; basi canoniche; estrazione e completamento di una base; fac-simile d'esame | [[16_Indice_Lezione_15]] |
+| 16 | 2026-11-04 | Riepilogo sul rango; spazio delle righe e delle colonne; la dimensione come misura; intersezione e somma di sottospazi; formula di Grassmann | [[17_Indice_Lezione_16]] |
+| 17 | 2026-11-05 | Applicazioni lineari (definizione, esempi, proprietà); composizione e inversione; come definire un'applicazione lineare su una base | [[18_Indice_Lezione_17]] |
 
 ## Fondamenti teorici — insiemi, relazioni, funzioni
 - [[11_Prodotto_Cartesiano]] — Prodotto cartesiano *(L0)*
@@ -108,6 +112,8 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[109_EE1_Riduzione_a_Scala_di_A]] — EE1: riduzione a scala *(esercizi 09-10)*
 - [[110_EE1_Fattorizzazione_con_Matrici_Elementari]] — EE1: matrici elementari e $A=PLU$ *(esercizi 09-10)*
 - [[111_EE1_Somma_di_Tre_Matrici_di_Rango_1]] — EE1: somma di tre matrici di rango 1 *(esercizi 09-10)*
+- [[130_Riepilogo_sulle_Definizioni_di_Rango]] — Riepilogo sulle definizioni di rango *(L16)*
+- [[131_Spazio_delle_Righe_e_delle_Colonne]] — Spazio delle righe e delle colonne, $r(A)=\dim\operatorname{col}(A)$ *(L16)*
 
 ## Determinante
 - [[65_Determinante_Sviluppo_di_Laplace]] — Determinante: sviluppo di Laplace *(L6)*
@@ -177,6 +183,23 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[127_Fac_simile_i_V_e_un_Sottospazio_Due_Strategie]] — Fac-simile (i): $V$ è un sottospazio *(esercizi)*
 - [[128_Fac_simile_ii_Dimensione_e_Basi_di_V_e_W]] — Fac-simile (ii): dimensione e basi di $V$ e $W$ *(esercizi)*
 - [[129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W]] — Fac-simile (iii): $\mathrm{Id}_2=A_1+A_2$ *(esercizi)*
+- [[132_Significato_della_Dimensione_Seconda_Parte]] — Significato della dimensione (II): la dimensione è una misura *(L16)*
+
+## Somma, intersezione e formula di Grassmann
+- [[133_Intersezione_di_Sottospazi_Vettoriali]] — Intersezione di sottospazi *(L16)*
+- [[134_Unione_di_Sottospazi_e_Sottospazio_Somma]] — Unione di sottospazi e sottospazio somma *(L16)*
+- [[135_Formula_di_Grassmann_Teorema_16_3]] — Formula di Grassmann (Teorema 16.3) *(L16)*
+
+## Applicazioni lineari
+- [[136_Applicazioni_Lineari_Definizione_17_1]] — Applicazioni lineari (Definizione 17.1) *(L17)*
+- [[137_Esempi_di_Applicazioni_Lineari_Matrici_Trasposizione_Traccia]] — Esempi: $L_A$, trasposizione, traccia *(L17)*
+- [[138_Derivata_come_Applicazione_Lineare]] — La derivata come applicazione lineare *(L17)*
+- [[139_Proprieta_delle_Applicazioni_Lineari]] — Proprietà: $L(\underline{0})=\underline{0}$, combinazioni lineari *(L17)*
+- [[140_Esempi_e_Controesempi_di_Applicazioni_Lineari]] — Esempi e controesempi *(L17)*
+- [[141_Composizione_e_Inversione_di_Applicazioni_Lineari]] — Composizione e inversione: $L_B\circ L_A=L_{BA}$ *(L17)*
+- [[142_Come_Definire_una_Applicazione_Lineare_Proposizione_17_2]] — Come definire un'applicazione lineare (Prop. 17.2) *(L17)*
+- [[143_Esempio_Applicazione_Lineare_da_Polinomi_a_Matrici]] — Esempio: $\mathbb{R}[t]_{\le2}\to M(2,2)$ *(L17)*
+- [[144_Applicazioni_Lineari_da_Kn_a_Km_e_Matrice_Associata]] — Applicazioni $\mathbb{K}^n\to\mathbb{K}^m$ e matrice associata *(L17)*
 
 ## Note collegate
 - [[01_Indice_Lezione_0]]
@@ -191,5 +214,7 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[12_Indice_Lezione_11]]
 - [[14_Indice_Lezione_13]]
 - [[16_Indice_Lezione_15]]
+- [[17_Indice_Lezione_16]]
+- [[18_Indice_Lezione_17]]
 
 #GAL/moc

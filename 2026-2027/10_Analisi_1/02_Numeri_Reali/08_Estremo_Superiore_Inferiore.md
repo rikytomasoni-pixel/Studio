@@ -99,6 +99,7 @@ Sia $E\subseteq \mathbb{R}$ non vuoto e limitato dal basso. $x_1\in\mathbb{R}$ �
    *(ogni $h>x_1$ non è minorante di $E$, cioè $x_1$ è il più grande minorante)*
 
 ### Note collegate
+- [[112_Teorema_di_Weierstrass]] (uso di sup/inf, L16)
 - [[00_MOC_Analisi_1]]
 - [[07_Insiemi_Limitati_Max_Min]] — insiemi limitati, massimo e minimo
 - [[06_Campi_Ordinati]] — campo ordinato

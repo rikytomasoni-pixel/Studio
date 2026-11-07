@@ -22,6 +22,7 @@ $$\{\underline{v}_1,\underline{v}_2,\underline{e}_1\}.$$
 > I vettori $\underline{v}_1,\dots,\underline{v}_k$ sono indipendenti e messi per primi, quindi hanno sempre un pivot e vengono sempre conservati: l'estrazione scarta solo vettori canonici. Verifica: $\det\begin{bmatrix}1&0&1\\0&1&0\\1&1&0\end{bmatrix}=-1\neq0$.
 
 ## Note collegate
+- [[135_Formula_di_Grassmann_Teorema_16_3]] (uso del completamento nella dimostrazione, L16)
 - [[122_Estrazione_e_Completamento_Due_Problemi_Classici]]
 - [[124_Estrazione_di_una_Base_con_i_Pivot_delle_Colonne]]
 - [[121_Basi_Canoniche]]

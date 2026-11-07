@@ -35,6 +35,7 @@ Esempio: $S=\{\underline{x}\in\mathbb{K}^n\mid A\underline{x}=\underline{0}\}\su
 ![[SottospaziVett.png]]
 
 ## Note collegate
+- [[133_Intersezione_di_Sottospazi_Vettoriali]] e [[134_Unione_di_Sottospazi_e_Sottospazio_Somma]] (L16)
 - [[91_Spazio_Vettoriale_Definizione]]
 - [[92_Esempi_di_Spazi_Vettoriali]]
 - [[93_Proprieta_Fondamentali_degli_Spazi_Vettoriali]]

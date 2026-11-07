@@ -45,6 +45,7 @@ Per assurdo sia $l<0$. Per la parte (1) appena dimostrata deve essere $a_n<0$ de
 Quindi $l\geq 0$. Similmente se $a_n\leq 0$ e $\exists\, l=\lim_{n\to\infty} a_n$. $\blacksquare$
 
 ### Note collegate
+- [[101_Teorema_di_Permanenza_del_Segno_per_Funzioni]] (versione per funzioni, L14)
 - [[00_MOC_Analisi_1]]
 - [[30_Limiti_di_Successioni]] — definizione di limite
 - [[34_Algebra_dei_Limiti]] — corollario che combina permanenza del segno e algebra dei limiti

@@ -3,13 +3,13 @@ tags:
   - AM1
   - MOC
   - indice
-data: 2026-10-25
+data: 2026-11-07
 corso: Analisi Matematica 1
 ---
 
 # Analisi Matematica 1 — Indice Generale
 
-Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti` · `06_Serie` · `07_Serie_a_Termini_Positivi` · `08_Serie_a_Termini_di_Segno_Variabile` · `09_Limiti_di_Funzioni`
+Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti` · `06_Serie` · `07_Serie_a_Termini_Positivi` · `08_Serie_a_Termini_di_Segno_Variabile` · `09_Limiti_di_Funzioni` · `10_Continuita` · `11_Proprieta_Globali_Funzioni_Continue`
 
 ## Fondamenti: insiemi e logica
 - [[01_Insiemi_Numerici]]
@@ -117,6 +117,39 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 - [[87_Definizioni_Metriche_di_Limite_all_Infinito]]
 - [[88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto]]
 - [[89_Asintoto_Obliquo]]
+- [[90_Limite_Infinito_in_un_Punto_Finito]]
+- [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]]
+- [[92_Limite_Finito_in_un_Punto_Finito]]
+- [[99_Proprieta_Valida_Definitivamente]]
+- [[100_Teorema_del_Confronto_per_Limiti_di_Funzioni]]
+- [[101_Teorema_di_Permanenza_del_Segno_per_Funzioni]]
+- [[102_Algebra_dei_Limiti_di_Funzioni]]
+- [[104_Cambio_di_Variabile_nei_Limiti]]
+- [[106_Asintotico_e_o_piccolo_per_Funzioni]]
+- [[107_Proprieta_degli_Asintotici_per_Funzioni]]
+- [[108_Limiti_Notevoli_di_Funzioni]]
+- [[109_Gerarchia_degli_Infiniti_per_Funzioni]]
+- [[110_Grafici_Locali_e_Grafici_Probabili]]
+- [[118_Dimostrazione_dei_Limiti_Notevoli]]
+
+## Continuità
+- [[93_Continuita_in_un_Punto]]
+- [[94_Esempio_Continuita_di_e_alla_x]]
+- [[95_Funzione_di_Dirichlet]]
+- [[96_Discontinuita_Eliminabile_e_Prolungamento_per_Continuita]]
+- [[97_Discontinuita_di_Prima_Specie_a_Salto]]
+- [[98_Discontinuita_di_Seconda_Specie]]
+- [[103_Algebra_delle_Funzioni_Continue]]
+- [[105_Continuita_della_Funzione_Composta]]
+- [[116_Continuita_e_Invertibilita]]
+- [[117_Continuita_delle_Funzioni_Elementari]]
+
+## Proprietà globali delle funzioni continue
+- [[111_Teorema_degli_Zeri]]
+- [[112_Teorema_di_Weierstrass]]
+- [[113_Teorema_dei_Valori_Intermedi]]
+- [[114_Immagine_di_una_Funzione_Continua_su_un_Intervallo_Chiuso]]
+- [[115_Teorema_sui_Limiti_di_Funzioni_Monotone]]
 
 ## Cronologia delle lezioni
 | Lezione   | Data       | Note principali                                                                                                                                                                                                                                        |
@@ -134,5 +167,8 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 | Lezione 11 | 16-10-2026 | [[56_Resto_N-esimo_della_Serie]], [[57_Serie_a_Termini_Positivi]], [[58_Criterio_del_Confronto_per_Serie]], [[59_Esempio_Confronto_Serie_18_cos_n]], [[60_Serie_Armonica_Generalizzata]], [[61_Serie_di_Bertrand_Generalizzata]], [[62_Criterio_del_Confronto_Asintotico_per_Serie]], [[63_Esempio_Confronto_Asintotico_con_Parametro]], [[64_Criterio_del_Rapporto_per_Serie]], [[65_Criterio_della_Radice_per_Serie]], [[66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata]], [[67_Esempio_Serie_n_Fattoriale_su_n_alla_n]], [[68_Formula_di_Stirling]] |
 | Lezione 12 | 21-10-2026 | [[69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie]], [[70_Esempio_Serie_a_alla_n_su_n_alla_n]], [[71_Esempio_Serie_n_alla_a_per_b_alla_n]], [[72_Esempio_Serie_a_alla_n_per_log_n_alla_b]], [[73_Convergenza_Assoluta_e_Semplice]], [[74_Criterio_di_Convergenza_Assoluta]], [[75_Esempio_Convergenza_Assoluta_sin_n_su_n_alla_3_su_2]], [[76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz]], [[77_Esempio_Serie_Alternata_con_Parametro_alpha]], [[78_Osservazioni_sul_Criterio_di_Leibniz]], [[79_Esempio_Serie_Alternata_log_n_su_n]], [[80_Esempio_Serie_alpha_meno_1_alla_n_su_n_2_alla_n]], [[81_Esempio_Confronto_Asintotico_con_Bertrand]] |
 | Lezione 13 | 23-10-2026 | [[82_Intorni_di_un_Punto_e_di_Infinito]], [[83_Punti_di_Accumulazione]], [[84_Definizione_Successionale_di_Limite]], [[85_Teorema_di_Unicita_del_Limite]], [[86_Definizione_Topologica_di_Limite]], [[87_Definizioni_Metriche_di_Limite_all_Infinito]], [[88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto]], [[89_Asintoto_Obliquo]] |
+| Lezione 14 | 28-10-2026 | [[90_Limite_Infinito_in_un_Punto_Finito]], [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]], [[92_Limite_Finito_in_un_Punto_Finito]], [[93_Continuita_in_un_Punto]], [[94_Esempio_Continuita_di_e_alla_x]], [[95_Funzione_di_Dirichlet]], [[96_Discontinuita_Eliminabile_e_Prolungamento_per_Continuita]], [[97_Discontinuita_di_Prima_Specie_a_Salto]], [[98_Discontinuita_di_Seconda_Specie]], [[99_Proprieta_Valida_Definitivamente]], [[100_Teorema_del_Confronto_per_Limiti_di_Funzioni]], [[101_Teorema_di_Permanenza_del_Segno_per_Funzioni]], [[102_Algebra_dei_Limiti_di_Funzioni]] |
+| Lezione 15 | 04-11-2026 | [[103_Algebra_delle_Funzioni_Continue]], [[104_Cambio_di_Variabile_nei_Limiti]], [[105_Continuita_della_Funzione_Composta]], [[106_Asintotico_e_o_piccolo_per_Funzioni]], [[107_Proprieta_degli_Asintotici_per_Funzioni]], [[108_Limiti_Notevoli_di_Funzioni]], [[109_Gerarchia_degli_Infiniti_per_Funzioni]], [[110_Grafici_Locali_e_Grafici_Probabili]], [[111_Teorema_degli_Zeri]], [[112_Teorema_di_Weierstrass]] (enunciato) |
+| Lezione 16 | 06-11-2026 | [[112_Teorema_di_Weierstrass]] (dimostrazione), [[113_Teorema_dei_Valori_Intermedi]], [[114_Immagine_di_una_Funzione_Continua_su_un_Intervallo_Chiuso]], [[115_Teorema_sui_Limiti_di_Funzioni_Monotone]], [[116_Continuita_e_Invertibilita]], [[117_Continuita_delle_Funzioni_Elementari]], [[118_Dimostrazione_dei_Limiti_Notevoli]] |
 
 #AM1/moc

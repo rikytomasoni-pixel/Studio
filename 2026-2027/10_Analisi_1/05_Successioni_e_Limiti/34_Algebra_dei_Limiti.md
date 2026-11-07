@@ -71,6 +71,7 @@ $$\lim_{n\to\infty} a_nb_n = a\cdot b \qquad \blacksquare$$
 **2)** Se $a_n\geq b_n$ definitivamente, allora $c_n=a_n-b_n\geq 0$ definitivamente. Perché $\exists\, c=\lim_{n\to\infty} c_n$, deve essere $c\geq 0$ per permanenza del segno. Ciò equivale a $a\geq b$. $\blacksquare$
 
 ### Note collegate
+- [[102_Algebra_dei_Limiti_di_Funzioni]] (versione per funzioni, L14)
 - [[00_MOC_Analisi_1]]
 - [[33_Teorema_Permanenza_del_Segno]]
 - [[30_Limiti_di_Successioni]]

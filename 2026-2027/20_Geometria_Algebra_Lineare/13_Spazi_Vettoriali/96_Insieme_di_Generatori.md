@@ -42,6 +42,7 @@ $$r=\left\{\begin{bmatrix}x\\y\\z\end{bmatrix}=t\,\underline{v}\ \middle|\ t\in\
 $\underline{v}$ è un generatore della retta ma **non** è un generatore di $\mathbb{R}^3$.
 
 ## Note collegate
+- [[134_Unione_di_Sottospazi_e_Sottospazio_Somma]] (sottospazio somma, L16)
 - [[95_Combinazioni_Lineari_e_Span]]
 - [[94_Sottospazi_Vettoriali]]
 - [[84_Nucleo_e_Sistema_Omogeneo_Associato]]

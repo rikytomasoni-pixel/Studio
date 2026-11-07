@@ -43,6 +43,7 @@ $$f \text{ decrescente} \quad\Longleftrightarrow\quad \dfrac{f(x_2)-f(x_1)}{x_2-
 *(simile a quanto visto sopra; strettamente toglie l'uguale...)*
 
 ### Note collegate
+- [[115_Teorema_sui_Limiti_di_Funzioni_Monotone]] (L16)
 - [[00_MOC_Analisi_1]]
 - [[27_Teorema_Monotone_Invertibili]] — le funzioni strettamente monotone sono invertibili
 - [[26_Iniettivita_Suriettivita_Inversa]]
