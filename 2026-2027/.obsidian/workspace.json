@@ -11,10 +11,12 @@
             "id": "cd3a5889aa3949a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "pdf",
+              "state": {
+                "file": "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "AM1 L15 26-27"
             }
           }
         ]
