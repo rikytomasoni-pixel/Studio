@@ -3621,9 +3621,28 @@
             "timeKey": "14:35",
             "w": -32,
             "c": -182
+          },
+          {
+            "timeKey": "14:40",
+            "w": -23,
+            "c": -116
           }
         ],
         "id": 375
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/10_Continuita/98_Discontinuita_di_Seconda_Specie.md",
+        "wordCountStart": 388,
+        "charCountStart": 2550,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": -42,
+            "c": -227
+          }
+        ],
+        "id": 376
       }
     ]
   }

@@ -28,8 +28,7 @@ fonte: "AM1 L14 26-27.pdf (pag. 15-16)"
 > $$f(x)=\begin{cases}1&x\in(a,b)\\0&x\notin(a,b)\end{cases}$$
 > $f$ è discontinua in $a,b$, con discontinuità a salto e salto $+1$ e $-1$ rispettivamente.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> AM1 L14 pag. 16: grafico a "gradino" in rosso: tratto a quota $1$ tra $a$ e $b$, quota $0$ altrove.
+![[SaltoAdIntervalli.png]]
 
 > [!note] Osservazione (non presente negli appunti)
 > Nell'ultimo esempio $f(a)=0=\displaystyle\lim_{x\to a^-}f(x)$ e $f(b)=0=\displaystyle\lim_{x\to b^+}f(x)$: $f$ è quindi continua da sinistra in $a$ e continua da destra in $b$.

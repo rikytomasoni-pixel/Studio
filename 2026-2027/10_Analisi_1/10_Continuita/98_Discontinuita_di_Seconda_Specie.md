@@ -17,9 +17,7 @@ fonte: "AM1 L14 26-27.pdf (pag. 16-18)"
 
 ## Esempi (con $a\in\mathbb{R}$ valore arbitrario in $x=0$)
 
-> [!example] $f(x)=\begin{cases}\frac1x&x\neq0\\a&x=0\end{cases}$
-> > [!warning] DISEGNO NON RAPPRESENTABILE
-> > AM1 L14 pag. 17: grafico di $1/x$ in rosso (ramo positivo a destra, ramo negativo a sinistra) e punto isolato in $(0,a)$ sull'asse $y$.
+![[Eliminabile1.png]]
 
 > [!example] $f(x)=\begin{cases}\frac1{x^2}&x\neq0\\a&x=0\end{cases}$
 > > [!warning] DISEGNO NON RAPPRESENTABILE
