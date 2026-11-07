@@ -3434,6 +3434,28 @@
         "charCountStart": 778,
         "changes": [],
         "id": 357
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/22_Operazioni_tra_Vettori.md",
+        "wordCountStart": 317,
+        "charCountStart": 2415,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 358
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
+        "wordCountStart": 351,
+        "charCountStart": 2643,
+        "changes": [],
+        "id": 359
       }
     ]
   }
