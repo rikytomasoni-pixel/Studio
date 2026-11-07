@@ -26,7 +26,15 @@ fonte: "GAL_2026-2027_-_20261007_-_LEZIONE_6.pdf (slide 49-50)"
 > $A = \{\text{esito } D_1 \text{ pari},\ \text{esito } D_1 \text{ dispari}\}$
 > $B = \{\text{esito } D_1+D_2 \text{ pari},\ \text{esito } D_1+D_2 \text{ dispari}\}$
 > $P : A \times B \to [0,1]$
-> Tabella (da completare): righe «$D_1$ pari», «$D_1$ dispari»; colonne «$D_1+D_2$ pari», «$D_1+D_2$ dispari».
+> Tabella: righe «$D_1$ pari», «$D_1$ dispari»; colonne «$D_1+D_2$ pari», «$D_1+D_2$ dispari».
+>
+> | | $D_1+D_2$ pari | $D_1+D_2$ dispari |
+> |---|---|---|
+> | $D_1$ pari | $\frac14$ | $\frac14$ |
+> | $D_1$ dispari | $\frac14$ | $\frac14$ |
+>
+> > [!note] Osservazione (non presente negli appunti)
+> > Completamento mio. $D_1+D_2$ è pari se e solo se $D_1$ e $D_2$ hanno la stessa parità. Fissata la parità di $D_1$ (probabilità $\frac12$), $D_2$ ha la parità giusta con probabilità $\frac12$, quindi ogni cella vale $\frac12\cdot\frac12=\frac14$. La matrice $\begin{bmatrix}\frac14&\frac14\\\frac14&\frac14\end{bmatrix}=\begin{bmatrix}\frac12\\\frac12\end{bmatrix}\begin{bmatrix}\frac12&\frac12\end{bmatrix}$ ha rango $1$: gli eventi «$D_1$ pari/dispari» e «$D_1+D_2$ pari/dispari» sono indipendenti.
 
 Definizione di rango: [[63_Rango_di_una_Matrice]].
 

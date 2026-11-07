@@ -2,20 +2,21 @@
 tags:
   - funzioni
   - FI
-  - input-output
-  - struttura-programma
+  - sottoprogrammi
+  - record-di-attivazione
 date: 2026-11-04
 materia: Fondamenti di Informatica
 fonte:
 
 ---
+# Sottoprogrammi e Funzioni
 ![[FunzioniC.png]]
 
 1. Riuso
 2. Modificabilità
 3. Astrazione
 4. Strutturazione
-# Sottoprogrammi e Funzioni
+
 ## Prototipo
 
 *tipo output* **nome funzione**(*tipo input*);
@@ -25,10 +26,10 @@ Gli input verranno chiamati **parametri formali** gli output **valori di ritorno
 int factorial(int);
 ```
 ### Parametri Formali
-- zero o pù
+- zero o più
 - di ogni tipo (primitivi, user-defined, scalari, composti)
 ### Valore di ritorno
-- al più 1 valore di ritotno
+- al più 1 valore di ritorno
 - scalare (primitivo, user-defined), Struct [NO ARRAY]
 - opzione ```void``` -> *Procedure*
 

@@ -21,9 +21,6 @@ Si usa la [[63_Rango_di_una_Matrice]] ($r(A)$ = minimo numero di addendi $C_iR_i
 | 2. Codifica con matrici elementari e riordino | [[110_EE1_Fattorizzazione_con_Matrici_Elementari]] | $A=PLU$ |
 | 3. Prodotto colonna per riga | [[111_EE1_Somma_di_Tre_Matrici_di_Rango_1]] | $A=\sum_{i=1}^{3}C_iR_i$ |
 
-> [!warning] Errore nel quaderno
-> Nell'ultimo passo dell'eliminazione il quaderno riporta $-1$ al posto di $3$ (e quindi $L_{43}(-1)$ invece di $L_{43}(-3)$). Con $-1$ la somma finale darebbe l'ultima riga $(1,3,0)\neq(1,3,2)$. Nelle note ho usato i valori corretti e segnalato dove il quaderno differisce: dettagli in [[109_EE1_Riduzione_a_Scala_di_A]].
-
 > [!note] Osservazione (non presente negli appunti)
 > Questa è l'«esercitazione» annunciata alla fine della [[71_Codifica_del_MEG_con_il_Prodotto_Matriciale]] («Domani a esercitazione maggiori dettagli»): il MEG viene codificato con prodotti di matrici elementari. Il risultato $A=PLU$ è la cosiddetta fattorizzazione LU con permutazioni (il nome non compare negli appunti).
 

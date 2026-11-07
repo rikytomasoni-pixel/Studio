@@ -23,9 +23,6 @@ Abbiamo definito $a^b$, $\forall\, a\in\mathbb{R}, a>0$, $\forall\, b\in\mathbb{
 **Osservazione.**
 $$a^{\log_a y} = y \qquad \forall\, y>0,\ \forall\, a>0,\ a\neq 1$$
 
-> [!important] Da fare
-> Vedere proprietà dei logaritmi (e delle potenze) sul libro di testo — **da sapere**.
-
 ### Note collegate
 - [[00_MOC_Analisi_1]]
 - [[11_Radici_e_Potenze]] — definizione di $a^b$

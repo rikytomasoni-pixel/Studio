@@ -35,9 +35,6 @@ $$f'(x)=\frac{1-\log x}{x^2}\quad\forall x>0\ \Rightarrow\ f'(x)\leq0\ \ \forall
 Pertanto, per Leibniz ([[76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz]]), $\displaystyle\sum_{n=1}^\infty(-1)^n\frac{\log n}{n}$ **converge semplicemente** (ma non assolutamente).
 ![[LogXsuX.png]]
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** pag. 24, in alto. **Cosa cercare:** grafico di $f(x)=\frac{\log x}{x}$ in rosso (sale fino a un massimo vicino a $x=e$ e poi decresce verso $0$), con le ascisse $1,2,e,3,4,5$ segnate sull'asse e i punti $a_2,a_3,a_4,a_5$ evidenziati sul grafico.
-
 > [!note] Osservazione
 > $a_n=\dfrac{\log n}{n}\not\sim\dfrac1n$, anche se $\displaystyle\lim_{n\to\infty}a_n=\lim_{n\to\infty}\frac{\log n}{n}=0=\lim_{n\to\infty}\frac1n$: il limite $\frac{\log n}{n}\to0$ vale per la gerarchia degli infiniti ([[36_Gerarchia_degli_Infiniti]]), non per $\sim$.
 

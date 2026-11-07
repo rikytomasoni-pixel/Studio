@@ -3470,6 +3470,78 @@
         "charCountStart": 1518,
         "changes": [],
         "id": 360
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/121_Basi_Canoniche.md",
+        "wordCountStart": 347,
+        "charCountStart": 2250,
+        "changes": [],
+        "id": 361
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/122_Estrazione_e_Completamento_Due_Problemi_Classici.md",
+        "wordCountStart": 180,
+        "charCountStart": 1626,
+        "changes": [],
+        "id": 362
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/16_Indice_Lezione_15.md",
+        "wordCountStart": 148,
+        "charCountStart": 1824,
+        "changes": [],
+        "id": 363
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/117_Lemma_Fondamentale_Teorema_15_1.md",
+        "wordCountStart": 504,
+        "charCountStart": 3658,
+        "changes": [],
+        "id": 364
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/123_Base_per_Costruzione_Libera_con_il_MEG_sulle_Righe.md",
+        "wordCountStart": 509,
+        "charCountStart": 3306,
+        "changes": [],
+        "id": 365
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/124_Estrazione_di_una_Base_con_i_Pivot_delle_Colonne.md",
+        "wordCountStart": 528,
+        "charCountStart": 3334,
+        "changes": [],
+        "id": 366
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/125_Completamento_ad_una_Base.md",
+        "wordCountStart": 350,
+        "charCountStart": 2372,
+        "changes": [],
+        "id": 367
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/126_Fac_simile_28_10_Esercizio_su_Sottospazi_Dimensione_e_Basi.md",
+        "wordCountStart": 341,
+        "charCountStart": 2423,
+        "changes": [],
+        "id": 368
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W.md",
+        "wordCountStart": 556,
+        "charCountStart": 3292,
+        "changes": [],
+        "id": 369
       }
     ]
   }

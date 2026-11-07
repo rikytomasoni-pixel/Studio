@@ -18,9 +18,6 @@ $$L_{43}(3)\,L_{42}(-2)\,L_{32}(-2)\,S_{23}\,L_{41}(-1)\,L_{31}(-2)\,S_{12}\;A=U
 Per la [[70_Reversibilita_del_MEG]] si inverte ogni mossa (in ordine opposto):
 $$A=S_{12}\,L_{31}(2)\,L_{41}(1)\,S_{23}\,L_{32}(2)\,L_{42}(2)\,L_{43}(-3)\,U$$
 
-> [!warning] Differenza rispetto al quaderno
-> Il quaderno scrive $L_{43}(-1)$ e nella matrice $L$ l'elemento $-1$ in posizione $(4,3)$; il valore corretto è $-3$ (vedi [[109_EE1_Riduzione_a_Scala_di_A]]).
-
 ## Riordino dei fattori
 Gli scambi vengono spostati a sinistra. Sono evidenziati negli appunti due fatti:
 1. $S_{23}$ commuta con $L_{41}(1)$ (agiscono su righe disgiunte: $S_{23}$ sulle righe $2,3$, $L_{41}(1)$ sulle righe $4,1$):

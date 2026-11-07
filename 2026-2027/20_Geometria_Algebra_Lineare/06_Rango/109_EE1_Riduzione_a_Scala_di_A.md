@@ -17,9 +17,6 @@ $$\xrightarrow{\ \mathrm{II}\leftrightarrow\mathrm{III}\ }\begin{bmatrix}1&1&1\\
 
 I pivot (cerchiati) sono $1,\ 1,\ -1$ ([[69_Pivot_e_Matrice_a_Scala]]).
 
-> [!warning] Differenza rispetto al quaderno
-> Nel quaderno la matrice prima dell'ultimo passo ha l'elemento $(4,3)$ scritto come $-1$ (e di conseguenza l'ultima operazione è $\mathrm{IV}-\mathrm{III}$). Il calcolo corretto è $1-2\cdot(-1)=3$, da cui $\mathrm{IV}+3\,\mathrm{III}\to\mathrm{IV}$. Tutte le note EE1 usano il valore corretto $3$. **Da controllare sul quaderno.**
-
 ## Conclusione sul rango
 $U$ ha $3$ righe non nulle, cioè $3$ pivot, quindi per [[73_MEG_e_Rango]]
 $$r(A)=r(U)=3.$$

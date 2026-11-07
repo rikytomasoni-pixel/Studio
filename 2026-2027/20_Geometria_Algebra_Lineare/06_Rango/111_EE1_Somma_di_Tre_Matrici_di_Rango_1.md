@@ -13,13 +13,10 @@ $$A=\begin{bmatrix}0&2&1&0\\1&0&0&0\\2&1&0&0\\1&2&-3&1\end{bmatrix}\begin{bmatri
 
 $$A=\underbrace{\begin{bmatrix}0\\1\\2\\1\end{bmatrix}\begin{bmatrix}1&1&1\end{bmatrix}}_{\begin{bmatrix}0&0&0\\1&1&1\\2&2&2\\1&1&1\end{bmatrix}}+\underbrace{\begin{bmatrix}2\\0\\1\\2\end{bmatrix}\begin{bmatrix}0&1&-1\end{bmatrix}}_{\begin{bmatrix}0&2&-2\\0&0&0\\0&1&-1\\0&2&-2\end{bmatrix}}+\underbrace{\begin{bmatrix}1\\0\\0\\-3\end{bmatrix}\begin{bmatrix}0&0&-1\end{bmatrix}}_{\begin{bmatrix}0&0&-1\\0&0&0\\0&0&0\\0&0&3\end{bmatrix}}$$
 
-> [!warning] Differenza rispetto al quaderno
-> Nel quaderno la terza colonna di $PL$ ha $-1$ in ultima posizione e l'ultimo addendo ha $+1$ in posizione $(4,3)$. Con il valore corretto $-3$ l'addendo è $+3$ in quella posizione.
-
 > [!tip] Verifica
 > Sommando i tre addendi si ottiene
 > $$\begin{bmatrix}0&2&-3\\1&1&1\\2&3&1\\1&3&2\end{bmatrix}=A$$
-> (la riga $4$: $(1,1,1)+(0,2,-2)+(0,0,3)=(1,3,2)$). Con $+1$ invece di $+3$ la riga $4$ verrebbe $(1,3,0)$, sbagliata.
+> (la riga $4$: $(1,1,1)+(0,2,-2)+(0,0,3)=(1,3,2)$).
 
 ## Perché $r=3$ è il minimo
 Ogni addendo è una matrice di rango $1$ (colonna per riga non nulle). Per la [[63_Rango_di_una_Matrice]], $r(A)$ è il **minimo** numero di addendi di questo tipo, e per [[73_MEG_e_Rango]] $r(A)=r(U)=3$. Quindi la scomposizione trovata è la più corta possibile.
