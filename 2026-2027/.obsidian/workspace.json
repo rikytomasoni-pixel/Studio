@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf"
+                "file": "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "AM1 L15 26-27"
+              "title": "AM1 L16 26-27"
             }
           }
         ]
@@ -226,9 +226,9 @@
   },
   "active": "8ea767fe72e7039c",
   "lastOpenFiles": [
+    "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/112_Teorema_di_Weierstrass.md",
     "10_Analisi_1/00_MOC_Analisi_1.md",
-    "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261105 - LEZIONE 17.pdf",
     "99_Tools/Excalidraw/Disegni Analisi1.md",
     "00_Claude_Workspace/Recap_2026-11-07_AM1_L14-L16_GAL_L16-L17.md",
@@ -266,7 +266,6 @@
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/144_Applicazioni_Lineari_da_Kn_a_Km_e_Matrice_Associata.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/143_Esempio_Applicazione_Lineare_da_Polinomi_a_Matrici.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/142_Come_Definire_una_Applicazione_Lineare_Proposizione_17_2.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/141_Composizione_e_Inversione_di_Applicazioni_Lineari.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari",
     "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann",
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue",
