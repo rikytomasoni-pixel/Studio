@@ -11,15 +11,44 @@
             "id": "cd3a5889aa3949a0",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Claude_Workspace/Recap_2026-11-07_AM1_L14-L16_GAL_L16-L17.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recap_2026-11-07_AM1_L14-L16_GAL_L16-L17"
+            }
+          },
+          {
+            "id": "09e3ef51b7fbde93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "90_Limite_Infinito_in_un_Punto_Finito"
+            }
+          },
+          {
+            "id": "67ac50022ae0b984",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf"
+                "file": "90_Lezioni_pdf/A1/AM1 L14 26-27.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "AM1 L15 26-27"
+              "title": "AM1 L14 26-27"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,9 +253,12 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "cd3a5889aa3949a0",
+  "active": "67ac50022ae0b984",
   "lastOpenFiles": [
+    "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
+    "90_Lezioni_pdf/A1/AM1 L14 26-27.pdf",
     "00_Claude_Workspace/Recap_2026-11-07_AM1_L14-L16_GAL_L16-L17.md",
+    "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/18_Indice_Lezione_17.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/17_Indice_Lezione_16.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/144_Applicazioni_Lineari_da_Kn_a_Km_e_Matrice_Associata.md",
@@ -252,8 +284,6 @@
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/115_Teorema_sui_Limiti_di_Funzioni_Monotone.md",
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/114_Immagine_di_una_Funzione_Continua_su_un_Intervallo_Chiuso.md",
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/113_Teorema_dei_Valori_Intermedi.md",
-    "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/112_Teorema_di_Weierstrass.md",
-    "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/111_Teorema_degli_Zeri.md",
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue",
     "10_Analisi_1/10_Continuita",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
@@ -261,8 +291,6 @@
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261105 - LEZIONE 17.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261104 - LEZIONE 16.pdf",
-    "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf",
-    "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
     "99_Tools/Screenshots/GAL/Mordor.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/LimInf-Inf.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/L+.png",

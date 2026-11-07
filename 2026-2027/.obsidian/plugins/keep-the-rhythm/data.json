@@ -3542,6 +3542,22 @@
         "charCountStart": 3292,
         "changes": [],
         "id": 369
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "00_Claude_Workspace/Recap_2026-11-07_AM1_L14-L16_GAL_L16-L17.md",
+        "wordCountStart": 888,
+        "charCountStart": 9051,
+        "changes": [],
+        "id": 370
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
+        "wordCountStart": 255,
+        "charCountStart": 1916,
+        "changes": [],
+        "id": 371
       }
     ]
   }
