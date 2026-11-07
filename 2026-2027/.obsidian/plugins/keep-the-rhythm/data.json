@@ -3548,7 +3548,13 @@
         "filePath": "00_Claude_Workspace/Recap_2026-11-07_AM1_L14-L16_GAL_L16-L17.md",
         "wordCountStart": 888,
         "charCountStart": 9051,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": -888,
+            "c": -9051
+          }
+        ],
         "id": 370
       },
       {
@@ -3814,8 +3820,30 @@
         "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/137_Esempi_di_Applicazioni_Lineari_Matrici_Trasposizione_Traccia.md",
         "wordCountStart": 435,
         "charCountStart": 2851,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": -18,
+            "c": -110
+          }
+        ],
         "id": 387
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/00_MOC_Analisi_1.md",
+        "wordCountStart": 364,
+        "charCountStart": 12003,
+        "changes": [],
+        "id": 388
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/112_Teorema_di_Weierstrass.md",
+        "wordCountStart": 821,
+        "charCountStart": 4757,
+        "changes": [],
+        "id": 389
       }
     ]
   }

@@ -39,7 +39,7 @@ $$\operatorname{tr}:M_{\mathbb{K}}(n,n)\to\mathbb{K},\qquad\operatorname{tr}(A)=
 
 > [!example] Esempio
 > $$\operatorname{tr}\left(\begin{bmatrix}1&2&4\\0&7&-3\\2&0&1\end{bmatrix}\right)=1+7+1=9$$
-> *(sulla slide il risultato finale ha una grafia ambigua; la somma dei tre elementi diagonali $1,7,1$ dà 9.)*
+
 
 > [!todo] Per casa
 > Verificare omogeneità e additività.
