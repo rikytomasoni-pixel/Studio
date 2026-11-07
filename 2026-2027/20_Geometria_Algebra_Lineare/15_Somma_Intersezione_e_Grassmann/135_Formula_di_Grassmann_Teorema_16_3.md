@@ -25,8 +25,7 @@ $$\mathcal{B}=\{\underline{v}_1,\dots,\underline{v}_n\}\ \text{base di }H_1\cap 
 **Base di $H_2$.** In maniera analoga, completando la base di $H_1\cap H_2$:
 $$\mathcal{B}_2=\mathcal{B}\cup\{\underline{u}_1,\dots,\underline{u}_q\}\ \text{base di }H_2\ \Rightarrow\ \dim(H_2)=n+q$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> GAL L16 slide 142: diagramma di Venn con due ovali che si intersecano: $H_1$ (rosso, a sinistra) contenente $\underline{w}_1,\dots,\underline{w}_p$; $H_2$ (blu, a destra) contenente $\underline{u}_1,\dots,\underline{u}_q$; nell'intersezione $H_1\cap H_2$ (verde) i vettori $\underline{v}_1,\dots,\underline{v}_n$.
+![[SchemaGrassmann.png]]
 
 **Sostituzione nella formula.**
 $$\dim(H_1+H_2)\overset{?}{=}\dim(H_1)+\dim(H_2)-\dim(H_1\cap H_2)=(n+p)+(n+q)-n=n+p+q$$

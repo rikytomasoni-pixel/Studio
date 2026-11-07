@@ -3756,11 +3756,66 @@
         "changes": [
           {
             "timeKey": "15:00",
-            "w": 3,
-            "c": 37
+            "w": 4,
+            "c": 61
+          },
+          {
+            "timeKey": "15:05",
+            "w": -38,
+            "c": -242
           }
         ],
         "id": 383
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann/134_Unione_di_Sottospazi_e_Sottospazio_Somma.md",
+        "wordCountStart": 395,
+        "charCountStart": 2824,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": -56,
+            "c": -340
+          }
+        ],
+        "id": 384
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann/135_Formula_di_Grassmann_Teorema_16_3.md",
+        "wordCountStart": 777,
+        "charCountStart": 5269,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": -54,
+            "c": -332
+          }
+        ],
+        "id": 385
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/138_Derivata_come_Applicazione_Lineare.md",
+        "wordCountStart": 304,
+        "charCountStart": 2004,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": -31,
+            "c": -233
+          }
+        ],
+        "id": 386
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/137_Esempi_di_Applicazioni_Lineari_Matrici_Trasposizione_Traccia.md",
+        "wordCountStart": 435,
+        "charCountStart": 2851,
+        "changes": [],
+        "id": 387
       }
     ]
   }

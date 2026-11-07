@@ -23,11 +23,9 @@ $$\dim V=\#\text{ elementi di una base di }V=\text{gradi di libertà per muovers
 
 ## Proprietà delle misure (dell'area)
 - Per $A,B$ **disgiunti**: $\mathcal{A}(A\cup B)=\mathcal{A}(A)+\mathcal{A}(B)$ (**additività** della misura).
-![[Pasted image 20261107150418.png]]
+![[SpaziDisgiunti.png]]
 - In generale (con sovrapposizione): $\mathcal{A}(A\cup B)=\mathcal{A}(A)+\mathcal{A}(B)-\mathcal{A}(A\cap B)$.
-
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> GAL L16 slide 138: due figure: un cerchio azzurro $A$ e un rettangolo verde $B$ disgiunti (additività), poi gli stessi due che si sovrappongono parzialmente (la zona comune è $A\cap B$).
+![[SpaziIntersecati.png]]
 
 Questa formula è l'analogo che si cerca per i sottospazi: [[135_Formula_di_Grassmann_Teorema_16_3]].
 

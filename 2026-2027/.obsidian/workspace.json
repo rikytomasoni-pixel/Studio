@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261104 - LEZIONE 16.pdf"
+                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261105 - LEZIONE 17.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "GAL 2026-2027 - 20261104 - LEZIONE 16"
+              "title": "GAL 2026-2027 - 20261105 - LEZIONE 17"
             }
           }
         ]
@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/132_Significato_della_Dimensione_Seconda_Parte.md",
+                "file": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/137_Esempi_di_Applicazioni_Lineari_Matrici_Trasposizione_Traccia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "132_Significato_della_Dimensione_Seconda_Parte"
+              "title": "137_Esempi_di_Applicazioni_Lineari_Matrici_Trasposizione_Traccia"
             }
           },
           {
@@ -258,10 +258,18 @@
   },
   "active": "cd3a5889aa3949a0",
   "lastOpenFiles": [
-    "Pasted image 20261107150418.png",
     "00_Claude_Workspace/Recap_2026-11-07_AM1_L14-L16_GAL_L16-L17.md",
-    "20_Geometria_Algebra_Lineare/06_Rango/131_Spazio_delle_Righe_e_delle_Colonne.md",
+    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/138_Derivata_come_Applicazione_Lineare.md",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261105 - LEZIONE 17.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261104 - LEZIONE 16.pdf",
+    "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann/135_Formula_di_Grassmann_Teorema_16_3.md",
+    "99_Tools/Screenshots/GAL/SchemaGrassmann.png",
+    "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann/134_Unione_di_Sottospazi_e_Sottospazio_Somma.md",
+    "99_Tools/Screenshots/GAL/UnioneSottospazi.png",
+    "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/132_Significato_della_Dimensione_Seconda_Parte.md",
+    "99_Tools/Screenshots/GAL/SpaziIntersecati.png",
+    "99_Tools/Screenshots/GAL/SpaziDisgiunti.png",
+    "20_Geometria_Algebra_Lineare/06_Rango/131_Spazio_delle_Righe_e_delle_Colonne.md",
     "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf",
     "10_Analisi_1/10_Continuita/117_Continuita_delle_Funzioni_Elementari.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/ContinuitòSinCos.png",
@@ -276,12 +284,8 @@
     "99_Tools/Screenshots/Analisi1/Funzioni/GraficoProbabileEsempio.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/ParaboleGradiDiversi.png",
     "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
-    "99_Tools/Screenshots/Analisi1/Limiti/CambioVariabileNeiLimiti.png",
     "10_Analisi_1/10_Continuita/98_Discontinuita_di_Seconda_Specie.md",
-    "99_Tools/Screenshots/Analisi1/Funzioni/Eliminabile4.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/Eliminabile3.png",
     "99_Tools/Excalidraw/Disegni Analisi1.md",
-    "99_Tools/Screenshots/Analisi1/Funzioni/Eliminabile2.png",
     "10_Analisi_1/10_Continuita/97_Discontinuita_di_Prima_Specie_a_Salto.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/92_Limite_Finito_in_un_Punto_Finito.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
@@ -294,16 +298,11 @@
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/141_Composizione_e_Inversione_di_Applicazioni_Lineari.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/140_Esempi_e_Controesempi_di_Applicazioni_Lineari.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/139_Proprieta_delle_Applicazioni_Lineari.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/138_Derivata_come_Applicazione_Lineare.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/137_Esempi_di_Applicazioni_Lineari_Matrici_Trasposizione_Traccia.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/136_Applicazioni_Lineari_Definizione_17_1.md",
-    "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann/135_Formula_di_Grassmann_Teorema_16_3.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari",
     "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann",
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue",
     "10_Analisi_1/10_Continuita",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
     "Senza nome.canvas"
   ]
 }

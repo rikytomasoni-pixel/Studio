@@ -24,8 +24,6 @@ $$\mathcal{C}^0(\mathbb{R})=\{x^2+x-1,\ \cos(x),\ \sin(x),\ e^x,\ |x|,\dots\}$$
 $$\mathcal{C}^1(\mathbb{R})=\{x^2+x-1,\ \cos(x),\ \sin(x),\ e^x,\ \cancel{|x|},\dots\}$$
 ($|x|$ è continua ma non derivabile in $0$, quindi è barrata in $\mathcal{C}^1(\mathbb{R})$.)
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> GAL L17 slide 150: sotto $\mathcal{C}^0(\mathbb{R})$ quattro piccoli grafici associati alle funzioni: parabola (U), onda sinusoidale, curva crescente (esponenziale) e "V" (valore assoluto).
 
 $$\mathcal{C}^\infty(\mathbb{R})\subseteq\dots\subseteq\mathcal{C}^2(\mathbb{R})\subseteq\mathcal{C}^1(\mathbb{R})\subseteq\mathcal{C}^0(\mathbb{R})$$
 

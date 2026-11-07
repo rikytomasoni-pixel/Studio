@@ -10,8 +10,7 @@ fonte: "GAL 2026-2027 - 20261104 - LEZIONE 16.pdf (slide 140-141)"
 ## L'unione non è un sottospazio
 In $\mathbb{R}^2$ siano $H=\operatorname{Span}(\underline{v})$ e $K=\operatorname{Span}(\underline{w})$ (due rette per l'origine).
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> GAL L16 slide 140: piano cartesiano con due rette grigie per l'origine ($H$ a pendenza positiva, $K$ a pendenza negativa), un vettore rosso $\underline{v}$ su $H$, un vettore blu $\underline{w}$ su $K$ e il vettore verde $\underline{v}+\underline{w}$ (diagonale del parallelogramma) che non sta su nessuna delle due rette.
+![[UnioneSottospazi.png]]
 
 **D.** $H\cup K$ è chiuso rispetto alle operazioni? **No**: $\underline{v}+\underline{w}\notin H\cup K$.
 
