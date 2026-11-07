@@ -25,7 +25,9 @@ Determinante... (vedi anche i casi $2 \times 2$ e $3 \times 3$ in [[28_Determina
 >   - $j$ è un indice di colonna (qualsiasi) fissato
 >   - $a_{ij}$ è l'elemento di $A$ sulla $i$-esima riga e $j$-esima colonna
 >   - $\hat{A}_{ij} \in M_{\mathbb{K}}(n-1,n-1)$ è ottenuta da $A$ eliminando la $i$-esima riga e la $j$-esima colonna.
->   - Il **cofattore** $C_{ij}$ relativo all'elemento $a_{ij}$ di una matrice quadrata $A$ è il valore scalare definito da: $$C_{ij} = (-1)^{i+j} \det(\hat{A}_{ij})$$ dove:  **$\hat{A}_{ij} \in M_{\mathbb{K}}(n-1,n-1)$** è la sottomatrice (detta *minore complementare*) ottenuta eliminando da $A$ la $i$-esima riga e la $j$-esima colonna. **$(-1)^{i+j}$** è il segno algebrico associato alla posizione $(i,j)$.
+
+> [!note] Complemento (non presente nelle slide, ma usato negli appunti dell'[[103_Esercizio_5_1_Calcolo_del_Determinante|Esercizio 5.1]]): cofattore
+> Il **cofattore** $C_{ij}$ relativo a $a_{ij}$ è $C_{ij}=(-1)^{i+j}\det(\hat{A}_{ij})$, dove $\hat{A}_{ij}$ è il minore complementare e $(-1)^{i+j}$ il segno associato alla posizione $(i,j)$. Lo sviluppo di Laplace è quindi $\det(A)=\sum_j a_{ij}C_{ij}$.
 
 > [!abstract] Teorema (Teorema di Laplace)
 > «il risultato non dipende dalla scelta di riga o colonna»
@@ -58,12 +60,18 @@ Determinante... (vedi anche i casi $2 \times 2$ e $3 \times 3$ in [[28_Determina
 
 Le matrici triangolari (esempio II) sono in [[66_Matrici_Triangolari]].
 
+> [!example] Esempio numerico senza zeri
+> Sviluppo lungo la riga 3 di una matrice $3\times3$ senza zeri: [[105_Determinante_Laplace_Esempio_3x3_Riga_3]]. Combinazione con il MEG: [[106_Determinante_Metodo_Misto_MEG_e_Laplace]].
+
 ## Note collegate
 - [[28_Determinanti_2x2_e_3x3]]
 - [[66_Matrici_Triangolari]]
 - [[74_Teorema_di_Binet]]
 - [[75_Calcolo_del_Determinante_con_il_MEG]]
 - [[76_Determinante_Normalizzato_e_Alternante]]
+- [[105_Determinante_Laplace_Esempio_3x3_Riga_3]]
+- [[106_Determinante_Metodo_Misto_MEG_e_Laplace]]
+- [[107_Confronto_Metodi_Calcolo_Determinante]]
 - Indice: [[07_Indice_Lezione_6]] · [[00_MOC_GAL]]
 
 #GAL/determinante/determinante-sviluppo-di-laplace

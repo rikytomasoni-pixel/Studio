@@ -17,7 +17,7 @@ fonte: "GAL_2026-2027_-_20260930_-_LEZIONE_3.pdf (slide 25-26)"
 
 ![[interruttoriXOR.png]]
 
-**AND** — «sia l'uno che l'altro» [OCR: «né»; lettura di senso corretta] (prodotto in $\mathbb{F}_2$): circuito con batteria, due interruttori in serie e lampadina.
+**AND** — «sia l'uno che l'altro» (prodotto in $\mathbb{F}_2$): circuito con batteria, due interruttori in serie e lampadina.
 
 ![[interruttoriAnd.png]]
 

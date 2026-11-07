@@ -28,13 +28,14 @@ fonte: "AM1 L11 26-27.pdf (pag. 14-15)"
 > Questo è il **criterio del rapporto per successioni**, già enunciato in [[39_Criterio_del_Rapporto]].
 
 > [!info] Dimostrazione
-> Nel quaderno di questa lezione non è riportata la dimostrazione.
+> La dimostrazione è stata svolta nella lezione successiva: [[69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie]].
 
 ## Esempi
 - [[66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata]]
 - [[67_Esempio_Serie_n_Fattoriale_su_n_alla_n]]
 
 ## Note collegate
+- [[69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie]]
 - [[65_Criterio_della_Radice_per_Serie]]
 - [[39_Criterio_del_Rapporto]]
 - [[54_Condizione_Necessaria_di_Convergenza]]

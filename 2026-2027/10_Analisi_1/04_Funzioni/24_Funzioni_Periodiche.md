@@ -19,7 +19,7 @@ fonte: Lezione 5
 ### Note collegate
 - [[00_MOC_Analisi_1]]
 - [[22_Funzioni_Pari_Dispari]] — $\cos x$ pari, $\sin x$ dispari
-- [[19_Funzioni_Generalita]]
+- [[19_Funzioni_Generalità]]
 - [[15_Forma_Trigonometrica_Esponenziale]] — $\cos$ e $\sin$ nell'argomento di un numero complesso
 
 #AM1/funzioni/funzioni-periodiche

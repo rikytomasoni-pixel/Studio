@@ -32,8 +32,7 @@ Esempio: $S=\{\underline{x}\in\mathbb{K}^n\mid A\underline{x}=\underline{0}\}\su
 - se $\underline{v},\underline{w}\in H$ allora $\underline{v}+\underline{w}\in H$ (chiusura della somma);
 - se $\underline{v}\in H$ e $\lambda\in\mathbb{K}$ allora $\lambda\underline{v}\in H$ (chiusura del prodotto per scalari).
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dove:** slide 107. **Cosa cercare:** quattro diagrammi di Venn (un ovale $V$ che ne contiene uno più piccolo $H$). In alto: a sinistra "CHIUSO", con $\underline{v}$, $\underline{w}$ e $\underline{v}+\underline{w}$ (verde) tutti dentro $H$; a destra "NON CHIUSO", con $\underline{v}+\underline{w}$ (rosso) fuori da $H$ ma dentro $V$. In basso: lo stesso per il prodotto per scalare, $\lambda\underline{v}$ dentro $H$ (verde, chiuso) oppure fuori da $H$ (rosso, non chiuso).
+![[SottospaziVett.png]]
 
 ## Note collegate
 - [[91_Spazio_Vettoriale_Definizione]]

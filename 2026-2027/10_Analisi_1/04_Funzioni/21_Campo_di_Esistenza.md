@@ -19,7 +19,7 @@ $$\mathcal{D}(h) = \{x\in\mathbb{R}\} = (-\infty,\infty)$$
 
 ### Note collegate
 - [[00_MOC_Analisi_1]]
-- [[19_Funzioni_Generalita]] — dominio e codominio
+- [[19_Funzioni_Generalità]] — dominio e codominio
 - [[11_Radici_e_Potenze]] — radici e potenze
 - [[12_Logaritmi]] — logaritmi
 - [[10_Retta_Reale_Intervalli]] — intervalli

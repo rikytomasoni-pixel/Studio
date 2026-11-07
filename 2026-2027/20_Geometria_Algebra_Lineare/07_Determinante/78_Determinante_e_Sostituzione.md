@@ -11,8 +11,7 @@ fonte: "GAL_2026-2027_-_20261008_-_LEZIONE_7.pdf (slide 71)"
 
 > [!example] Esempio
 > $$\begin{bmatrix} a & b \\ c & d \end{bmatrix} \xrightarrow{\ \mathrm{II} + \lambda\,\mathrm{I} \to \mathrm{II}\ } \begin{bmatrix} a & b \\ c + \lambda a & d + \lambda b \end{bmatrix}$$
-> $$\det\left(\begin{bmatrix} a & b \\ c + \lambda a & d + \lambda b \end{bmatrix}\right) = a(d + \lambda b) - (c + \lambda a)b = ad + \lambda ab - bc - \lambda ab = \det(A)$$
-> [nell'originale i termini $\lambda ab$ sono barrati]
+> $$\det\left(\begin{bmatrix} a & b \\ c + \lambda a & d + \lambda b \end{bmatrix}\right) = a(d + \lambda b) - (c + \lambda a)b = ad + \cancel{\lambda ab} - bc - \cancel{\lambda ab} = \det(A)$$
 
 > [!abstract] Teorema (Morale)
 > **MORALE:** con la sostituzione il determinante non cambia!!!
@@ -20,7 +19,7 @@ fonte: "GAL_2026-2027_-_20261008_-_LEZIONE_7.pdf (slide 71)"
 > [!note] Osservazione
 > Con la multilinearità ([[77_Determinante_Multilineare]]):
 > $$\det\left(\begin{bmatrix} a & b \\ c + \lambda a & d + \lambda b \end{bmatrix}\right) = \det\left(\begin{bmatrix} a & b \\ c & d \end{bmatrix}\right) + \lambda \det\left(\begin{bmatrix} a & b \\ a & b \end{bmatrix}\right)$$
-> [annotazioni: il primo addendo è $\det(A)$; il secondo termine $\det\left(\begin{bmatrix} a & b \\ a & b \end{bmatrix}\right)$ è accompagnato da «$= 0\,?$» → [[79_Determinante_con_Righe_Uguali]]]
+> Il primo addendo è $\det(A)$; il secondo, $\det\left(\begin{bmatrix} a & b \\ a & b \end{bmatrix}\right)$, ha due righe uguali: vale $0$? → [[79_Determinante_con_Righe_Uguali]]
 
 ## Note collegate
 - [[77_Determinante_Multilineare]]

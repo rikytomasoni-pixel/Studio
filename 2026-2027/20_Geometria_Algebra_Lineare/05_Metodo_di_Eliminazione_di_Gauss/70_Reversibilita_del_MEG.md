@@ -17,7 +17,6 @@ Da ieri: $A \overset{\text{MEG}}{\leadsto} U$, con $A$ arbitraria e $U$ a scala 
 
 > [!example] Moltiplicazione per uno scalare $\neq 0$
 > $$\begin{bmatrix} 1 & 2 & 3 \\ \frac{1}{10^{8}} & 3 & 7 \end{bmatrix} \xrightarrow{\ 10^{4}\,\mathrm{II} \to \mathrm{II}\ } \begin{bmatrix} 1 & 2 & 3 \\ \frac{1}{10^{4}} & 3\cdot10^{4} & 7\cdot10^{4} \end{bmatrix} \xrightarrow{\ \frac{1}{10^{4}}\,\mathrm{II} \to \mathrm{II}\ } \begin{bmatrix} 1 & 2 & 3 \\ \frac{1}{10^{8}} & 3 & 7 \end{bmatrix}$$
-> [lettura incerta: nell'originale l'ultimo elemento in basso a sinistra appare scritto $\frac{1}{10^{4}}$; il valore coerente con le operazioni è $\frac{1}{10^{8}}$]
 
 > [!example] Sostituzione
 > $$\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} \xrightarrow{\ \mathrm{II} - 4\,\mathrm{I} \to \mathrm{II}\ } \begin{bmatrix} 1 & 2 & 3 \\ 0 & -3 & -6 \end{bmatrix} \xrightarrow{\ \mathrm{II} + 4\,\mathrm{I} \to \mathrm{II}\ } \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}$$

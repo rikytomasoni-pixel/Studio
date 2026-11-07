@@ -24,10 +24,10 @@ fonte: "AM1 L11 26-27.pdf (pag. 9-11, 14)"
 Poiché $\displaystyle\lim_{n\to\infty}\frac{a_n}{b_n}=1$, per ogni $\varepsilon>0$ esiste $N_1\in\mathbb{N}$ tale che per ogni $n\geq N_1$
 $$1-\varepsilon<\frac{a_n}{b_n}<1+\varepsilon$$
 Per $\varepsilon=\frac12$ esiste $N_1\in\mathbb{N}$ tale che per ogni $n\geq N_1$
-$$\underbrace{\frac12<\frac{a_n}{b_n}}_{\textcircled{1}}\ ,\qquad\underbrace{\frac{a_n}{b_n}<\frac32}_{\textcircled{2}}$$
+$$\underbrace{\frac12<\frac{a_n}{b_n}}_{{1}}\ ,\qquad\underbrace{\frac{a_n}{b_n}<\frac32}_{{2}}$$
 Poiché $a_n,b_n$ sono definitivamente positive, esiste $N_2\in\mathbb{N}$ tale che per ogni $n\geq N_2$ $a_n>0$, $b_n>0$. Allora per ogni $n\geq N=\max\{N_1,N_2\}$:
-$$\textcircled{2}\Rightarrow0<a_n<\frac32b_n\qquad(**)$$
-$$\textcircled{1}\Rightarrow0<b_n<2a_n\qquad(***)$$
+$${2}\Rightarrow0<a_{n}<\frac32b_{n}\qquad(**)$$
+$${1}\Rightarrow0<b_{n}<2a_{n}\qquad(***)$$
 - Per il [[58_Criterio_del_Confronto_per_Serie]], da $(**)$: se $\sum a_n$ diverge allora diverge anche $\sum b_n$; inoltre se $\sum b_n$ converge allora converge anche $\sum a_n$.
 - Da $(***)$: se $\sum b_n$ diverge allora diverge anche $\sum a_n$; inoltre se $\sum a_n$ converge allora converge anche $\sum b_n$ (sempre per il criterio del confronto).
 

@@ -1,8 +1,8 @@
 ---
 tags: [GAL, MOC, indice-generale]
-data: 2026-10-20
-lezione: 0-13
-fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11 e 13)"
+data: 2026-11-03
+lezione: 0-15
+fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11, 13 e 15)"
 ---
 
 # MOC — Geometria e Algebra Lineare A.A. 2026-2027
@@ -38,12 +38,16 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 | 5 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L4 termina a 44 e L6 inizia a 45) | — |
 | 6 | 2026-10-07 | Matrice invertibile; rango; determinante (sviluppo di Laplace); matrici triangolari; metodo di eliminazione di Gauss; pivot e matrice a scala | [[07_Indice_Lezione_6]] |
 | 7 | 2026-10-08 | Reversibilità del MEG; codifica del MEG con il prodotto matriciale; rango con il MEG; teorema di Binet; determinante con il MEG; proprietà del determinante | [[08_Indice_Lezione_7]] |
+| Es. 5.1 | 2026-10-09 | Esercizi: calcolo del determinante con MEG, Laplace e metodo misto (solo matrice A svolta) | [[103_Esercizio_5_1_Calcolo_del_Determinante]] |
+| Es. EE1 | 2026-10-09 | Esercizio: matrice come somma di $r$ matrici di rango 1 (MEG, matrici elementari, $A=PLU$) | [[108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1]] |
 | 8 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L7 termina a 72 e L9 inizia a 73) | — |
 | 9 | 2026-10-12 | Rappresentazioni matriciali di un sistema lineare; risoluzione via MEG; teorema di Rouché-Capelli | [[10_Indice_Lezione_9]] |
 | 10 | 2026-10-14 | Commenti a Rouché-Capelli; nucleo; teorema di struttura; teorema di Cramer; ricerca della matrice inversa; teorema sull'invertibilità | [[11_Indice_Lezione_10]] |
 | 11 | 2026-10-15 | Spazi affini (cartesiane e parametriche); spazio vettoriale: definizione ed esempi; sottospazi vettoriali | [[12_Indice_Lezione_11]] |
 | 12 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L11 termina a 107 e L13 inizia a 108) | — |
 | 13 | 2026-10-19 | Combinazioni lineari e span; generatori; vettori linearmente indipendenti; base; teorema di unicità della rappresentazione; dimensione | [[14_Indice_Lezione_13]] |
+| 14 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L13 termina a 118 e L15 inizia a 119) | — |
+| 15 | 2026-10-28 | Lemma fondamentale; teorema della dimensione; significato della dimensione; spazi finitamente generati; basi canoniche; estrazione e completamento di una base; fac-simile d'esame | [[16_Indice_Lezione_15]] |
 
 ## Fondamenti teorici — insiemi, relazioni, funzioni
 - [[11_Prodotto_Cartesiano]] — Prodotto cartesiano *(L0)*
@@ -100,6 +104,10 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[63_Rango_di_una_Matrice]] — Rango di una matrice *(L6)*
 - [[64_Rango_e_Matrice_di_Probabilita_Congiunta]] — Rango e matrice di probabilità congiunta *(L6)*
 - [[73_MEG_e_Rango]] — MEG e rango *(L7)*
+- [[108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1]] — Esercizio EE1: somma di matrici di rango 1 *(esercizi 09-10)*
+- [[109_EE1_Riduzione_a_Scala_di_A]] — EE1: riduzione a scala *(esercizi 09-10)*
+- [[110_EE1_Fattorizzazione_con_Matrici_Elementari]] — EE1: matrici elementari e $A=PLU$ *(esercizi 09-10)*
+- [[111_EE1_Somma_di_Tre_Matrici_di_Rango_1]] — EE1: somma di tre matrici di rango 1 *(esercizi 09-10)*
 
 ## Determinante
 - [[65_Determinante_Sviluppo_di_Laplace]] — Determinante: sviluppo di Laplace *(L6)*
@@ -110,6 +118,11 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[77_Determinante_Multilineare]] — Determinante multilineare *(L7)*
 - [[78_Determinante_e_Sostituzione]] — Determinante e operazione di sostituzione *(L7)*
 - [[79_Determinante_con_Righe_Uguali]] — Determinante con righe uguali *(L7)*
+- [[103_Esercizio_5_1_Calcolo_del_Determinante]] — Esercizio 5.1: calcolo del determinante *(esercizi 09-10)*
+- [[104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe]] — Esempio con il MEG e scambio di righe *(esercizi 09-10)*
+- [[105_Determinante_Laplace_Esempio_3x3_Riga_3]] — Esempio con Laplace sulla riga 3 *(esercizi 09-10)*
+- [[106_Determinante_Metodo_Misto_MEG_e_Laplace]] — Metodo misto MEG + Laplace *(esercizi 09-10)*
+- [[107_Confronto_Metodi_Calcolo_Determinante]] — Confronto tra i metodi *(esercizi 09-10)*
 
 ## Metodo di eliminazione di Gauss (MEG)
 - [[67_Operazioni_Elementari_sulle_Righe]] — Operazioni elementari sulle righe *(L6)*
@@ -126,6 +139,11 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[84_Nucleo_e_Sistema_Omogeneo_Associato]] — Nucleo e sistema omogeneo associato *(L10)*
 - [[85_Teorema_di_Struttura_delle_Soluzioni]] — Teorema di struttura delle soluzioni *(L10)*
 - [[86_Teorema_di_Cramer]] — Teorema di Cramer *(L10)*
+- [[112_Esercizio_5_4_Sistemi_con_Parametro]] — Esercizio 5.4: sistemi con parametro *(esercizi)*
+- [[113_Esercizio_5_4_i_Determinante_Sempre_Nullo]] — 5.4 (i): determinante sempre nullo *(esercizi)*
+- [[114_Esercizio_5_4_ii_Cramer_e_Caso_Singolare]] — 5.4 (ii): Cramer e caso singolare *(esercizi)*
+- [[115_Esercizio_5_4_iii_Quattro_Equazioni_Tre_Incognite]] — 5.4 (iii): 4 equazioni, 3 incognite *(esercizi)*
+- [[116_Strategia_Determinante_per_Sistemi_con_Parametro]] — Strategia: determinante e parametri *(osservazione)*
 
 ## Spazi affini
 - [[89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini]] — Interpretazione geometrica dei sistemi lineari *(L11)*
@@ -146,6 +164,19 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[100_Base_di_uno_Spazio_Vettoriale]] — Base di uno spazio vettoriale *(L13)*
 - [[101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base]] — Teorema di unicità della rappresentazione *(L13)*
 - [[102_Dimensione_di_uno_Spazio_Vettoriale]] — Dimensione di uno spazio vettoriale *(L13)*
+- [[117_Lemma_Fondamentale_Teorema_15_1]] — Lemma fondamentale (Teorema 15.1) *(L15)*
+- [[118_Teorema_della_Dimensione_Teorema_15_2]] — Teorema della dimensione (Teorema 15.2) *(L15)*
+- [[119_Significato_della_Dimensione_Massimo_Indipendenti_e_Minimo_Generatori]] — Significato della dimensione *(L15)*
+- [[120_Spazi_Vettoriali_Finitamente_Generati_e_Non]] — Spazi vettoriali finitamente generati e non *(L15)*
+- [[121_Basi_Canoniche]] — Basi canoniche *(L15)*
+- [[122_Estrazione_e_Completamento_Due_Problemi_Classici]] — Estrazione e completamento: due problemi classici *(L15)*
+- [[123_Base_per_Costruzione_Libera_con_il_MEG_sulle_Righe]] — Base per costruzione libera: MEG sulle righe *(L15)*
+- [[124_Estrazione_di_una_Base_con_i_Pivot_delle_Colonne]] — Estrazione di una base: pivot delle colonne *(L15)*
+- [[125_Completamento_ad_una_Base]] — Completamento ad una base *(L15)*
+- [[126_Fac_simile_28_10_Esercizio_su_Sottospazi_Dimensione_e_Basi]] — Fac-simile 28-10: sottospazi, dimensione e basi *(esercizi)*
+- [[127_Fac_simile_i_V_e_un_Sottospazio_Due_Strategie]] — Fac-simile (i): $V$ è un sottospazio *(esercizi)*
+- [[128_Fac_simile_ii_Dimensione_e_Basi_di_V_e_W]] — Fac-simile (ii): dimensione e basi di $V$ e $W$ *(esercizi)*
+- [[129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W]] — Fac-simile (iii): $\mathrm{Id}_2=A_1+A_2$ *(esercizi)*
 
 ## Note collegate
 - [[01_Indice_Lezione_0]]
@@ -159,5 +190,6 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[11_Indice_Lezione_10]]
 - [[12_Indice_Lezione_11]]
 - [[14_Indice_Lezione_13]]
+- [[16_Indice_Lezione_15]]
 
 #GAL/moc

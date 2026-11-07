@@ -23,6 +23,7 @@ La proprietà che motiva la definizione (rappresentazione unica) è il [[101_Teo
 - [[98_Vettori_Linearmente_Indipendenti]]
 - [[101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base]]
 - [[102_Dimensione_di_uno_Spazio_Vettoriale]]
+- [[121_Basi_Canoniche]] · [[122_Estrazione_e_Completamento_Due_Problemi_Classici]] (lezione 15)
 - Indice: [[14_Indice_Lezione_13]] · [[00_MOC_GAL]]
 
 #GAL/base/definizione

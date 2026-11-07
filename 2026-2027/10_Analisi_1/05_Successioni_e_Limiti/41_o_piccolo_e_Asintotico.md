@@ -13,50 +13,46 @@ fonte: Lezione 8
 
 ## Ordine di infinitesimo
 
-> [!warning] Definizione
+> [!warning] Definizione — Ordine di infinitesimo
 > Date due successioni infinitesime $a_n, b_n$, cioè
 > $$\lim_{n\to\infty} a_n = \lim_{n\to\infty} b_n = 0$$
-> (con $b_n\neq 0$ definitivamente in $n\in\mathbb{N}$), se esiste
-> $$\lim_{n\to\infty} \dfrac{a_n}{b_n} = l$$
-> allora:
-> - se $l\in\mathbb{R}\setminus\{0\}$: $a_n, b_n$ sono **infinitesimi dello stesso ordine**
-> - se $l=0$: $a_n$ è infinitesimo di **ordine inferiore** rispetto a $b_n$
-> - se $l=\pm\infty$: $b_n$ è infinitesimo di **ordine inferiore** rispetto a $a_n$
-> - se $\nexists\, l$: $a_n, b_n$ **non sono confrontabili**
+> (con $b_n\neq 0$ definitivamente in $n\in\mathbb{N}$), se
+> $$\lim_{n\to\infty} \dfrac{a_n}{b_n} = \begin{cases}
+> 0 & a_n \text{ infinitesimo di ordine superiore rispetto a } b_n\\
+> l\in\mathbb{R}\setminus\{0\} & a_n, b_n \text{ infinitesimi dello stesso ordine}\\
+> \pm\infty & b_n \text{ infinitesimo di ordine superiore rispetto a } a_n\\
+> \nexists & a_n, b_n \text{ non confrontabili}
+> \end{cases}$$
 
-**Esempio.** $\dfrac{1}{n^\alpha}$ è infinitesimo di ordine superiore rispetto a $\dfrac{1}{\log n}$, $\forall\, \alpha>0$.
+**Esempio.** $\dfrac{1}{n^n}$ è infinitesimo di ordine superiore rispetto a $\dfrac{1}{n^\alpha}$, $\dfrac{1}{(\log_a n)^\beta}$, $\dfrac{1}{a^n}$, $\dfrac{1}{n!}$, $\forall\, \alpha>0$, $\forall\, \beta>0$, $\forall\, a>1$.
 
-## $o$-piccolo
+## $o$-piccolo e asintotico
 
-> [!warning] Definizione — $o$-piccolo
+> [!warning] Definizione
 > Date due successioni $a_n, b_n$ qualsiasi (con $b_n\neq 0$ definitivamente in $n\in\mathbb{N}$), diremo che:
 > - $a_n$ è **$o$-piccolo** di $b_n$, e scriveremo $a_n=o(b_n)$ per $n\to\infty$, se
 > $$\lim_{n\to\infty} \dfrac{a_n}{b_n} = 0$$
-
-## Asintotico
-
-> [!warning] Definizione — Asintotico
-> $a_n$ è **asintotico** a $b_n$, e scriveremo $a_n\sim b_n$ per $n\to\infty$, se
+> - $a_n$ è **asintotico** a $b_n$, e scriveremo $a_n\sim b_n$ per $n\to\infty$, se
 > $$\lim_{n\to\infty} \dfrac{a_n}{b_n} = 1$$
 
 **Osservazioni.**
-- Se $a_n = o(b_n)$, allora $\lim_{n\to\infty} \dfrac{a_n}{b_n}=0 \ \Rightarrow\ b_n \not\sim a_n$ in generale (da non confondere le due nozioni).
-- Se $\lim_{n\to\infty} \dfrac{a_n}{b_n}=l\in\mathbb{R}\setminus\{0\}$, allora $a_n\sim l\,b_n$.
+- Se $\displaystyle\lim_{n\to\infty} \dfrac{a_n}{b_n}=\pm\infty$, allora $\displaystyle\lim_{n\to\infty} \dfrac{b_n}{a_n}=0$, cioè $b_n=o(a_n)$.
+- Se $\displaystyle\lim_{n\to\infty} \dfrac{a_n}{b_n}=l\in\mathbb{R}\setminus\{0\}$, allora $\displaystyle\lim_{n\to\infty} \dfrac{a_n}{l\,b_n}=1$, cioè $a_n\sim l\,b_n$.
 
 ## Gerarchia degli infiniti in termini di $o$-piccolo
 
 **Osservazione.**
-$$(\log n)^\alpha = o(n^\beta) \qquad \forall\, \alpha,\beta>0$$
-$$n^\alpha = o(q^n) \qquad \forall\, \alpha>0,\ q>1$$
-$$q^n = o(n!) \qquad \forall\, q>0$$
+$$(\log_a n)^\beta = o(n^\alpha) \qquad \forall\, \alpha>0,\ \forall\, \beta>0,\ \forall\, a>1$$
+$$n^\alpha = o(a^n) \qquad \forall\, \alpha>0,\ \forall\, a>1$$
+$$a^n = o(n!) \qquad \forall\, a>1$$
 $$n! = o(n^n)$$
 
 ## Esempio applicativo
 
-**Esempio.** $a_n = 7n^4+\log n + \log\log n + (\log n)^{100} + n^{18} + n-1$
+**Esempio.** $a_n = 7n^{47} + \log n + \log\log n + (\log n)^{18} + \sin n + n^{18} - 1 + \arctan n^2$
 
-Il termine dominante è $7n^4$: tutti gli altri addendi sono $o(n^4)$ per $n\to\infty$. Quindi
-$$a_n = 7n^4 + o(n^4)$$
+Il termine dominante è $7n^{47}$: tutti gli altri addendi sono $o(n^{47})$ per $n\to\infty$. Quindi
+$$a_n = 7n^{47} + o(n^{47}) \ \sim\ 7n^{47}$$
 
 ### Note collegate
 - [[00_MOC_Analisi_1]]

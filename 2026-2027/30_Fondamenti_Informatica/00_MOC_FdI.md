@@ -48,6 +48,9 @@ materia: Fondamenti di Informatica
 - [[16_Cicli_Iterativi]] — Cicli iterativi
 - [[17_Numeri_di_Kaprekar]] — Excursus sui numeri di Kaprekar
 - [[18_Switch]] — Switch
+- [[19_Sottoprogrammi_Funzioni]] - Funzioni
+- [[20_Puntatori]] - Puntatori
+- [[21_Regole_di_Visibilità]] - Regole di visibilità (scope)
 
 ## Disegni
 - [[Disegni FI]]

@@ -57,7 +57,7 @@ $$\mathcal{D} = \{x\in[0,\infty) : \sqrt{x}\in\mathbb{R}\} = [0,\infty)$$
 
 ### Note collegate
 - [[00_MOC_Analisi_1]]
-- [[19_Funzioni_Generalita]] — dominio, codominio
+- [[19_Funzioni_Generalità]] — dominio, codominio
 - [[21_Campo_di_Esistenza]] — dominio assegnato tramite espressione analitica
 - [[26_Iniettivita_Suriettivita_Inversa]] — $f^{-1}(f(x))=x$, $f(f^{-1}(y))=y$
 - [[12_Logaritmi]]

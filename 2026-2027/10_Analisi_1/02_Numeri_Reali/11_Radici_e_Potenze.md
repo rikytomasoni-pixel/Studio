@@ -79,9 +79,6 @@ Si dimostra che questa procedura produce un numero reale ben definito, che si de
 - $a^b$ è definito $\forall\, a\in\mathbb{R}, a>0$, $\forall\, b\in\mathbb{R}$, e vale $a^b>0$.
 - $a^b$ può essere definito anche per valori $a\leq 0$ se $b\in\mathbb{R}$ è particolare (ad esempio se $b\in\mathbb{N}$), ma ciò **non è possibile per tutti** i $b\in\mathbb{R}$.
 
-> [!warning] Da fare
-> Proprietà delle potenze: vedere sul libro di testo — **da sapere**.
-
 ### Note collegate
 - [[00_MOC_Analisi_1]]
 - [[12_Logaritmi]] — funzione inversa dell'esponenziale $a^x$

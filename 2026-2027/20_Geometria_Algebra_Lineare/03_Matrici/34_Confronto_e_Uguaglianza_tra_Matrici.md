@@ -9,7 +9,7 @@ fonte: "GAL_2026-2027_-_20260930_-_LEZIONE_3.pdf (slide 29)"
 
 > [!note] Osservazione (Domanda)
 > D. a cosa servono le matrici? cosa ce ne facciamo?
-> R. per esprimere l'utilità dobbiamo ripercorrere [lettura incerta] un po' la storia!
+> R. per esprimere l'utilità dobbiamo ripercorrere un po' la storia!
 
 Torniamo all'interpretazione delle matrici come funzioni. Cosa siete soliti fare con funzioni di tipo $f : \mathbb{R} \to \mathbb{R}$?
 - confrontare / distinguere le funzioni → questa nota

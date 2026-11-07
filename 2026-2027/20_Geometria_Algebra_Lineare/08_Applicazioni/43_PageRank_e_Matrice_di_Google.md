@@ -20,6 +20,8 @@ fonte: "GAL_2026-2027_-_20261001_-_LEZIONE_4.pdf (slide 39-42)"
 - **TAP:** mi muovo solo con i link ipertestuali.
 - **KEYBOARD:** mi muovo solo scrivendo l'indirizzo esplicito della pagina.
 
+![[TRS_KRS.png]]
+
 
 
 $$T = \begin{bmatrix} 0 & 1 & 0 \\ \tfrac12 & 0 & 1 \\ \tfrac12 & 0 & 0 \end{bmatrix}, \qquad K = \begin{bmatrix} \tfrac13 & \tfrac13 & \tfrac13 \\ \tfrac13 & \tfrac13 & \tfrac13 \\ \tfrac13 & \tfrac13 & \tfrac13 \end{bmatrix}$$
@@ -38,12 +40,6 @@ $$T = \begin{bmatrix} 0 & 1 & 0 \\ \tfrac12 & 0 & 1 \\ \tfrac12 & 0 & 0 \end{bma
 - $\vdots$
 
 (Le potenze sono prodotti righe per colonne: [[41_Prodotto_Matriciale_Righe_per_Colonne]].)
-
-> [!example] Esempio (Python)
->
-> **Domande**
-> - è sempre vero che questo processo si stabilizza?
-> - è importante come allochiamo le masse iniziali?
 
 ## Note collegate
 - [[42_Prodotto_e_Composizione_di_Funzioni]]

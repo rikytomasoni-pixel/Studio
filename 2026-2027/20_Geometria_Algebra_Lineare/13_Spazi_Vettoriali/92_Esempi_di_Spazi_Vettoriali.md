@@ -35,7 +35,7 @@ Spazi vettoriali contenuti in altri spazi: vedi [[94_Sottospazi_Vettoriali]].
 - [[94_Sottospazi_Vettoriali]]
 - [[32_Definizione_di_Matrice]]
 - [[29_Successioni_Definizioni_Base]] (Analisi 1: successioni)
-- [[19_Funzioni_Generalita]] (Analisi 1: funzioni)
+- [[19_Funzioni_Generalità]] (Analisi 1: funzioni)
 - Indice: [[12_Indice_Lezione_11]] · [[00_MOC_GAL]]
 
 #GAL/spazi-vettoriali/esempi

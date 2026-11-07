@@ -33,8 +33,6 @@ fonte: "GAL_2026-2027_-_20260917_-_LEZIONE_2.pdf (p. 2-3)"
 > ![[sommaVettori.png]]
 > $OA + OB = OC$. Il risultato non dipende dalla scelta dell'origine.
 
-**!!!** (disegno: parallelogramma $O, A, C, B$ con diagonale $OC$ e diagonale $AB$ tratteggiata)
-
 Le proprietà delle operazioni sono in [[24_Proprieta_delle_Operazioni_tra_Vettori]]; le coordinate in [[23_Sistemi_di_Riferimento_e_Coordinate]].
 
 ## Note collegate

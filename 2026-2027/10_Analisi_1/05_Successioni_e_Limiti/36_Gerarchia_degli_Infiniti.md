@@ -12,13 +12,15 @@ fonte: Lezione 7 e Lezione 8
 
 > [!abstract] Teorema — Gerarchia degli infiniti
 > Per $n\to\infty$, valgono i seguenti confronti (dal più "lento" al più "veloce" a divergere):
-> 1. $\displaystyle\lim_{n\to\infty} \dfrac{(\log n)^\alpha}{n^\beta} = 0 \qquad \forall\, \alpha,\beta>0$
-> 2. $\displaystyle\lim_{n\to\infty} \dfrac{n^\alpha}{q^n} = 0 \qquad \forall\, \alpha>0,\ q>1$
-> 3. $\displaystyle\lim_{n\to\infty} \dfrac{q^n}{n!} = 0 \qquad \forall\, q\in\mathbb{R}$
+> $$(\log_a n)^\beta \;\ll\; n^\alpha \;\ll\; a^n \;\ll\; n! \;\ll\; n^n \qquad \forall\, \beta>0,\ \forall\, \alpha>0,\ \forall\, a>1$$
+> cioè
+> 1. $\displaystyle\lim_{n\to\infty} \dfrac{(\log_a n)^\beta}{n^\alpha} = 0$
+> 2. $\displaystyle\lim_{n\to\infty} \dfrac{n^\alpha}{a^n} = 0$
+> 3. $\displaystyle\lim_{n\to\infty} \dfrac{a^n}{n!} = 0$
 > 4. $\displaystyle\lim_{n\to\infty} \dfrac{n!}{n^n} = 0$
 
-Informalmente, per $n\to\infty$:
-$$\log n \ll n^\alpha \ll q^n\ (q>1) \ll n! \ll n^n$$
+**Osservazione.** Il punto 4 segue da $\displaystyle\lim_{n\to\infty} \dfrac{n^n}{n!} = +\infty$ (vedi [[39_Criterio_del_Rapporto]]):
+$$\lim_{n\to\infty} \dfrac{n!}{n^n} = \lim_{n\to\infty} \left(\dfrac{n^n}{n!}\right)^{-1} = 0$$
 
 ## Applicazione: esempio di uso nella gerarchia
 

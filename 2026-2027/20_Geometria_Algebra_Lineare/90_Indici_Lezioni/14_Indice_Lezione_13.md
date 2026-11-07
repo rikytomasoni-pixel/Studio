@@ -23,6 +23,7 @@ fonte: "GAL_2026-2027_-_20261019_-_LEZIONE_13.pdf"
 ## Note collegate
 - [[00_MOC_GAL]]
 - [[12_Indice_Lezione_11]] (lezione precedente in vault; la lezione 12 non è presente: slide 107 → 108)
+- [[16_Indice_Lezione_15]] (lezione successiva in vault; la lezione 14 non è presente: slide 118 → 119)
 - Prima nota: [[95_Combinazioni_Lineari_e_Span]]
 
 #GAL/indici-lezioni/indice-lezione-13

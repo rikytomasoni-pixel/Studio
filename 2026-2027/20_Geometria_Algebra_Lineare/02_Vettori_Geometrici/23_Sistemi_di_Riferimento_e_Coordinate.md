@@ -27,7 +27,7 @@ Se i vettori $OB_1$, $OB_2$ e $OB_3$ sono ortogonali e i segmenti $OB_1$, $OB_2$
 > allora
 > - $O = \begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}$
 > - $c(-A) = \begin{pmatrix} -a_1 \\ -a_2 \\ -a_3 \end{pmatrix}$
-> - $c(A+B) = \begin{pmatrix} a_1+b_1 \\ a_2+b_2 \\ a_3+b_3 \end{pmatrix}$ [nell'originale la seconda componente è scritta $a_2+b_1$: svista evidente, corretta]
+> - $c(A+B) = \begin{pmatrix} a_1+b_1 \\ a_2+b_2 \\ a_3+b_3 \end{pmatrix}$
 > - $c(tA) = \begin{pmatrix} ta_1 \\ ta_2 \\ ta_3 \end{pmatrix}$
 
 ## Note collegate

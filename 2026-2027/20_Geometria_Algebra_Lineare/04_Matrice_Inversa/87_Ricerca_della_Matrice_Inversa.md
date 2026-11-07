@@ -28,6 +28,10 @@ La ricerca dell'inverso sinistro equivale alla soluzione di un sistema con **6 i
 > [!note] Presupposto
 > Non sembra plausibile poter calcolare sia l'inverso destro che l'inverso sinistro per matrici **rettangolari**. L'unico caso che lascia uno spiraglio aperto è il caso $m=n$.
 
+> [!note] Osservazione (non presente negli appunti): lettura con il rango
+> L'intuizione "incognite vs equazioni" è confermata dal rango ([[60_Matrice_Invertibile]]). Per $A\in M(2,3)$: $r(A)=2=m$ (le due righe non sono proporzionali), quindi $A$ è **invertibile a destra**; invece $r(A)\le2<3=n$, quindi **non** è mai invertibile a sinistra. In generale: invertibile a destra $\iff r(A)=m$, a sinistra $\iff r(A)=n$; per una matrice rettangolare le due condizioni non possono valere insieme, e solo per $m=n$ si arriva all'invertibilità vera e propria ($\det(A)\neq0$, [[88_Teorema_sull_Invertibilita_della_Matrice]]).
+> Qui ogni sistema $A\underline{x}=\underline{e}_j$ ha $n-r=1$ parametro libero ([[82_Teorema_di_Rouche_Capelli]]): gli inversi destri sono **infiniti** (non unici, a differenza dell'inversa di una matrice quadrata invertibile).
+
 ## Caso $2\times2$
 $$A=\begin{bmatrix} a&b\\c&d\end{bmatrix}\qquad X=\begin{bmatrix} x_{11}&x_{12}\\x_{21}&x_{22}\end{bmatrix}\ ?\qquad AX=\mathrm{Id}_2,\quad XA=\mathrm{Id}_2$$
 
@@ -73,7 +77,8 @@ la matrice **inversa a destra**.
 
 ## Procedimento generale per l'inverso destro
 > [!warning] N.B.
-> $$[A\mid\text{colonne dei termini noti dei sistemi da risolvere}]=[A\mid\mathrm{Id}]\ \xrightarrow{\ \text{MEG}\ }\ [\mathrm{Id}\mid\text{soluzioni del primo sistema}\ \dots\ \text{soluzioni dell'ultimo sistema}]=[\mathrm{Id}\mid A^{-1}]$$
+> $$[A\mid\text{colonne dei termini noti dei sistemi }] = [A\mid\mathrm{Id}]\ \xrightarrow{\ \text{MEG}\ }\ [\mathrm{Id}\mid\text{soluzioni del primo sistema}$$
+> $$\ \dots\ \text{soluzioni dell'ultimo sistema}]=[\mathrm{Id}\mid A^{-1}]$$
 > Le soluzioni dei sistemi sono le colonne dell'inversa: la prima soluzione è la prima colonna dell'inverso, e così via.
 
 > [!warning] N.B.
@@ -92,6 +97,7 @@ la matrice **inversa a destra**.
 - [[72_Esistenza_della_Matrice_Inversa]]
 - [[86_Teorema_di_Cramer]]
 - [[88_Teorema_sull_Invertibilita_della_Matrice]]
+- [[63_Rango_di_una_Matrice]]
 - [[41_Prodotto_Matriciale_Righe_per_Colonne]]
 - [[28_Determinanti_2x2_e_3x3]]
 - Indice: [[11_Indice_Lezione_10]] · [[00_MOC_GAL]]

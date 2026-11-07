@@ -21,7 +21,7 @@ fonte: Lezione 7
 
 **Osservazioni.**
 - Può essere $l=\lim_{n\to\infty} a_n = 0$ e $a_n<0$ definitivamente. Ad esempio $a_n=-\dfrac{1}{n}$ soddisfa $a_n<0\ \ \forall\, n\in\mathbb{N}, n\geq 1$, e $\lim_{n\to\infty} a_n=0$.
-- Se $a_n\geq 0$ ed esiste $\lim_{n\to\infty} a_n=l$, allora $l\geq 0$, ma può essere $l=0$. Ad esempio $a_n=\dfrac{1}{n}$ soddisfa $a_n\geq 0\ \ \forall\, n\in\mathbb{N}, n\geq 1$, e $\lim_{n\to\infty} a_n=0$.
+- Se $a_n>0$ ed esiste $\lim_{n\to\infty} a_n=l$, allora $l\geq 0$, ma può essere $l=0$. Ad esempio $a_n=\dfrac{1}{n}$ soddisfa $a_n>0\ \ \forall\, n\in\mathbb{N}, n\geq 1$, e $\lim_{n\to\infty} a_n=0$.
 
 **Dimostrazione.**
 

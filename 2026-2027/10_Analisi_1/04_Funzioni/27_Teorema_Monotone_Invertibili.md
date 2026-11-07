@@ -61,6 +61,6 @@ $$f^{-1}(y) = \begin{cases} y & y\in[0,1) \\ 3-y & y\in[1,2] \end{cases}$$
 - [[04_Dimostrazione_per_Assurdo]] — metodo di dimostrazione usato
 - [[03_Dimostrazioni]]
 - [[12_Logaritmi]] — applicazione: esistenza del logaritmo
-- - [[31_Successioni_Monotone]] — teorema analogo per successioni
+- [[31_Successioni_Monotone]] — teorema analogo per successioni
 
 #AM1/funzioni/teorema-monotone-invertibili

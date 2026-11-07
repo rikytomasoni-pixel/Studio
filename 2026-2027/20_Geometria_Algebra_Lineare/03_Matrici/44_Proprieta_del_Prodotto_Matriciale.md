@@ -16,7 +16,6 @@ fonte: "GAL_2026-2027_-_20261001_-_LEZIONE_4.pdf (slide 42-43)"
 
 **Attenzione all'efficienza computazionale:** ([[37_Efficienza_Computazionale]])
 
-
 > [!abstract] Teorema (Proprietà)
 > - **Proprietà distributiva a sinistra** $\forall A, B \in M_{\mathbb{K}}(m,n)$, $\forall C \in M_{\mathbb{K}}(n,p)$:
 > $$(A+B)C = AC + BC$$

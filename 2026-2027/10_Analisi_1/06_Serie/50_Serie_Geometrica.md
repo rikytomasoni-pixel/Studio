@@ -6,7 +6,6 @@ tags:
   - somme-parziali
 data: 2026-10-14
 fonte: AM1 L10 26-27.pdf (pag. 13-14)
-stato: da_verificare
 ---
 
 # Serie geometrica

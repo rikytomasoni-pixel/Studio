@@ -6,8 +6,6 @@ tags:
   - somme-parziali
 data: 2026-10-14
 fonte: "AM1 L10 26-27.pdf (pag. 10-12)"
-stato: da_verificare
-immagini_mancanti: false
 ---
 
 # Studio del carattere di una serie

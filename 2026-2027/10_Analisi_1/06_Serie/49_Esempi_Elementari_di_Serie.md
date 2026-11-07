@@ -6,8 +6,6 @@ tags:
   - serie-irregolare
 data: 2026-10-14
 fonte: "AM1 L10 26-27.pdf (pag. 12-13)"
-stato: da_verificare
-immagini_mancanti: false
 ---
 
 # Esempi elementari di serie
