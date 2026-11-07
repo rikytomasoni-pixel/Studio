@@ -36,8 +36,7 @@ fonte: "AM1 L16 26-27.pdf (pag. 14-19)"
 $\dots$
 
 ## Continuità di $\sin x$ e $\cos x$
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> AM1 L16 pag. 16: circonferenza goniometrica con centro $O$, punto $A=(1,0)$, punto $P$ sulla circonferenza nel primo quadrante, $H$ proiezione di $P$ sull'asse $x$, $K$ proiezione di $P$ sull'asse $y$, angolo $x$ in $O$; segmento $\overline{PH}=\sin x$ e arco $\widehat{PA}=x$.
+![[ContinuitòSinCos.png]]
 
 Per $x\ge0$: $\overline{PH}=\sin x$, $\ \widehat{PA}=x$, quindi
 $$0\le\sin x\le x\quad\forall x\in\Big[0,\frac\pi2\Big)\ \Rightarrow\ 0\le|\sin x|\le|x|\quad\forall x\in\Big(-\frac\pi2,\frac\pi2\Big)$$

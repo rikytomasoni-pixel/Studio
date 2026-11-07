@@ -35,7 +35,7 @@ $$\dim\operatorname{col}(A)=n-\big(n-r(A)\big)=r(A)\qquad\Longrightarrow\qquad r
 > Insieme a $r(A)=\dim\operatorname{row}(A)$ questo dice che $\dim\operatorname{row}(A)=\dim\operatorname{col}(A)$, cioè $r(A)=r(A^T)$: il rango per righe e il rango per colonne coincidono. Il numero di parametri liberi $n-r(A)$ è la dimensione di $\ker A$ ([[84_Nucleo_e_Sistema_Omogeneo_Associato]]).
 
 ## Esempio
-$$A=\begin{bmatrix}1&-2&0&1\\0&1&1&-1\\0&0&1&2\end{bmatrix}\qquad\ker(A)=\operatorname{Span}\left(\begin{bmatrix}5\\3\\-2\\1\end{bmatrix}\right)$$
+$$A=\begin{bmatrix}\bbox[5px,border: 2px solid red]{1} & -2 & 0 & 1\\ 0 & \bbox[5px,border: 2px solid red]{1} & 1 & -1\\ 0 & 0 & \bbox[5px,border: 2px solid red]{1} & 2\end{bmatrix}\qquad\ker(A)=\operatorname{Span}\left(\begin{bmatrix}5\\ 3\\ -2\\ 1\end{bmatrix}\right)$$
 (pivot nelle prime tre colonne). Dal nucleo:
 $$5\begin{bmatrix}1\\0\\0\end{bmatrix}+3\begin{bmatrix}-2\\1\\0\end{bmatrix}+(-2)\begin{bmatrix}0\\1\\1\end{bmatrix}+1\begin{bmatrix}1\\-1\\2\end{bmatrix}=\begin{bmatrix}0\\0\\0\end{bmatrix}
 \ \Rightarrow\ 
@@ -45,9 +45,6 @@ $$A=C_1\,[1\ 0\ 0\ 0]+C_2\,[0\ 1\ 0\ 0]+C_3\,[0\ 0\ 1\ 0]+C_4\,[0\ 0\ 0\ 1]$$
 Sostituendo $C_4=-5C_1-3C_2+2C_3$:
 $$A=\begin{bmatrix}1\\0\\0\end{bmatrix}\big([1\,0\,0\,0]-5[0\,0\,0\,1]\big)+\begin{bmatrix}-2\\1\\0\end{bmatrix}\big([0\,1\,0\,0]-3[0\,0\,0\,1]\big)+\begin{bmatrix}0\\1\\1\end{bmatrix}\big([0\,0\,1\,0]+2[0\,0\,0\,1]\big)$$
 Si ottiene così $A$ come somma di $r(A)=3$ prodotti colonna·riga con colonne indipendenti e righe indipendenti ([[130_Riepilogo_sulle_Definizioni_di_Rango]], punto 5).
-
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> GAL L16 slide 136: nella matrice $A$ i tre pivot (in posizione (1,1), (2,2), (3,3)) sono cerchiati in azzurro.
 
 ## Note collegate
 - [[130_Riepilogo_sulle_Definizioni_di_Rango]]

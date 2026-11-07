@@ -23,6 +23,7 @@ $$\dim V=\#\text{ elementi di una base di }V=\text{gradi di libertà per muovers
 
 ## Proprietà delle misure (dell'area)
 - Per $A,B$ **disgiunti**: $\mathcal{A}(A\cup B)=\mathcal{A}(A)+\mathcal{A}(B)$ (**additività** della misura).
+![[Pasted image 20261107150418.png]]
 - In generale (con sovrapposizione): $\mathcal{A}(A\cup B)=\mathcal{A}(A)+\mathcal{A}(B)-\mathcal{A}(A\cap B)$.
 
 > [!warning] DISEGNO NON RAPPRESENTABILE

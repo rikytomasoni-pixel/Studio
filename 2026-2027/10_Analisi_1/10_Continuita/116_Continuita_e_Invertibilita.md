@@ -20,8 +20,9 @@ Abbiamo già visto ([[27_Teorema_Monotone_Invertibili]]) che se $f:I\subseteq\ma
 > $$f(x)=\begin{cases}x&x\in[0,1)\\3-x&x\in[1,2]\end{cases}\qquad f^{-1}(y)=\begin{cases}y&y\in[0,1)\\3-y&y\in[1,2]\end{cases}$$
 > $\operatorname{Im}f=\mathcal{D}(f^{-1})=[0,2]$ e $\mathcal{D}(f)=\operatorname{Im}(f^{-1})=[0,2]$. $f$ è invertibile ma **non è monotona**.
 >
-> > [!warning] DISEGNO NON RAPPRESENTABILE
-> > AM1 L16 pag. 13: grafico di $f$ in rosso: segmento da $(0,0)$ a $(1,1)$ con cerchietto vuoto in $(1,1)$, poi segmento decrescente da $(1,2)$ a $(2,1)$, con punti pieni in $(1,2)$ e $(2,1)$ e $(0,0)$; tratteggi a quote $1$ e $2$.
+>
+
+ ![[FunzioneInvertibileNonMonotona.png|383]]
 
 > [!abstract] Teorema
 > Sia $f:I\subseteq\mathbb{R}\to\mathbb{R}$, $I$ intervallo, $f$ **continua** in $I$. Allora

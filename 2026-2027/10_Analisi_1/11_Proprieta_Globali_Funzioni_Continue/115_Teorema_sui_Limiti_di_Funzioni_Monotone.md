@@ -18,7 +18,7 @@ fonte: "AM1 L16 26-27.pdf (pag. 10-13)"
 > Inoltre, per $f$ crescente,
 > $$\lim_{x\to x_0^-}f(x)=\sup_{(a,x_0)}f(x)\in\mathbb{R}\qquad\lim_{x\to x_0^+}f(x)=\inf_{(x_0,b)}f(x)\in\mathbb{R}$$
 > $$\lim_{x\to x_0^-}f(x)\le f(x_0)\le\lim_{x\to x_0^+}f(x)$$
->![[Pasted image 20261107145816.png]]
+>![[MononiaDiscontinua.png]]
 Infine esistono, eventualmente infiniti,
 > $$\lim_{x\to a^+}f(x)=\inf_{(a,b)}f(x)\in\mathbb{R}\cup\{-\infty\}\qquad\lim_{x\to b^-}f(x)=\sup_{(a,b)}f(x)\in\mathbb{R}\cup\{+\infty\}$$
 
