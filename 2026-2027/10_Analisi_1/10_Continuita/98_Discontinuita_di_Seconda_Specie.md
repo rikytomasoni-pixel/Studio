@@ -26,12 +26,10 @@ fonte: "AM1 L14 26-27.pdf (pag. 16-18)"
 > ![[Eliminabile2.png]]
 
 > [!example] $f(x)=\begin{cases}e^{1/x}&x\neq0\\a&x=0\end{cases}$
-> > [!warning] DISEGNO NON RAPPRESENTABILE
-> > AM1 L14 pag. 17: grafico di $e^{1/x}$: per $x>0$ ramo che sale verso l'alto vicino a $0$ e si avvicina a quota $1$ (tratteggio azzurro) per $x\to+\infty$; per $x<0$ ramo sotto la quota $1$ che arriva all'origine con un cerchietto vuoto; punto isolato $(0,a)$.
+> ![[Eliminabile3.png]]
 
 > [!example] $f(x)=\begin{cases}\sin\frac1x&x\neq0\\a&x=0\end{cases}$
-> > [!warning] DISEGNO NON RAPPRESENTABILE
-> > AM1 L14 pag. 18: grafico di $\sin(1/x)$ che oscilla rapidamente tra $-1$ e $1$ avvicinandosi a $x=0$ (disegnato per $x>0$, con due rette azzurre a quote $\pm1$).
+> ![[Eliminabile4.png]]
 
 > [!note] Osservazione (non presente negli appunti)
 > Per leggere i limiti dai grafici: in $e^{1/x}$ si ha $\lim_{x\to0^+}=+\infty$ e $\lim_{x\to0^-}=0$; in $1/x$ i limiti laterali sono $+\infty$ e $-\infty$; in $1/x^2$ entrambi $+\infty$; in $\sin\frac1x$ nessuno dei due limiti laterali esiste (oscillazione). In tutti i casi il valore $a$ assegnato in $0$ non cambia il tipo di discontinuità.

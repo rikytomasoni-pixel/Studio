@@ -3645,9 +3645,36 @@
             "timeKey": "14:45",
             "w": -14,
             "c": -84
+          },
+          {
+            "timeKey": "14:50",
+            "w": -88,
+            "c": -468
           }
         ],
         "id": 376
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
+        "wordCountStart": 189,
+        "charCountStart": 1356,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": -37,
+            "c": -185
+          }
+        ],
+        "id": 377
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/110_Grafici_Locali_e_Grafici_Probabili.md",
+        "wordCountStart": 413,
+        "charCountStart": 2585,
+        "changes": [],
+        "id": 378
       }
     ]
   }

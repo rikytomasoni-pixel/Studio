@@ -24,8 +24,7 @@ fonte: "AM1 L15 26-27.pdf (pag. 3-4)"
 
 *Senza dimostrazione.*
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> AM1 L15 pag. 4: schema con due ovali: nel primo il punto $x_0$, nel secondo il punto $t_0$, freccia $t=g(x)$ dal primo al secondo e freccia $f$ dal secondo verso $\mathbb{R}$.
+![[CambioVariabileNeiLimiti.png]]
 
 > [!note] Osservazione
 > L'ipotesi 3) **non serve** se $t_0=\pm\infty$ o se $f$ è continua in $t_0$, cioè $\ell=f(t_0)$.
