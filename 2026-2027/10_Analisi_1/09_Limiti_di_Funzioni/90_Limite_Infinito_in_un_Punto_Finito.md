@@ -20,8 +20,7 @@ Terzo caso delle [[87_Definizioni_Metriche_di_Limite_all_Infinito|definizioni me
 > cioè
 > $$x_0-\delta<x<x_0+\delta,\ x\neq x_0\ \Rightarrow\ f(x)>M\qquad\text{ovvero}\qquad 0<|x-x_0|<\delta\ \Rightarrow\ f(x)>M$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> AM1 L14 pag. 2: grafico con una curva che "esplode" verso l'alto attorno a $x_0$; retta orizzontale blu all'altezza $M$ sull'asse $y$, intervallo $(x_0-\delta,x_0+\delta)$ evidenziato in verde sull'asse $x$ (con $x_0$ al centro).
+![[LimiteInfinitoFinito.png]]
 
 > [!abstract] Definizione — $\displaystyle\lim_{x\to x_0}f(x)=-\infty$
 > $\forall M>0\ \exists\delta>0$ tale che
@@ -29,8 +28,7 @@ Terzo caso delle [[87_Definizioni_Metriche_di_Limite_all_Infinito|definizioni me
 > cioè
 > $$x_0-\delta<x<x_0+\delta,\ x\neq x_0\ \Rightarrow\ f(x)<-M\qquad\text{ovvero}\qquad 0<|x-x_0|<\delta\ \Rightarrow\ f(x)<-M$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> AM1 L14 pag. 3: grafico speculare (curva che scende verso $-\infty$ attorno a $x_0$, sopra la retta orizzontale $-M$), con intorno $(x_0-\delta,x_0+\delta)$ in verde.
+![[Limite-InfinitoFinito.png]]
 
 > [!example] Esempio
 > $$\lim_{x\to0}\frac{1}{x^2}=+\infty$$

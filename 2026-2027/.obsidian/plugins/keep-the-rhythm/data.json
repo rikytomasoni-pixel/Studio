@@ -3556,7 +3556,18 @@
         "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
         "wordCountStart": 255,
         "charCountStart": 1916,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": -37,
+            "c": -236
+          },
+          {
+            "timeKey": "14:30",
+            "w": -32,
+            "c": -186
+          }
+        ],
         "id": 371
       },
       {
@@ -3566,6 +3577,14 @@
         "charCountStart": 234290,
         "changes": [],
         "id": 372
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
+        "wordCountStart": 478,
+        "charCountStart": 3268,
+        "changes": [],
+        "id": 373
       }
     ]
   }
