@@ -18,11 +18,10 @@ fonte: "AM1 L16 26-27.pdf (pag. 10-13)"
 > Inoltre, per $f$ crescente,
 > $$\lim_{x\to x_0^-}f(x)=\sup_{(a,x_0)}f(x)\in\mathbb{R}\qquad\lim_{x\to x_0^+}f(x)=\inf_{(x_0,b)}f(x)\in\mathbb{R}$$
 > $$\lim_{x\to x_0^-}f(x)\le f(x_0)\le\lim_{x\to x_0^+}f(x)$$
-> Infine esistono, eventualmente infiniti,
+>![[Pasted image 20261107145816.png]]
+Infine esistono, eventualmente infiniti,
 > $$\lim_{x\to a^+}f(x)=\inf_{(a,b)}f(x)\in\mathbb{R}\cup\{-\infty\}\qquad\lim_{x\to b^-}f(x)=\sup_{(a,b)}f(x)\in\mathbb{R}\cup\{+\infty\}$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> AM1 L16 pag. 11: due grafici di funzione crescente in $x_0$: a sinistra funzione continua (curva crescente con punto nero sull'asse in $x_0$); a destra funzione con salto in $x_0$ (due cerchietti vuoti agli estremi del salto e un punto pieno in mezzo, a indicare $f(x_0)$ compreso tra i limiti laterali).
 
 > [!abstract] Caso $f$ decrescente
 > $\forall x_0\in(a,b)$:

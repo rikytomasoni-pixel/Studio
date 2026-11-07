@@ -3673,8 +3673,33 @@
         "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/110_Grafici_Locali_e_Grafici_Probabili.md",
         "wordCountStart": 413,
         "charCountStart": 2585,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": -43,
+            "c": -232
+          },
+          {
+            "timeKey": "14:55",
+            "w": -88,
+            "c": -541
+          }
+        ],
         "id": 378
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/115_Teorema_sui_Limiti_di_Funzioni_Monotone.md",
+        "wordCountStart": 381,
+        "charCountStart": 2416,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": -53,
+            "c": -312
+          }
+        ],
+        "id": 379
       }
     ]
   }

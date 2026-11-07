@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf"
+                "file": "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "AM1 L15 26-27"
+              "title": "AM1 L16 26-27"
             }
           }
         ]
@@ -31,12 +31,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/09_Limiti_di_Funzioni/110_Grafici_Locali_e_Grafici_Probabili.md",
-                "mode": "preview",
+                "file": "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/115_Teorema_sui_Limiti_di_Funzioni_Monotone.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "110_Grafici_Locali_e_Grafici_Probabili"
+              "title": "115_Teorema_sui_Limiti_di_Funzioni_Monotone"
             }
           },
           {
@@ -256,26 +256,28 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "67ac50022ae0b984",
+  "active": "0ba7c57d61bd7477",
   "lastOpenFiles": [
-    "10_Analisi_1/09_Limiti_di_Funzioni/110_Grafici_Locali_e_Grafici_Probabili.md",
+    "Pasted image 20261107145816.png",
+    "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/115_Teorema_sui_Limiti_di_Funzioni_Monotone.md",
+    "Pasted image 20261107145816.png",
+    "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf",
+    "90_Lezioni_pdf/A1/AM1 L14 26-27.pdf",
+    "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
     "00_Claude_Workspace/Recap_2026-11-07_AM1_L14-L16_GAL_L16-L17.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/110_Grafici_Locali_e_Grafici_Probabili.md",
+    "99_Tools/Screenshots/Analisi1/Funzioni/GraficiProbabiliScelta.png",
+    "99_Tools/Screenshots/Analisi1/Funzioni/GraficoProbabileEsempio.png",
+    "99_Tools/Screenshots/Analisi1/Funzioni/ParaboleGradiDiversi.png",
     "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
     "99_Tools/Screenshots/Analisi1/Limiti/CambioVariabileNeiLimiti.png",
-    "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
-    "90_Lezioni_pdf/A1/AM1 L14 26-27.pdf",
     "10_Analisi_1/10_Continuita/98_Discontinuita_di_Seconda_Specie.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/Eliminabile4.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/Eliminabile3.png",
     "99_Tools/Excalidraw/Disegni Analisi1.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/Eliminabile2.png",
     "Pasted image 20261107144440.png",
-    "Pasted image 20261107144816.png",
     "10_Analisi_1/10_Continuita/97_Discontinuita_di_Prima_Specie_a_Salto.md",
-    "99_Tools/Screenshots/Analisi1/Funzioni/Eliminabile1.png",
-    "Pasted image 20261107144433.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/SaltoAdIntervalli.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/DiscontinuitàSalto.png",
     "10_Analisi_1/09_Limiti_di_Funzioni/92_Limite_Finito_in_un_Punto_Finito.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
@@ -294,8 +296,6 @@
     "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann/134_Unione_di_Sottospazi_e_Sottospazio_Somma.md",
     "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann/133_Intersezione_di_Sottospazi_Vettoriali.md",
     "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/132_Significato_della_Dimensione_Seconda_Parte.md",
-    "20_Geometria_Algebra_Lineare/06_Rango/131_Spazio_delle_Righe_e_delle_Colonne.md",
-    "20_Geometria_Algebra_Lineare/06_Rango/130_Riepilogo_sulle_Definizioni_di_Rango.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari",
     "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann",
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue",
@@ -303,7 +303,6 @@
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20260930 - LEZIONE 3.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261105 - LEZIONE 17.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261104 - LEZIONE 16.pdf",
     "Senza nome.canvas"
   ]
 }
