@@ -17,11 +17,13 @@ fonte: "AM1 L14 26-27.pdf (pag. 16-18)"
 
 ## Esempi (con $a\in\mathbb{R}$ valore arbitrario in $x=0$)
 
-![[Eliminabile1.png]]
+> [!example] $f(x)=\begin{cases}\frac1{x}&x\neq0\\a&x=0\end{cases}$
+> ![[Eliminabile1.png]]
+
+
 
 > [!example] $f(x)=\begin{cases}\frac1{x^2}&x\neq0\\a&x=0\end{cases}$
-> > [!warning] DISEGNO NON RAPPRESENTABILE
-> > AM1 L14 pag. 17: grafico di $1/x^2$ (due rami sopra l'asse $x$) e punto isolato $(0,a)$ (disegnato sotto l'asse $x$).
+> ![[Eliminabile2.png]]
 
 > [!example] $f(x)=\begin{cases}e^{1/x}&x\neq0\\a&x=0\end{cases}$
 > > [!warning] DISEGNO NON RAPPRESENTABILE
