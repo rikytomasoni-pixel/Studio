@@ -49,8 +49,7 @@ Talvolta è necessario distinguere il comportamento al limite di $f$ a seconda c
 > [!example] Esempi
 > $f(x)=\dfrac1{x^2}$, $\ f(x)=\log x$, $\ f(x)=\dfrac1x$ (tutte con asintoto verticale $x=0$).
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> AM1 L14 pag. 6: tre grafici affiancati in rosso: $1/x^2$ (due rami sopra l'asse $x$, entrambi verso $+\infty$ in $0$), $\log x$ (solo per $x>0$, $\to-\infty$ in $0^+$), $1/x$ (ramo positivo a destra, ramo negativo a sinistra).
+![[TrisDiFunzioni.png]]
 
 ## Note collegate
 - [[90_Limite_Infinito_in_un_Punto_Finito]]

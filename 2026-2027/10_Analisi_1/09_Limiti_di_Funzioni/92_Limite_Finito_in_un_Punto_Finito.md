@@ -20,8 +20,7 @@ Quarto caso delle [[87_Definizioni_Metriche_di_Limite_all_Infinito|definizioni m
 > cioè
 > $$x_0-\delta<x<x_0+\delta,\ x\neq x_0\ \Rightarrow\ \ell-\varepsilon<f(x)<\ell+\varepsilon\qquad\text{ovvero}\qquad 0<|x-x_0|<\delta\ \Rightarrow\ |f(x)-\ell|<\varepsilon$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> AM1 L14 pag. 7: grafico di una funzione crescente continua; sull'asse $y$ in blu la fascia $(\ell-\varepsilon,\ell+\varepsilon)$ attorno a $\ell$, sull'asse $x$ in verde l'intervallo $(x_0-\delta,x_0+\delta)$ attorno a $x_0$ (con tratteggio rosso in $x_0$ e $\ell$).
+![[LimiteFinitoFinito.png]]
 
 > [!note] Osservazione
 > Nella definizione di $\displaystyle\lim_{x\to x_0}f(x)=\ell$ con $x_0\in\mathbb{R}$ **non importa** se $f$ sia definita o meno in $x_0$, e se lo è non importa quale sia il valore $f(x_0)\in\mathbb{R}$.

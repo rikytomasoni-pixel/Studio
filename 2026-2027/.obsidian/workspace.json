@@ -40,17 +40,17 @@
             }
           },
           {
-            "id": "b3952014adb0d83d",
+            "id": "de5e98d1d4b2f397",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
-                "mode": "preview",
+                "file": "10_Analisi_1/10_Continuita/97_Discontinuita_di_Prima_Specie_a_Salto.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale"
+              "title": "97_Discontinuita_di_Prima_Specie_a_Salto"
             }
           },
           {
@@ -271,13 +271,19 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "b3952014adb0d83d",
+  "active": "0ba7c57d61bd7477",
   "lastOpenFiles": [
-    "00_Claude_Workspace/Recap_2026-11-07_AM1_L14-L16_GAL_L16-L17.md",
+    "99_Tools/Screenshots/Analisi1/Funzioni/DiscontinuitàSalto.png",
     "90_Lezioni_pdf/A1/AM1 L14 26-27.pdf",
+    "99_Tools/Excalidraw/Disegni Analisi1.md",
+    "10_Analisi_1/10_Continuita/97_Discontinuita_di_Prima_Specie_a_Salto.md",
+    "00_Claude_Workspace/Recap_2026-11-07_AM1_L14-L16_GAL_L16-L17.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/92_Limite_Finito_in_un_Punto_Finito.md",
+    "99_Tools/Screenshots/Analisi1/Limiti/LimiteFinitoFinito.png",
+    "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
+    "99_Tools/Screenshots/Analisi1/Funzioni/TrisDiFunzioni.png",
     "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
     "99_Tools/Screenshots/Analisi1/Limiti/Limite-InfinitoFinito.png",
-    "99_Tools/Excalidraw/Disegni Analisi1.md",
     "99_Tools/Screenshots/Analisi1/Limiti/LimiteInfinitoFinito.png",
     "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/18_Indice_Lezione_17.md",
@@ -301,9 +307,6 @@
     "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann",
     "10_Analisi_1/09_Limiti_di_Funzioni/118_Dimostrazione_dei_Limiti_Notevoli.md",
     "10_Analisi_1/10_Continuita/117_Continuita_delle_Funzioni_Elementari.md",
-    "10_Analisi_1/10_Continuita/116_Continuita_e_Invertibilita.md",
-    "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/115_Teorema_sui_Limiti_di_Funzioni_Monotone.md",
-    "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/114_Immagine_di_una_Funzione_Continua_su_un_Intervallo_Chiuso.md",
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue",
     "10_Analisi_1/10_Continuita",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261001 - LEZIONE 4.pdf",
@@ -316,8 +319,6 @@
     "99_Tools/Screenshots/Analisi1/Funzioni/L+.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/LimiteFinito-Inf.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/LimiteFinitoInfinito.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/Lunghezza absA.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/LimiteInfInf.png",
     "Senza nome.canvas"
   ]
 }

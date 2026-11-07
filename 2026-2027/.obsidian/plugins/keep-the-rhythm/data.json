@@ -3583,8 +3583,47 @@
         "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
         "wordCountStart": 478,
         "charCountStart": 3268,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": -45,
+            "c": -246
+          }
+        ],
         "id": 373
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/92_Limite_Finito_in_un_Punto_Finito.md",
+        "wordCountStart": 278,
+        "charCountStart": 2093,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": -43,
+            "c": -273
+          },
+          {
+            "timeKey": "14:35",
+            "w": -2,
+            "c": -9
+          }
+        ],
+        "id": 374
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/10_Continuita/97_Discontinuita_di_Prima_Specie_a_Salto.md",
+        "wordCountStart": 304,
+        "charCountStart": 2109,
+        "changes": [
+          {
+            "timeKey": "14:35",
+            "w": -32,
+            "c": -182
+          }
+        ],
+        "id": 375
       }
     ]
   }

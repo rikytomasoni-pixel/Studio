@@ -22,8 +22,7 @@ fonte: "AM1 L14 26-27.pdf (pag. 15-16)"
 > [!example] Esempio — $f(x)=\operatorname{sign}x$
 > $f$ ha discontinuità a salto in $x_0=0$ con salto pari a $+2$.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> AM1 L14 pag. 16: grafico di $\operatorname{sign}x$: semiretta orizzontale a quota $-1$ per $x<0$, punto $(0,0)$ evidenziato in rosso, semiretta a quota $1$ per $x>0$.
+![[DiscontinuitàSalto.png]]
 
 > [!example] Esempio — funzione indicatrice di $(a,b)$
 > $$f(x)=\begin{cases}1&x\in(a,b)\\0&x\notin(a,b)\end{cases}$$
