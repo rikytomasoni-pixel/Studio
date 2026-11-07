@@ -3454,8 +3454,22 @@
         "filePath": "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
         "wordCountStart": 351,
         "charCountStart": 2643,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": -50,
+            "c": -285
+          }
+        ],
         "id": 359
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/120_Spazi_Vettoriali_Finitamente_Generati_e_Non.md",
+        "wordCountStart": 171,
+        "charCountStart": 1518,
+        "changes": [],
+        "id": 360
       }
     ]
   }
