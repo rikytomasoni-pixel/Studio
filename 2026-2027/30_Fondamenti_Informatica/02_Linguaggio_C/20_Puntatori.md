@@ -60,6 +60,15 @@ int main(){
 	return 0;
 }
 ```
+
+## Puntatori ed Array
+```C
+int A[5], i;
+
+for(i = 0; i < 5; i++)
+	A[i] = 2 * i; //A 
+
+```
 ## Note collegate
 - [[00_MOC_FdI]]
 - [[05_Tipi_di_Dato]]
