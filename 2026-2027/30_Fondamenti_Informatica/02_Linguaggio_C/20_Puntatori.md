@@ -92,6 +92,8 @@ ptr = ptr + 2; //operazione in "unità di sizeOf(tipo)" il puntatore si sposta a
 
 //in particolare scrivere &A[2] equivale a A + 2
 //altrettanto scrivere *(A+2) equivale a A[2]
+
+printf("%d\n", ptr - A); //la differenza è sempre in unità di memoria quindi è come se stessimo scrivendo #byte ptr - #byte A (= 3)
 ```
 
 
