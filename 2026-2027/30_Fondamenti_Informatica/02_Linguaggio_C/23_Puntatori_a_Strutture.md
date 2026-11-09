@@ -48,9 +48,10 @@ void stampa(studente_t s){
 
 ```C
 void stampa2(studente_t *s){
-	
+	printf("%s\n", s->cognome);
+	printf("%s\n", s->nome);
+	printf("%d\n", s->matricola);
 }
-
 ```
 ## Note collegate
 - [[00_MOC_FdI]]
