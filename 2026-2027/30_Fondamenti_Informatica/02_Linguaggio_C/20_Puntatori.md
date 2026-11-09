@@ -101,6 +101,7 @@ printf("%d\n", ptr - A); //la differenza è sempre in unità di memoria quindi �
 - [[00_MOC_FdI]]
 - [[05_Tipi_di_Dato]]
 - [[19_Sottoprogrammi_Funzioni]]
+- [[07_sizeof_e_Librerie_limits_float]]
 
 #FdI/c/puntatori
 
