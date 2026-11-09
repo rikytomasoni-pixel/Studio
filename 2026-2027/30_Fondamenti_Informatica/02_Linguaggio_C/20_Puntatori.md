@@ -62,13 +62,17 @@ int main(){
 ```
 
 ## Puntatori ed Array
+### Array come puntatori
+
+L'array in C è un puntatore costante che punta al suo primo elemento e occupa le N celle di memoria successive 
+
 ```C
 int A[5], i;
 
 for(i = 0; i < 5; i++)
-	A[i] = 2 * i; //A è un puntatore constante al primo elemento dell'array
+	A[i] = 2 * i; 
 
-//Scrivere &A[0] equivale a scrivere A
+//Scrivere &A[0] equivale a scrivere A, A punta al primo elemento dell'array
 printf("%p\n", A);
 printf("%p\n", &A[0]);
 
@@ -76,8 +80,14 @@ printf("%p\n", &A[0]);
 
 ## Aritmetica dei Puntatori
 ``` C
-int A[5]
+int *ptr
+
+ptr = &A[1]; //che è come scrivere il puntatore alla cella A+1
+
+ptr = ptr + 2; //operazione in "unità di sizeOf(tipo)"
 ```
+
+
 ## Note collegate
 - [[00_MOC_FdI]]
 - [[05_Tipi_di_Dato]]
