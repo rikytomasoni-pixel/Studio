@@ -7,15 +7,15 @@ tags:
   - indirizzi-di-memoria
 date: 2026-11-09
 materia: Fondamenti di Informatica
-fonte:
+fonte: Linguaggio C
 ---
 # Utilizzo di Array nelle funzioni
-
+## Monodimensionali
 ``` C
 #include <stdio.h>
 #define DIM 5
 
-void Stampa(int *, int); //posso scrivere anche int [] invece che int **
+void Stampa(int *, int); //posso scrivere anche int [] invece che int *
 int main() {
 	int A[5] = {1, 2, 3, 4, 5};
 	Stampa(A, DIM);
@@ -23,13 +23,18 @@ int main() {
 	return 0;
 }
 
-void Stampa(int *v, int n){ 
+void Stampa(int *v, int n){ //posso scrivere anche int v[] invece che *v
 	int i;
-	for()
+	for(i = 0; i < DIM; i++)
+		printf("%d\n", *(v + i)); //posso scrivere anche v[i] invece che *(v + i)
 }
 ```
+## Multidimesionali
 
 ## Note collegate
 - [[00_MOC_FdI]]
+- [[20_Puntatori]]
+- [[19_Sottoprogrammi_Funzioni]]
+- [[arr]]
 
 #materia/argomento/sottoargomento

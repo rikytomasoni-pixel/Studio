@@ -3864,7 +3864,13 @@
         "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
         "wordCountStart": 95,
         "charCountStart": 783,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 2,
+            "c": 13
+          }
+        ],
         "id": 391
       },
       {
@@ -3917,6 +3923,11 @@
             "timeKey": "14:15",
             "w": 1,
             "c": 40
+          },
+          {
+            "timeKey": "14:25",
+            "w": 2,
+            "c": 13
           }
         ],
         "id": 392
@@ -3939,7 +3950,7 @@
       },
       {
         "date": "2026-11-09",
-        "filePath": "30_Fondamenti_Informatica/22_Utilizzo_di_Array_nelle_Funzioni.md",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/22_Utilizzo_di_Array_nelle_Funzioni.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3950,11 +3961,30 @@
           },
           {
             "timeKey": "14:20",
-            "w": 19,
-            "c": 113
+            "w": 38,
+            "c": 211
+          },
+          {
+            "timeKey": "14:25",
+            "w": 18,
+            "c": 172
           }
         ],
         "id": 395
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
+        "wordCountStart": 184,
+        "charCountStart": 1514,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 396
       }
     ]
   }

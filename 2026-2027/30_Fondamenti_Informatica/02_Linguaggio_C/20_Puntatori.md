@@ -5,7 +5,7 @@ tags:
   - indirizzi-di-memoria
 date: 2026-11-05
 materia: Fondamenti di Informatica
-fonte:
+fonte: Linguaggio C
 ---
 # Puntatori
 Ogni dato è assegnato ad un indirizzo di memoria.

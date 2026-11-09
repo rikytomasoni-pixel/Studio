@@ -5,7 +5,7 @@ tags:
   - variabili
 date: 2026-11-05
 materia: Fondamenti di Informatica
-fonte:
+fonte: Linguaggio C
 ---
 # Regole di Visibilità (Scope Rules)
 

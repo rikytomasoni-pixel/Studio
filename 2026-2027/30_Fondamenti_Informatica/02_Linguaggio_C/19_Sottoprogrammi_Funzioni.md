@@ -6,8 +6,7 @@ tags:
   - record-di-attivazione
 date: 2026-11-04
 materia: Fondamenti di Informatica
-fonte:
-
+fonte: Linguaggio C
 ---
 # Sottoprogrammi e Funzioni
 ![[FunzioniC.png]]
