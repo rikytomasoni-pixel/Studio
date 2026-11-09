@@ -29,12 +29,19 @@ void Stampa(int *v, int n){ //posso scrivere anche int v[] invece che *v
 		printf("%d\n", *(v + i)); //posso scrivere anche v[i] invece che *(v + i)
 }
 ```
-## Multidimesionali
+## Multidimensionali
+``` C
+#define R 2
+#define C 3
+
+double
+
+```
 
 ## Note collegate
 - [[00_MOC_FdI]]
 - [[20_Puntatori]]
 - [[19_Sottoprogrammi_Funzioni]]
-- [[arr]]
+- [[12_Array_Multidimensionali]]
 
 #materia/argomento/sottoargomento
