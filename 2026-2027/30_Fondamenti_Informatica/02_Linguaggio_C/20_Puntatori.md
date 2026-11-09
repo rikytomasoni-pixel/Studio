@@ -73,6 +73,11 @@ printf("%p\n", A);
 printf("%p\n", &A[0]);
 
 ```
+
+## Aritmetica dei Puntatori
+``` C
+int A[5]
+```
 ## Note collegate
 - [[00_MOC_FdI]]
 - [[05_Tipi_di_Dato]]
