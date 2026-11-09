@@ -64,7 +64,7 @@ int main(){
 ## Puntatori ed Array
 ### Array come puntatori
 
-L'array in C è un puntatore costante che punta al suo primo elemento e occupa le N celle di memoria successive 
+L'array in C è un puntatore **costante** che punta al suo primo elemento e occupa le N celle di memoria successive, il fatto che sia costante implica che non possiamo cambiarne il valore in eseguzione
 
 ```C
 int A[5], i;
@@ -79,6 +79,10 @@ printf("%p\n", &A[0]);
 ```
 
 ## Aritmetica dei Puntatori
+### Unità di memoria
+
+Quando si fanno operazioni con i puntatori l'operazione usa come unità di misura la dimensione del tipo del puntatore (int 4 byte, double 8 byte) per spostari nelle c
+
 ``` C
 int *ptr
 
