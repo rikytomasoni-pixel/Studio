@@ -9,7 +9,7 @@ date: 2026-11-09
 materia: Fondamenti di Informatica
 fonte: Linguaggio C
 ---
-# Utilizzo di Array nelle funzioni
+# Puntatori a Array
 ## Monodimensionali
 ``` C
 #include <stdio.h>
@@ -43,13 +43,14 @@ int main(){
 	
 	printf("%p\n", mat + 1); //mat + 1 indirizzo della seconda riga
 
-	stampa(mat)
+	stampa(mat);
 }
 void stampa(double M[][C], int r, int c) {
 	int i, j;
 	for(i = 0; i < r; i++)
 		for(j = 0; j < c; j++)
-			printf("%f")
+			printf("%f", M[i][j]);
+		printf("\n");
 }
 
 ```

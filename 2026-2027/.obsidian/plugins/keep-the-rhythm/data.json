@@ -3950,7 +3950,7 @@
       },
       {
         "date": "2026-11-09",
-        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/22_Utilizzo_di_Array_nelle_Funzioni.md",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/22_Puntatori_a_Array.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -3981,8 +3981,13 @@
           },
           {
             "timeKey": "14:40",
-            "w": 50,
-            "c": 268
+            "w": 55,
+            "c": 295
+          },
+          {
+            "timeKey": "14:45",
+            "w": -2,
+            "c": -15
           }
         ],
         "id": 395
@@ -4000,6 +4005,20 @@
           }
         ],
         "id": 396
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/23_Puntatori_a_Strutture.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 38,
+            "c": 422
+          }
+        ],
+        "id": 397
       }
     ]
   }
