@@ -34,7 +34,18 @@ void Stampa(int *v, int n){ //posso scrivere anche int v[] invece che *v
 #define R 2
 #define C 3
 
-double
+void stampa(double [][C])
+
+int main(){
+	//row major order
+	double mat[R][C] = {{1, 2, 3}
+						{4, 5, 6}};
+	
+	printf("%p\n", mat + 1); //mat + 1 indirizzo della seconda riga
+
+	stampa(mat)
+}
+
 
 ```
 
