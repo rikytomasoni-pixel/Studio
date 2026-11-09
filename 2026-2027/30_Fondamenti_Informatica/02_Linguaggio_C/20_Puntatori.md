@@ -81,14 +81,17 @@ printf("%p\n", &A[0]);
 ## Aritmetica dei Puntatori
 ### Unità di memoria
 
-Quando si fanno operazioni con i puntatori l'operazione usa come unità di misura la dimensione del tipo del puntatore (int 4 byte, double 8 byte) per spostari nelle c
+Quando si fanno operazioni con i puntatori l'operazione usa come unità di misura la dimensione del tipo del puntatore (int 4 byte, double 8 byte) per spostarsi nelle celle di memoria
 
 ``` C
 int *ptr
 
 ptr = &A[1]; //che è come scrivere il puntatore alla cella A+1
 
-ptr = ptr + 2; //operazione in "unità di sizeOf(tipo)"
+ptr = ptr + 2; //operazione in "unità di sizeOf(tipo)" il puntatore si sposta avanti di 2 byte
+
+//in particolare scrivere &A[2] equivale a A + 2
+//altrettanto scrivere *(A+2) equivale a A[2]
 ```
 
 
