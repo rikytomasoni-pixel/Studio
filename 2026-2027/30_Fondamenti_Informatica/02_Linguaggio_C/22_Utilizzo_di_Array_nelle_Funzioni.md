@@ -34,7 +34,7 @@ void Stampa(int *v, int n){ //posso scrivere anche int v[] invece che *v
 #define R 2
 #define C 3
 
-void stampa(double [][C])
+void stampa(double [][C], int, int); //devo sempre sapere la lunghezza delle righe perché la matrice è memorizzata per lunghezza e per passare da una riga all'altra serve sapere la lunghezza del salto
 
 int main(){
 	//row major order
@@ -45,7 +45,12 @@ int main(){
 
 	stampa(mat)
 }
-
+void stampa(double M[][C], int r, int c) {
+	int i, j;
+	for(i = 0; i < r; i++)
+		for(j = 0; j < c; j++)
+			printf("%f")
+}
 
 ```
 
