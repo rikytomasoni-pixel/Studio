@@ -3844,6 +3844,50 @@
         "charCountStart": 4757,
         "changes": [],
         "id": 389
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "00_Claude_Workspace/ciao Hassan.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 390
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
+        "wordCountStart": 95,
+        "charCountStart": 783,
+        "changes": [],
+        "id": 391
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
+        "wordCountStart": 206,
+        "charCountStart": 1565,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 392
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/18_Switch.md",
+        "wordCountStart": 141,
+        "charCountStart": 1271,
+        "changes": [],
+        "id": 393
       }
     ]
   }

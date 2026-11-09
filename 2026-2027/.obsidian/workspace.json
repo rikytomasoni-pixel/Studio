@@ -11,12 +11,14 @@
             "id": "8ea767fe72e7039c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf"
+                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "AM1 L16 26-27"
+              "icon": "lucide-file",
+              "title": "21_Regole_di_Visibilità"
             }
           }
         ]
@@ -81,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.6623115539551
+    "width": 270.31195068359375
   },
   "right": {
     "id": "3beb91e54d21d6ea",
@@ -226,6 +228,11 @@
   },
   "active": "8ea767fe72e7039c",
   "lastOpenFiles": [
+    "30_Fondamenti_Informatica/02_Linguaggio_C/18_Switch.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
+    "00_Claude_Workspace/ciao Hassan.md",
+    "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/112_Teorema_di_Weierstrass.md",
     "10_Analisi_1/00_MOC_Analisi_1.md",
@@ -243,7 +250,6 @@
     "99_Tools/Screenshots/GAL/SpaziIntersecati.png",
     "99_Tools/Screenshots/GAL/SpaziDisgiunti.png",
     "20_Geometria_Algebra_Lineare/06_Rango/131_Spazio_delle_Righe_e_delle_Colonne.md",
-    "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf",
     "10_Analisi_1/10_Continuita/117_Continuita_delle_Funzioni_Elementari.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/ContinuitòSinCos.png",
     "10_Analisi_1/10_Continuita/116_Continuita_e_Invertibilita.md",
@@ -263,9 +269,6 @@
     "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/18_Indice_Lezione_17.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/17_Indice_Lezione_16.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/144_Applicazioni_Lineari_da_Kn_a_Km_e_Matrice_Associata.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/143_Esempio_Applicazione_Lineare_da_Polinomi_a_Matrici.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/142_Come_Definire_una_Applicazione_Lineare_Proposizione_17_2.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari",
     "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann",
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue",
