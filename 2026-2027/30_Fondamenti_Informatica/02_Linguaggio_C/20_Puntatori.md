@@ -66,7 +66,11 @@ int main(){
 int A[5], i;
 
 for(i = 0; i < 5; i++)
-	A[i] = 2 * i; //A 
+	A[i] = 2 * i; //A è un puntatore constante al primo elemento dell'array
+
+//Scrivere &A[0] equivale a scrivere A
+printf("%p\n", A);
+printf("%p\n", &A[0]);
 
 ```
 ## Note collegate
