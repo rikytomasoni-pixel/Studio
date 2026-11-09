@@ -18,7 +18,8 @@ typedef struct {
 	char nome[MAX + 1];
 	int matricola;
 } studente_t;
-void stamp(studente_t);
+void stampa(studente_t);
+void stampa2(studente_t);
 ```
 
 ```C
@@ -36,7 +37,21 @@ int main(){
 }
 ```
 
+```C
+//le strutture in C sono passate per valore (si copia tutta la struct)
+void stampa(studente_t s){ 
+	printf("%s\n", s.cognome);
+	printf("%s\n", s.nome);
+	printf("%d\n", s.matricola);
+}
+```
 
+```C
+void stampa2(studente_t *s){
+	
+}
+
+```
 ## Note collegate
 - [[00_MOC_FdI]]
 - [[20_Puntatori]]
