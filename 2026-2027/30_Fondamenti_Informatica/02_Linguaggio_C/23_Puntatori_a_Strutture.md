@@ -15,9 +15,28 @@ fonte: Linguaggio C
 #define MAX 50
 typedef struct {
 	char cognome[MAX + 1];
-	char nome[MA]
+	char nome[MAX + 1];
+	int matricola;
+} studente_t;
+void stamp(studente_t);
+```
+
+```C
+int main(){
+	studente_t stud = {"Mario", "Rossi", 123456};
+	studente_t *ptr;
+	ptr = &stud;
+	
+	printf("%s\n", (*ptr).cognome);
+	printf("%s\n", ptr->cognome); //operatore freccia
+	
+	stampa(stud);
+	
+	return 0;
 }
 ```
+
+
 ## Note collegate
 - [[00_MOC_FdI]]
 - [[20_Puntatori]]
