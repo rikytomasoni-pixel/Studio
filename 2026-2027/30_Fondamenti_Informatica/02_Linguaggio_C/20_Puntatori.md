@@ -3,6 +3,10 @@ tags:
   - tipi-di-dato
   - puntatori
   - indirizzi-di-memoria
+  - FI
+  - programmazione-c
+  - aritmetica-dei-puntatori
+  - passaggio-per-indirizzo
 date: 2026-11-05
 materia: Fondamenti di Informatica
 fonte: Linguaggio C
@@ -21,9 +25,9 @@ printf("%p\n",&x);
 
 ## Dichiarazione
 ``` C
-<tipo> *<identificatore>
+<tipo> *<identificatore>;
 float *ptr;
-ptr = &x //il puntatore punta all'indirizzo di x;
+ptr = &x; //il puntatore punta all'indirizzo di x
 ```
 
 ``` C
@@ -33,7 +37,7 @@ float *ptr1 = NULL; //dobbiamo ancora assegnare un indirizzo al puntatore
 ## Operazione di dereferenziazione
 `*` **operatore di dereferenziazione**: applicato a un puntatore restituisce il valore contenuto all'indirizzo a cui punta
 ``` C
-printf("%f\n", *ptr); //scrive il valore alla variabile a cui punta ptr
+printf("%f\n", *ptr); //scrive il valore della variabile a cui punta ptr
 ```
 
 > [!important] Tipizzazione dei puntatori
@@ -64,7 +68,7 @@ int main(){
 ## Puntatori ed Array
 ### Array come puntatori
 
-L'array in C è un puntatore **costante** che punta al suo primo elemento e occupa le N celle di memoria successive, il fatto che sia costante implica che non possiamo cambiarne il valore in eseguzione
+L'array in C (vedi [[09_Array_Monodimensionali]]) è un puntatore **costante** che punta al suo primo elemento e occupa le N celle di memoria successive, il fatto che sia costante implica che non possiamo cambiarne il valore in esecuzione
 
 ```C
 int A[5], i;
@@ -84,16 +88,16 @@ printf("%p\n", &A[0]);
 Quando si fanno operazioni con i puntatori l'operazione usa come unità di misura la dimensione del tipo del puntatore (int 4 byte, double 8 byte) per spostarsi nelle celle di memoria
 
 ``` C
-int *ptr
+int *ptr;
 
 ptr = &A[1]; //che è come scrivere il puntatore alla cella A+1
 
-ptr = ptr + 2; //operazione in "unità di sizeOf(tipo)" il puntatore si sposta avanti di 2 byte
+ptr = ptr + 2; //operazione in "unità di sizeOf(tipo)" il puntatore si sposta avanti di 2 elementi (2 * sizeof(int) byte)
 
 //in particolare scrivere &A[2] equivale a A + 2
 //altrettanto scrivere *(A+2) equivale a A[2]
 
-printf("%d\n", ptr - A); //la differenza è sempre in unità di memoria quindi è come se stessimo scrivendo #byte ptr - #byte A (= 3)
+printf("%d\n", ptr - A); //la differenza è espressa in elementi (non in byte): ptr - A = 3 (in byte sarebbero 3 * sizeof(int) = 12)
 ```
 
 
@@ -102,6 +106,10 @@ printf("%d\n", ptr - A); //la differenza è sempre in unità di memoria quindi �
 - [[05_Tipi_di_Dato]]
 - [[19_Sottoprogrammi_Funzioni]]
 - [[07_sizeof_e_Librerie_limits_float]]
+- [[09_Array_Monodimensionali]]
+- [[21_Regole_di_Visibilità]]
+- [[22_Puntatori_a_Array]]
+- [[23_Puntatori_a_Strutture]]
 
 #FdI/c/puntatori
 

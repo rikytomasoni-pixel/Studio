@@ -5,6 +5,8 @@ tags:
   - puntatori
   - tipi-di-dato
   - indirizzi-di-memoria
+  - FI
+  - programmazione-c
 date: 2026-11-09
 materia: Fondamenti di Informatica
 fonte: Linguaggio C
@@ -25,7 +27,7 @@ int main() {
 
 void Stampa(int *v, int n){ //posso scrivere anche int v[] invece che *v
 	int i;
-	for(i = 0; i < DIM; i++)
+	for(i = 0; i < n; i++)
 		printf("%d\n", *(v + i)); //posso scrivere anche v[i] invece che *(v + i)
 }
 ```
@@ -34,23 +36,24 @@ void Stampa(int *v, int n){ //posso scrivere anche int v[] invece che *v
 #define R 2
 #define C 3
 
-void stampa(double [][C], int, int); //devo sempre sapere la lunghezza delle righe perché la matrice è memorizzata per lunghezza e per passare da una riga all'altra serve sapere la lunghezza del salto
+void stampa(double [][C], int, int); //devo sempre sapere la lunghezza delle righe perché la matrice è memorizzata per righe (row major order) e per passare da una riga all'altra serve sapere la lunghezza del salto
 
 int main(){
 	//row major order
-	double mat[R][C] = {{1, 2, 3}
+	double mat[R][C] = {{1, 2, 3},
 						{4, 5, 6}};
 	
 	printf("%p\n", mat + 1); //mat + 1 indirizzo della seconda riga
 
-	stampa(mat);
+	stampa(mat, R, C);
 }
 void stampa(double M[][C], int r, int c) {
 	int i, j;
-	for(i = 0; i < r; i++)
+	for(i = 0; i < r; i++){
 		for(j = 0; j < c; j++)
 			printf("%f", M[i][j]);
 		printf("\n");
+	}
 }
 
 ```
@@ -60,5 +63,7 @@ void stampa(double M[][C], int r, int c) {
 - [[20_Puntatori]]
 - [[19_Sottoprogrammi_Funzioni]]
 - [[12_Array_Multidimensionali]]
+- [[09_Array_Monodimensionali]]
+- [[23_Puntatori_a_Strutture]]
 
-#materia/argomento/sottoargomento
+#FdI/c/puntatori-array

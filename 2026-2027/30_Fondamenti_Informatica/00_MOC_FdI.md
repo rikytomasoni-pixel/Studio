@@ -48,9 +48,11 @@ materia: Fondamenti di Informatica
 - [[16_Cicli_Iterativi]] — Cicli iterativi
 - [[17_Numeri_di_Kaprekar]] — Excursus sui numeri di Kaprekar
 - [[18_Switch]] — Switch
-- [[19_Sottoprogrammi_Funzioni]] - Funzioni
-- [[20_Puntatori]] - Puntatori
-- [[21_Regole_di_Visibilità]] - Regole di visibilità (scope)
+- [[19_Sottoprogrammi_Funzioni]] — Sottoprogrammi e funzioni
+- [[20_Puntatori]] — Puntatori
+- [[21_Regole_di_Visibilità]] — Regole di visibilità (scope)
+- [[22_Puntatori_a_Array]] — Puntatori a array
+- [[23_Puntatori_a_Strutture]] — Puntatori a strutture
 
 ## Disegni
 - [[Disegni FI]]
@@ -63,6 +65,10 @@ flowchart LR
     D --> E[Array e stringhe]
     D --> F[Typedef e Struct]
     B --> G[Controllo: if, cicli, switch]
+    B --> H[Funzioni]
+    H --> I[Puntatori]
+    I --> E
+    I --> F
 ```
 
 #FdI/moc

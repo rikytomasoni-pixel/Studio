@@ -4,6 +4,8 @@ tags:
   - FI
   - sottoprogrammi
   - record-di-attivazione
+  - programmazione-c
+  - stack
 date: 2026-11-04
 materia: Fondamenti di Informatica
 fonte: Linguaggio C
@@ -19,7 +21,7 @@ fonte: Linguaggio C
 ## Prototipo
 
 *tipo output* **nome funzione**(*tipo input*);
-Gli input verranno chiamati **parametri formali** gli output **valori di ritorno**
+Gli input verranno chiamati **parametri formali**, gli output **valori di ritorno**
 
 ``` C
 int factorial(int);
@@ -30,11 +32,11 @@ int factorial(int);
 ### Valore di ritorno
 - al più 1 valore di ritorno
 - scalare (primitivo, user-defined), Struct [NO ARRAY]
-- opzione ```void``` -> *Procedure*
+- opzione `void` -> *Procedure*
 
 ## Definizione
 
-Si da il nome ai parametri formali e si *dichiarano variabili locali* nel *corpo della funzione*
+Si dà il nome ai parametri formali e si *dichiarano variabili locali* nel *corpo della funzione*
 ``` C
 int factorial(int n){
 	int fatt, i;
@@ -48,7 +50,7 @@ int factorial(int n){
 
 ## Invocazione/Chiamata
 
-Si da in pasto alla funzione i **parametri attuali** che devono avere una corrispondenza con i formali
+Si dà in pasto alla funzione i **parametri attuali** che devono avere una corrispondenza con i formali
 ```C
 fatt = factorial(num);
 ```
@@ -60,12 +62,16 @@ fatt = factorial(num);
 ![[StackRecordAttivazione.png]]
 Quando si chiama una funzione viene *allocato* un record di attivazione (o impilato) e quando *incontra un return viene deallocato*.
 **Struttura LIFO** (last in first out) formata di Pile (o Stack)
+
 ## Note collegate
 
 - [[00_MOC_FdI]]
 - [[05_Tipi_di_Dato]]
 - [[03_Struttura_di_un_Programma_C]]
 - [[04_Input_Output_e_Stream]]
-- [[19_Funzioni_Generalità]]
+- [[14_Struct]]
+- [[20_Puntatori]]
+- [[21_Regole_di_Visibilità]]
+- [[22_Puntatori_a_Array]]
 
 #FdI/c/Funzioni

@@ -5,6 +5,8 @@ tags:
   - indirizzi-di-memoria
   - tipi-definiti-dall-utente
   - tipi-di-dato
+  - FI
+  - programmazione-c
 date: 2026-11-09
 materia: Fondamenti di Informatica
 fonte: Linguaggio C
@@ -24,7 +26,7 @@ void stampa2(studente_t);
 
 ```C
 int main(){
-	studente_t stud = {"Mario", "Rossi", 123456};
+	studente_t stud = {"Rossi", "Mario", 123456};
 	studente_t *ptr;
 	ptr = &stud;
 	
@@ -32,6 +34,7 @@ int main(){
 	printf("%s\n", ptr->cognome); //operatore freccia
 	
 	stampa(stud);
+	stampa2(&stud); //passaggio per indirizzo: non si copia la struct
 	
 	return 0;
 }
@@ -59,5 +62,8 @@ void stampa2(studente_t *s){
 - [[05_Tipi_di_Dato]]
 - [[14_Struct]]
 - [[13_Typedef]]
+- [[19_Sottoprogrammi_Funzioni]]
+- [[22_Puntatori_a_Array]]
+- [[10_Stringhe_in_C]]
 
-#materia/argomento/sottoargomento
+#FdI/c/puntatori-strutture
