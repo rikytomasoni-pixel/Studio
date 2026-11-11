@@ -73,8 +73,18 @@ int maxRicorsivo(int lista[], int dim){
 ```
 
 ## Esempio Massimo e Minimo
-```
-
+``` C
+void massimo_minimo(int A[], int dim, int *max, int *min){
+	if(dim == 1)
+		*max = *min = *A;
+	else{
+		massimo_minimo(A + 1, dim - 1, max, min);
+		if(*A > *max)
+			*max = *A;
+		else if(*A < *min)
+			*min = *A;
+	}
+}
 ```
 ## Note collegate
 - [[00_MOC_FdI]]
