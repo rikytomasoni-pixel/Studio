@@ -16,7 +16,7 @@ fonte: Linguaggio C
 int fattorialeRicorsivo(int);
 
 int main(){
-	printf("")
+	printf("%d\n", fattorialeRicorsivo(4));
 	return 0;
 }
 
@@ -26,6 +26,7 @@ int fattorialeRicorsivo(int n){
 	return n * fattorialeRicorsivo(n - 1); //caso ricorsivo
 }
 ```
+
 
 ## Note collegate
 - [[00_MOC_FdI]]
