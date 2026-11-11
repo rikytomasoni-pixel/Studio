@@ -71,6 +71,11 @@ int maxRicorsivo(int lista[], int dim){
 }
 
 ```
+
+## Esempio Massimo e Minimo
+```
+
+```
 ## Note collegate
 - [[00_MOC_FdI]]
 
