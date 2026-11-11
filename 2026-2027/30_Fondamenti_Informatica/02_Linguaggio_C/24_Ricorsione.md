@@ -44,18 +44,7 @@ int fibonacci(int i){
 		return 0;
 	if(i == 1)
 		return 1;
-	return fibonacci(i - 1) + fibonacci(i -2);
-	
-}
-int fib = 0;
-for(int i = 2; i < index; i++)
-{
-	if(i != 2)
-	{
-		fib += i-1 + i-2;
-	} else
-		fib += 1;
-0,1,1,2,3,5,8	
+	return fibonacci(i - 1) + fibonacci(i - 2);	
 }
 ```
 
