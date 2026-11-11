@@ -4028,9 +4028,22 @@
             "timeKey": "14:55",
             "w": 48,
             "c": 307
+          },
+          {
+            "timeKey": "15:10",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 397
+      },
+      {
+        "date": "2026-11-11",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
+        "wordCountStart": 101,
+        "charCountStart": 861,
+        "changes": [],
+        "id": 398
       }
     ]
   }
