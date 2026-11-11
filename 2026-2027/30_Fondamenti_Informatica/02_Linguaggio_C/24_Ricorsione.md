@@ -7,7 +7,7 @@ fonte: Linguaggio C
 # Ricorsività
 
 *in matematica*
-![[Pasted image 20261111085747.png]]
+![[factRicorsivo.png]]
 
 *in C*
 ``` C
@@ -46,7 +46,10 @@ int fibonacci(int i){
 		return 1;
 	return fibonacci(i - 1) + fibonacci(i - 2);	
 }
+//Complessità computazionale enorme, meglio iterativa
 ```
+
+## Esempio Massimo
 
 ## Note collegate
 - [[00_MOC_FdI]]
