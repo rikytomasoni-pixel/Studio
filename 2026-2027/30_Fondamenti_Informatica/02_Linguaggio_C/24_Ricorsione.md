@@ -50,7 +50,19 @@ int fibonacci(int i){
 ```
 
 ## Esempio Massimo
+``` C
+#include <stdio.h>
+double maxRicorsivo(double [], int);
 
+int main(){
+	return 0;
+}
+
+double maxRicorsivo(double lista, int dim){
+	
+}
+
+```
 ## Note collegate
 - [[00_MOC_FdI]]
 
