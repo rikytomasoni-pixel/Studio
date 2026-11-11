@@ -4044,6 +4044,20 @@
         "charCountStart": 861,
         "changes": [],
         "id": 398
+      },
+      {
+        "date": "2026-11-11",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/23_Puntatori_a_Strutture.md",
+        "wordCountStart": 144,
+        "charCountStart": 1231,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": 2,
+            "c": 20
+          }
+        ],
+        "id": 399
       }
     ]
   }
