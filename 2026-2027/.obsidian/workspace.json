@@ -11,14 +11,12 @@
             "id": "8ea767fe72e7039c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/23_Puntatori_a_Strutture.md",
-                "mode": "source",
-                "source": false
+                "file": "99_Tools/Excalidraw/Disegni FI.md"
               },
-              "icon": "lucide-file",
-              "title": "23_Puntatori_a_Strutture"
+              "icon": "excalidraw-icon",
+              "title": "Disegni FI"
             }
           }
         ]
@@ -228,10 +226,11 @@
   },
   "active": "8ea767fe72e7039c",
   "lastOpenFiles": [
+    "30_Fondamenti_Informatica/02_Linguaggio_C/24_Ricorsione.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/23_Puntatori_a_Strutture.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/22_Puntatori_a_Array.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/23_Puntatori_a_Strutture.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/18_Switch.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/11_Operazioni_sulle_Stringhe.md",
@@ -268,7 +267,6 @@
     "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
     "10_Analisi_1/10_Continuita/98_Discontinuita_di_Seconda_Specie.md",
     "10_Analisi_1/10_Continuita/97_Discontinuita_di_Prima_Specie_a_Salto.md",
-    "10_Analisi_1/09_Limiti_di_Funzioni/92_Limite_Finito_in_un_Punto_Finito.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari",
     "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann",
     "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue",

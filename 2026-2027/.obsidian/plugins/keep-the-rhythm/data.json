@@ -4058,6 +4058,28 @@
           }
         ],
         "id": 399
+      },
+      {
+        "date": "2026-11-11",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/24_Ricorsione.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 20,
+            "c": 193
+          }
+        ],
+        "id": 400
+      },
+      {
+        "date": "2026-11-11",
+        "filePath": "99_Tools/Excalidraw/Disegni FI.md",
+        "wordCountStart": 903,
+        "charCountStart": 30074,
+        "changes": [],
+        "id": 401
       }
     ]
   }
