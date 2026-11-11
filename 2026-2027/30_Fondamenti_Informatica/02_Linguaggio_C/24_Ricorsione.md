@@ -52,14 +52,22 @@ int fibonacci(int i){
 ## Esempio Massimo
 ``` C
 #include <stdio.h>
-double maxRicorsivo(double [], int);
+int maxRicorsivo(int [], int);
 
 int main(){
 	return 0;
 }
 
-double maxRicorsivo(double lista, int dim){
+int maxRicorsivo(int lista[], int dim){
+	int max;
 	
+	if(dim == 1)//caso base
+		return lista[0];
+		
+	max = maxRicorsivo(A, dim - 1);
+	if(max > lista[dim - 1])
+		return max;
+	return lista[dim - 1];
 }
 
 ```
