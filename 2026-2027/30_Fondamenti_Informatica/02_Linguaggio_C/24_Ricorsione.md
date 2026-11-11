@@ -27,6 +27,27 @@ int fattorialeRicorsivo(int n){
 }
 ```
 
+## Esempio Fibonacci
+
+``` C
+#include <stdio.h>
+
+int fibonacci(int); //riceve l'indice i esimo restituisce il numero i esimo
+
+int main(){
+	
+	return 0;
+}
+
+int fibonacci(int i){
+	if(i == 0)
+		return 0;
+	if(i == 1)
+		return 1;
+	return fibonacci(i - 1) + fibonacci(i -2);
+	
+}
+```
 
 ## Note collegate
 - [[00_MOC_FdI]]
