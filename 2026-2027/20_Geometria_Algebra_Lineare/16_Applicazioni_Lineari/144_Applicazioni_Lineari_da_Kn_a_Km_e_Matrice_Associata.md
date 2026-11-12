@@ -23,6 +23,7 @@ $$=\begin{bmatrix}\underline{w}_1\,\Big|\,\dots\,\Big|\,\underline{w}_n\end{bmat
 > **Tutte** le applicazioni lineari da $\mathbb{K}^n$ a $\mathbb{K}^m$ sono codificate come $L_A$, con $A\in M_{\mathbb{K}}(m,n)$: la colonna $j$-esima di $A$ è $L(\underline{e}_j)$.
 
 ## Note collegate
+- [[150_Suriettivita_di_L_A_e_Spazio_delle_Colonne]] · [[160_Paradigma_Rappresentare_una_Applicazione_Lineare_con_una_Matrice]]
 - [[142_Come_Definire_una_Applicazione_Lineare_Proposizione_17_2]]
 - [[137_Esempi_di_Applicazioni_Lineari_Matrici_Trasposizione_Traccia]] (esempio (I): $L_A$)
 - [[141_Composizione_e_Inversione_di_Applicazioni_Lineari]]

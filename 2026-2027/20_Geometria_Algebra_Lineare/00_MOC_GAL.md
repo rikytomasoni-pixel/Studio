@@ -1,8 +1,8 @@
 ---
 tags: [GAL, MOC, indice-generale]
-data: 2026-11-07
-lezione: 0-17
-fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11, 13 e 15-17)"
+data: 2026-11-12
+lezione: 0-20
+fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11, 13, 15-17 e 19-20)"
 ---
 
 # MOC — Geometria e Algebra Lineare A.A. 2026-2027
@@ -52,6 +52,9 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 | 15 | 2026-10-28 | Lemma fondamentale; teorema della dimensione; significato della dimensione; spazi finitamente generati; basi canoniche; estrazione e completamento di una base; fac-simile d'esame | [[16_Indice_Lezione_15]] |
 | 16 | 2026-11-04 | Riepilogo sul rango; spazio delle righe e delle colonne; la dimensione come misura; intersezione e somma di sottospazi; formula di Grassmann | [[17_Indice_Lezione_16]] |
 | 17 | 2026-11-05 | Applicazioni lineari (definizione, esempi, proprietà); composizione e inversione; come definire un'applicazione lineare su una base | [[18_Indice_Lezione_17]] |
+| 18 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L17 termina a 155 e L19 inizia a 156) | — |
+| 19 | 2026-11-11 | Analisi esiti prova in itinere; immagine e controimmagine di sottospazi; immagine di un'applicazione lineare; suriettività | [[20_Indice_Lezione_19]] |
+| 20 | 2026-11-12 | Nucleo e criterio di iniettività; teorema della fibra; isomorfismi; teorema di isomorfismo; mappa delle coordinate e di parametrizzazione | [[21_Indice_Lezione_20]] |
 
 ## Fondamenti teorici — insiemi, relazioni, funzioni
 - [[11_Prodotto_Cartesiano]] — Prodotto cartesiano *(L0)*
@@ -95,6 +98,7 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 
 ## Organizzazione
 - [[10_Organizzazione_del_Corso]] — Organizzazione del corso *(L0)*
+- [[145_Analisi_degli_Esiti_della_Prova_in_Itinere]] — Analisi degli esiti della prova in itinere *(L19)*
 
 ## Matrice inversa e prodotto matriciale (Lezioni 6-7)
 - [[60_Matrice_Invertibile]] — Matrice invertibile *(L6)*
@@ -200,6 +204,21 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[142_Come_Definire_una_Applicazione_Lineare_Proposizione_17_2]] — Come definire un'applicazione lineare (Prop. 17.2) *(L17)*
 - [[143_Esempio_Applicazione_Lineare_da_Polinomi_a_Matrici]] — Esempio: $\mathbb{R}[t]_{\le2}\to M(2,2)$ *(L17)*
 - [[144_Applicazioni_Lineari_da_Kn_a_Km_e_Matrice_Associata]] — Applicazioni $\mathbb{K}^n\to\mathbb{K}^m$ e matrice associata *(L17)*
+- [[146_Immagine_e_Controimmagine_di_Sottospazi_Vettoriali]] — Immagine e controimmagine di sottospazi *(L19)*
+- [[147_Immagine_di_una_Applicazione_Lineare_e_Suriettivita]] — Immagine di un'applicazione lineare e suriettività *(L19)*
+- [[148_Proposizione_19_1_Immagine_dei_Generatori]] — Proposizione 19.1: immagine dei generatori *(L19)*
+- [[149_Conseguenze_della_Suriettivita_Generatori_e_Dimensione]] — Conseguenze della suriettività: generatori e dimensione *(L19)*
+- [[150_Suriettivita_di_L_A_e_Spazio_delle_Colonne]] — Suriettività di $L_A$ e spazio delle colonne *(L19)*
+- [[151_Nucleo_di_una_Applicazione_Lineare]] — Nucleo di un'applicazione lineare *(L20)*
+- [[152_Teorema_20_1_Criterio_di_Iniettivita]] — Teorema 20.1 (criterio di iniettività) *(L20)*
+- [[153_Conseguenze_del_Criterio_di_Iniettivita_L_A_e_Rango]] — Conseguenze del criterio: $L_A$ e rango *(L20)*
+- [[154_Corollario_20_2_Iniettivita_e_Indipendenza_Lineare]] — Corollario 20.2: iniettività e indipendenza lineare *(L20)*
+- [[155_Teorema_20_3_Teorema_della_Fibra]] — Teorema 20.3 (teorema della fibra) *(L20)*
+- [[156_Isomorfismi_Definizione_20_4_e_Conservazione_delle_Basi]] — Isomorfismi (Def. 20.4) e conservazione delle basi *(L20)*
+- [[157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati]] — Teorema 20.5 (isomorfismo tra spazi fin. generati) *(L20)*
+- [[158_Mappa_delle_Coordinate_e_Mappa_di_Parametrizzazione_Definizione_20_6]] — Mappa delle coordinate e di parametrizzazione (Def. 20.6) *(L20)*
+- [[159_Esempio_Mappa_di_Parametrizzazione_Polinomi_di_Grado_al_piu_2]] — Esempio: parametrizzazione di $\mathbb{K}[t]_{\le2}$ *(L20)*
+- [[160_Paradigma_Rappresentare_una_Applicazione_Lineare_con_una_Matrice]] — Paradigma: rappresentare $L$ con una matrice *(L20)*
 
 ## Note collegate
 - [[01_Indice_Lezione_0]]
@@ -216,5 +235,7 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 - [[16_Indice_Lezione_15]]
 - [[17_Indice_Lezione_16]]
 - [[18_Indice_Lezione_17]]
+- [[20_Indice_Lezione_19]]
+- [[21_Indice_Lezione_20]]
 
 #GAL/moc

@@ -29,6 +29,7 @@ $$\lambda_1-\mu_1=0,\ \dots,\ \lambda_n-\mu_n=0\iff\lambda_1=\mu_1,\ \dots,\ \la
 I coefficienti $\lambda_1,\dots,\lambda_n$ sono quindi univocamente determinati dalla base: risolvono il problema di ambiguità posto in [[97_Esempio_Generatori_di_R3_e_Rappresentazioni_Multiple]].
 
 ## Note collegate
+- [[158_Mappa_delle_Coordinate_e_Mappa_di_Parametrizzazione_Definizione_20_6]] (mappa delle coordinate)
 - [[142_Come_Definire_una_Applicazione_Lineare_Proposizione_17_2]] (L17)
 - [[100_Base_di_uno_Spazio_Vettoriale]]
 - [[98_Vettori_Linearmente_Indipendenti]]

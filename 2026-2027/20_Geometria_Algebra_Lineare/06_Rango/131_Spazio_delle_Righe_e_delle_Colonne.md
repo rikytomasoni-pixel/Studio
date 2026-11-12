@@ -47,6 +47,7 @@ $$A=\begin{bmatrix}1\\0\\0\end{bmatrix}\big([1\,0\,0\,0]-5[0\,0\,0\,1]\big)+\beg
 Si ottiene così $A$ come somma di $r(A)=3$ prodotti colonna·riga con colonne indipendenti e righe indipendenti ([[130_Riepilogo_sulle_Definizioni_di_Rango]], punto 5).
 
 ## Note collegate
+- [[150_Suriettivita_di_L_A_e_Spazio_delle_Colonne]] ($\mathrm{im}(L_A)=\mathrm{col}(A)$)
 - [[130_Riepilogo_sulle_Definizioni_di_Rango]]
 - [[124_Estrazione_di_una_Base_con_i_Pivot_delle_Colonne]]
 - [[84_Nucleo_e_Sistema_Omogeneo_Associato]]

@@ -29,6 +29,7 @@ fonte: "GAL_2026-2027_-_20261007_-_LEZIONE_6.pdf (slide 48-49)"
 Esempio con la matrice di probabilità congiunta: [[64_Rango_e_Matrice_di_Probabilita_Congiunta]]. Calcolo efficiente del rango: [[73_MEG_e_Rango]].
 
 ## Note collegate
+- [[150_Suriettivita_di_L_A_e_Spazio_delle_Colonne]] · [[153_Conseguenze_del_Criterio_di_Iniettivita_L_A_e_Rango]] (suriettività/iniettività di $L_A$ e rango)
 - [[130_Riepilogo_sulle_Definizioni_di_Rango]] e [[131_Spazio_delle_Righe_e_delle_Colonne]] (riepilogo, L16)
 - [[62_Non_Commutativita_del_Prodotto_Matriciale]]
 - [[64_Rango_e_Matrice_di_Probabilita_Congiunta]]

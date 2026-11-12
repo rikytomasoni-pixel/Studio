@@ -33,6 +33,7 @@ $$A\left(t_1\underline{v}_1+\dots+t_{n-r}\underline{v}_{n-r}\right)=A(\underline
 Il risultato generale sulla struttura delle soluzioni è nel [[85_Teorema_di_Struttura_delle_Soluzioni]].
 
 ## Note collegate
+- [[151_Nucleo_di_una_Applicazione_Lineare]] (nucleo di un'applicazione lineare, $\ker(L_A)=\ker(A)$)
 - [[131_Spazio_delle_Righe_e_delle_Colonne]] (parametri liberi $=n-r(A)$, L16)
 - [[82_Teorema_di_Rouche_Capelli]]
 - [[83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli]]

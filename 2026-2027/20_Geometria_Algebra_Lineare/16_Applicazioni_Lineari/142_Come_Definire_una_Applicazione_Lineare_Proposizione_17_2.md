@@ -40,6 +40,7 @@ $$L(\underline{v})=\lambda_1\underline{w}_1+\lambda_2\underline{w}_2+\dots+\lamb
 - [[144_Applicazioni_Lineari_da_Kn_a_Km_e_Matrice_Associata]]
 
 ## Note collegate
+- [[157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati]] (uso della Prop. 17.2)
 - [[136_Applicazioni_Lineari_Definizione_17_1]]
 - [[100_Base_di_uno_Spazio_Vettoriale]]
 - [[101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base]]

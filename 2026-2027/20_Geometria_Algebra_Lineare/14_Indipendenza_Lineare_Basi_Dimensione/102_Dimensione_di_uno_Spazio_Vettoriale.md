@@ -21,6 +21,7 @@ $\{\vec{i},\vec{j}\}$ è la **base canonica** di $\mathbb{R}^2$. Poiché una bas
 > La definizione presuppone che tutte le basi abbiano lo stesso numero di elementi: questo è dimostrato nella lezione 15 con il [[118_Teorema_della_Dimensione_Teorema_15_2|teorema della dimensione]]. Altri risultati sulla dimensione: [[119_Significato_della_Dimensione_Massimo_Indipendenti_e_Minimo_Generatori]], [[121_Basi_Canoniche]].
 
 ## Note collegate
+- [[157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati]] (stessa dimensione $\iff$ isomorfi)
 - [[132_Significato_della_Dimensione_Seconda_Parte]] e [[135_Formula_di_Grassmann_Teorema_16_3]] (L16)
 - [[100_Base_di_uno_Spazio_Vettoriale]]
 - [[101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base]]

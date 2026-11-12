@@ -23,6 +23,7 @@ fonte: "GAL 2026-2027 - 20261105 - LEZIONE 17.pdf (slide 146)"
 > Le applicazioni lineari sono gli **omomorfismi di spazi vettoriali**. Altre diciture: *funzioni lineari*, *trasformazioni lineari*.
 
 ## Note collegate
+- [[146_Immagine_e_Controimmagine_di_Sottospazi_Vettoriali]] · [[151_Nucleo_di_una_Applicazione_Lineare]]
 - [[91_Spazio_Vettoriale_Definizione]]
 - [[137_Esempi_di_Applicazioni_Lineari_Matrici_Trasposizione_Traccia]]
 - [[139_Proprieta_delle_Applicazioni_Lineari]]

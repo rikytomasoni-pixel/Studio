@@ -28,6 +28,7 @@ PDF: slide 145 (copertina) - 155 (11 pagine). Copia in `90_Lezioni_pdf/GAL/`.
 - Verificare omogeneità e additività della traccia (slide 148) → stessa nota
 
 ## Note collegate
+- [[20_Indice_Lezione_19]] (lezione successiva con PDF)
 - [[00_MOC_GAL]]
 - [[17_Indice_Lezione_16]] (lezione precedente)
 - Prima nota: [[136_Applicazioni_Lineari_Definizione_17_1]]
