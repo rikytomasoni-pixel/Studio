@@ -4375,8 +4375,22 @@
         "filePath": "10_Analisi_1/12_Derivate/125_Derivata_Infinita_e_Tangente_Verticale.md",
         "wordCountStart": 308,
         "charCountStart": 1993,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": -59,
+            "c": -351
+          }
+        ],
         "id": 424
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/12_Derivate/130_Classificazione_dei_Punti_di_Non_Derivabilita.md",
+        "wordCountStart": 598,
+        "charCountStart": 3758,
+        "changes": [],
+        "id": 425
       }
     ]
   }

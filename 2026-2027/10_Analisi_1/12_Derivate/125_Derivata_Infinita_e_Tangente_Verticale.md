@@ -23,16 +23,14 @@ $f$ è continua in $\mathbb{R}$ e
 $$f'(0)=\lim_{x\to0}\frac{f(x)-f(0)}{x}=\lim_{x\to0}\frac{x^{1/3}}{x}=\lim_{x\to0}x^{-2/3}=+\infty$$
 Quindi $x=0$ è retta tangente verticale.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **AM1 L17, pag. 15**: grafico di $x^{1/3}$, curva crescente che passa per l'origine con tangente verticale; l'asse $y$ (retta $x=0$) è evidenziato in rosso.
+![[flessotgverticale.png]]
 
 ## Esempio: $f(x)=\operatorname{sgn}x=\begin{cases}-1&x<0\\0&x=0\\1&x>0\end{cases}$, $f:\mathbb{R}\to\mathbb{R}$, $x_0=0$
 $f$ **non è continua** in $x_0=0$ (discontinuità a salto, [[97_Discontinuita_di_Prima_Specie_a_Salto]]).
 $$\lim_{h\to0^\pm}\frac{f(h)-f(0)}{h}=\lim_{h\to0^\pm}\frac{\operatorname{sgn}h}{h}=\lim_{h\to0^\pm}\frac1{|h|}=+\infty$$
 Non esiste retta tangente al grafico di $f$ in $(0,0)$.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **AM1 L17, pag. 16**: grafico di $\operatorname{sgn}x$: semiretta a quota $-1$ per $x<0$, semiretta a quota $1$ per $x>0$, punto pieno nell'origine.
+![[sgnx.png]]
 
 ## Note collegate
 - [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]]
