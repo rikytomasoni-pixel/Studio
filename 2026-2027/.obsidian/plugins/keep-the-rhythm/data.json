@@ -4155,7 +4155,13 @@
         "filePath": "00_Claude_Workspace/Recap_2026-11-12_GAL_L19-L20.md",
         "wordCountStart": 357,
         "charCountStart": 3518,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": -357,
+            "c": -3518
+          }
+        ],
         "id": 403
       },
       {
@@ -4180,11 +4186,105 @@
         "changes": [
           {
             "timeKey": "15:30",
-            "w": -28,
-            "c": -226
+            "w": -87,
+            "c": -570
           }
         ],
         "id": 405
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/156_Isomorfismi_Definizione_20_4_e_Conservazione_delle_Basi.md",
+        "wordCountStart": 134,
+        "charCountStart": 1392,
+        "changes": [],
+        "id": 406
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/138_Derivata_come_Applicazione_Lineare.md",
+        "wordCountStart": 273,
+        "charCountStart": 1771,
+        "changes": [],
+        "id": 407
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/139_Proprieta_delle_Applicazioni_Lineari.md",
+        "wordCountStart": 236,
+        "charCountStart": 1857,
+        "changes": [],
+        "id": 408
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/140_Esempi_e_Controesempi_di_Applicazioni_Lineari.md",
+        "wordCountStart": 309,
+        "charCountStart": 2108,
+        "changes": [],
+        "id": 409
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/141_Composizione_e_Inversione_di_Applicazioni_Lineari.md",
+        "wordCountStart": 314,
+        "charCountStart": 2455,
+        "changes": [],
+        "id": 410
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/142_Come_Definire_una_Applicazione_Lineare_Proposizione_17_2.md",
+        "wordCountStart": 315,
+        "charCountStart": 2664,
+        "changes": [],
+        "id": 411
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/143_Esempio_Applicazione_Lineare_da_Polinomi_a_Matrici.md",
+        "wordCountStart": 434,
+        "charCountStart": 2765,
+        "changes": [],
+        "id": 412
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/146_Immagine_e_Controimmagine_di_Sottospazi_Vettoriali.md",
+        "wordCountStart": 216,
+        "charCountStart": 1777,
+        "changes": [],
+        "id": 413
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/147_Immagine_di_una_Applicazione_Lineare_e_Suriettivita.md",
+        "wordCountStart": 91,
+        "charCountStart": 936,
+        "changes": [],
+        "id": 414
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/148_Proposizione_19_1_Immagine_dei_Generatori.md",
+        "wordCountStart": 274,
+        "charCountStart": 2083,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": -22,
+            "c": -156
+          }
+        ],
+        "id": 415
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/160_Paradigma_Rappresentare_una_Applicazione_Lineare_con_una_Matrice.md",
+        "wordCountStart": 167,
+        "charCountStart": 1491,
+        "changes": [],
+        "id": 416
       }
     ]
   }

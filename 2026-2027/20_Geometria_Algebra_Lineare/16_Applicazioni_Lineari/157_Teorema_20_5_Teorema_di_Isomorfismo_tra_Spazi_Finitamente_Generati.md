@@ -27,8 +27,7 @@ Gli spazi vettoriali finitamente generati si dispongono in **strati** per dimens
 > [!abstract] Morale
 > **Ogni strato contiene un unico spazio vettoriale di vettori colonna (di opportuna altezza)**: tutti gli spazi di dimensione $n$ sono isomorfi a $\mathbb{K}^n$.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> Slide 172 (in basso): ellisse con l'etichetta "spazi vettoriali fin. gen.", divisa da curve in strati: $\{0\}$ (sp. vett. di dim 0), $\mathbb{K}^1$ (dim 1), $\dots$, $\mathbb{K}^n$ (dim $n$), con $V$ in uno strato. Il diagramma sopra è solo uno schema. Cercare nel PDF `GAL 2026-2027 - 20261112 - LEZIONE 20.pdf` la slide 172.
+![[dimensioniSpVett.png]]
 
 ## Note collegate
 - [[156_Isomorfismi_Definizione_20_4_e_Conservazione_delle_Basi]]

@@ -7,9 +7,6 @@ fonte: "GAL 2026-2027 - 20261111 - LEZIONE 19.pdf (slide 161-162)"
 
 # Proposizione 19.1: immagine di un insieme di generatori
 
-> [!note] Numerazione
-> Sulla slide la proposizione è scritta "Proposizione 13.1"; per la numerazione delle lezioni (Lezione 19) è qui indicata come 19.1.
-
 > [!abstract] Proposizione 19.1
 > **HP:** $L:V\to W$ applicazione lineare; $\{\underline{v}_1,\dots,\underline{v}_n\}$ è un insieme di generatori di $V$.
 >
