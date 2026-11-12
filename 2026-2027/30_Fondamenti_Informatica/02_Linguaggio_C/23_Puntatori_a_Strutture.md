@@ -64,6 +64,7 @@ void stampa2(studente_t *s){
 - [[13_Typedef]]
 - [[19_Sottoprogrammi_Funzioni]]
 - [[22_Puntatori_a_Array]]
+- [[24_Ricorsione]]
 - [[10_Stringhe_in_C]]
 
 #FdI/c/puntatori-strutture

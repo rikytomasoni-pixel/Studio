@@ -53,6 +53,7 @@ materia: Fondamenti di Informatica
 - [[21_Regole_di_Visibilità]] — Regole di visibilità (scope)
 - [[22_Puntatori_a_Array]] — Puntatori a array
 - [[23_Puntatori_a_Strutture]] — Puntatori a strutture
+- [[24_Ricorsione]] — Ricorsione
 
 ## Disegni
 - [[Disegni FI]]
@@ -66,7 +67,9 @@ flowchart LR
     D --> F[Typedef e Struct]
     B --> G[Controllo: if, cicli, switch]
     B --> H[Funzioni]
+    H --> L[Ricorsione]
     H --> I[Puntatori]
+    I --> L
     I --> E
     I --> F
 ```
