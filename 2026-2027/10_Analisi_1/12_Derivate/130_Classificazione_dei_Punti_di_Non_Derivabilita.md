@@ -23,8 +23,7 @@ Sia $f:(a,b)\subseteq\mathbb{R}\to\mathbb{R}$, $x_0\in(a,b)$, $f$ **continua** i
 
 Esempio: $f(x)=|x|$, $x_0=0$: $1=f'_+(0)\neq f'_-(0)=-1$.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **AM1 L17, pag. 25**: grafico di $|x|$ (a V con vertice nell'origine) con $f'_+(0)=1$ e $f'_-(0)=-1$.
+![[graficoab]]
 
 ## Flesso a tangente verticale
 > [!abstract] Definizione — flesso a tangente verticale

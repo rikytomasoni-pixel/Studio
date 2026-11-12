@@ -4389,7 +4389,13 @@
         "filePath": "10_Analisi_1/12_Derivate/130_Classificazione_dei_Punti_di_Non_Derivabilita.md",
         "wordCountStart": 598,
         "charCountStart": 3758,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": -23,
+            "c": -130
+          }
+        ],
         "id": 425
       }
     ]
