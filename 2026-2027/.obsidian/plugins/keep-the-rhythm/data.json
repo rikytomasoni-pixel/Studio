@@ -4337,11 +4337,32 @@
         "changes": [
           {
             "timeKey": "15:55",
-            "w": -54,
-            "c": -299
+            "w": -83,
+            "c": -477
+          },
+          {
+            "timeKey": "16:00",
+            "w": -29,
+            "c": -159
           }
         ],
         "id": 421
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/12_Derivate/122_Rapporto_Incrementale_e_Derivata_in_un_Punto.md",
+        "wordCountStart": 566,
+        "charCountStart": 3527,
+        "changes": [],
+        "id": 422
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "99_Tools/Excalidraw/Disegni Analisi1.md",
+        "wordCountStart": 7119,
+        "charCountStart": 246030,
+        "changes": [],
+        "id": 423
       }
     ]
   }

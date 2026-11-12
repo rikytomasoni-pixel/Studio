@@ -21,15 +21,13 @@ Data $f:(a,b)\to\mathbb{R}$, $x_0\in(a,b)$, come **definire** la retta tangente 
 
 **Esempio.** $f(x)=|x|$, $x_0=0$, $P_0=(0,0)$. Esiste retta tangente in $P_0$?
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **AM1 L17, pag. 5**: grafico di $|x|$ con alcune rette per l'origine (verdi, blu e una rossa quasi orizzontale) che intersecano il grafico in modi diversi.
+![[tangenteAbs.png]]
 
 **Esempio.**
 $$f(x)=\begin{cases}x^2\sin\frac1x&x\neq0\\0&x=0\end{cases}\qquad P_0=(0,0)$$
 Esiste retta tangente in $P_0$?
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **AM1 L17, pag. 5**: grafico di $f$ che oscilla tra le parabole $x^2$ e $-x^2$ (in blu) con oscillazioni sempre più fitte vicino all'origine.
+![[graphxsecondasin.png]]
 
 (Le risposte arrivano in [[123_Esempi_di_Derivata_e_Retta_Tangente]].)
 
