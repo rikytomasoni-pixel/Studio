@@ -11,12 +11,10 @@
             "id": "66e25cf855af0218",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "AM1 L17 26-27"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -224,9 +222,11 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0ba7c57d61bd7477",
+  "active": "66e25cf855af0218",
   "lastOpenFiles": [
+    "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
     "00_Claude_Workspace/Recap_2026-11-12_AM1_L17.md",
+    "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf",
     "10_Analisi_1/12_Derivate/132_Regola_della_Catena.md",
     "10_Analisi_1/12_Derivate/131_Algebra_delle_Derivate.md",
     "10_Analisi_1/12_Derivate/130_Classificazione_dei_Punti_di_Non_Derivabilita.md",
@@ -254,10 +254,8 @@
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/142_Come_Definire_una_Applicazione_Lineare_Proposizione_17_2.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/141_Composizione_e_Inversione_di_Applicazioni_Lineari.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/140_Esempi_e_Controesempi_di_Applicazioni_Lineari.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/139_Proprieta_delle_Applicazioni_Lineari.md",
     "99_Tools/Screenshots/GAL/dimensioniSpVett.png",
     "99_Tools/Screenshots/GAL/VisualizzazioneThmFibra.png",
-    "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf",
     "99_Tools/Screenshots/FI/factRicorsivo.png",
     "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",

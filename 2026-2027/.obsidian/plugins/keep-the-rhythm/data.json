@@ -4285,6 +4285,22 @@
         "charCountStart": 1491,
         "changes": [],
         "id": 416
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "00_Claude_Workspace/Recap_2026-11-12_AM1_L17.md",
+        "wordCountStart": 579,
+        "charCountStart": 4610,
+        "changes": [],
+        "id": 417
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
+        "wordCountStart": 439,
+        "charCountStart": 3155,
+        "changes": [],
+        "id": 418
       }
     ]
   }

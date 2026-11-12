@@ -6,9 +6,10 @@ tags:
   - asintoto-verticale
   - definizione
   - proposizione
+  - li
 data: 2026-10-28
 lezione: 14
-fonte: "AM1 L14 26-27.pdf (pag. 3-6)"
+fonte: AM1 L14 26-27.pdf (pag. 3-6)
 ---
 
 # Limiti da destra e da sinistra e asintoto verticale

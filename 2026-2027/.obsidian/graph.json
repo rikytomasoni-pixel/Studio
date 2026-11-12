@@ -90,6 +90,20 @@
         "a": 1,
         "rgb": 6323494
       }
+    },
+    {
+      "query": "tag:#AM1/derivate  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#GAL/applicazioni-lineari  ",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
     }
   ],
   "collapse-display": false,
