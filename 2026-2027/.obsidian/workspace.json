@@ -45,8 +45,7 @@
               "title": "Disegni Analisi1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,11 +250,15 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "6a56f1ab89b31acd",
+  "active": "66e25cf855af0218",
   "lastOpenFiles": [
+    "Pasted image 20261112162458.png",
     "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf",
-    "99_Tools/Excalidraw/Disegni Analisi1.md",
     "10_Analisi_1/12_Derivate/130_Classificazione_dei_Punti_di_Non_Derivabilita.md",
+    "99_Tools/Screenshots/Analisi1/Funzioni/Cuspidi.png",
+    "99_Tools/Screenshots/Analisi1/Funzioni/flessiVerticali.png",
+    "99_Tools/Screenshots/Analisi1/Funzioni/graphAbs.png",
+    "99_Tools/Excalidraw/Disegni Analisi1.md",
     "00_Claude_Workspace/Recap_2026-11-12_AM1_L17.md",
     "10_Analisi_1/12_Derivate/125_Derivata_Infinita_e_Tangente_Verticale.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/sgnx.png",
@@ -269,7 +272,6 @@
     "90_Lezioni_pdf/A1/AM1 L17extra 26-27.pdf",
     "10_Analisi_1/09_Limiti_di_Funzioni/119_Dimostrazione_del_Limite_Notevole_sin_x_su_x.md",
     "99_Tools/Screenshots/Analisi1/Limiti/dimostrazioneLimNotB.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/tangenteGoniometrica.png",
     "10_Analisi_1/09_Limiti_di_Funzioni/108_Limiti_Notevoli_di_Funzioni.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
     "10_Analisi_1/12_Derivate/132_Regola_della_Catena.md",
@@ -291,8 +293,6 @@
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/147_Immagine_di_una_Applicazione_Lineare_e_Suriettivita.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/146_Immagine_e_Controimmagine_di_Sottospazi_Vettoriali.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/143_Esempio_Applicazione_Lineare_da_Polinomi_a_Matrici.md",
-    "99_Tools/Screenshots/GAL/dimensioniSpVett.png",
-    "99_Tools/Screenshots/GAL/VisualizzazioneThmFibra.png",
     "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261105 - LEZIONE 17.pdf",
