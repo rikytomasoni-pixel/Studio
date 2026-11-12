@@ -17,8 +17,7 @@ Sia $f:(a,b)\subseteq\mathbb{R}\to\mathbb{R}$, $x_0\in(a,b)$ e $h\in\mathbb{R}$,
 $$P_0=(x_0,f(x_0)),\qquad P_h=(x_0+h,f(x_0+h))$$
 sul grafico di $f$ ($P_h$ è a destra/sinistra di $P_0$ a seconda che sia $h>0$ / $h<0$).
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **AM1 L17, pag. 7**: grafico di una funzione con i punti $P_0$ e $P_h$ e la retta secante $r_h$ (in rosso) che passa per entrambi. In blu sono indicati $\Delta x=h$ (segmento orizzontale da $x_0$ a $x_0+h$) e $\Delta f=f(x_0+h)-f(x_0)$ (segmento verticale).
+![[RapportoIncrementale 1.png]]
 
 La retta per $P_0,P_h$ ha coefficiente angolare
 $$m_h=\frac{\Delta f}{\Delta x}=\frac{f(x_0+h)-f(x_0)}{h}$$
