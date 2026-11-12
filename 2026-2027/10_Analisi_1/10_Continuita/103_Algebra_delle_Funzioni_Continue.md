@@ -28,5 +28,6 @@ $$\ell_1=\lim_{x\to x_0}f(x)=f(x_0)\in\mathbb{R},\qquad\ell_2=\lim_{x\to x_0}g(x
 - [[105_Continuita_della_Funzione_Composta]]
 - [[117_Continuita_delle_Funzioni_Elementari]]
 - [[00_MOC_Analisi_1]]
+- [[131_Algebra_delle_Derivate]] (versione per le derivate)
 
 #AM1/continuita/algebra-funzioni-continue

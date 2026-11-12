@@ -29,5 +29,6 @@ $$\lim_{x\to x_0}f(g(x))\overset{t=g(x)}{=}\lim_{t\to t_0}f(t)=f(t_0)=f(g(x_0))\
 - [[117_Continuita_delle_Funzioni_Elementari]]
 - [[25_Composizione_di_Funzioni]]
 - [[00_MOC_Analisi_1]]
+- [[132_Regola_della_Catena]] (versione per le derivate)
 
 #AM1/continuita/funzione-composta

@@ -8,43 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ea767fe72e7039c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/24_Ricorsione.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24_Ricorsione"
-            }
-          },
-          {
-            "id": "45b769356ad4db47",
+            "id": "66e25cf855af0218",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf"
+                "file": "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "GAL 2026-2027 - 20261112 - LEZIONE 20"
-            }
-          },
-          {
-            "id": "66e25cf855af0218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/160_Paradigma_Rappresentare_una_Applicazione_Lineare_con_una_Matrice.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "160_Paradigma_Rappresentare_una_Applicazione_Lineare_con_una_Matrice"
+              "title": "AM1 L17 26-27"
             }
           }
         ]
@@ -252,11 +224,28 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "8ea767fe72e7039c",
+  "active": "0ba7c57d61bd7477",
   "lastOpenFiles": [
-    "00_Claude_Workspace/Recap_2026-11-12_GAL_L19-L20.md",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf",
+    "00_Claude_Workspace/Recap_2026-11-12_AM1_L17.md",
+    "10_Analisi_1/12_Derivate/132_Regola_della_Catena.md",
+    "10_Analisi_1/12_Derivate/131_Algebra_delle_Derivate.md",
+    "10_Analisi_1/12_Derivate/130_Classificazione_dei_Punti_di_Non_Derivabilita.md",
+    "10_Analisi_1/12_Derivate/129_Derivabilita_e_Continuita.md",
+    "10_Analisi_1/12_Derivate/128_Derivate_delle_Funzioni_Elementari.md",
+    "10_Analisi_1/12_Derivate/127_Differenziabilita_e_Approssimazione_Lineare.md",
+    "10_Analisi_1/12_Derivate/126_Interpretazione_della_Derivata_nelle_Applicazioni.md",
+    "10_Analisi_1/12_Derivate/125_Derivata_Infinita_e_Tangente_Verticale.md",
+    "10_Analisi_1/12_Derivate/124_Funzione_Derivata_e_Derivate_di_Ordine_Superiore.md",
+    "10_Analisi_1/12_Derivate/123_Esempi_di_Derivata_e_Retta_Tangente.md",
+    "10_Analisi_1/12_Derivate/122_Rapporto_Incrementale_e_Derivata_in_un_Punto.md",
+    "10_Analisi_1/12_Derivate/121_Problemi_Motivanti_delle_Derivate.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/119_Dimostrazione_del_Limite_Notevole_sin_x_su_x.md",
+    "10_Analisi_1/12_Derivate",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/160_Paradigma_Rappresentare_una_Applicazione_Lineare_con_una_Matrice.md",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/24_Ricorsione.md",
+    "00_Claude_Workspace/Recap_2026-11-12_GAL_L19-L20.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/148_Proposizione_19_1_Immagine_dei_Generatori.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261111 - LEZIONE 19.pdf",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/147_Immagine_di_una_Applicazione_Lineare_e_Suriettivita.md",
@@ -266,23 +255,8 @@
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/141_Composizione_e_Inversione_di_Applicazioni_Lineari.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/140_Esempi_e_Controesempi_di_Applicazioni_Lineari.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/139_Proprieta_delle_Applicazioni_Lineari.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/138_Derivata_come_Applicazione_Lineare.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/156_Isomorfismi_Definizione_20_4_e_Conservazione_delle_Basi.md",
     "99_Tools/Screenshots/GAL/dimensioniSpVett.png",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/155_Teorema_20_3_Teorema_della_Fibra.md",
     "99_Tools/Screenshots/GAL/VisualizzazioneThmFibra.png",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/24_Ricorsione.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/21_Indice_Lezione_20.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/20_Indice_Lezione_19.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/159_Esempio_Mappa_di_Parametrizzazione_Polinomi_di_Grado_al_piu_2.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/158_Mappa_delle_Coordinate_e_Mappa_di_Parametrizzazione_Definizione_20_6.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/154_Corollario_20_2_Iniettivita_e_Indipendenza_Lineare.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/153_Conseguenze_del_Criterio_di_Iniettivita_L_A_e_Rango.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/152_Teorema_20_1_Criterio_di_Iniettivita.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/151_Nucleo_di_una_Applicazione_Lineare.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/150_Suriettivita_di_L_A_e_Spazio_delle_Colonne.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/149_Conseguenze_della_Suriettivita_Generatori_e_Dimensione.md",
     "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf",
     "99_Tools/Screenshots/FI/factRicorsivo.png",
     "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf",
@@ -298,7 +272,6 @@
     "99_Tools/Screenshots/Analisi1/Funzioni/MononiaDiscontinua.png",
     "90_Lezioni_pdf/A1/AM1 L14 26-27.pdf",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari",
-    "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann",
     "Senza nome.canvas"
   ]
 }

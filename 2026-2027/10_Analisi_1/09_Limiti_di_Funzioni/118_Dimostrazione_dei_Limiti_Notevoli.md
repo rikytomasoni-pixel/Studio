@@ -41,7 +41,7 @@ Posto $t=\alpha\log(1+x)$:
 $$=\Big(\lim_{t\to0}\frac{e^t-1}{t}\Big)\cdot\alpha\cdot\Big(\lim_{x\to0}\frac{\log(1+x)}{x}\Big)=1\cdot\alpha\cdot1=\alpha$$
 
 > [!note] Osservazione (non presente negli appunti)
-> In L16 non compaiono le dimostrazioni di $\frac{\sin x}{x}\to1$, $\frac{1-\cos x}{x^2}\to\frac12$, $\frac{\tan x}{x}\to1$, $\frac{\arctan x}{x}\to1$: erano indicate in L15 come "dimostrazioni in seguito".
+> In L16 non compaiono le dimostrazioni di $\frac{\sin x}{x}\to1$ e $\frac{1-\cos x}{x^2}\to\frac12$: sono state date in L17 ([[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]], [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]]). Restano non dimostrati $\frac{\tan x}{x}\to1$ e $\frac{\arctan x}{x}\to1$.
 
 ## Note collegate
 - [[108_Limiti_Notevoli_di_Funzioni]]
@@ -49,5 +49,7 @@ $$=\Big(\lim_{t\to0}\frac{e^t-1}{t}\Big)\cdot\alpha\cdot\Big(\lim_{x\to0}\frac{\
 - [[104_Cambio_di_Variabile_nei_Limiti]]
 - [[117_Continuita_delle_Funzioni_Elementari]]
 - [[00_MOC_Analisi_1]]
+- [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]]
+- [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]]
 
 #AM1/limiti-di-funzioni/dimostrazione-limiti-notevoli

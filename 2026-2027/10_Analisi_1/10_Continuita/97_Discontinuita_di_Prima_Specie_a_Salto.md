@@ -40,5 +40,6 @@ fonte: "AM1 L14 26-27.pdf (pag. 15-16)"
 - [[98_Discontinuita_di_Seconda_Specie]]
 - [[115_Teorema_sui_Limiti_di_Funzioni_Monotone]] (le funzioni monotone hanno solo discontinuità a salto)
 - [[00_MOC_Analisi_1]]
+- [[125_Derivata_Infinita_e_Tangente_Verticale]] (esempio $\operatorname{sgn}x$ e derivata)
 
 #AM1/continuita/discontinuita-a-salto

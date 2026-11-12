@@ -54,5 +54,7 @@ $$\cos(x_0+h)=\cos x_0\cos h-\sin x_0\sin h\ \Rightarrow\ \lim_{h\to0}\cos(x_0+h
 - [[94_Esempio_Continuita_di_e_alla_x]]
 - [[100_Teorema_del_Confronto_per_Limiti_di_Funzioni]]
 - [[00_MOC_Analisi_1]]
+- [[128_Derivate_delle_Funzioni_Elementari]]
+- [[129_Derivabilita_e_Continuita]]
 
 #AM1/continuita/funzioni-elementari

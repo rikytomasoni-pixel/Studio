@@ -58,5 +58,7 @@ Talvolta è necessario distinguere il comportamento al limite di $f$ a seconda c
 - [[89_Asintoto_Obliquo]]
 - [[97_Discontinuita_di_Prima_Specie_a_Salto]]
 - [[00_MOC_Analisi_1]]
+- [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]] (derivata destra e sinistra)
+- [[125_Derivata_Infinita_e_Tangente_Verticale]]
 
 #AM1/limiti-di-funzioni/limiti-destro-sinistro

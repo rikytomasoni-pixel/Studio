@@ -31,5 +31,7 @@ Gli appunti terminano con dei puntini di sospensione ("..."), a indicare che l'e
 - [[44_Esempio_Asintotici_con_Logaritmo_e_Arctan]]
 - [[45_Esercizio_Asintotici_Limite_21]]
 - [[00_MOC_Analisi_1]]
+- [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]]
+- [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]]
 
 #AM1/successioni-e-limiti/asintotici-notevoli-limiti-notevoli

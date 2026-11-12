@@ -40,5 +40,6 @@ Estensione ai limiti di funzioni di quanto visto per le successioni ([[40_Confro
 - [[40_Confronti_Asintotici]]
 - [[41_o_piccolo_e_Asintotico]]
 - [[00_MOC_Analisi_1]]
+- [[127_Differenziabilita_e_Approssimazione_Lineare]] (derivabilità riscritta con l'o piccolo)
 
 #AM1/limiti-di-funzioni/asintotico-o-piccolo

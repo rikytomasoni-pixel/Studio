@@ -11,7 +11,7 @@ fonte: "AM1 L15 26-27.pdf (pag. 11-15)"
 
 # Limiti notevoli di funzioni
 
-*(dimostrazioni in seguito: vedi [[118_Dimostrazione_dei_Limiti_Notevoli]])*
+*(dimostrazioni: [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]] e [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]] per $\sin x/x$ e $(1-\cos x)/x^2$; [[118_Dimostrazione_dei_Limiti_Notevoli]] per logaritmo, esponenziale, potenza. Non ancora date: $\tan x/x$, $\arctan x/x$)*
 
 Per $x\to0$:
 
@@ -45,5 +45,8 @@ $$\sin\varepsilon_n\sim\varepsilon_n,\quad1-\cos\varepsilon_n\sim\tfrac12\vareps
 - [[118_Dimostrazione_dei_Limiti_Notevoli]]
 - [[38_Numero_di_Nepero]]
 - [[00_MOC_Analisi_1]]
+- [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]]
+- [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]]
+- [[128_Derivate_delle_Funzioni_Elementari]] (uso dei limiti notevoli)
 
 #AM1/limiti-di-funzioni/limiti-notevoli

@@ -3,13 +3,13 @@ tags:
   - AM1
   - MOC
   - indice
-data: 2026-11-07
+data: 2026-11-12
 corso: Analisi Matematica 1
 ---
 
 # Analisi Matematica 1 — Indice Generale
 
-Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti` · `06_Serie` · `07_Serie_a_Termini_Positivi` · `08_Serie_a_Termini_di_Segno_Variabile` · `09_Limiti_di_Funzioni` · `10_Continuita` · `11_Proprieta_Globali_Funzioni_Continue`
+Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti` · `06_Serie` · `07_Serie_a_Termini_Positivi` · `08_Serie_a_Termini_di_Segno_Variabile` · `09_Limiti_di_Funzioni` · `10_Continuita` · `11_Proprieta_Globali_Funzioni_Continue` · `12_Derivate`
 
 ## Fondamenti: insiemi e logica
 - [[01_Insiemi_Numerici]]
@@ -131,6 +131,8 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 - [[109_Gerarchia_degli_Infiniti_per_Funzioni]]
 - [[110_Grafici_Locali_e_Grafici_Probabili]]
 - [[118_Dimostrazione_dei_Limiti_Notevoli]]
+- [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]]
+- [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]]
 
 ## Continuità
 - [[93_Continuita_in_un_Punto]]
@@ -151,6 +153,20 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 - [[114_Immagine_di_una_Funzione_Continua_su_un_Intervallo_Chiuso]]
 - [[115_Teorema_sui_Limiti_di_Funzioni_Monotone]]
 
+## Derivate
+- [[121_Problemi_Motivanti_delle_Derivate]]
+- [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]]
+- [[123_Esempi_di_Derivata_e_Retta_Tangente]]
+- [[124_Funzione_Derivata_e_Derivate_di_Ordine_Superiore]]
+- [[125_Derivata_Infinita_e_Tangente_Verticale]]
+- [[126_Interpretazione_della_Derivata_nelle_Applicazioni]]
+- [[127_Differenziabilita_e_Approssimazione_Lineare]]
+- [[128_Derivate_delle_Funzioni_Elementari]]
+- [[129_Derivabilita_e_Continuita]]
+- [[130_Classificazione_dei_Punti_di_Non_Derivabilita]]
+- [[131_Algebra_delle_Derivate]]
+- [[132_Regola_della_Catena]]
+
 ## Cronologia delle lezioni
 | Lezione   | Data       | Note principali                                                                                                                                                                                                                                        |
 | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -170,5 +186,6 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 | Lezione 14 | 28-10-2026 | [[90_Limite_Infinito_in_un_Punto_Finito]], [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]], [[92_Limite_Finito_in_un_Punto_Finito]], [[93_Continuita_in_un_Punto]], [[94_Esempio_Continuita_di_e_alla_x]], [[95_Funzione_di_Dirichlet]], [[96_Discontinuita_Eliminabile_e_Prolungamento_per_Continuita]], [[97_Discontinuita_di_Prima_Specie_a_Salto]], [[98_Discontinuita_di_Seconda_Specie]], [[99_Proprieta_Valida_Definitivamente]], [[100_Teorema_del_Confronto_per_Limiti_di_Funzioni]], [[101_Teorema_di_Permanenza_del_Segno_per_Funzioni]], [[102_Algebra_dei_Limiti_di_Funzioni]] |
 | Lezione 15 | 04-11-2026 | [[103_Algebra_delle_Funzioni_Continue]], [[104_Cambio_di_Variabile_nei_Limiti]], [[105_Continuita_della_Funzione_Composta]], [[106_Asintotico_e_o_piccolo_per_Funzioni]], [[107_Proprieta_degli_Asintotici_per_Funzioni]], [[108_Limiti_Notevoli_di_Funzioni]], [[109_Gerarchia_degli_Infiniti_per_Funzioni]], [[110_Grafici_Locali_e_Grafici_Probabili]], [[111_Teorema_degli_Zeri]], [[112_Teorema_di_Weierstrass]] (enunciato) |
 | Lezione 16 | 06-11-2026 | [[112_Teorema_di_Weierstrass]] (dimostrazione), [[113_Teorema_dei_Valori_Intermedi]], [[114_Immagine_di_una_Funzione_Continua_su_un_Intervallo_Chiuso]], [[115_Teorema_sui_Limiti_di_Funzioni_Monotone]], [[116_Continuita_e_Invertibilita]], [[117_Continuita_delle_Funzioni_Elementari]], [[118_Dimostrazione_dei_Limiti_Notevoli]] |
+| Lezione 17 | 11-11-2026 | [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]], [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]], [[121_Problemi_Motivanti_delle_Derivate]], [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]], [[123_Esempi_di_Derivata_e_Retta_Tangente]], [[124_Funzione_Derivata_e_Derivate_di_Ordine_Superiore]], [[125_Derivata_Infinita_e_Tangente_Verticale]], [[126_Interpretazione_della_Derivata_nelle_Applicazioni]], [[127_Differenziabilita_e_Approssimazione_Lineare]], [[128_Derivate_delle_Funzioni_Elementari]], [[129_Derivabilita_e_Continuita]], [[130_Classificazione_dei_Punti_di_Non_Derivabilita]], [[131_Algebra_delle_Derivate]], [[132_Regola_della_Catena]] |
 
 #AM1/moc

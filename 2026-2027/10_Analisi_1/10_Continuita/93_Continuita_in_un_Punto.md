@@ -40,5 +40,6 @@ fonte: "AM1 L14 26-27.pdf (pag. 8-9, 13)"
 - [[103_Algebra_delle_Funzioni_Continue]]
 - [[117_Continuita_delle_Funzioni_Elementari]]
 - [[00_MOC_Analisi_1]]
+- [[129_Derivabilita_e_Continuita]] (derivabile $\Rightarrow$ continua)
 
 #AM1/continuita/definizione
