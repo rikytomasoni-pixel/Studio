@@ -4135,6 +4135,20 @@
         "charCountStart": 30074,
         "changes": [],
         "id": 401
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/24_Ricorsione.md",
+        "wordCountStart": 241,
+        "charCountStart": 1978,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 402
       }
     ]
   }
