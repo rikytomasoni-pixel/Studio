@@ -16,12 +16,12 @@ Dimostrazione del primo limite notevole elencato in [[108_Limiti_Notevoli_di_Fun
 
 ## Versione di lezione (confronto tra lunghezze)
 
-![[Pasted image 20261112155409.png]]
+![[tangenteGoniometrica.png]]
 
 Dalla figura: $\overline{OP}=1$, $\overline{PH}=\sin x$, $\overline{TA}=\tan x$, $\widehat{PA}=x$ (lunghezza dell'arco). Quindi
 $$0\le\sin x\le x\le\tan x\qquad x\in\Big[0,\frac\pi2\Big)$$
-dove $\textcircled{1}$ è $\sin x\le x$ e $\textcircled{2}$ è $x\le\tan x$. Dividendo per $\sin x>0$ (usando $\textcircled{2}$ con $\tan x=\frac{\sin x}{\cos x}$ e $\textcircled{1}$):
-$$\cos x\ \overset{\textcircled{2}}{\le}\ \frac{\sin x}{x}\ \overset{\textcircled{1}}{\le}\ 1\qquad x\in\Big(0,\frac\pi2\Big)$$
+dove ${1}$ è $\sin x\le x$ e ${2}$ è $x\le\tan x$. Dividendo per $\sin x>0$ (usando ${2}$ con $\tan x=\frac{\sin x}{\cos x}$ e ${1}$):
+$$\cos x\ \overset{{2}}{\le}\ \frac{\sin x}{x}\ \overset{{1}}{\le}\ 1\qquad x\in\Big(0,\frac\pi2\Big)$$
 Per simmetria ($\frac{\sin x}{x}$ è pari)
 $$\cos x\le\frac{\sin x}{x}\le1\qquad x\in\Big(-\frac\pi2,\frac\pi2\Big)\setminus\{0\}$$
 Per confronto (teorema dei due carabinieri, [[100_Teorema_del_Confronto_per_Limiti_di_Funzioni]]), essendo $\cos x\to1$ per $x\to0$:
@@ -35,8 +35,7 @@ quindi $\displaystyle\lim_{x\to0^+}f(x)=\lim_{x\to0^-}f(x)$ ed è sufficiente st
 
 **2) Confronto tra aree.**
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Dimostrazioni primi limiti notevoli.pdf, pag. 1 (punto 2)**: circonferenza unitaria di centro $O$ con angolo $x$; $A$ punto sulla circonferenza (segmento $OA$ rosso), $B=(1,0)$ sull'asse $x$, $C$ sulla tangente verticale in $B$ (segmento verde $BC$), arco $AB$ in blu. Servono per il confronto tra triangolo $OAB$, settore circolare $OAB$ e triangolo $OBC$.
+![[dimostrazioneLimNotB.png]]
 
 $$A(\text{triangolo }OAB)<A(\text{settore }OAB)<A(\text{triangolo }OBC)$$
 $$\tfrac12\,\overline{OA}\cdot\overline{OB}\cdot\sin x<\tfrac12\,\overline{OA}^{\,2}\cdot x<\tfrac12\,\overline{OB}\tan x\cdot\overline{OA}$$

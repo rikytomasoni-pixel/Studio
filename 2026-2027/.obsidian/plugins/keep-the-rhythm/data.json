@@ -4318,11 +4318,30 @@
         "changes": [
           {
             "timeKey": "15:50",
-            "w": -54,
-            "c": -327
+            "w": -56,
+            "c": -334
+          },
+          {
+            "timeKey": "15:55",
+            "w": -62,
+            "c": -445
           }
         ],
         "id": 420
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/12_Derivate/121_Problemi_Motivanti_delle_Derivate.md",
+        "wordCountStart": 408,
+        "charCountStart": 2749,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": -54,
+            "c": -299
+          }
+        ],
+        "id": 421
       }
     ]
   }

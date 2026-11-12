@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/09_Limiti_di_Funzioni/119_Dimostrazione_del_Limite_Notevole_sin_x_su_x.md",
+                "file": "10_Analisi_1/12_Derivate/121_Problemi_Motivanti_delle_Derivate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "119_Dimostrazione_del_Limite_Notevole_sin_x_su_x"
+              "title": "121_Problemi_Motivanti_delle_Derivate"
             }
           },
           {
@@ -33,7 +33,8 @@
               "title": "AM1 L17 26-27"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,11 +239,16 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "66e25cf855af0218",
+  "active": "d18acb016902390f",
   "lastOpenFiles": [
-    "Pasted image 20261112155409.png",
-    "00_Claude_Workspace/Recap_2026-11-12_AM1_L17.md",
+    "10_Analisi_1/12_Derivate/121_Problemi_Motivanti_delle_Derivate.md",
+    "99_Tools/Screenshots/Analisi1/Funzioni/rettaTangente.png",
     "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf",
+    "90_Lezioni_pdf/A1/AM1 L17extra 26-27.pdf",
+    "00_Claude_Workspace/Recap_2026-11-12_AM1_L17.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/119_Dimostrazione_del_Limite_Notevole_sin_x_su_x.md",
+    "99_Tools/Screenshots/Analisi1/Limiti/dimostrazioneLimNotB.png",
+    "99_Tools/Screenshots/Analisi1/Funzioni/tangenteGoniometrica.png",
     "10_Analisi_1/09_Limiti_di_Funzioni/108_Limiti_Notevoli_di_Funzioni.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
     "10_Analisi_1/12_Derivate/132_Regola_della_Catena.md",
@@ -256,9 +262,7 @@
     "10_Analisi_1/12_Derivate/124_Funzione_Derivata_e_Derivate_di_Ordine_Superiore.md",
     "10_Analisi_1/12_Derivate/123_Esempi_di_Derivata_e_Retta_Tangente.md",
     "10_Analisi_1/12_Derivate/122_Rapporto_Incrementale_e_Derivata_in_un_Punto.md",
-    "10_Analisi_1/12_Derivate/121_Problemi_Motivanti_delle_Derivate.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro.md",
-    "10_Analisi_1/09_Limiti_di_Funzioni/119_Dimostrazione_del_Limite_Notevole_sin_x_su_x.md",
     "10_Analisi_1/12_Derivate",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/160_Paradigma_Rappresentare_una_Applicazione_Lineare_con_una_Matrice.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf",
@@ -281,11 +285,7 @@
     "99_Tools/Screenshots/GAL/UnioneSottospazi.png",
     "99_Tools/Screenshots/GAL/SpaziIntersecati.png",
     "99_Tools/Screenshots/GAL/SpaziDisgiunti.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/ContinuitòSinCos.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/MononiaDiscontinua.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/MononiaDiscontinua.png",
     "90_Lezioni_pdf/A1/AM1 L14 26-27.pdf",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari",
     "Senza nome.canvas"
   ]
 }

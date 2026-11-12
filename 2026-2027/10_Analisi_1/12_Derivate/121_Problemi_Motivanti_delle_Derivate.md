@@ -17,8 +17,7 @@ Data $f:(a,b)\to\mathbb{R}$, $x_0\in(a,b)$, come **definire** la retta tangente 
 
 **Esempio.** Se $f(x)=\alpha x^2+\beta x+\gamma$ con $\alpha\neq0$, il grafico è una parabola in $\mathbb{R}^2$. Sia $x_0\in\mathbb{R}$ e $P_0=(x_0,f(x_0))$. Allora tutte le rette (non verticali) per $P_0$ hanno $2$ intersezioni distinte con il grafico di $f$ (una delle quali è $P_0$), tranne un'unica retta $r$. Quell'unica retta $r$ è la retta tangente al grafico di $f$ in $P_0$.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **AM1 L17, pag. 4**: parabola con apertura verso l'alto, punto $P_0$ sul ramo sinistro (con $x_0$ e $f(x_0)$ indicati sugli assi). Passano per $P_0$ una retta blu e una retta verde che intersecano la parabola in un secondo punto, e la retta rossa $r$ che la tocca solo in $P_0$.
+![[rettaTangente.png]]
 
 **Esempio.** $f(x)=|x|$, $x_0=0$, $P_0=(0,0)$. Esiste retta tangente in $P_0$?
 
