@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/24_Ricorsione.md",
+                "file": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24_Ricorsione"
+              "title": "157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati"
+            }
+          },
+          {
+            "id": "45b769356ad4db47",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GAL 2026-2027 - 20261112 - LEZIONE 20"
             }
           }
         ]
@@ -226,17 +238,21 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0ba7c57d61bd7477",
+  "active": "8ea767fe72e7039c",
   "lastOpenFiles": [
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf",
+    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati.md",
     "00_Claude_Workspace/Recap_2026-11-12_GAL_L19-L20.md",
+    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/155_Teorema_20_3_Teorema_della_Fibra.md",
+    "99_Tools/Screenshots/GAL/VisualizzazioneThmFibra.png",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261111 - LEZIONE 19.pdf",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/24_Ricorsione.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/21_Indice_Lezione_20.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/20_Indice_Lezione_19.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/160_Paradigma_Rappresentare_una_Applicazione_Lineare_con_una_Matrice.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/159_Esempio_Mappa_di_Parametrizzazione_Polinomi_di_Grado_al_piu_2.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/158_Mappa_delle_Coordinate_e_Mappa_di_Parametrizzazione_Definizione_20_6.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/156_Isomorfismi_Definizione_20_4_e_Conservazione_delle_Basi.md",
-    "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/155_Teorema_20_3_Teorema_della_Fibra.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/154_Corollario_20_2_Iniettivita_e_Indipendenza_Lineare.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/153_Conseguenze_del_Criterio_di_Iniettivita_L_A_e_Rango.md",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/152_Teorema_20_1_Criterio_di_Iniettivita.md",
@@ -248,16 +264,12 @@
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/146_Immagine_e_Controimmagine_di_Sottospazi_Vettoriali.md",
     "20_Geometria_Algebra_Lineare/99_Organizzazione/145_Analisi_degli_Esiti_della_Prova_in_Itinere.md",
     "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261111 - LEZIONE 19.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf",
     "99_Tools/Screenshots/FI/factRicorsivo.png",
     "99_Tools/Excalidraw/Disegni FI.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/24_Ricorsione.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/23_Puntatori_a_Strutture.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/22_Puntatori_a_Array.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
     "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf",
     "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261105 - LEZIONE 17.pdf",
@@ -271,7 +283,6 @@
     "99_Tools/Screenshots/Analisi1/Funzioni/MononiaDiscontinua.png",
     "90_Lezioni_pdf/A1/AM1 L14 26-27.pdf",
     "99_Tools/Screenshots/Analisi1/Funzioni/GraficiProbabiliScelta.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/GraficoProbabileEsempio.png",
     "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari",
     "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann",
     "Senza nome.canvas"

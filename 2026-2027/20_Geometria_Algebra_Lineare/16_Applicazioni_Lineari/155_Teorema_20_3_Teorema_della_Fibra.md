@@ -30,8 +30,7 @@ Sia $\underline{v}_1\in L^{-1}(\underline{w})$ (nuova controimmagine) e $\underl
 $$L(\underline{v}_1-\underline{v}_0)=L(\underline{v}_1)-L(\underline{v}_0)=\underline{w}-\underline{w}=\underline{0}_W\ \Rightarrow\ \underline{v}_H:=\underline{v}_1-\underline{v}_0\in\ker(L)$$
 $$\underline{v}_1-\underline{v}_0=\underline{v}_H\iff\underline{v}_1=\underline{v}_0+\underline{v}_H\qquad\blacksquare$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> Slide 170 (in alto): schema a insiemi annidati, con l'insieme $L^{-1}(\underline{w})$ e al suo interno $\underline{v}_0+\ker(L)$ (etichettato). Cercare nel PDF `GAL 2026-2027 - 20261112 - LEZIONE 20.pdf` la slide 170.
+![[VisualizzazioneThmFibra.png]]
 
 ## Note collegate
 - [[85_Teorema_di_Struttura_delle_Soluzioni]]

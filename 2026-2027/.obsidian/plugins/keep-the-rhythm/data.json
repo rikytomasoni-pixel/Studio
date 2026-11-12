@@ -4149,6 +4149,42 @@
           }
         ],
         "id": 402
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "00_Claude_Workspace/Recap_2026-11-12_GAL_L19-L20.md",
+        "wordCountStart": 357,
+        "charCountStart": 3518,
+        "changes": [],
+        "id": 403
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/155_Teorema_20_3_Teorema_della_Fibra.md",
+        "wordCountStart": 452,
+        "charCountStart": 3109,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": -38,
+            "c": -228
+          }
+        ],
+        "id": 404
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati.md",
+        "wordCountStart": 393,
+        "charCountStart": 2957,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": -28,
+            "c": -226
+          }
+        ],
+        "id": 405
       }
     ]
   }

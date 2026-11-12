@@ -53,7 +53,7 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 | 16 | 2026-11-04 | Riepilogo sul rango; spazio delle righe e delle colonne; la dimensione come misura; intersezione e somma di sottospazi; formula di Grassmann | [[17_Indice_Lezione_16]] |
 | 17 | 2026-11-05 | Applicazioni lineari (definizione, esempi, proprietà); composizione e inversione; come definire un'applicazione lineare su una base | [[18_Indice_Lezione_17]] |
 | 18 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L17 termina a 155 e L19 inizia a 156) | — |
-| 19 | 2026-11-11 | Analisi esiti prova in itinere; immagine e controimmagine di sottospazi; immagine di un'applicazione lineare; suriettività | [[20_Indice_Lezione_19]] |
+| 19 | 2026-11-11 | Immagine e controimmagine di sottospazi; immagine di un'applicazione lineare; suriettività | [[20_Indice_Lezione_19]] |
 | 20 | 2026-11-12 | Nucleo e criterio di iniettività; teorema della fibra; isomorfismi; teorema di isomorfismo; mappa delle coordinate e di parametrizzazione | [[21_Indice_Lezione_20]] |
 
 ## Fondamenti teorici — insiemi, relazioni, funzioni
@@ -98,7 +98,6 @@ Struttura cartelle: `01_Fondamenti_Teorici` · `02_Vettori_Geometrici` · `03_Ma
 
 ## Organizzazione
 - [[10_Organizzazione_del_Corso]] — Organizzazione del corso *(L0)*
-- [[145_Analisi_degli_Esiti_della_Prova_in_Itinere]] — Analisi degli esiti della prova in itinere *(L19)*
 
 ## Matrice inversa e prodotto matriciale (Lezioni 6-7)
 - [[60_Matrice_Invertibile]] — Matrice invertibile *(L6)*

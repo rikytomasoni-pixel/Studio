@@ -24,17 +24,6 @@ $L$ risulta essere invertibile perché conserva la proprietà di "essere base": 
 ## Osservazione: gli spazi vettoriali finitamente generati a "strati"
 Gli spazi vettoriali finitamente generati si dispongono in **strati** per dimensione:
 
-```mermaid
-flowchart LR
-    subgraph S["Spazi vettoriali finitamente generati"]
-        direction LR
-        D0["strato dim 0: {0}"]
-        D1["strato dim 1: K¹"]
-        Dd["..."]
-        Dn["strato dim n: Kⁿ"]
-    end
-```
-
 > [!abstract] Morale
 > **Ogni strato contiene un unico spazio vettoriale di vettori colonna (di opportuna altezza)**: tutti gli spazi di dimensione $n$ sono isomorfi a $\mathbb{K}^n$.
 
