@@ -4301,6 +4301,28 @@
         "charCountStart": 3155,
         "changes": [],
         "id": 418
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/108_Limiti_Notevoli_di_Funzioni.md",
+        "wordCountStart": 491,
+        "charCountStart": 3416,
+        "changes": [],
+        "id": 419
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/119_Dimostrazione_del_Limite_Notevole_sin_x_su_x.md",
+        "wordCountStart": 512,
+        "charCountStart": 3530,
+        "changes": [
+          {
+            "timeKey": "15:50",
+            "w": -54,
+            "c": -327
+          }
+        ],
+        "id": 420
       }
     ]
   }

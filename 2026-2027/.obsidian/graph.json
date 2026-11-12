@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -103,6 +103,20 @@
       "color": {
         "a": 1,
         "rgb": 16749824
+      }
+    },
+    {
+      "query": "#AM1/limiti-di-funzioni  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#GAL/base  ",
+      "color": {
+        "a": 1,
+        "rgb": 6116084
       }
     }
   ],

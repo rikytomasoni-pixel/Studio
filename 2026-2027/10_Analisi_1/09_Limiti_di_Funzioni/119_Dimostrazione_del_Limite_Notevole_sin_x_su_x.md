@@ -16,8 +16,7 @@ Dimostrazione del primo limite notevole elencato in [[108_Limiti_Notevoli_di_Fun
 
 ## Versione di lezione (confronto tra lunghezze)
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **AM1 L17, pag. 2**: circonferenza goniometrica di centro $O$ e raggio $1$ con l'angolo $x$ (in rosso) tra l'asse $x$ e il raggio $OP$. Sono indicati: $P$ sulla circonferenza, $H$ proiezione di $P$ sull'asse $x$, $K$ proiezione di $P$ sull'asse $y$, $A=(1,0)$, $T$ punto della retta $OP$ sulla tangente verticale in $A$.
+![[Pasted image 20261112155409.png]]
 
 Dalla figura: $\overline{OP}=1$, $\overline{PH}=\sin x$, $\overline{TA}=\tan x$, $\widehat{PA}=x$ (lunghezza dell'arco). Quindi
 $$0\le\sin x\le x\le\tan x\qquad x\in\Big[0,\frac\pi2\Big)$$
