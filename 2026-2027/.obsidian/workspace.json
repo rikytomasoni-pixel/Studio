@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9755447bebc34efe",
+        "id": "edf9c9e550c3c5b0",
         "type": "tabs",
         "children": [
           {
-            "id": "8db06798c8e48b66",
+            "id": "41bc60ff0d03c470",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -196,8 +196,8 @@
             "state": {
               "type": "keep-the-rhythm",
               "state": {},
-              "icon": "calendar-days",
-              "title": "Keep the Rhythm"
+              "icon": "lucide-ghost",
+              "title": "keep-the-rhythm"
             }
           }
         ]
@@ -209,8 +209,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
       "switcher:Apri selettore rapido": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -218,11 +216,13 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "8db06798c8e48b66",
+  "active": "0ba7c57d61bd7477",
   "lastOpenFiles": [
     "10_Analisi_1/12_Derivate/130_Classificazione_dei_Punti_di_Non_Derivabilita.md",
     "99_Tools/Excalidraw/Disegni Analisi1.md",
