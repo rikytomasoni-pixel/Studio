@@ -319,8 +319,8 @@ flowchart TD
 > - **Asintoti**: orizzontale, verticale, obliquo.
 > - Unicità del limite; uso della def. successionale per mostrare la **non esistenza**.
 
-- [ ] [[82_Intorni_di_un_Punto_e_di_Infinito]] — intorni
-- [ ] [[83_Punti_di_Accumulazione]] — punti di accumulazione
+- [x] [[82_Intorni_di_un_Punto_e_di_Infinito]] — intorni ✅ 2026-11-13
+- [x] [[83_Punti_di_Accumulazione]] — punti di accumulazione ✅ 2026-11-13
 - [ ] [[84_Definizione_Successionale_di_Limite]] — def. successionale
 - [ ] [[85_Teorema_di_Unicita_del_Limite]] — unicità
 - [ ] [[86_Definizione_Topologica_di_Limite]] — def. topologica
