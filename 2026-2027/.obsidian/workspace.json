@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guida_Studio_Analisi_1"
+              "title": "91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale"
             }
           }
         ]
@@ -228,8 +228,9 @@
   },
   "active": "8db06798c8e48b66",
   "lastOpenFiles": [
-    "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
     "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/86_Definizione_Topologica_di_Limite.md",
@@ -265,7 +266,6 @@
     "10_Analisi_1/12_Derivate/128_Derivate_delle_Funzioni_Elementari.md",
     "10_Analisi_1/12_Derivate/127_Differenziabilita_e_Approssimazione_Lineare.md",
     "10_Analisi_1/12_Derivate/126_Interpretazione_della_Derivata_nelle_Applicazioni.md",
-    "10_Analisi_1/12_Derivate/124_Funzione_Derivata_e_Derivate_di_Ordine_Superiore.md",
     "10_Analisi_1/12_Derivate",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261111 - LEZIONE 19.pdf",
