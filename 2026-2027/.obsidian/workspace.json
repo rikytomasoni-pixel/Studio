@@ -11,10 +11,14 @@
             "id": "8db06798c8e48b66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Guida_Studio_Analisi_1"
             }
           }
         ]
@@ -222,7 +226,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0ba7c57d61bd7477",
+  "active": "8db06798c8e48b66",
   "lastOpenFiles": [
     "00_Claude_Workspace/Guida_Studio_GAL.md",
     "00_Claude_Workspace/Guida_Studio_Analisi_1.md",

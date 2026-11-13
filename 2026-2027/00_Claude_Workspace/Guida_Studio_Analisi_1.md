@@ -75,11 +75,11 @@ flowchart TD
 > [!question] Checkpoint
 > Sai negare "$\forall \varepsilon>0\ \exists N:\dots$"? Sai impostare una dimostrazione per induzione completa (base + passo)?
 
-- [ ] [[01_Insiemi_Numerici]] — $\mathbb{N},\mathbb{Z},\mathbb{Q},\mathbb{R}$
-- [ ] [[02_Logica]] — connettivi, quantificatori, negazioni
-- [ ] [[03_Dimostrazioni]] — panoramica delle tecniche
-- [ ] [[04_Dimostrazione_per_Assurdo]] — irrazionalità di $\sqrt2$ (D1)
-- [ ] [[05_Dimostrazione_per_Induzione]] — principio di induzione, Bernoulli (D2)
+- [x] [[01_Insiemi_Numerici]] — $\mathbb{N},\mathbb{Z},\mathbb{Q},\mathbb{R}$ ✅ 2026-11-13
+- [x] [[02_Logica]] — connettivi, quantificatori, negazioni ✅ 2026-11-13
+- [x] [[03_Dimostrazioni]] — panoramica delle tecniche ✅ 2026-11-13
+- [x] [[04_Dimostrazione_per_Assurdo]] — irrazionalità di $\sqrt2$ (D1) ✅ 2026-11-13
+- [x] [[05_Dimostrazione_per_Induzione]] — principio di induzione, Bernoulli (D2) ✅ 2026-11-13
 
 ---
 
@@ -98,13 +98,13 @@ flowchart TD
 > [!question] Checkpoint
 > Dato $A=\{1-\tfrac1n\}$, sai calcolare $\sup A$ e dire se è massimo? Sai risolvere disequazioni con modulo?
 
-- [ ] [[06_Campi_Ordinati]] — assiomi di campo ordinato
+- [x] [[06_Campi_Ordinati]] — assiomi di campo ordinato ✅ 2026-11-13
 - [ ] [[07_Insiemi_Limitati_Max_Min]] — maggioranti, minoranti, max, min
 - [ ] [[08_Estremo_Superiore_Inferiore]] — sup, inf, completezza
 - [ ] [[09_Valore_Assoluto]] — modulo, disuguaglianza triangolare
 - [ ] [[10_Retta_Reale_Intervalli]] — retta reale e intervalli
-- [ ] [[11_Radici_e_Potenze]] — potenze e radici
-- [ ] [[12_Logaritmi]] — logaritmi e proprietà
+- [x] [[11_Radici_e_Potenze]] — potenze e radici ✅ 2026-11-13
+- [x] [[12_Logaritmi]] — logaritmi e proprietà ✅ 2026-11-13
 
 ---
 
@@ -123,9 +123,9 @@ flowchart TD
 > [!question] Checkpoint
 > Sai calcolare $(1+i)^{10}$ e le radici cubiche di $-8$ senza formulario?
 
-- [ ] [[13_Numeri_Complessi]] — forma algebrica, operazioni
-- [ ] [[14_Piano_di_Argand_Gauss]] — interpretazione geometrica
-- [ ] [[15_Forma_Trigonometrica_Esponenziale]] — modulo, argomento, Eulero
+- [x] [[13_Numeri_Complessi]] — forma algebrica, operazioni ✅ 2026-11-13
+- [x] [[14_Piano_di_Argand_Gauss]] — interpretazione geometrica ✅ 2026-11-13
+- [x] [[15_Forma_Trigonometrica_Esponenziale]] — modulo, argomento, Eulero ✅ 2026-11-13
 - [ ] [[16_Formule_di_De_Moivre]] — prodotti e potenze (D3)
 - [ ] [[17_Radici_Complesse]] — radici $n$-esime (D4)
 - [ ] [[18_Equazioni_in_C]] — equazioni in $\mathbb{C}$
@@ -147,16 +147,16 @@ flowchart TD
 > [!question] Checkpoint
 > Sai trovare il campo di esistenza di $\log(\sqrt{x}-1)$ e dire se $f(x)=x^2$ è invertibile su $\mathbb{R}$ e su $[0,+\infty)$?
 
-- [ ] [[19_Funzioni_Generalità]] — concetto di funzione, immagine, controimmagine
-- [ ] [[20_Funzioni_Limitate_Estremi]] — limitatezza, estremi di una funzione
-- [ ] [[21_Campo_di_Esistenza]] — dominio naturale
-- [ ] [[22_Funzioni_Pari_Dispari]] — simmetrie del grafico
-- [ ] [[23_Monotonia]] — crescente/decrescente
-- [ ] [[24_Funzioni_Periodiche]] — periodicità
-- [ ] [[25_Composizione_di_Funzioni]] — $g\circ f$
-- [ ] [[26_Iniettivita_Suriettivita_Inversa]] — funzione inversa
-- [ ] [[27_Teorema_Monotone_Invertibili]] — monotone ⇒ invertibili
-- [ ] [[28_Esempi_Funzioni_Inverse]] — esempi e grafici
+- [x] [[19_Funzioni_Generalità]] — concetto di funzione, immagine, controimmagine ✅ 2026-11-13
+- [x] [[20_Funzioni_Limitate_Estremi]] — limitatezza, estremi di una funzione ✅ 2026-11-13
+- [x] [[21_Campo_di_Esistenza]] — dominio naturale ✅ 2026-11-13
+- [x] [[22_Funzioni_Pari_Dispari]] — simmetrie del grafico ✅ 2026-11-13
+- [x] [[23_Monotonia]] — crescente/decrescente ✅ 2026-11-13
+- [x] [[24_Funzioni_Periodiche]] — periodicità ✅ 2026-11-13
+- [x] [[25_Composizione_di_Funzioni]] — $g\circ f$ ✅ 2026-11-13
+- [x] [[26_Iniettivita_Suriettivita_Inversa]] — funzione inversa ✅ 2026-11-13
+- [x] [[27_Teorema_Monotone_Invertibili]] — monotone ⇒ invertibili ✅ 2026-11-13
+- [x] [[28_Esempi_Funzioni_Inverse]] — esempi e grafici ✅ 2026-11-13
 
 ---
 
@@ -192,10 +192,10 @@ flowchart TD
 > - Il numero $e=\lim(1+\tfrac1n)^n$ e perché esiste (monotonia + Bernoulli).
 > - Criterio del rapporto per successioni.
 
-- [ ] [[36_Gerarchia_degli_Infiniti]] — confronto tra infiniti
-- [ ] [[37_Algebra_Limiti_Infiniti]] — forme indeterminate
-- [ ] [[38_Numero_di_Nepero]] — $e$
-- [ ] [[39_Criterio_del_Rapporto]] — rapporto per successioni
+- [x] [[36_Gerarchia_degli_Infiniti]] — confronto tra infiniti ✅ 2026-11-13
+- [x] [[37_Algebra_Limiti_Infiniti]] — forme indeterminate ✅ 2026-11-13
+- [x] [[38_Numero_di_Nepero]] — $e$ ✅ 2026-11-13
+- [x] [[39_Criterio_del_Rapporto]] — rapporto per successioni ✅ 2026-11-13
 
 ### 5.3 · Confronti asintotici
 

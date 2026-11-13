@@ -4410,17 +4410,25 @@
       },
       {
         "date": "2026-11-13",
-        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
-        "wordCountStart": 535,
-        "charCountStart": 3757,
+        "filePath": "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
+        "wordCountStart": 2903,
+        "charCountStart": 27836,
         "changes": [
           {
-            "timeKey": "14:25",
+            "timeKey": "19:50",
             "w": 0,
             "c": 0
           }
         ],
         "id": 426
+      },
+      {
+        "date": "2026-11-13",
+        "filePath": "00_Claude_Workspace/Guida_Studio_GAL.md",
+        "wordCountStart": 2048,
+        "charCountStart": 21970,
+        "changes": [],
+        "id": 427
       }
     ]
   }
