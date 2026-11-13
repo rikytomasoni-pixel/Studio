@@ -4453,6 +4453,22 @@
         "charCountStart": 1877,
         "changes": [],
         "id": 430
+      },
+      {
+        "date": "2026-11-13",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/85_Teorema_di_Unicita_del_Limite.md",
+        "wordCountStart": 161,
+        "charCountStart": 1188,
+        "changes": [],
+        "id": 431
+      },
+      {
+        "date": "2026-11-13",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/86_Definizione_Topologica_di_Limite.md",
+        "wordCountStart": 468,
+        "charCountStart": 3336,
+        "changes": [],
+        "id": 432
       }
     ]
   }

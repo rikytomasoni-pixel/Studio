@@ -321,8 +321,8 @@ flowchart TD
 
 - [x] [[82_Intorni_di_un_Punto_e_di_Infinito]] — intorni ✅ 2026-11-13
 - [x] [[83_Punti_di_Accumulazione]] — punti di accumulazione ✅ 2026-11-13
-- [ ] [[84_Definizione_Successionale_di_Limite]] — def. successionale
-- [ ] [[85_Teorema_di_Unicita_del_Limite]] — unicità
+- [x] [[84_Definizione_Successionale_di_Limite]] — def. successionale ✅ 2026-11-13
+- [x] [[85_Teorema_di_Unicita_del_Limite]] — unicità ✅ 2026-11-13
 - [ ] [[86_Definizione_Topologica_di_Limite]] — def. topologica
 - [ ] [[87_Definizioni_Metriche_di_Limite_all_Infinito]] — def. metriche
 - [ ] [[88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto]] — asintoto orizzontale
