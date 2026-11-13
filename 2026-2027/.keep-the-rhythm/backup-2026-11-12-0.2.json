@@ -78,7 +78,9 @@
     "highestStreak": 0,
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
-    "daysWithCompletedGoal": [],
+    "daysWithCompletedGoal": [
+      "2026-11-09"
+    ],
     "dailyActivity": [
       {
         "date": "2026-10-21",
@@ -3426,6 +3428,985 @@
           }
         ],
         "id": 356
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
+        "wordCountStart": 91,
+        "charCountStart": 778,
+        "changes": [],
+        "id": 357
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/22_Operazioni_tra_Vettori.md",
+        "wordCountStart": 317,
+        "charCountStart": 2415,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 358
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
+        "wordCountStart": 351,
+        "charCountStart": 2643,
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": -50,
+            "c": -285
+          }
+        ],
+        "id": 359
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/120_Spazi_Vettoriali_Finitamente_Generati_e_Non.md",
+        "wordCountStart": 171,
+        "charCountStart": 1518,
+        "changes": [],
+        "id": 360
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/121_Basi_Canoniche.md",
+        "wordCountStart": 347,
+        "charCountStart": 2250,
+        "changes": [],
+        "id": 361
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/122_Estrazione_e_Completamento_Due_Problemi_Classici.md",
+        "wordCountStart": 180,
+        "charCountStart": 1626,
+        "changes": [],
+        "id": 362
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/16_Indice_Lezione_15.md",
+        "wordCountStart": 148,
+        "charCountStart": 1824,
+        "changes": [],
+        "id": 363
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/117_Lemma_Fondamentale_Teorema_15_1.md",
+        "wordCountStart": 504,
+        "charCountStart": 3658,
+        "changes": [],
+        "id": 364
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/123_Base_per_Costruzione_Libera_con_il_MEG_sulle_Righe.md",
+        "wordCountStart": 509,
+        "charCountStart": 3306,
+        "changes": [],
+        "id": 365
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/124_Estrazione_di_una_Base_con_i_Pivot_delle_Colonne.md",
+        "wordCountStart": 528,
+        "charCountStart": 3334,
+        "changes": [],
+        "id": 366
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/125_Completamento_ad_una_Base.md",
+        "wordCountStart": 350,
+        "charCountStart": 2372,
+        "changes": [],
+        "id": 367
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/126_Fac_simile_28_10_Esercizio_su_Sottospazi_Dimensione_e_Basi.md",
+        "wordCountStart": 341,
+        "charCountStart": 2423,
+        "changes": [],
+        "id": 368
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W.md",
+        "wordCountStart": 556,
+        "charCountStart": 3292,
+        "changes": [],
+        "id": 369
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "00_Claude_Workspace/Recap_2026-11-07_AM1_L14-L16_GAL_L16-L17.md",
+        "wordCountStart": 888,
+        "charCountStart": 9051,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": -888,
+            "c": -9051
+          }
+        ],
+        "id": 370
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
+        "wordCountStart": 255,
+        "charCountStart": 1916,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": -37,
+            "c": -236
+          },
+          {
+            "timeKey": "14:30",
+            "w": -32,
+            "c": -186
+          }
+        ],
+        "id": 371
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "99_Tools/Excalidraw/Disegni Analisi1.md",
+        "wordCountStart": 6798,
+        "charCountStart": 234290,
+        "changes": [],
+        "id": 372
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
+        "wordCountStart": 478,
+        "charCountStart": 3268,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": -45,
+            "c": -246
+          }
+        ],
+        "id": 373
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/92_Limite_Finito_in_un_Punto_Finito.md",
+        "wordCountStart": 278,
+        "charCountStart": 2093,
+        "changes": [
+          {
+            "timeKey": "14:30",
+            "w": -43,
+            "c": -273
+          },
+          {
+            "timeKey": "14:35",
+            "w": -2,
+            "c": -9
+          }
+        ],
+        "id": 374
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/10_Continuita/97_Discontinuita_di_Prima_Specie_a_Salto.md",
+        "wordCountStart": 304,
+        "charCountStart": 2109,
+        "changes": [
+          {
+            "timeKey": "14:35",
+            "w": -32,
+            "c": -182
+          },
+          {
+            "timeKey": "14:40",
+            "w": -23,
+            "c": -116
+          }
+        ],
+        "id": 375
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/10_Continuita/98_Discontinuita_di_Seconda_Specie.md",
+        "wordCountStart": 388,
+        "charCountStart": 2550,
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": -40,
+            "c": -212
+          },
+          {
+            "timeKey": "14:45",
+            "w": -14,
+            "c": -84
+          },
+          {
+            "timeKey": "14:50",
+            "w": -88,
+            "c": -468
+          }
+        ],
+        "id": 376
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
+        "wordCountStart": 189,
+        "charCountStart": 1356,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": -37,
+            "c": -185
+          }
+        ],
+        "id": 377
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/110_Grafici_Locali_e_Grafici_Probabili.md",
+        "wordCountStart": 413,
+        "charCountStart": 2585,
+        "changes": [
+          {
+            "timeKey": "14:50",
+            "w": -43,
+            "c": -232
+          },
+          {
+            "timeKey": "14:55",
+            "w": -88,
+            "c": -541
+          }
+        ],
+        "id": 378
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/115_Teorema_sui_Limiti_di_Funzioni_Monotone.md",
+        "wordCountStart": 381,
+        "charCountStart": 2416,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": -55,
+            "c": -321
+          }
+        ],
+        "id": 379
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/10_Continuita/116_Continuita_e_Invertibilita.md",
+        "wordCountStart": 251,
+        "charCountStart": 1867,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": -44,
+            "c": -266
+          },
+          {
+            "timeKey": "15:00",
+            "w": 1,
+            "c": 38
+          }
+        ],
+        "id": 380
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/10_Continuita/117_Continuita_delle_Funzioni_Elementari.md",
+        "wordCountStart": 464,
+        "charCountStart": 3005,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": -48,
+            "c": -295
+          }
+        ],
+        "id": 381
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/131_Spazio_delle_Righe_e_delle_Colonne.md",
+        "wordCountStart": 569,
+        "charCountStart": 3814,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": -5,
+            "c": -30
+          }
+        ],
+        "id": 382
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione/132_Significato_della_Dimensione_Seconda_Parte.md",
+        "wordCountStart": 232,
+        "charCountStart": 1872,
+        "changes": [
+          {
+            "timeKey": "15:00",
+            "w": 4,
+            "c": 61
+          },
+          {
+            "timeKey": "15:05",
+            "w": -38,
+            "c": -242
+          }
+        ],
+        "id": 383
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann/134_Unione_di_Sottospazi_e_Sottospazio_Somma.md",
+        "wordCountStart": 395,
+        "charCountStart": 2824,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": -56,
+            "c": -340
+          }
+        ],
+        "id": 384
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann/135_Formula_di_Grassmann_Teorema_16_3.md",
+        "wordCountStart": 777,
+        "charCountStart": 5269,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": -54,
+            "c": -332
+          }
+        ],
+        "id": 385
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/138_Derivata_come_Applicazione_Lineare.md",
+        "wordCountStart": 304,
+        "charCountStart": 2004,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": -31,
+            "c": -233
+          }
+        ],
+        "id": 386
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/137_Esempi_di_Applicazioni_Lineari_Matrici_Trasposizione_Traccia.md",
+        "wordCountStart": 435,
+        "charCountStart": 2851,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": -18,
+            "c": -110
+          }
+        ],
+        "id": 387
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/00_MOC_Analisi_1.md",
+        "wordCountStart": 364,
+        "charCountStart": 12003,
+        "changes": [],
+        "id": 388
+      },
+      {
+        "date": "2026-11-07",
+        "filePath": "10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue/112_Teorema_di_Weierstrass.md",
+        "wordCountStart": 821,
+        "charCountStart": 4757,
+        "changes": [],
+        "id": 389
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "00_Claude_Workspace/ciao Hassan.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 390
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
+        "wordCountStart": 95,
+        "charCountStart": 783,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 391
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
+        "wordCountStart": 206,
+        "charCountStart": 1565,
+        "changes": [
+          {
+            "timeKey": "13:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:30",
+            "w": 40,
+            "c": 215
+          },
+          {
+            "timeKey": "13:35",
+            "w": 3,
+            "c": 10
+          },
+          {
+            "timeKey": "13:40",
+            "w": 28,
+            "c": 167
+          },
+          {
+            "timeKey": "13:45",
+            "w": 36,
+            "c": 227
+          },
+          {
+            "timeKey": "13:50",
+            "w": 52,
+            "c": 304
+          },
+          {
+            "timeKey": "13:55",
+            "w": 12,
+            "c": 55
+          },
+          {
+            "timeKey": "14:00",
+            "w": 18,
+            "c": 101
+          },
+          {
+            "timeKey": "14:15",
+            "w": 1,
+            "c": 40
+          },
+          {
+            "timeKey": "14:25",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 392
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/18_Switch.md",
+        "wordCountStart": 141,
+        "charCountStart": 1271,
+        "changes": [],
+        "id": 393
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/11_Operazioni_sulle_Stringhe.md",
+        "wordCountStart": 192,
+        "charCountStart": 1369,
+        "changes": [],
+        "id": 394
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/22_Puntatori_a_Array.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:15",
+            "w": 43,
+            "c": 366
+          },
+          {
+            "timeKey": "14:20",
+            "w": 38,
+            "c": 211
+          },
+          {
+            "timeKey": "14:25",
+            "w": 18,
+            "c": 196
+          },
+          {
+            "timeKey": "14:30",
+            "w": 17,
+            "c": 91
+          },
+          {
+            "timeKey": "14:35",
+            "w": 27,
+            "c": 163
+          },
+          {
+            "timeKey": "14:40",
+            "w": 55,
+            "c": 295
+          },
+          {
+            "timeKey": "14:45",
+            "w": -2,
+            "c": -15
+          }
+        ],
+        "id": 395
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
+        "wordCountStart": 184,
+        "charCountStart": 1514,
+        "changes": [
+          {
+            "timeKey": "14:25",
+            "w": 2,
+            "c": 12
+          }
+        ],
+        "id": 396
+      },
+      {
+        "date": "2026-11-09",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/23_Puntatori_a_Strutture.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 47,
+            "c": 487
+          },
+          {
+            "timeKey": "14:50",
+            "w": 34,
+            "c": 266
+          },
+          {
+            "timeKey": "14:55",
+            "w": 48,
+            "c": 307
+          },
+          {
+            "timeKey": "15:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 397
+      },
+      {
+        "date": "2026-11-11",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/21_Regole_di_Visibilità.md",
+        "wordCountStart": 101,
+        "charCountStart": 861,
+        "changes": [],
+        "id": 398
+      },
+      {
+        "date": "2026-11-11",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/23_Puntatori_a_Strutture.md",
+        "wordCountStart": 144,
+        "charCountStart": 1231,
+        "changes": [
+          {
+            "timeKey": "08:35",
+            "w": 2,
+            "c": 20
+          }
+        ],
+        "id": 399
+      },
+      {
+        "date": "2026-11-11",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/24_Ricorsione.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "08:45",
+            "w": 20,
+            "c": 193
+          },
+          {
+            "timeKey": "08:55",
+            "w": 24,
+            "c": 195
+          },
+          {
+            "timeKey": "09:00",
+            "w": 13,
+            "c": 101
+          },
+          {
+            "timeKey": "09:15",
+            "w": 30,
+            "c": 207
+          },
+          {
+            "timeKey": "09:20",
+            "w": 32,
+            "c": 186
+          },
+          {
+            "timeKey": "09:25",
+            "w": -20,
+            "c": -118
+          },
+          {
+            "timeKey": "09:30",
+            "w": -2,
+            "c": -14
+          },
+          {
+            "timeKey": "09:35",
+            "w": 24,
+            "c": 210
+          },
+          {
+            "timeKey": "09:40",
+            "w": 16,
+            "c": 91
+          },
+          {
+            "timeKey": "09:45",
+            "w": 10,
+            "c": 58
+          },
+          {
+            "timeKey": "10:00",
+            "w": 36,
+            "c": 228
+          },
+          {
+            "timeKey": "10:05",
+            "w": 58,
+            "c": 641
+          }
+        ],
+        "id": 400
+      },
+      {
+        "date": "2026-11-11",
+        "filePath": "99_Tools/Excalidraw/Disegni FI.md",
+        "wordCountStart": 903,
+        "charCountStart": 30074,
+        "changes": [],
+        "id": 401
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/24_Ricorsione.md",
+        "wordCountStart": 241,
+        "charCountStart": 1978,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 402
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "00_Claude_Workspace/Recap_2026-11-12_GAL_L19-L20.md",
+        "wordCountStart": 357,
+        "charCountStart": 3518,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": -357,
+            "c": -3518
+          }
+        ],
+        "id": 403
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/155_Teorema_20_3_Teorema_della_Fibra.md",
+        "wordCountStart": 452,
+        "charCountStart": 3109,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": -38,
+            "c": -228
+          }
+        ],
+        "id": 404
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati.md",
+        "wordCountStart": 393,
+        "charCountStart": 2957,
+        "changes": [
+          {
+            "timeKey": "15:30",
+            "w": -87,
+            "c": -570
+          }
+        ],
+        "id": 405
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/156_Isomorfismi_Definizione_20_4_e_Conservazione_delle_Basi.md",
+        "wordCountStart": 134,
+        "charCountStart": 1392,
+        "changes": [],
+        "id": 406
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/138_Derivata_come_Applicazione_Lineare.md",
+        "wordCountStart": 273,
+        "charCountStart": 1771,
+        "changes": [],
+        "id": 407
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/139_Proprieta_delle_Applicazioni_Lineari.md",
+        "wordCountStart": 236,
+        "charCountStart": 1857,
+        "changes": [],
+        "id": 408
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/140_Esempi_e_Controesempi_di_Applicazioni_Lineari.md",
+        "wordCountStart": 309,
+        "charCountStart": 2108,
+        "changes": [],
+        "id": 409
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/141_Composizione_e_Inversione_di_Applicazioni_Lineari.md",
+        "wordCountStart": 314,
+        "charCountStart": 2455,
+        "changes": [],
+        "id": 410
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/142_Come_Definire_una_Applicazione_Lineare_Proposizione_17_2.md",
+        "wordCountStart": 315,
+        "charCountStart": 2664,
+        "changes": [],
+        "id": 411
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/143_Esempio_Applicazione_Lineare_da_Polinomi_a_Matrici.md",
+        "wordCountStart": 434,
+        "charCountStart": 2765,
+        "changes": [],
+        "id": 412
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/146_Immagine_e_Controimmagine_di_Sottospazi_Vettoriali.md",
+        "wordCountStart": 216,
+        "charCountStart": 1777,
+        "changes": [],
+        "id": 413
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/147_Immagine_di_una_Applicazione_Lineare_e_Suriettivita.md",
+        "wordCountStart": 91,
+        "charCountStart": 936,
+        "changes": [],
+        "id": 414
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/148_Proposizione_19_1_Immagine_dei_Generatori.md",
+        "wordCountStart": 274,
+        "charCountStart": 2083,
+        "changes": [
+          {
+            "timeKey": "15:35",
+            "w": -22,
+            "c": -156
+          }
+        ],
+        "id": 415
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari/160_Paradigma_Rappresentare_una_Applicazione_Lineare_con_una_Matrice.md",
+        "wordCountStart": 167,
+        "charCountStart": 1491,
+        "changes": [],
+        "id": 416
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "00_Claude_Workspace/Recap_2026-11-12_AM1_L17.md",
+        "wordCountStart": 579,
+        "charCountStart": 4610,
+        "changes": [],
+        "id": 417
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
+        "wordCountStart": 439,
+        "charCountStart": 3155,
+        "changes": [],
+        "id": 418
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/108_Limiti_Notevoli_di_Funzioni.md",
+        "wordCountStart": 491,
+        "charCountStart": 3416,
+        "changes": [],
+        "id": 419
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/119_Dimostrazione_del_Limite_Notevole_sin_x_su_x.md",
+        "wordCountStart": 512,
+        "charCountStart": 3530,
+        "changes": [
+          {
+            "timeKey": "15:50",
+            "w": -56,
+            "c": -334
+          },
+          {
+            "timeKey": "15:55",
+            "w": -62,
+            "c": -445
+          }
+        ],
+        "id": 420
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/12_Derivate/121_Problemi_Motivanti_delle_Derivate.md",
+        "wordCountStart": 408,
+        "charCountStart": 2749,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": -83,
+            "c": -477
+          },
+          {
+            "timeKey": "16:00",
+            "w": -29,
+            "c": -159
+          }
+        ],
+        "id": 421
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/12_Derivate/122_Rapporto_Incrementale_e_Derivata_in_un_Punto.md",
+        "wordCountStart": 566,
+        "charCountStart": 3527,
+        "changes": [
+          {
+            "timeKey": "16:05",
+            "w": -51,
+            "c": -269
+          }
+        ],
+        "id": 422
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "99_Tools/Excalidraw/Disegni Analisi1.md",
+        "wordCountStart": 7119,
+        "charCountStart": 246030,
+        "changes": [],
+        "id": 423
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/12_Derivate/125_Derivata_Infinita_e_Tangente_Verticale.md",
+        "wordCountStart": 308,
+        "charCountStart": 1993,
+        "changes": [
+          {
+            "timeKey": "16:10",
+            "w": -59,
+            "c": -351
+          }
+        ],
+        "id": 424
+      },
+      {
+        "date": "2026-11-12",
+        "filePath": "10_Analisi_1/12_Derivate/130_Classificazione_dei_Punti_di_Non_Derivabilita.md",
+        "wordCountStart": 598,
+        "charCountStart": 3758,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": -23,
+            "c": -130
+          },
+          {
+            "timeKey": "16:20",
+            "w": -108,
+            "c": -654
+          },
+          {
+            "timeKey": "16:25",
+            "w": -2,
+            "c": -11
+          }
+        ],
+        "id": 425
       }
     ]
   }

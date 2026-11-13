@@ -16,6 +16,7 @@ fonte: "AM1 L17 26-27.pdf (pag. 25-29)"
 Sia $f:(a,b)\subseteq\mathbb{R}\to\mathbb{R}$, $x_0\in(a,b)$, $f$ **continua** in $x_0$. Si usano le derivate destra e sinistra di [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]].
 
 ## Punto angoloso
+
 > [!abstract] Definizione — punto angoloso
 > Se esistono **finiti**
 > $$f'_+(x_0)=\lim_{h\to0^+}\frac{f(x_0+h)-f(x_0)}{h}\in\mathbb{R}\qquad f'_-(x_0)=\lim_{h\to0^-}\frac{f(x_0+h)-f(x_0)}{h}\in\mathbb{R}$$
@@ -26,6 +27,7 @@ Esempio: $f(x)=|x|$, $x_0=0$: $1=f'_+(0)\neq f'_-(0)=-1$.
 ![[graphAbs.png]]
 
 ## Flesso a tangente verticale
+
 > [!abstract] Definizione — flesso a tangente verticale
 > Se esiste infinito
 > $$f'(x_0)=\lim_{h\to0}\frac{f(x_0+h)-f(x_0)}{h}=\pm\infty$$
@@ -38,6 +40,7 @@ $$f'(0)=\lim_{h\to0}\frac{h^{1/3}}h=\lim_{h\to0}\frac1{h^{2/3}}=+\infty$$
 con $f$ continua in $\mathbb{R}$ (vedi [[125_Derivata_Infinita_e_Tangente_Verticale]]).
 
 ## Cuspide
+
 > [!abstract] Definizione — cuspide
 > Se esistono infiniti e **discordi** in segno
 > $$f'_+(x_0)=\lim_{h\to0^+}\frac{f(x_0+h)-f(x_0)}{h}=\pm\infty\qquad f'_-(x_0)=\lim_{h\to0^-}\frac{f(x_0+h)-f(x_0)}{h}=\mp\infty$$
@@ -59,7 +62,7 @@ $$\lim_{x\to0}x\sin\frac1x=0=f(0)\quad(\text{infinitesima per limitata})$$
 Ma $f$ non è derivabile in $x_0=0$:
 $$\lim_{h\to0^\pm}\frac{f(h)-f(0)}h=\lim_{h\to0^\pm}\sin\frac1h\overset{t=\frac1h}{=}\lim_{t\to\pm\infty}\sin t\quad\nexists$$
 
-![[Pasted image 20261112162458.png]]
+![[graphXsin1suX.png]]
 
 ## Note collegate
 - [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]]
