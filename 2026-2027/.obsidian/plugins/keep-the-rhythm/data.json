@@ -4429,6 +4429,22 @@
         "charCountStart": 21970,
         "changes": [],
         "id": 427
+      },
+      {
+        "date": "2026-11-13",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/82_Intorni_di_un_Punto_e_di_Infinito.md",
+        "wordCountStart": 166,
+        "charCountStart": 1371,
+        "changes": [],
+        "id": 428
+      },
+      {
+        "date": "2026-11-13",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/83_Punti_di_Accumulazione.md",
+        "wordCountStart": 172,
+        "charCountStart": 1427,
+        "changes": [],
+        "id": 429
       }
     ]
   }
