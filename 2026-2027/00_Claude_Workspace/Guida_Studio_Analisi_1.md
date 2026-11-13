@@ -325,7 +325,7 @@ flowchart TD
 - [x] [[85_Teorema_di_Unicita_del_Limite]] — unicità ✅ 2026-11-13
 - [x] [[86_Definizione_Topologica_di_Limite]] — def. topologica ✅ 2026-11-13
 - [x] [[87_Definizioni_Metriche_di_Limite_all_Infinito]] — def. metriche ✅ 2026-11-13
-- [ ] [[88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto]] — asintoto orizzontale
+- [x] [[88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto]] — asintoto orizzontale ✅ 2026-11-13
 - [ ] [[89_Asintoto_Obliquo]] — asintoto obliquo
 - [ ] [[90_Limite_Infinito_in_un_Punto_Finito]] — limite infinito in un punto
 - [ ] [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]] — destro/sinistro, asintoto verticale
