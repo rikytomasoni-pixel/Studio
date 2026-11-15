@@ -128,7 +128,7 @@ flowchart TD
 - [x] [[15_Forma_Trigonometrica_Esponenziale]] — modulo, argomento, Eulero ✅ 2026-11-13
 - [ ] [[16_Formule_di_De_Moivre]] — prodotti e potenze (D3)
 - [ ] [[17_Radici_Complesse]] — radici $n$-esime (D4)
-- [ ] [[18_Equazioni_in_C]] — equazioni in $\mathbb{C}$
+- [x] [[18_Equazioni_in_C]] — equazioni in $\mathbb{C}$ ✅ 2026-11-13
 
 ---
 
@@ -176,12 +176,12 @@ flowchart TD
 > [!question] Checkpoint
 > Sai verificare un limite con la definizione e dimostrare che una successione convergente è limitata?
 
-- [ ] [[29_Successioni_Definizioni_Base]] — successioni, grafico
+- [x] [[29_Successioni_Definizioni_Base]] — successioni, grafico ✅ 2026-11-13
 - [ ] [[30_Limiti_di_Successioni]] — definizione di limite, unicità (D5)
 - [ ] [[31_Successioni_Monotone]] — regolarità (D9)
 - [ ] [[32_Successione_Convergente_e_Limitata]] — (D6)
 - [ ] [[33_Teorema_Permanenza_del_Segno]] — (D7)
-- [ ] [[34_Algebra_dei_Limiti]] — somma, prodotto, quoziente
+- [x] [[34_Algebra_dei_Limiti]] — somma, prodotto, quoziente ✅ 2026-11-13
 - [ ] [[35_Teoremi_del_Confronto]] — carabinieri (D8)
 
 ### 5.2 · Infiniti, forme indeterminate, numero di Nepero
@@ -212,8 +212,8 @@ flowchart TD
 - [ ] [[41_o_piccolo_e_Asintotico]] — $o$-piccolo
 - [ ] [[42_Confronti_Asintotici_Proprieta_e_Notevoli]] — proprietà e notevoli
 - [ ] [[43_Asintotici_con_Funzioni_Composte]] — composizione con funzioni
-- [ ] [[44_Esempio_Asintotici_con_Logaritmo_e_Arctan]] — esempio guidato
-- [ ] [[45_Esercizio_Asintotici_Limite_21]] — esercizio
+- [x] [[44_Esempio_Asintotici_con_Logaritmo_e_Arctan]] — esempio guidato ✅ 2026-11-13
+- [x] [[45_Esercizio_Asintotici_Limite_21]] — esercizio ✅ 2026-11-13
 - [ ] [[46_Asintotici_Notevoli_e_Limiti_Notevoli]] — raccolta
 - [ ] [[68_Formula_di_Stirling]] — $n!\sim\sqrt{2\pi n}(n/e)^n$
 
@@ -236,7 +236,7 @@ flowchart TD
 
 - [ ] [[47_Serie_Introduzione_e_Somme_Parziali]] — definizione
 - [ ] [[48_Studio_del_Carattere_di_una_Serie]] — carattere
-- [ ] [[49_Esempi_Elementari_di_Serie]] — esempi
+- [x] [[49_Esempi_Elementari_di_Serie]] — esempi ✅ 2026-11-13
 - [ ] [[50_Serie_Geometrica]] — geometrica
 - [ ] [[51_Rappresentazione_Decimale_e_Serie]] — $0{,}\overline9=1$
 - [ ] [[52_Linearita_delle_Serie]] — linearità
@@ -264,20 +264,20 @@ flowchart TD
 
 - [ ] [[57_Serie_a_Termini_Positivi]] — regolarità
 - [ ] [[58_Criterio_del_Confronto_per_Serie]] — confronto (D11)
-- [ ] [[59_Esempio_Confronto_Serie_18_cos_n]] — esempio
+- [x] [[59_Esempio_Confronto_Serie_18_cos_n]] — esempio ✅ 2026-11-13
 - [ ] [[60_Serie_Armonica_Generalizzata]] — $\sum n^{-\alpha}$
 - [ ] [[61_Serie_di_Bertrand_Generalizzata]] — Bertrand
 - [ ] [[62_Criterio_del_Confronto_Asintotico_per_Serie]] — (D12)
-- [ ] [[63_Esempio_Confronto_Asintotico_con_Parametro]] — esempio con parametro
+- [x] [[63_Esempio_Confronto_Asintotico_con_Parametro]] — esempio con parametro ✅ 2026-11-13
 - [ ] [[81_Esempio_Confronto_Asintotico_con_Bertrand]] — esempio con Bertrand
 - [ ] [[64_Criterio_del_Rapporto_per_Serie]] — rapporto
 - [ ] [[69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie]] — dimostrazione (D13)
-- [ ] [[65_Criterio_della_Radice_per_Serie]] — radice
-- [ ] [[66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata]] — esempio
-- [ ] [[67_Esempio_Serie_n_Fattoriale_su_n_alla_n]] — esempio
-- [ ] [[70_Esempio_Serie_a_alla_n_su_n_alla_n]] — esempio
-- [ ] [[71_Esempio_Serie_n_alla_a_per_b_alla_n]] — esempio
-- [ ] [[72_Esempio_Serie_a_alla_n_per_log_n_alla_b]] — esempio
+- [x] [[65_Criterio_della_Radice_per_Serie]] — radice ✅ 2026-11-13
+- [x] [[66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata]] — esempio ✅ 2026-11-13
+- [x] [[67_Esempio_Serie_n_Fattoriale_su_n_alla_n]] — esempio ✅ 2026-11-13
+- [x] [[70_Esempio_Serie_a_alla_n_su_n_alla_n]] — esempio ✅ 2026-11-13
+- [x] [[71_Esempio_Serie_n_alla_a_per_b_alla_n]] — esempio ✅ 2026-11-13
+- [x] [[72_Esempio_Serie_a_alla_n_per_log_n_alla_b]] — esempio ✅ 2026-11-13
 
 ---
 

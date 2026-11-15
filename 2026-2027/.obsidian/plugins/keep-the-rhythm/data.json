@@ -4509,6 +4509,20 @@
         "charCountStart": 3160,
         "changes": [],
         "id": 437
+      },
+      {
+        "date": "2026-11-15",
+        "filePath": "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
+        "wordCountStart": 2947,
+        "charCountStart": 28408,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 438
       }
     ]
   }
