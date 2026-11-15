@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
+                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19_Sottoprogrammi_Funzioni"
+              "title": "20_Puntatori"
             }
           }
         ]
@@ -228,6 +228,7 @@
   },
   "active": "8db06798c8e48b66",
   "lastOpenFiles": [
+    "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
     "99_Tools/Excalidraw/Disegni FI.md",
     "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
@@ -265,7 +266,6 @@
     "10_Analisi_1/12_Derivate/131_Algebra_delle_Derivate.md",
     "10_Analisi_1/12_Derivate/129_Derivabilita_e_Continuita.md",
     "10_Analisi_1/12_Derivate/128_Derivate_delle_Funzioni_Elementari.md",
-    "10_Analisi_1/12_Derivate/127_Differenziabilita_e_Approssimazione_Lineare.md",
     "10_Analisi_1/12_Derivate",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261111 - LEZIONE 19.pdf",
