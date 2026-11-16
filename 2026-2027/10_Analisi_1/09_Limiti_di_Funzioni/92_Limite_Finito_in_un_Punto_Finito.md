@@ -18,7 +18,7 @@ Quarto caso delle [[87_Definizioni_Metriche_di_Limite_all_Infinito|definizioni m
 > $\forall\varepsilon>0\ \exists\delta>0$ tale che
 > $$\begin{cases}x\in(x_0-\delta,x_0+\delta)\\ x\neq x_0\end{cases}\ \Rightarrow\ f(x)\in(\ell-\varepsilon,\ell+\varepsilon)$$
 > cioè
-> $$x_0-\delta<x<x_0+\delta,\ x\neq x_0\ \Rightarrow\ \ell-\varepsilon<f(x)<\ell+\varepsilon\qquad\text{ovvero}\qquad 0<|x-x_0|<\delta\ \Rightarrow\ |f(x)-\ell|<\varepsilon$$
+> $$x_0-\delta<x<x_0+\delta,\ x\neq x_0\ \Rightarrow\ \ell-\varepsilon<f(x)<\ell+\varepsilon\text{  ovvero }0<|x-x_0|<\delta\ \Rightarrow\ |f(x)-\ell|<\varepsilon$$
 
 ![[LimiteFinitoFinito.png]]
 
