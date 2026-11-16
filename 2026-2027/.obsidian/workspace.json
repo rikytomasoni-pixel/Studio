@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/00_MOC_Analisi_1.md",
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_MOC_Analisi_1"
+              "title": "104_Cambio_di_Variabile_nei_Limiti"
             }
           }
         ]
@@ -228,8 +228,8 @@
   },
   "active": "c1ac43583687f29a",
   "lastOpenFiles": [
-    "10_Analisi_1/02_Numeri_Reali/10_Retta_Reale_Intervalli.md",
     "10_Analisi_1/00_MOC_Analisi_1.md",
+    "10_Analisi_1/02_Numeri_Reali/10_Retta_Reale_Intervalli.md",
     "10_Analisi_1/02_Numeri_Reali/08_Estremo_Superiore_Inferiore.md",
     "10_Analisi_1/02_Numeri_Reali/07_Insiemi_Limitati_Max_Min.md",
     "00_Claude_Workspace/00_MOC_Analisi_1_NUOVO.md",
