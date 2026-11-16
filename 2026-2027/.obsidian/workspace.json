@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
+                "file": "00_Claude_Workspace/00_MOC_Analisi_1_NUOVO.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "104_Cambio_di_Variabile_nei_Limiti"
+              "title": "00_MOC_Analisi_1_NUOVO"
             }
           }
         ]
@@ -228,6 +228,7 @@
   },
   "active": "789b83f56b838ae8",
   "lastOpenFiles": [
+    "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
     "00_Claude_Workspace/sedPGLdvx",
     "00_Claude_Workspace/00_MOC_FdI_NUOVO.md",
     "00_Claude_Workspace/sedcxdbBY",
@@ -273,7 +274,6 @@
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261111 - LEZIONE 19.pdf",
     "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf",
-    "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
     "Senza nome.canvas"
   ]
 }
