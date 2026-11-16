@@ -4563,6 +4563,28 @@
         "charCountStart": 52142,
         "changes": [],
         "id": 443
+      },
+      {
+        "date": "2026-11-16",
+        "filePath": "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
+        "wordCountStart": 2947,
+        "charCountStart": 28408,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 444
+      },
+      {
+        "date": "2026-11-16",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
+        "wordCountStart": 186,
+        "charCountStart": 1494,
+        "changes": [],
+        "id": 445
       }
     ]
   }

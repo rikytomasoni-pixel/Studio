@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9755447bebc34efe",
+        "id": "a47323e44b888cc9",
         "type": "tabs",
         "children": [
           {
-            "id": "8db06798c8e48b66",
+            "id": "789b83f56b838ae8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "99_Tools/Excalidraw/Disegni FI.md"
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Disegni FI"
+              "icon": "lucide-file",
+              "title": "90_Limite_Infinito_in_un_Punto_Finito"
             }
           }
         ]
@@ -224,13 +226,25 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "8db06798c8e48b66",
+  "active": "789b83f56b838ae8",
   "lastOpenFiles": [
+    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo.md",
+    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/142_Teorema_di_Lagrange.md",
+    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/141_Teorema_di_Rolle.md",
+    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/140_Test_di_Monotonia.md",
+    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/139_Ricerca_di_Massimi_e_Minimi_Assoluti_su_Intervallo_Chiuso.md",
+    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/138_Punti_Stazionari_e_Punti_Critici.md",
+    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/137_Teorema_di_Fermat.md",
+    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/136_Massimi_e_Minimi_Locali_e_Globali.md",
+    "10_Analisi_1/12_Derivate/135_Derivate_di_arctan_log_arcsin.md",
+    "10_Analisi_1/12_Derivate/134_Teorema_della_Derivata_della_Funzione_Inversa.md",
+    "10_Analisi_1/12_Derivate/133_Derivate_con_Valore_Assoluto_e_Segno.md",
+    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale",
+    "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
     "99_Tools/Excalidraw/Disegni FI.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/20_Puntatori.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/22_Puntatori_a_Array.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/19_Sottoprogrammi_Funzioni.md",
-    "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
@@ -241,29 +255,18 @@
     "10_Analisi_1/09_Limiti_di_Funzioni/84_Definizione_Successionale_di_Limite.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/82_Intorni_di_un_Punto_e_di_Infinito.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/83_Punti_di_Accumulazione.md",
-    "00_Claude_Workspace/Guida_Studio_GAL.md",
-    "10_Analisi_1/12_Derivate/130_Classificazione_dei_Punti_di_Non_Derivabilita.md",
-    "99_Tools/Excalidraw/Disegni Analisi1.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/graphXsin1suX.png",
     "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf",
     "99_Tools/Screenshots/Analisi1/Funzioni/Cuspidi.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/flessiVerticali.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/graphAbs.png",
-    "00_Claude_Workspace/Recap_2026-11-12_AM1_L17.md",
-    "10_Analisi_1/12_Derivate/125_Derivata_Infinita_e_Tangente_Verticale.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/sgnx.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/flessotgverticale.png",
-    "10_Analisi_1/12_Derivate/121_Problemi_Motivanti_delle_Derivate.md",
-    "10_Analisi_1/12_Derivate/122_Rapporto_Incrementale_e_Derivata_in_un_Punto.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/RapportoIncrementale 1.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/graphxsecondasin.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/tangenteAbs.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/rettaTangente.png",
     "90_Lezioni_pdf/A1/AM1 L17extra 26-27.pdf",
-    "10_Analisi_1/09_Limiti_di_Funzioni/119_Dimostrazione_del_Limite_Notevole_sin_x_su_x.md",
-    "10_Analisi_1/09_Limiti_di_Funzioni/108_Limiti_Notevoli_di_Funzioni.md",
-    "10_Analisi_1/12_Derivate/132_Regola_della_Catena.md",
-    "10_Analisi_1/12_Derivate/131_Algebra_delle_Derivate.md",
     "10_Analisi_1/12_Derivate",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261111 - LEZIONE 19.pdf",
@@ -271,7 +274,6 @@
     "90_Lezioni_pdf/A1/AM1 L15 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261105 - LEZIONE 17.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261104 - LEZIONE 16.pdf",
-    "90_Lezioni_pdf/A1/AM1 L14 26-27.pdf",
     "Senza nome.canvas"
   ]
 }
