@@ -32,6 +32,8 @@ $$y=0\cdot(x-0)+0=0$$
 - [[121_Problemi_Motivanti_delle_Derivate]]
 - [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]]
 - [[130_Classificazione_dei_Punti_di_Non_Derivabilita]]
+- [[133_Derivate_con_Valore_Assoluto_e_Segno]]
+- [[138_Punti_Stazionari_e_Punti_Critici]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate/esempi

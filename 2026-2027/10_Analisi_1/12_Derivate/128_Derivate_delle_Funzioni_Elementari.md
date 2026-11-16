@@ -39,6 +39,7 @@ $$f'(x)=\lim_{h\to0}\frac{e^{x+h}-e^x}{h}=\lim_{h\to0}\underbrace{e^x}_{\in\math
 - [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]]
 - [[131_Algebra_delle_Derivate]]
 - [[132_Regola_della_Catena]]
+- [[135_Derivate_di_arctan_log_arcsin]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate/funzioni-elementari

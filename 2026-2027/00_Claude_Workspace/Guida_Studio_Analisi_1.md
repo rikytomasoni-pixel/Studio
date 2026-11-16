@@ -54,7 +54,7 @@ flowchart TD
     classDef fatto fill:#c8e6c9,stroke:#2e7d32,color:#000
     classDef corso fill:#fff3cd,stroke:#b8860b,color:#000
     classDef futuro stroke-dasharray: 5 5
-    class B13,B14,B15 futuro
+    class B14,B15 futuro
     %% class B1,B2 fatto
     %% class B3 corso
 ```
@@ -327,7 +327,7 @@ flowchart TD
 - [ ] [[87_Definizioni_Metriche_di_Limite_all_Infinito]] — def. metriche
 - [x] [[88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto]] — asintoto orizzontale ✅ 2026-11-13
 - [x] [[89_Asintoto_Obliquo]] — asintoto obliquo ✅ 2026-11-13
-- [ ] [[90_Limite_Infinito_in_un_Punto_Finito]] — limite infinito in un punto
+- [x] [[90_Limite_Infinito_in_un_Punto_Finito]] — limite infinito in un punto ✅ 2026-11-16
 - [ ] [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]] — destro/sinistro, asintoto verticale
 - [ ] [[92_Limite_Finito_in_un_Punto_Finito]] — limite finito in un punto
 - [ ] [[99_Proprieta_Valida_Definitivamente]] — "definitivamente" per funzioni
@@ -444,10 +444,13 @@ flowchart TD
 - [ ] [[128_Derivate_delle_Funzioni_Elementari]] — derivate elementari
 - [ ] [[131_Algebra_delle_Derivate]] — algebra
 - [ ] [[132_Regola_della_Catena]] — catena
+- [ ] [[133_Derivate_con_Valore_Assoluto_e_Segno]] — derivate con modulo e sgn
+- [ ] [[134_Teorema_della_Derivata_della_Funzione_Inversa]] — derivata dell'inversa
+- [ ] [[135_Derivate_di_arctan_log_arcsin]] — arctan, log, arcsin
 
 ---
 
-## 13 · Teoremi del calcolo differenziale *(prossimamente)*
+## 13 · Teoremi del calcolo differenziale
 
 > [!abstract] Stai per affrontare
 > Dalla derivata alle sue conseguenze globali: derivata della funzione inversa, punti stazionari e i teoremi di Fermat, Rolle e Lagrange. Da qui si ricava il legame tra **segno della derivata e monotonia**.
@@ -460,14 +463,17 @@ flowchart TD
 > - Massimi e minimi assoluti di continue su $[a,b]$; derivabilità di funzioni definite a tratti.
 
 > [!info] Nota
-> Argomenti dal programma 25-26: non ancora presenti nel vault.
+> Lezione 18 (13-11-2026) integrata. Ancora da fare: derivabilità di funzioni definite a tratti. Le dimostrazioni di derivata dell'inversa e del test di monotonia non sono negli appunti.
 
-- [ ] Derivata della funzione inversa *(nota da creare)*
-- [ ] Punti stazionari ed estremi locali, Fermat (D20) *(nota da creare)*
-- [ ] Teorema di Rolle (D21) *(nota da creare)*
-- [ ] Teorema di Lagrange (D22) *(nota da creare)*
-- [ ] Test di monotonia e funzioni costanti (D23) *(nota da creare)*
-- [ ] Massimi e minimi assoluti su $[a,b]$ *(nota da creare)*
+- [ ] [[134_Teorema_della_Derivata_della_Funzione_Inversa]] — derivata della funzione inversa
+- [ ] [[136_Massimi_e_Minimi_Locali_e_Globali]] — estremi locali/globali
+- [ ] [[137_Teorema_di_Fermat]] — Fermat (D20)
+- [ ] [[138_Punti_Stazionari_e_Punti_Critici]] — punti stazionari
+- [ ] [[141_Teorema_di_Rolle]] — Rolle (D21)
+- [ ] [[142_Teorema_di_Lagrange]] — Lagrange (D22)
+- [ ] [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]] — funzioni costanti (D23)
+- [ ] [[140_Test_di_Monotonia]] — test di monotonia (D23, solo enunciato)
+- [ ] [[139_Ricerca_di_Massimi_e_Minimi_Assoluti_su_Intervallo_Chiuso]] — max/min assoluti su $[a,b]$
 
 ---
 
@@ -535,10 +541,10 @@ flowchart TD
 - [ ] **D17** Teorema di Weierstrass → [[112_Teorema_di_Weierstrass]]
 - [ ] **D18** Derivabilità ⇒ continuità → [[129_Derivabilita_e_Continuita]]
 - [ ] **D19** Derivabilità ⇔ differenziabilità → [[127_Differenziabilita_e_Approssimazione_Lineare]]
-- [ ] **D20** Teorema di Fermat *(nota da creare)*
-- [ ] **D21** Teorema di Rolle *(nota da creare)*
-- [ ] **D22** Teorema di Lagrange *(nota da creare)*
-- [ ] **D23** Test di monotonia e caratterizzazione delle costanti *(nota da creare)*
+- [ ] **D20** Teorema di Fermat → [[137_Teorema_di_Fermat]]
+- [ ] **D21** Teorema di Rolle → [[141_Teorema_di_Rolle]]
+- [ ] **D22** Teorema di Lagrange → [[142_Teorema_di_Lagrange]]
+- [ ] **D23** Test di monotonia e caratterizzazione delle costanti → [[140_Test_di_Monotonia]], [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]]
 - [ ] **D24** Formula di Taylor con resto di Peano *(nota da creare)*
 - [ ] **D25** Struttura dell'integrale indefinito *(nota da creare)*
 - [ ] **D26** Teorema della media integrale *(nota da creare)*

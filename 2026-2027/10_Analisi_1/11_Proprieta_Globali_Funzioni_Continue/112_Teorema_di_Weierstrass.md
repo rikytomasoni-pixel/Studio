@@ -67,6 +67,7 @@ Similmente si dimostra che esiste $x_m\in[a,b]$ tale che $f(x_m)=\displaystyle\m
 - [[08_Estremo_Superiore_Inferiore]]
 - [[31_Successioni_Monotone]]
 - [[100_Teorema_del_Confronto_per_Limiti_di_Funzioni]]
+- [[139_Ricerca_di_Massimi_e_Minimi_Assoluti_su_Intervallo_Chiuso]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/proprieta-globali/weierstrass

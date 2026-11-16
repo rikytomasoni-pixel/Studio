@@ -35,6 +35,7 @@ $$h'(x)=e^{\sin x\log x}\Big(\cos x\log x+\sin x\cdot\frac1x\Big)=x^{\sin x}\Big
 - [[105_Continuita_della_Funzione_Composta]]
 - [[25_Composizione_di_Funzioni]]
 - [[12_Logaritmi]]
+- [[134_Teorema_della_Derivata_della_Funzione_Inversa]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate/regola-della-catena

@@ -46,6 +46,8 @@ $$f'(x)=\frac{e^x-e^{-x}}2=\sinh x$$
 - [[132_Regola_della_Catena]]
 - [[102_Algebra_dei_Limiti_di_Funzioni]]
 - [[103_Algebra_delle_Funzioni_Continue]]
+- [[133_Derivate_con_Valore_Assoluto_e_Segno]]
+- [[142_Teorema_di_Lagrange]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate/algebra-delle-derivate

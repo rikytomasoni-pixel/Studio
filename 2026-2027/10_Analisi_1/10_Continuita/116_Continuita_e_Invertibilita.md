@@ -38,6 +38,7 @@ Abbiamo già visto ([[27_Teorema_Monotone_Invertibili]]) che se $f:I\subseteq\ma
 - [[113_Teorema_dei_Valori_Intermedi]]
 - [[115_Teorema_sui_Limiti_di_Funzioni_Monotone]]
 - [[117_Continuita_delle_Funzioni_Elementari]]
+- [[134_Teorema_della_Derivata_della_Funzione_Inversa]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/continuita/continuita-e-invertibilita

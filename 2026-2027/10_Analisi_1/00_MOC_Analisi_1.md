@@ -3,13 +3,13 @@ tags:
   - AM1
   - MOC
   - indice
-data: 2026-11-12
+data: 2026-11-16
 corso: Analisi Matematica 1
 ---
 
 # Analisi Matematica 1 — Indice Generale
 
-Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti` · `06_Serie` · `07_Serie_a_Termini_Positivi` · `08_Serie_a_Termini_di_Segno_Variabile` · `09_Limiti_di_Funzioni` · `10_Continuita` · `11_Proprieta_Globali_Funzioni_Continue` · `12_Derivate`
+Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Complessi` · `04_Funzioni` · `05_Successioni_e_Limiti` · `06_Serie` · `07_Serie_a_Termini_Positivi` · `08_Serie_a_Termini_di_Segno_Variabile` · `09_Limiti_di_Funzioni` · `10_Continuita` · `11_Proprieta_Globali_Funzioni_Continue` · `12_Derivate` · `13_Teoremi_del_Calcolo_Differenziale`
 
 ## Fondamenti: insiemi e logica
 - [[01_Insiemi_Numerici]]
@@ -166,6 +166,19 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 - [[130_Classificazione_dei_Punti_di_Non_Derivabilita]]
 - [[131_Algebra_delle_Derivate]]
 - [[132_Regola_della_Catena]]
+- [[133_Derivate_con_Valore_Assoluto_e_Segno]]
+- [[134_Teorema_della_Derivata_della_Funzione_Inversa]]
+- [[135_Derivate_di_arctan_log_arcsin]]
+
+## Teoremi del calcolo differenziale
+- [[136_Massimi_e_Minimi_Locali_e_Globali]]
+- [[137_Teorema_di_Fermat]]
+- [[138_Punti_Stazionari_e_Punti_Critici]]
+- [[139_Ricerca_di_Massimi_e_Minimi_Assoluti_su_Intervallo_Chiuso]]
+- [[140_Test_di_Monotonia]]
+- [[141_Teorema_di_Rolle]]
+- [[142_Teorema_di_Lagrange]]
+- [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]]
 
 ## Cronologia delle lezioni
 | Lezione   | Data       | Note principali                                                                                                                                                                                                                                        |
@@ -187,5 +200,6 @@ Struttura cartelle: `01_Insiemi_e_Logica` · `02_Numeri_Reali` · `03_Numeri_Com
 | Lezione 15 | 04-11-2026 | [[103_Algebra_delle_Funzioni_Continue]], [[104_Cambio_di_Variabile_nei_Limiti]], [[105_Continuita_della_Funzione_Composta]], [[106_Asintotico_e_o_piccolo_per_Funzioni]], [[107_Proprieta_degli_Asintotici_per_Funzioni]], [[108_Limiti_Notevoli_di_Funzioni]], [[109_Gerarchia_degli_Infiniti_per_Funzioni]], [[110_Grafici_Locali_e_Grafici_Probabili]], [[111_Teorema_degli_Zeri]], [[112_Teorema_di_Weierstrass]] (enunciato) |
 | Lezione 16 | 06-11-2026 | [[112_Teorema_di_Weierstrass]] (dimostrazione), [[113_Teorema_dei_Valori_Intermedi]], [[114_Immagine_di_una_Funzione_Continua_su_un_Intervallo_Chiuso]], [[115_Teorema_sui_Limiti_di_Funzioni_Monotone]], [[116_Continuita_e_Invertibilita]], [[117_Continuita_delle_Funzioni_Elementari]], [[118_Dimostrazione_dei_Limiti_Notevoli]] |
 | Lezione 17 | 11-11-2026 | [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]], [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]], [[121_Problemi_Motivanti_delle_Derivate]], [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]], [[123_Esempi_di_Derivata_e_Retta_Tangente]], [[124_Funzione_Derivata_e_Derivate_di_Ordine_Superiore]], [[125_Derivata_Infinita_e_Tangente_Verticale]], [[126_Interpretazione_della_Derivata_nelle_Applicazioni]], [[127_Differenziabilita_e_Approssimazione_Lineare]], [[128_Derivate_delle_Funzioni_Elementari]], [[129_Derivabilita_e_Continuita]], [[130_Classificazione_dei_Punti_di_Non_Derivabilita]], [[131_Algebra_delle_Derivate]], [[132_Regola_della_Catena]] |
+| Lezione 18 | 13-11-2026 | [[133_Derivate_con_Valore_Assoluto_e_Segno]], [[134_Teorema_della_Derivata_della_Funzione_Inversa]], [[135_Derivate_di_arctan_log_arcsin]], [[136_Massimi_e_Minimi_Locali_e_Globali]], [[137_Teorema_di_Fermat]], [[138_Punti_Stazionari_e_Punti_Critici]], [[139_Ricerca_di_Massimi_e_Minimi_Assoluti_su_Intervallo_Chiuso]], [[140_Test_di_Monotonia]], [[141_Teorema_di_Rolle]], [[142_Teorema_di_Lagrange]], [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]] |
 
 #AM1/moc

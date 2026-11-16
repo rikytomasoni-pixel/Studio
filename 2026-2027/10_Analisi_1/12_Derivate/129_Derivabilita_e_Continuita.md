@@ -32,6 +32,7 @@ $\Rightarrow\nexists f'(0)$ e $f$ non è derivabile in $x_0=0$.
 - [[123_Esempi_di_Derivata_e_Retta_Tangente]]
 - [[127_Differenziabilita_e_Approssimazione_Lineare]]
 - [[130_Classificazione_dei_Punti_di_Non_Derivabilita]]
+- [[137_Teorema_di_Fermat]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate/continuita
