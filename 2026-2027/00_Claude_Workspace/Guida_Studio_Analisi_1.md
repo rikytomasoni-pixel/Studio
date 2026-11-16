@@ -328,7 +328,7 @@ flowchart TD
 - [x] [[88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto]] — asintoto orizzontale ✅ 2026-11-13
 - [x] [[89_Asintoto_Obliquo]] — asintoto obliquo ✅ 2026-11-13
 - [x] [[90_Limite_Infinito_in_un_Punto_Finito]] — limite infinito in un punto ✅ 2026-11-16
-- [ ] [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]] — destro/sinistro, asintoto verticale
+- [x] [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]] — destro/sinistro, asintoto verticale ✅ 2026-11-16
 - [ ] [[92_Limite_Finito_in_un_Punto_Finito]] — limite finito in un punto
 - [ ] [[99_Proprieta_Valida_Definitivamente]] — "definitivamente" per funzioni
 
