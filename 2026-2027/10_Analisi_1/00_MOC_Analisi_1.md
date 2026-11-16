@@ -126,10 +126,10 @@ flowchart TD
 > Dato $A=\{1-\tfrac1n\}$, sai calcolare $\sup A$ e dire se è massimo? Sai risolvere disequazioni con modulo?
 
 - [x] [[06_Campi_Ordinati]] — assiomi di campo ordinato *(L2)* ✅ 2026-11-13
-- [ ] [[07_Insiemi_Limitati_Max_Min]] — maggioranti, minoranti, max, min *(L2)*
-- [ ] [[08_Estremo_Superiore_Inferiore]] — sup, inf, completezza *(L2)*
-- [ ] [[09_Valore_Assoluto]] — modulo, disuguaglianza triangolare *(L2)*
-- [ ] [[10_Retta_Reale_Intervalli]] — retta reale e intervalli *(L2)*
+- [x] [[07_Insiemi_Limitati_Max_Min]] — maggioranti, minoranti, max, min *(L2)* ✅ 2026-11-16
+- [x] [[08_Estremo_Superiore_Inferiore]] — sup, inf, completezza *(L2)* ✅ 2026-11-16
+- [x] [[09_Valore_Assoluto]] — modulo, disuguaglianza triangolare *(L2)* ✅ 2026-11-16
+- [x] [[10_Retta_Reale_Intervalli]] — retta reale e intervalli *(L2)* ✅ 2026-11-16
 - [x] [[11_Radici_e_Potenze]] — potenze e radici *(L2)* ✅ 2026-11-13
 - [x] [[12_Logaritmi]] — logaritmi e proprietà *(L3)* ✅ 2026-11-13
 
