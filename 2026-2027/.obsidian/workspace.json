@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/101_Teorema_di_Permanenza_del_Segno_per_Funzioni.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guida_Studio_Analisi_1"
+              "title": "101_Teorema_di_Permanenza_del_Segno_per_Funzioni"
             }
           }
         ]
@@ -228,8 +228,9 @@
   },
   "active": "789b83f56b838ae8",
   "lastOpenFiles": [
-    "10_Analisi_1/09_Limiti_di_Funzioni/99_Proprieta_Valida_Definitivamente.md",
     "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/100_Teorema_del_Confronto_per_Limiti_di_Funzioni.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/99_Proprieta_Valida_Definitivamente.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/92_Limite_Finito_in_un_Punto_Finito.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
@@ -255,7 +256,6 @@
     "10_Analisi_1/09_Limiti_di_Funzioni/89_Asintoto_Obliquo.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/86_Definizione_Topologica_di_Limite.md",
-    "10_Analisi_1/09_Limiti_di_Funzioni/85_Teorema_di_Unicita_del_Limite.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/graphXsin1suX.png",
     "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf",
     "99_Tools/Screenshots/Analisi1/Funzioni/Cuspidi.png",
