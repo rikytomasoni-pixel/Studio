@@ -4574,6 +4574,11 @@
             "timeKey": "11:30",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "12:25",
+            "w": -2947,
+            "c": -28408
           }
         ],
         "id": 444
@@ -4661,7 +4666,18 @@
         "filePath": "00_Claude_Workspace/00_MOC_Analisi_1_NUOVO.md",
         "wordCountStart": 3699,
         "charCountStart": 41290,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "12:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:25",
+            "w": -3699,
+            "c": -41290
+          }
+        ],
         "id": 454
       }
     ]

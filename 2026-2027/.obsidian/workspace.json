@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "789b83f56b838ae8",
+            "id": "c1ac43583687f29a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Claude_Workspace/00_MOC_Analisi_1_NUOVO.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00_MOC_Analisi_1_NUOVO"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -226,14 +222,14 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "789b83f56b838ae8",
+  "active": "c1ac43583687f29a",
   "lastOpenFiles": [
+    "00_Claude_Workspace/00_MOC_Analisi_1_NUOVO.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
     "00_Claude_Workspace/sedPGLdvx",
     "00_Claude_Workspace/00_MOC_FdI_NUOVO.md",
     "00_Claude_Workspace/sedcxdbBY",
     "00_Claude_Workspace/00_MOC_GAL_NUOVO.md",
-    "00_Claude_Workspace/00_MOC_Analisi_1_NUOVO.md",
     "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/102_Algebra_dei_Limiti_di_Funzioni.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/101_Teorema_di_Permanenza_del_Segno_per_Funzioni.md",

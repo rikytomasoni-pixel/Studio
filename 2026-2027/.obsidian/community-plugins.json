@@ -6,5 +6,6 @@
   "templater-obsidian",
   "obsidian-git",
   "keep-the-rhythm",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "dataview"
 ]
