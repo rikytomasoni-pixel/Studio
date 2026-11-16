@@ -339,8 +339,8 @@ flowchart TD
 > - **Cambio di variabile** nel limite.
 
 - [x] [[100_Teorema_del_Confronto_per_Limiti_di_Funzioni]] — confronto ✅ 2026-11-16
-- [ ] [[101_Teorema_di_Permanenza_del_Segno_per_Funzioni]] — permanenza del segno
-- [ ] [[102_Algebra_dei_Limiti_di_Funzioni]] — algebra dei limiti
+- [x] [[101_Teorema_di_Permanenza_del_Segno_per_Funzioni]] — permanenza del segno ✅ 2026-11-16
+- [x] [[102_Algebra_dei_Limiti_di_Funzioni]] — algebra dei limiti ✅ 2026-11-16
 - [ ] [[104_Cambio_di_Variabile_nei_Limiti]] — cambio di variabile
 
 ### 9.3 · Asintotici, limiti notevoli e grafici

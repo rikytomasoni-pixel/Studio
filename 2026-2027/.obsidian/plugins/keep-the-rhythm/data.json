@@ -4639,6 +4639,22 @@
         "charCountStart": 1264,
         "changes": [],
         "id": 451
+      },
+      {
+        "date": "2026-11-16",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/102_Algebra_dei_Limiti_di_Funzioni.md",
+        "wordCountStart": 251,
+        "charCountStart": 1716,
+        "changes": [],
+        "id": 452
+      },
+      {
+        "date": "2026-11-16",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
+        "wordCountStart": 152,
+        "charCountStart": 1171,
+        "changes": [],
+        "id": 453
       }
     ]
   }
