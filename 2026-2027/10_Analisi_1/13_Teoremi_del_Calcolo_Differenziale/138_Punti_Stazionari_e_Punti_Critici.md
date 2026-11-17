@@ -23,8 +23,7 @@ Per il [[137_Teorema_di_Fermat]], un punto di estremo in cui $f$ è derivabile �
 ## Esempio: $f(x)=x^3$ in $\mathbb{R}$
 $f'(x)=3x^2$ per ogni $x\in\mathbb{R}$ e $f'(0)=0$. Tuttavia $f$ è strettamente crescente in $\mathbb{R}$, quindi non ha né massimi né minimi.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> Pag. 11: grafico di $x^3$ (cubica crescente, con tangente orizzontale nell'origine). Da cercare a pag. 11.
+![[GraficoxCubo.png|303]]
 
 > [!note] Osservazione
 > Esistono funzioni derivabili che hanno punti stazionari che non sono né massimi, né minimi, né flessi a tangente orizzontale.

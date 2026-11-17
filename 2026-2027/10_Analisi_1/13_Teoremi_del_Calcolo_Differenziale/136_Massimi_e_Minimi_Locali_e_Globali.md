@@ -35,8 +35,7 @@ fonte: "AM1 L18 26-27.pdf (pag. 6-8)"
 
 **$f(x)=\begin{cases}x+1&x>0\\-x&x\le0\end{cases}$** ha minimo (globale stretto) in $x_0=0$ ed è discontinua in $x_0=0$.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> Pag. 8: grafico della funzione a tratti: semiretta decrescente per $x\le0$ che arriva a $f(0)=0$ (pallino pieno) e semiretta crescente per $x>0$ che parte da $(0,1)$ (pallino vuoto). Da cercare a pag. 8.
+![[funzioneconsalto.png]]
 
 ## Note collegate
 - [[137_Teorema_di_Fermat]]

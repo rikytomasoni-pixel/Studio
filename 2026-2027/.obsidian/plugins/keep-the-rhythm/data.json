@@ -4742,8 +4742,8 @@
         "changes": [
           {
             "timeKey": "10:50",
-            "w": -23,
-            "c": -134
+            "w": -63,
+            "c": -355
           }
         ],
         "id": 461
@@ -4755,6 +4755,25 @@
         "charCountStart": 256393,
         "changes": [],
         "id": 462
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/138_Punti_Stazionari_e_Punti_Critici.md",
+        "wordCountStart": 304,
+        "charCountStart": 1991,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": -20,
+            "c": -138
+          },
+          {
+            "timeKey": "10:55",
+            "w": 1,
+            "c": 14
+          }
+        ],
+        "id": 463
       }
     ]
   }
