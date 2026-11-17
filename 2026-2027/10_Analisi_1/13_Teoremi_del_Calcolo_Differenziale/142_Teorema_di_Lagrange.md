@@ -18,8 +18,7 @@ fonte: "AM1 L18 26-27.pdf (pag. 18-20)"
 
 **Nota.** $\dfrac{f(b)-f(a)}{b-a}$ è il coefficiente angolare della retta per $(b,f(b))$ e $(a,f(a))$: il teorema afferma che esiste un punto in cui la tangente è parallela a tale retta.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> Pag. 18: grafico di $f$ su $[a,b]$ con i punti $(a,f(a))$, $(b,f(b))$, la retta secante (in blu) e alcune tangenti parallele alla secante (in rosso). Da cercare a pag. 18.
+![[thmLagrange.png]]
 
 > [!note] Osservazioni
 > - Se si aggiunge l'ipotesi $f(b)=f(a)$ si ritrova il [[141_Teorema_di_Rolle]].

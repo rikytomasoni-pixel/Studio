@@ -95,16 +95,16 @@ flowchart TD
 > [!question] Checkpoint
 > Sai dire se una relazione data è di equivalenza e descriverne le classi? Sai scrivere la negazione di "$f$ è iniettiva"?
 
-- [ ] [[11_Prodotto_Cartesiano]] — prodotto cartesiano *(L0)*
-- [ ] [[19_Prodotto_Cartesiano_di_Piu_Insiemi]] — più insiemi *(L1)*
-- [ ] [[12_Relazione_Binaria]] — relazione binaria *(L0)*
-- [ ] [[13_Proprieta_Riflessiva_Simmetrica_Transitiva]] — proprietà *(L0)*
-- [ ] [[14_Relazione_di_Equivalenza]] — equivalenza e classi *(L0)*
-- [ ] [[15_Relazione_di_Ordine]] — ordine *(L1)*
-- [ ] [[16_Funzioni]] — funzioni *(L1)*
-- [ ] [[17_Excursus_Logico_Negazione_Implicazione]] — negazione di un'implicazione *(L1)*
-- [ ] [[18_Iniettivita_Suriettivita_Biettivita]] — iniettiva, suriettiva, biettiva *(L1)*
-- [ ] [[31_Il_Campo_F2]] — $\mathbb{F}_2$ *(L3)*
+- [x] [[11_Prodotto_Cartesiano]] — prodotto cartesiano *(L0)*
+- [x] [[19_Prodotto_Cartesiano_di_Piu_Insiemi]] — più insiemi *(L1)*
+- [x] [[12_Relazione_Binaria]] — relazione binaria *(L0)*
+- [x] [[13_Proprieta_Riflessiva_Simmetrica_Transitiva]] — proprietà *(L0)* ✅ 2026-11-17
+- [x] [[14_Relazione_di_Equivalenza]] — equivalenza e classi *(L0)* ✅ 2026-11-17
+- [x] [[15_Relazione_di_Ordine]] — ordine *(L1)* ✅ 2026-11-17
+- [x] [[16_Funzioni]] — funzioni *(L1)* ✅ 2026-11-17
+- [x] [[17_Excursus_Logico_Negazione_Implicazione]] — negazione di un'implicazione *(L1)* ✅ 2026-11-17
+- [x] [[18_Iniettivita_Suriettivita_Biettivita]] — iniettiva, suriettiva, biettiva *(L1)* ✅ 2026-11-17
+- [x] [[31_Il_Campo_F2]] — $\mathbb{F}_2$ *(L3)* ✅ 2026-11-17
 
 ---
 
@@ -125,15 +125,15 @@ flowchart TD
 > [!question] Checkpoint
 > Sai calcolare angolo tra due vettori, verificare ortogonalità e area di un parallelogramma?
 
-- [ ] [[20_Segmenti_Orientati_ed_Equipollenza]] — equipollenza *(L2)*
-- [ ] [[21_Vettori_come_Classi_di_Equivalenza]] — vettori come classi *(L2)*
-- [ ] [[22_Operazioni_tra_Vettori]] — operazioni *(L2)*
-- [ ] [[23_Sistemi_di_Riferimento_e_Coordinate]] — coordinate *(L2)*
-- [ ] [[24_Proprieta_delle_Operazioni_tra_Vettori]] — proprietà *(L2)*
+- [x] [[20_Segmenti_Orientati_ed_Equipollenza]] — equipollenza *(L2)* ✅ 2026-11-17
+- [x] [[21_Vettori_come_Classi_di_Equivalenza]] — vettori come classi *(L2)* ✅ 2026-11-17
+- [x] [[22_Operazioni_tra_Vettori]] — operazioni *(L2)* ✅ 2026-11-17
+- [x] [[23_Sistemi_di_Riferimento_e_Coordinate]] — coordinate *(L2)* ✅ 2026-11-17
+- [x] [[24_Proprieta_delle_Operazioni_tra_Vettori]] — proprietà *(L2)* ✅ 2026-11-17
 - [ ] [[25_Prodotto_Interno_e_Ortogonalita]] — prodotto interno *(L2)*
 - [ ] [[26_Prodotto_Interno_in_Coordinate]] — in coordinate *(L2)*
 - [ ] [[27_Prodotto_Esterno]] — prodotto esterno *(L2)*
-- [ ] [[28_Determinanti_2x2_e_3x3]] — determinanti $2\times2$, $3\times3$ *(L2)*
+- [x] [[28_Determinanti_2x2_e_3x3]] — determinanti $2\times2$, $3\times3$ *(L2)* ✅ 2026-11-17
 
 ---
 

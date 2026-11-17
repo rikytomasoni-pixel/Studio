@@ -4788,6 +4788,28 @@
           }
         ],
         "id": 464
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/142_Teorema_di_Lagrange.md",
+        "wordCountStart": 313,
+        "charCountStart": 1905,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": -38,
+            "c": -194
+          }
+        ],
+        "id": 465
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+        "wordCountStart": 2986,
+        "charCountStart": 29826,
+        "changes": [],
+        "id": 466
       }
     ]
   }
