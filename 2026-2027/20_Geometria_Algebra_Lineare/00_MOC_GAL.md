@@ -189,7 +189,7 @@ flowchart TD
 - [x] [[60_Matrice_Invertibile]] — definizione *(L6)* ✅ 2026-11-17
 - [x] [[61_Unicita_e_Bilateralita_dell_Inversa]] — unicità *(L6)* ✅ 2026-11-17
 - [x] [[62_Non_Commutativita_del_Prodotto_Matriciale]] — non commutatività *(L6)* ✅ 2026-11-17
-- [ ] [[72_Esistenza_della_Matrice_Inversa]] — esistenza *(L7)*
+- [x] [[72_Esistenza_della_Matrice_Inversa]] — esistenza *(L7)* ✅ 2026-11-17
 
 ---
 
