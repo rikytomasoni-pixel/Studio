@@ -4725,6 +4725,36 @@
           }
         ],
         "id": 459
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "00_Claude_Workspace/Recap_2026-11-16_AM1_L18.md",
+        "wordCountStart": 384,
+        "charCountStart": 3175,
+        "changes": [],
+        "id": 460
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/136_Massimi_e_Minimi_Locali_e_Globali.md",
+        "wordCountStart": 391,
+        "charCountStart": 2435,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": -23,
+            "c": -134
+          }
+        ],
+        "id": 461
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "99_Tools/Excalidraw/Disegni Analisi1.md",
+        "wordCountStart": 7580,
+        "charCountStart": 256393,
+        "changes": [],
+        "id": 462
       }
     ]
   }

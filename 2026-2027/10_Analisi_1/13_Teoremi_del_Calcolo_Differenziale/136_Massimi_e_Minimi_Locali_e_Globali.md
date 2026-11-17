@@ -31,8 +31,7 @@ fonte: "AM1 L18 26-27.pdf (pag. 6-8)"
 ## Esempi
 **$f(x)=|x|$** ha minimo (globale stretto) in $x_0=0$; è continua ma non derivabile in $x_0=0$.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> Pag. 8: grafico di $|x|$ (due semirette a V con vertice nell'origine). Da cercare sul quaderno/PDF a pag. 8.
+![[graphAbs.png]]
 
 **$f(x)=\begin{cases}x+1&x>0\\-x&x\le0\end{cases}$** ha minimo (globale stretto) in $x_0=0$ ed è discontinua in $x_0=0$.
 
