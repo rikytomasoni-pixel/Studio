@@ -23,8 +23,7 @@ $$M=\max_{[a,b]}f(x)\in\mathbb{R}\qquad m=\min_{[a,b]}f(x)\in\mathbb{R}$$
 $$f'(x)=\lim_{h\to0}\frac{f(x+h)-f(x)}h=\lim_{h\to0}\frac0h=0\qquad\forall x\in(a,b)$$
 - **Se $m<M$**, poiché $f(a)=f(b)$, almeno uno tra $m$ e $M$ deve essere assunto in un punto $c\in(a,b)$, cioè esiste $c\in(a,b)$ tale che $f(c)=m$ oppure $f(c)=M$. Quindi esiste $c\in(a,b)$ punto di estremo per $f$, con $f$ derivabile in $(a,b)$. Per il [[137_Teorema_di_Fermat]] deve essere $f'(c)=0$. $\square$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> Pag. 18: grafico di una funzione oscillante (tipo sinusoide) su $[a,b]$ con $f(a)=f(b)$, con diverse tangenti orizzontali (segmenti rossi) in corrispondenza dei massimi e dei minimi. Da cercare a pag. 18.
+![[MassimiMinimiLocali.png|408]]
 
 ## Note collegate
 - [[142_Teorema_di_Lagrange]]

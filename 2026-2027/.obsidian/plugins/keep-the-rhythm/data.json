@@ -4780,7 +4780,13 @@
         "filePath": "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/141_Teorema_di_Rolle.md",
         "wordCountStart": 249,
         "charCountStart": 1470,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": -37,
+            "c": -215
+          }
+        ],
         "id": 464
       }
     ]
