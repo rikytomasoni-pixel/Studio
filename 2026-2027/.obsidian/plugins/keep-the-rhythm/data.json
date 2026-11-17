@@ -4992,6 +4992,46 @@
         "charCountStart": 1525,
         "changes": [],
         "id": 488
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/70_Reversibilita_del_MEG.md",
+        "wordCountStart": 227,
+        "charCountStart": 1800,
+        "changes": [],
+        "id": 489
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/71_Codifica_del_MEG_con_il_Prodotto_Matriciale.md",
+        "wordCountStart": 345,
+        "charCountStart": 2660,
+        "changes": [],
+        "id": 490
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/110_EE1_Fattorizzazione_con_Matrici_Elementari.md",
+        "wordCountStart": 510,
+        "charCountStart": 3038,
+        "changes": [],
+        "id": 491
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/109_EE1_Riduzione_a_Scala_di_A.md",
+        "wordCountStart": 290,
+        "charCountStart": 1874,
+        "changes": [],
+        "id": 492
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1.md",
+        "wordCountStart": 198,
+        "charCountStart": 1712,
+        "changes": [],
+        "id": 493
       }
     ]
   }
