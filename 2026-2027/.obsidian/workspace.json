@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/06_Rango/108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1.md",
+                "file": "20_Geometria_Algebra_Lineare/06_Rango/110_EE1_Fattorizzazione_con_Matrici_Elementari.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1"
+              "title": "110_EE1_Fattorizzazione_con_Matrici_Elementari"
             }
           }
         ]
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/06_Rango/108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1.md",
+                "file": "20_Geometria_Algebra_Lineare/06_Rango/110_EE1_Fattorizzazione_con_Matrici_Elementari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/06_Rango/108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1.md",
+                "file": "20_Geometria_Algebra_Lineare/06_Rango/110_EE1_Fattorizzazione_con_Matrici_Elementari.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/06_Rango/108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1.md",
+                "file": "20_Geometria_Algebra_Lineare/06_Rango/110_EE1_Fattorizzazione_con_Matrici_Elementari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -241,16 +241,16 @@
   },
   "active": "213ab07a6dd5ea09",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/06_Rango/108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1.md",
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+    "20_Geometria_Algebra_Lineare/06_Rango/109_EE1_Riduzione_a_Scala_di_A.md",
+    "20_Geometria_Algebra_Lineare/06_Rango/110_EE1_Fattorizzazione_con_Matrici_Elementari.md",
     "20_Geometria_Algebra_Lineare/06_Rango/131_Spazio_delle_Righe_e_delle_Colonne.md",
     "20_Geometria_Algebra_Lineare/06_Rango/130_Riepilogo_sulle_Definizioni_di_Rango.md",
     "20_Geometria_Algebra_Lineare/06_Rango/73_MEG_e_Rango.md",
     "20_Geometria_Algebra_Lineare/06_Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
     "20_Geometria_Algebra_Lineare/06_Rango/63_Rango_di_una_Matrice.md",
     "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/71_Codifica_del_MEG_con_il_Prodotto_Matriciale.md",
-    "20_Geometria_Algebra_Lineare/06_Rango/110_EE1_Fattorizzazione_con_Matrici_Elementari.md",
-    "20_Geometria_Algebra_Lineare/06_Rango/109_EE1_Riduzione_a_Scala_di_A.md",
-    "20_Geometria_Algebra_Lineare/06_Rango/108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1.md",
     "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/70_Reversibilita_del_MEG.md",
     "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/69_Pivot_e_Matrice_a_Scala.md",
     "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/68_Metodo_di_Eliminazione_di_Gauss.md",
