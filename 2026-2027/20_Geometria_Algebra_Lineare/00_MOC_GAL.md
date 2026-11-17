@@ -213,7 +213,7 @@ flowchart TD
 - [x] [[68_Metodo_di_Eliminazione_di_Gauss]] — MEG *(L6)* ✅ 2026-11-17
 - [x] [[69_Pivot_e_Matrice_a_Scala]] — pivot e scala *(L6)* ✅ 2026-11-17
 - [x] [[70_Reversibilita_del_MEG]] — reversibilità *(L7)* ✅ 2026-11-17
-- [ ] [[71_Codifica_del_MEG_con_il_Prodotto_Matriciale]] — MEG come prodotto *(L7)*
+- [x] [[71_Codifica_del_MEG_con_il_Prodotto_Matriciale]] — MEG come prodotto *(L7)* ✅ 2026-11-17
 
 ---
 
