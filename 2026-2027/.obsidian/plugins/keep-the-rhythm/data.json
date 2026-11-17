@@ -4842,6 +4842,54 @@
         "charCountStart": 1360,
         "changes": [],
         "id": 470
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/35_Somma_tra_Matrici.md",
+        "wordCountStart": 349,
+        "charCountStart": 2452,
+        "changes": [],
+        "id": 471
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/36_Prodotto_di_una_Matrice_per_uno_Scalare.md",
+        "wordCountStart": 255,
+        "charCountStart": 1939,
+        "changes": [],
+        "id": 472
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/40_Opposto_di_una_Matrice.md",
+        "wordCountStart": 98,
+        "charCountStart": 905,
+        "changes": [],
+        "id": 473
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/37_Efficienza_Computazionale.md",
+        "wordCountStart": 137,
+        "charCountStart": 1277,
+        "changes": [],
+        "id": 474
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/41_Prodotto_Matriciale_Righe_per_Colonne.md",
+        "wordCountStart": 352,
+        "charCountStart": 2262,
+        "changes": [],
+        "id": 475
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/42_Prodotto_e_Composizione_di_Funzioni.md",
+        "wordCountStart": 208,
+        "charCountStart": 1708,
+        "changes": [],
+        "id": 476
       }
     ]
   }

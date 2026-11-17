@@ -158,12 +158,12 @@ flowchart TD
 - [x] [[30_Matrici_come_Rappresentazione_di_Funzioni]] — matrici e funzioni *(L3)* ✅ 2026-11-17
 - [x] [[32_Definizione_di_Matrice]] — definizione *(L3)* ✅ 2026-11-17
 - [x] [[33_Matrici_Casi_Speciali]] — casi speciali *(L3)* ✅ 2026-11-17
-- [ ] [[34_Confronto_e_Uguaglianza_tra_Matrici]] — uguaglianza *(L3)*
-- [ ] [[35_Somma_tra_Matrici]] — somma *(L3)*
-- [ ] [[40_Opposto_di_una_Matrice]] — opposta *(L4)*
-- [ ] [[36_Prodotto_di_una_Matrice_per_uno_Scalare]] — per uno scalare *(L3)*
-- [ ] [[37_Efficienza_Computazionale]] — efficienza *(L3)*
-- [ ] [[41_Prodotto_Matriciale_Righe_per_Colonne]] — prodotto righe per colonne *(L4)*
+- [x] [[34_Confronto_e_Uguaglianza_tra_Matrici]] — uguaglianza *(L3)* ✅ 2026-11-17
+- [x] [[35_Somma_tra_Matrici]] — somma *(L3)* ✅ 2026-11-17
+- [x] [[40_Opposto_di_una_Matrice]] — opposta *(L4)* ✅ 2026-11-17
+- [x] [[36_Prodotto_di_una_Matrice_per_uno_Scalare]] — per uno scalare *(L3)* ✅ 2026-11-17
+- [x] [[37_Efficienza_Computazionale]] — efficienza *(L3)* ✅ 2026-11-17
+- [x] [[41_Prodotto_Matriciale_Righe_per_Colonne]] — prodotto righe per colonne *(L4)* ✅ 2026-11-17
 - [ ] [[42_Prodotto_e_Composizione_di_Funzioni]] — prodotto e composizione *(L4)*
 - [ ] [[44_Proprieta_del_Prodotto_Matriciale]] — proprietà *(L4)*
 - [ ] [[45_Matrice_Identita_e_Matrici_Diagonali]] — identità e diagonali *(L4)*
