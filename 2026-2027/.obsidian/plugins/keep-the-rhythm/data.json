@@ -5040,6 +5040,22 @@
         "charCountStart": 2758,
         "changes": [],
         "id": 494
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
+        "wordCountStart": 390,
+        "charCountStart": 2949,
+        "changes": [],
+        "id": 495
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/73_MEG_e_Rango.md",
+        "wordCountStart": 498,
+        "charCountStart": 3545,
+        "changes": [],
+        "id": 496
       }
     ]
   }

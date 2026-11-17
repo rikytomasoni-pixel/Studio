@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/06_Rango/63_Rango_di_una_Matrice.md",
+                "file": "20_Geometria_Algebra_Lineare/06_Rango/73_MEG_e_Rango.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "63_Rango_di_una_Matrice"
+              "title": "73_MEG_e_Rango"
             }
           }
         ]
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/06_Rango/63_Rango_di_una_Matrice.md",
+                "file": "20_Geometria_Algebra_Lineare/06_Rango/73_MEG_e_Rango.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/06_Rango/63_Rango_di_una_Matrice.md",
+                "file": "20_Geometria_Algebra_Lineare/06_Rango/73_MEG_e_Rango.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/06_Rango/63_Rango_di_una_Matrice.md",
+                "file": "20_Geometria_Algebra_Lineare/06_Rango/73_MEG_e_Rango.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -242,6 +242,8 @@
   "active": "213ab07a6dd5ea09",
   "lastOpenFiles": [
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+    "20_Geometria_Algebra_Lineare/06_Rango/64_Rango_e_Matrice_di_Probabilita_Congiunta.md",
+    "20_Geometria_Algebra_Lineare/06_Rango/63_Rango_di_una_Matrice.md",
     "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/71_Codifica_del_MEG_con_il_Prodotto_Matriciale.md",
     "20_Geometria_Algebra_Lineare/06_Rango/110_EE1_Fattorizzazione_con_Matrici_Elementari.md",
     "20_Geometria_Algebra_Lineare/06_Rango/109_EE1_Riduzione_a_Scala_di_A.md",
@@ -266,8 +268,6 @@
     "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/41_Prodotto_Matriciale_Righe_per_Colonne.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/37_Efficienza_Computazionale.md",
-    "20_Geometria_Algebra_Lineare/03_Matrici/40_Opposto_di_una_Matrice.md",
-    "20_Geometria_Algebra_Lineare/03_Matrici/34_Confronto_e_Uguaglianza_tra_Matrici.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/thmLagrange.png",
     "90_Lezioni_pdf/A1/AM1 L18 26-27.pdf",
     "99_Tools/Screenshots/Analisi1/Funzioni/MassimiMinimiLocali.png",
