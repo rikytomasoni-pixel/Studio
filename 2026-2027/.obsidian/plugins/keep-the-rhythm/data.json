@@ -4898,6 +4898,30 @@
         "charCountStart": 1990,
         "changes": [],
         "id": 477
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
+        "wordCountStart": 173,
+        "charCountStart": 1436,
+        "changes": [],
+        "id": 478
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
+        "wordCountStart": 301,
+        "charCountStart": 2358,
+        "changes": [],
+        "id": 479
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
+        "wordCountStart": 78,
+        "charCountStart": 929,
+        "changes": [],
+        "id": 480
       }
     ]
   }

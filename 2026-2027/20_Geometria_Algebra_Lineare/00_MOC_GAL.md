@@ -165,8 +165,8 @@ flowchart TD
 - [x] [[37_Efficienza_Computazionale]] — efficienza *(L3)* ✅ 2026-11-17
 - [x] [[41_Prodotto_Matriciale_Righe_per_Colonne]] — prodotto righe per colonne *(L4)* ✅ 2026-11-17
 - [x] [[42_Prodotto_e_Composizione_di_Funzioni]] — prodotto e composizione *(L4)* ✅ 2026-11-17
-- [ ] [[44_Proprieta_del_Prodotto_Matriciale]] — proprietà *(L4)*
-- [ ] [[45_Matrice_Identita_e_Matrici_Diagonali]] — identità e diagonali *(L4)*
+- [x] [[44_Proprieta_del_Prodotto_Matriciale]] — proprietà *(L4)* ✅ 2026-11-17
+- [x] [[45_Matrice_Identita_e_Matrici_Diagonali]] — identità e diagonali *(L4)* ✅ 2026-11-17
 - [ ] [[43_PageRank_e_Matrice_di_Google]] — applicazione: PageRank *(L4)*
 
 ---
