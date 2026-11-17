@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -239,7 +239,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "213ab07a6dd5ea09",
+  "active": "66f10dbb0e0cce91",
   "lastOpenFiles": [
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/62_Non_Commutativita_del_Prodotto_Matriciale.md",
