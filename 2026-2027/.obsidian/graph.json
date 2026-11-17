@@ -4,9 +4,66 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:00_MOC",
+      "color": {
+        "a": 1,
+        "rgb": 16766011
+      }
+    },
+    {
+      "query": "path:90_Indici_Lezioni",
+      "color": {
+        "a": 1,
+        "rgb": 16755021
+      }
+    },
+    {
+      "query": "path:00_Claude_Workspace",
+      "color": {
+        "a": 1,
+        "rgb": 8818326
+      }
+    },
+    {
+      "query": "path:10_Analisi_1",
+      "color": {
+        "a": 1,
+        "rgb": 5090295
+      }
+    },
+    {
+      "query": "path:20_Geometria_Algebra_Lineare",
+      "color": {
+        "a": 1,
+        "rgb": 5361510
+      }
+    },
+    {
+      "query": "path:30_Fondamenti_Informatica",
+      "color": {
+        "a": 1,
+        "rgb": 16739179
+      }
+    },
+    {
+      "query": "path:Serie_a_Termini",
+      "color": {
+        "a": 1,
+        "rgb": 7651580
+      }
+    },
+    {
+      "query": "path:Limiti_di_Funzioni OR path:10_Continuita OR path:Proprieta_Globali",
+      "color": {
+        "a": 1,
+        "rgb": 3382000
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -18,5 +75,5 @@
   "linkStrength": 0.899937739037623,
   "linkDistance": 50,
   "scale": 0.0688843601807843,
-  "close": true
+  "close": false
 }
