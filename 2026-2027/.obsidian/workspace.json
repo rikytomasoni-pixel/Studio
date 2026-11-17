@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a47323e44b888cc9",
+        "id": "426b7be8ec8f896f",
         "type": "tabs",
         "children": [
           {
-            "id": "392caef4f7c6fbda",
+            "id": "213ab07a6dd5ea09",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/61_Unicita_e_Bilateralita_dell_Inversa.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "61_Unicita_e_Bilateralita_dell_Inversa"
             }
           }
         ]
@@ -86,9 +90,35 @@
     "type": "split",
     "children": [
       {
+        "id": "e0fb49532789a97f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4468fce9f1839445",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
+            }
+          },
+          {
+            "id": "0ef2cee625625690",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "ce4f1112a622b9fc",
         "type": "tabs",
-        "dimension": 44.58940905602456,
         "children": [
           {
             "id": "3715fce1bab0cc5a",
@@ -175,7 +205,7 @@
             }
           },
           {
-            "id": "4468fce9f1839445",
+            "id": "66f10dbb0e0cce91",
             "type": "leaf",
             "state": {
               "type": "keep-the-rhythm",
@@ -186,34 +216,16 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "6bdb6942047c16a9",
-        "type": "tabs",
-        "dimension": 55.41059094397544,
-        "children": [
-          {
-            "id": "c1ac43583687f29a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 518.7354736328125,
-    "collapsed": true
+    "width": 518.7354736328125
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Apri vista grafo": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "graph:Apri vista grafo": false,
       "switcher:Apri selettore rapido": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota giornaliera": false,
@@ -224,12 +236,12 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "392caef4f7c6fbda",
+  "active": "0ef2cee625625690",
   "lastOpenFiles": [
-    "00_Claude_Workspace/graph.json.backup",
-    "00_Claude_Workspace/Recap_2026-11-16_AM1_L18.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/61_Unicita_e_Bilateralita_dell_Inversa.md",
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+    "00_Claude_Workspace/graph.json.backup",
+    "00_Claude_Workspace/Recap_2026-11-16_AM1_L18.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
     "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
@@ -271,7 +283,6 @@
     "10_Analisi_1/12_Derivate",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261112 - LEZIONE 20.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261111 - LEZIONE 19.pdf",
-    "90_Lezioni_pdf/A1/AM1 L16 26-27.pdf",
     "Senza nome.canvas"
   ]
 }

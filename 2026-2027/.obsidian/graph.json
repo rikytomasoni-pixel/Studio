@@ -116,7 +116,7 @@
       "query": "(path:\"30_Fondamenti_Informatica/01_Introduzione_e_Codifica\")",
       "color": {
         "a": 1,
-        "rgb": 15856629
+        "rgb": 0
       }
     },
     {
@@ -137,6 +137,6 @@
   "repelStrength": 15.0502232142857,
   "linkStrength": 0.899937739037623,
   "linkDistance": 50,
-  "scale": 0.0688843601807843,
-  "close": false
+  "scale": 0.09377299417572289,
+  "close": true
 }
