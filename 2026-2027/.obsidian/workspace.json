@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/03_Matrici/42_Prodotto_e_Composizione_di_Funzioni.md",
+                "file": "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42_Prodotto_e_Composizione_di_Funzioni"
+              "title": "44_Proprieta_del_Prodotto_Matriciale"
             }
           },
           {
@@ -241,6 +241,8 @@
   "active": "c1ac43583687f29a",
   "lastOpenFiles": [
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/42_Prodotto_e_Composizione_di_Funzioni.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/41_Prodotto_Matriciale_Righe_per_Colonne.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/37_Efficienza_Computazionale.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/40_Opposto_di_una_Matrice.md",
@@ -249,7 +251,6 @@
     "20_Geometria_Algebra_Lineare/03_Matrici/36_Prodotto_di_una_Matrice_per_uno_Scalare.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/33_Matrici_Casi_Speciali.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/32_Definizione_di_Matrice.md",
-    "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
     "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/142_Teorema_di_Lagrange.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/thmLagrange.png",
     "00_Claude_Workspace/Recap_2026-11-16_AM1_L18.md",
@@ -273,7 +274,6 @@
     "00_Claude_Workspace/sedcxdbBY",
     "00_Claude_Workspace/00_MOC_GAL_NUOVO.md",
     "00_Claude_Workspace/Guida_Studio_Analisi_1.md",
-    "10_Analisi_1/09_Limiti_di_Funzioni/102_Algebra_dei_Limiti_di_Funzioni.md",
     "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale",
     "99_Tools/Screenshots/Analisi1/Funzioni/graphXsin1suX.png",
     "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf",
