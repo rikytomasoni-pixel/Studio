@@ -155,9 +155,9 @@ flowchart TD
 > [!question] Checkpoint
 > Sai moltiplicare due matrici a mano e spiegare perché $AB\ne BA$ in generale?
 
-- [ ] [[30_Matrici_come_Rappresentazione_di_Funzioni]] — matrici e funzioni *(L3)*
-- [ ] [[32_Definizione_di_Matrice]] — definizione *(L3)*
-- [ ] [[33_Matrici_Casi_Speciali]] — casi speciali *(L3)*
+- [x] [[30_Matrici_come_Rappresentazione_di_Funzioni]] — matrici e funzioni *(L3)* ✅ 2026-11-17
+- [x] [[32_Definizione_di_Matrice]] — definizione *(L3)* ✅ 2026-11-17
+- [x] [[33_Matrici_Casi_Speciali]] — casi speciali *(L3)* ✅ 2026-11-17
 - [ ] [[34_Confronto_e_Uguaglianza_tra_Matrici]] — uguaglianza *(L3)*
 - [ ] [[35_Somma_tra_Matrici]] — somma *(L3)*
 - [ ] [[40_Opposto_di_una_Matrice]] — opposta *(L4)*

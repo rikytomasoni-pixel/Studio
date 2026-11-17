@@ -4810,6 +4810,38 @@
         "charCountStart": 29826,
         "changes": [],
         "id": 466
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
+        "wordCountStart": 411,
+        "charCountStart": 3118,
+        "changes": [],
+        "id": 467
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/32_Definizione_di_Matrice.md",
+        "wordCountStart": 195,
+        "charCountStart": 1498,
+        "changes": [],
+        "id": 468
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/33_Matrici_Casi_Speciali.md",
+        "wordCountStart": 281,
+        "charCountStart": 2076,
+        "changes": [],
+        "id": 469
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/34_Confronto_e_Uguaglianza_tra_Matrici.md",
+        "wordCountStart": 168,
+        "charCountStart": 1360,
+        "changes": [],
+        "id": 470
       }
     ]
   }

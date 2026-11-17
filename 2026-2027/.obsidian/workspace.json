@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+                "file": "20_Geometria_Algebra_Lineare/03_Matrici/34_Confronto_e_Uguaglianza_tra_Matrici.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_MOC_GAL"
+              "title": "34_Confronto_e_Uguaglianza_tra_Matrici"
             }
           },
           {
@@ -240,6 +240,10 @@
   },
   "active": "c1ac43583687f29a",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/33_Matrici_Casi_Speciali.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/32_Definizione_di_Matrice.md",
+    "20_Geometria_Algebra_Lineare/03_Matrici/30_Matrici_come_Rappresentazione_di_Funzioni.md",
     "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/142_Teorema_di_Lagrange.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/thmLagrange.png",
     "00_Claude_Workspace/Recap_2026-11-16_AM1_L18.md",
@@ -270,9 +274,6 @@
     "10_Analisi_1/09_Limiti_di_Funzioni/92_Limite_Finito_in_un_Punto_Finito.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale.md",
-    "10_Analisi_1/09_Limiti_di_Funzioni/90_Limite_Infinito_in_un_Punto_Finito.md",
-    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo.md",
-    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/140_Test_di_Monotonia.md",
     "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale",
     "99_Tools/Screenshots/Analisi1/Funzioni/graphXsin1suX.png",
     "90_Lezioni_pdf/A1/AM1 L17 26-27.pdf",
