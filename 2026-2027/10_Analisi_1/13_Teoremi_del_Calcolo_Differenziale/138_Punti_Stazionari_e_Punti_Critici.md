@@ -34,8 +34,7 @@ Infatti
 $$f'(0)=\lim_{h\to0}\frac{f(h)-f(0)}{h}=\lim_{h\to0}\frac{h^2\sin\frac1h}{h}=\lim_{h\to0}h\sin\frac1h=0$$
 $f$ è derivabile in $\mathbb{R}$ e $f'(0)=0$, quindi $x_0=0$ è punto stazionario; ma $x_0=0$ non è né massimo, né minimo, né flesso.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> Pag. 12: grafico di $x^2\sin\frac1x$ vicino all'origine: curva oscillante compresa tra le parabole $x^2$ e $-x^2$ (disegnate in blu), con le oscillazioni evidenziate in rosso. Da cercare a pag. 12.
+![[xquadratosin1sux.png]]
 
 ## Note collegate
 - [[137_Teorema_di_Fermat]]

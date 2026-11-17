@@ -4769,11 +4769,19 @@
           },
           {
             "timeKey": "10:55",
-            "w": 1,
-            "c": 14
+            "w": -37,
+            "c": -201
           }
         ],
         "id": 463
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/141_Teorema_di_Rolle.md",
+        "wordCountStart": 249,
+        "charCountStart": 1470,
+        "changes": [],
+        "id": 464
       }
     ]
   }
