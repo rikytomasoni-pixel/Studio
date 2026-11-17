@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
+                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "43_PageRank_e_Matrice_di_Google"
+              "title": "60_Matrice_Invertibile"
             }
           }
         ]
@@ -100,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -227,11 +230,11 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "c1ac43583687f29a",
+  "active": "392caef4f7c6fbda",
   "lastOpenFiles": [
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
-    "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+    "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
+    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/05_Indice_Lezione_4.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
     "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
     "99_Tools/Excalidraw/Disegni Analisi1.md",
