@@ -4968,6 +4968,30 @@
         "charCountStart": 5658,
         "changes": [],
         "id": 485
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/67_Operazioni_Elementari_sulle_Righe.md",
+        "wordCountStart": 232,
+        "charCountStart": 1844,
+        "changes": [],
+        "id": 486
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/68_Metodo_di_Eliminazione_di_Gauss.md",
+        "wordCountStart": 578,
+        "charCountStart": 3922,
+        "changes": [],
+        "id": 487
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss/69_Pivot_e_Matrice_a_Scala.md",
+        "wordCountStart": 198,
+        "charCountStart": 1525,
+        "changes": [],
+        "id": 488
       }
     ]
   }

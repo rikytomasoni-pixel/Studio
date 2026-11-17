@@ -209,8 +209,8 @@ flowchart TD
 > [!question] Checkpoint
 > Sai ridurre a scala una matrice $4\times5$ senza errori di segno e individuare i pivot?
 
-- [ ] [[67_Operazioni_Elementari_sulle_Righe]] — operazioni elementari *(L6)*
-- [ ] [[68_Metodo_di_Eliminazione_di_Gauss]] — MEG *(L6)*
+- [x] [[67_Operazioni_Elementari_sulle_Righe]] — operazioni elementari *(L6)* ✅ 2026-11-17
+- [x] [[68_Metodo_di_Eliminazione_di_Gauss]] — MEG *(L6)* ✅ 2026-11-17
 - [ ] [[69_Pivot_e_Matrice_a_Scala]] — pivot e scala *(L6)*
 - [ ] [[70_Reversibilita_del_MEG]] — reversibilità *(L7)*
 - [ ] [[71_Codifica_del_MEG_con_il_Prodotto_Matriciale]] — MEG come prodotto *(L7)*
