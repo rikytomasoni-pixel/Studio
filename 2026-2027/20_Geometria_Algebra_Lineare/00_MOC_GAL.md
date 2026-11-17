@@ -187,8 +187,8 @@ flowchart TD
 > Se $AB=I$, perché anche $BA=I$? E perché $(AB)^{-1}=B^{-1}A^{-1}$?
 
 - [x] [[60_Matrice_Invertibile]] — definizione *(L6)* ✅ 2026-11-17
-- [ ] [[61_Unicita_e_Bilateralita_dell_Inversa]] — unicità *(L6)*
-- [ ] [[62_Non_Commutativita_del_Prodotto_Matriciale]] — non commutatività *(L6)*
+- [x] [[61_Unicita_e_Bilateralita_dell_Inversa]] — unicità *(L6)* ✅ 2026-11-17
+- [x] [[62_Non_Commutativita_del_Prodotto_Matriciale]] — non commutatività *(L6)* ✅ 2026-11-17
 - [ ] [[72_Esistenza_della_Matrice_Inversa]] — esistenza *(L7)*
 
 ---

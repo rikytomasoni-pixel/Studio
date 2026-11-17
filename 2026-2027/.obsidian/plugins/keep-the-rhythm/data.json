@@ -4944,6 +4944,22 @@
         "charCountStart": 1772,
         "changes": [],
         "id": 482
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/62_Non_Commutativita_del_Prodotto_Matriciale.md",
+        "wordCountStart": 183,
+        "charCountStart": 1458,
+        "changes": [],
+        "id": 483
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
+        "wordCountStart": 189,
+        "charCountStart": 1557,
+        "changes": [],
+        "id": 484
       }
     ]
   }
