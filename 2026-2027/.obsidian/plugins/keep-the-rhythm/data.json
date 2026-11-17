@@ -4711,6 +4711,20 @@
         "charCountStart": 4423,
         "changes": [],
         "id": 458
+      },
+      {
+        "date": "2026-11-17",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
+        "wordCountStart": 152,
+        "charCountStart": 1171,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 459
       }
     ]
   }
