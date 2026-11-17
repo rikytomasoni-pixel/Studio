@@ -126,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -239,8 +236,9 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "66f10dbb0e0cce91",
+  "active": "0ef2cee625625690",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/72_Esistenza_della_Matrice_Inversa.md",
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/62_Non_Commutativita_del_Prodotto_Matriciale.md",
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/61_Unicita_e_Bilateralita_dell_Inversa.md",
@@ -273,7 +271,6 @@
     "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/136_Massimi_e_Minimi_Locali_e_Globali.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/funzioneconsalto.png",
     "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
-    "10_Analisi_1/00_MOC_Analisi_1.md",
     "00_Claude_Workspace/sedPGLdvx",
     "00_Claude_Workspace/sedcxdbBY",
     "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale",
