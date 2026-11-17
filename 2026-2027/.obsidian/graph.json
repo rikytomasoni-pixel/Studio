@@ -15,52 +15,115 @@
       }
     },
     {
-      "query": "path:90_Indici_Lezioni",
-      "color": {
-        "a": 1,
-        "rgb": 16755021
-      }
-    },
-    {
-      "query": "path:00_Claude_Workspace",
+      "query": "(path:\"90_Indici_Lezioni\" OR path:\"99_Organizzazione\" OR path:\"00_Claude_Workspace\")",
       "color": {
         "a": 1,
         "rgb": 8818326
       }
     },
     {
-      "query": "path:10_Analisi_1",
+      "query": "(path:\"10_Analisi_1/01_Insiemi_e_Logica\" OR path:\"10_Analisi_1/02_Numeri_Reali\" OR path:\"10_Analisi_1/03_Numeri_Complessi\")",
+      "color": {
+        "a": 1,
+        "rgb": 14317554
+      }
+    },
+    {
+      "query": "(path:\"10_Analisi_1/04_Funzioni\")",
       "color": {
         "a": 1,
         "rgb": 5090295
       }
     },
     {
-      "query": "path:20_Geometria_Algebra_Lineare",
+      "query": "(path:\"10_Analisi_1/05_Successioni_e_Limiti\")",
       "color": {
         "a": 1,
-        "rgb": 5361510
+        "rgb": 2275535
       }
     },
     {
-      "query": "path:30_Fondamenti_Informatica",
+      "query": "(path:\"10_Analisi_1/06_Serie\" OR path:\"10_Analisi_1/07_Serie_a_Termini_Positivi\" OR path:\"10_Analisi_1/08_Serie_a_Termini_di_Segno_Variabile\")",
+      "color": {
+        "a": 1,
+        "rgb": 2148759
+      }
+    },
+    {
+      "query": "(path:\"10_Analisi_1/09_Limiti_di_Funzioni\")",
+      "color": {
+        "a": 1,
+        "rgb": 9754669
+      }
+    },
+    {
+      "query": "(path:\"10_Analisi_1/10_Continuita\" OR path:\"10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue\")",
+      "color": {
+        "a": 1,
+        "rgb": 16749099
+      }
+    },
+    {
+      "query": "(path:\"10_Analisi_1/12_Derivate\" OR path:\"10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale\")",
       "color": {
         "a": 1,
         "rgb": 16739179
       }
     },
     {
-      "query": "path:Serie_a_Termini",
+      "query": "(path:\"20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici\" OR path:\"20_Geometria_Algebra_Lineare/02_Vettori_Geometrici\")",
       "color": {
         "a": 1,
-        "rgb": 7651580
+        "rgb": 13214334
       }
     },
     {
-      "query": "path:Limiti_di_Funzioni OR path:10_Continuita OR path:Proprieta_Globali",
+      "query": "(path:\"20_Geometria_Algebra_Lineare/03_Matrici\" OR path:\"20_Geometria_Algebra_Lineare/04_Matrice_Inversa\" OR path:\"20_Geometria_Algebra_Lineare/05_Metodo_di_Eliminazione_di_Gauss\")",
       "color": {
         "a": 1,
-        "rgb": 3382000
+        "rgb": 7639036
+      }
+    },
+    {
+      "query": "(path:\"20_Geometria_Algebra_Lineare/06_Rango\" OR path:\"20_Geometria_Algebra_Lineare/07_Determinante\" OR path:\"20_Geometria_Algebra_Lineare/08_Applicazioni\")",
+      "color": {
+        "a": 1,
+        "rgb": 16221100
+      }
+    },
+    {
+      "query": "(path:\"20_Geometria_Algebra_Lineare/11_Sistemi_Lineari\" OR path:\"20_Geometria_Algebra_Lineare/12_Spazi_Affini\")",
+      "color": {
+        "a": 1,
+        "rgb": 13680639
+      }
+    },
+    {
+      "query": "(path:\"20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali\" OR path:\"20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione\" OR path:\"20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann\")",
+      "color": {
+        "a": 1,
+        "rgb": 9234842
+      }
+    },
+    {
+      "query": "(path:\"20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari\")",
+      "color": {
+        "a": 1,
+        "rgb": 11419337
+      }
+    },
+    {
+      "query": "(path:\"30_Fondamenti_Informatica/01_Introduzione_e_Codifica\")",
+      "color": {
+        "a": 1,
+        "rgb": 15856629
+      }
+    },
+    {
+      "query": "(path:\"30_Fondamenti_Informatica/02_Linguaggio_C\")",
+      "color": {
+        "a": 1,
+        "rgb": 556891
       }
     }
   ],

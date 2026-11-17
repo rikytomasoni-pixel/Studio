@@ -4731,7 +4731,13 @@
         "filePath": "00_Claude_Workspace/Recap_2026-11-16_AM1_L18.md",
         "wordCountStart": 384,
         "charCountStart": 3175,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "11:50",
+            "w": -384,
+            "c": -3175
+          }
+        ],
         "id": 460
       },
       {
