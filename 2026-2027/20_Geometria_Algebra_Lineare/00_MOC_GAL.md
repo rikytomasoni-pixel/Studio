@@ -235,7 +235,7 @@ flowchart TD
 
 - [x] [[63_Rango_di_una_Matrice]] — rango *(L6)* ✅ 2026-11-17
 - [x] [[64_Rango_e_Matrice_di_Probabilita_Congiunta]] — applicazione probabilistica *(L6)* ✅ 2026-11-17
-- [ ] [[73_MEG_e_Rango]] — MEG e rango *(L7)*
+- [x] [[73_MEG_e_Rango]] — MEG e rango *(L7)* ✅ 2026-11-17
 - [ ] [[130_Riepilogo_sulle_Definizioni_di_Rango]] — riepilogo *(L16)*
 - [ ] [[131_Spazio_delle_Righe_e_delle_Colonne]] — spazio righe/colonne *(L16)*
 - [ ] [[108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1]] — *(esercizio)* EE1
