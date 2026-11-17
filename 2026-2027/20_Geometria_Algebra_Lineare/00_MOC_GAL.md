@@ -238,10 +238,10 @@ flowchart TD
 - [x] [[73_MEG_e_Rango]] — MEG e rango *(L7)* ✅ 2026-11-17
 - [ ] [[130_Riepilogo_sulle_Definizioni_di_Rango]] — riepilogo *(L16)*
 - [ ] [[131_Spazio_delle_Righe_e_delle_Colonne]] — spazio righe/colonne *(L16)*
-- [ ] [[108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1]] — *(esercizio)* EE1
-- [ ] [[109_EE1_Riduzione_a_Scala_di_A]] — *(esercizio)*
-- [ ] [[110_EE1_Fattorizzazione_con_Matrici_Elementari]] — *(esercizio)* $A=PLU$
-- [ ] [[111_EE1_Somma_di_Tre_Matrici_di_Rango_1]] — *(esercizio)*
+- [x] [[108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1]] — *(esercizio)* EE1 ✅ 2026-11-17
+- [x] [[109_EE1_Riduzione_a_Scala_di_A]] — *(esercizio)* ✅ 2026-11-17
+- [x] [[110_EE1_Fattorizzazione_con_Matrici_Elementari]] — *(esercizio)* $A=PLU$ ✅ 2026-11-17
+- [x] [[111_EE1_Somma_di_Tre_Matrici_di_Rango_1]] — *(esercizio)* ✅ 2026-11-17
 
 ---
 
