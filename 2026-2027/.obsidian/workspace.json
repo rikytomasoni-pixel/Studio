@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,7 +241,7 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0ba7c57d61bd7477",
+  "active": "014f2874c0e4d5c2",
   "lastOpenFiles": [
     "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
     "30_Fondamenti_Informatica/00_MOC_FdI.md",
