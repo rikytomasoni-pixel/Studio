@@ -64,5 +64,6 @@ for(int i=0;i<DIM&&uguali;i++)
 - [[00_MOC_FdI]]
 - Precedente: [[08_Conversione_fra_Tipi]]
 - Successiva: [[10_Stringhe_in_C]]
+- [[25_Gestione_File]] — scrittura/lettura di array su file binari (`fwrite`/`fread`)
 
 #FdI/c/array

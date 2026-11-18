@@ -105,5 +105,6 @@ void massimo_minimo(int A[], int dim, int *max, int *min){
 - [[15_Condizione_if_else]] — caso base e caso ricorsivo
 - [[16_Cicli_Iterativi]] — alternativa iterativa (es. fattoriale, Fibonacci)
 - [[23_Puntatori_a_Strutture]]
+- Successiva: [[25_Gestione_File]]
 
 #FdI/c/ricorsione

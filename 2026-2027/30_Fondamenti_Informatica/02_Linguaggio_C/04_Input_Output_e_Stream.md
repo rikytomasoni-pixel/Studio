@@ -43,5 +43,6 @@ scanf("%c",&val1);
 - [[00_MOC_FdI]]
 - Precedente: [[03_Struttura_di_un_Programma_C]]
 - Successiva: [[05_Tipi_di_Dato]]
+- [[25_Gestione_File]] — `fscanf`/`fprintf` e `stdin`/`stdout` come file
 
 #FdI/c/input-output

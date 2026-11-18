@@ -1,12 +1,20 @@
 ---
 tags:
-  - FdI/c
-  - File
+  - FI
+  - programmazione-c
+  - file
+  - fopen
+  - fprintf
+  - fscanf
+  - file-binari
+  - memoria
 date: 2026-11-18
 materia: Fondamenti di Informatica
 fonte: Linguaggio C
 ---
 # Gestione File
+
+*Lettura e scrittura su memoria di massa con la libreria `stdio.h`: file di testo e file binari.*
 
 ## Cenni sulla memoria
 
@@ -64,8 +72,8 @@ printf("...");
 ## Lettura File di Testo
 **fscanf**(*file pointer*, ...);
 Funzione che restituisce:
-- restituisce il numero di elementi effettivamente letti (1 se il carattere di formattazione corrisponde, 0 altrimenti)
-- Costante **EOF** "end of file" = -1 se non legge nulla perché il file è finito
+- il numero di elementi effettivamente letti (1 se il carattere di formattazione corrisponde, 0 altrimenti)
+- la costante **EOF** "end of file" = -1 se non legge nulla perché il file è finito
 ```C
 fscanf(fp, ...);
 ```
@@ -84,7 +92,7 @@ while(fgets(str, DIM, fp) != NULL)
 
 ## File Binari
 ```C
-FILE = *fp;
+FILE *fp;
 
 fp = fopen("new_file.bin", "wb");
 //qualsiasi metodo di accesso visto fino ad ora seguito da una 'b'
@@ -96,7 +104,7 @@ if(!fp){
 ### Lettura e scrittura
 ```C
 #define DIM 20
-float array[DIM]
+float array[DIM];
 int n;
 for(int i = 0; i < DIM; i++)
 	array[i] = 1.0 / (1 + i);
@@ -104,17 +112,37 @@ for(int i = 0; i < DIM; i++)
 - **fread**(*indirizzo di partenza, dimensione in byte di un elemento, # elementi , file pointer*)
 ```C
 n = fread(array, sizeof(float), DIM/2, fp);
-printf("H)
+printf("Ho letto %d elementi.\n", n);
 ```
 - **fwrite**(*indirizzo di partenza, dimensione in byte di un elemento, # elementi , file pointer*)
 ```C
 fwrite(array, sizeof(float), DIM, fp);
+```
+### Altre funzioni
+```C
+int pos = ftell(fp); //restituisce la posizione corrente nel file (binario)
+fseek(fp, offset, origin);//modifica la posizione di read/write nel file
+/* 
+SEEK_SET costante per l'inizio del file
+fseek(fp, 5, SEEK_SET);
+
+SEEK_END fine del file
+SEEK_CUR posizione corrente
+*/
 ```
 ## Chiusura del file
 ```C
 fclose(fp);
 ```
 ## Note collegate
-- [[00_MOC_Materia]]
+- [[00_MOC_FdI]]
+- Precedente: [[24_Ricorsione]]
+- [[04_Input_Output_e_Stream]] — `scanf`/`printf` su `stdin`/`stdout`: `fscanf`/`fprintf` sono la versione per file (`stdout` è un `FILE *`)
+- [[10_Stringhe_in_C]] — `fgets` per leggere stringhe da file
+- [[09_Array_Monodimensionali]] — `fread`/`fwrite` leggono e scrivono interi array
+- [[14_Struct]] — `fwrite`/`fread` anche su struct
+- [[20_Puntatori]] — `FILE *fp` è un puntatore al descrittore del file
+- [[07_sizeof_e_Librerie_limits_float]] — `sizeof` come dimensione dell'elemento in `fread`/`fwrite`
+- [[16_Cicli_Iterativi]] — cicli `while` di lettura fino a `EOF`
 
-#materia/argomento/sottoargomento
+#FdI/c/file

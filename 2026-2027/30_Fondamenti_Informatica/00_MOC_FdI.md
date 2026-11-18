@@ -4,7 +4,7 @@ tags:
   - MOC
   - indice
   - guida-studio
-date: 2026-11-16
+date: 2026-11-18
 materia: Fondamenti di Informatica
 ---
 
@@ -66,6 +66,9 @@ flowchart LR
     C6 --> C9
     C8 --> C10["10 · Ricorsione"]
     C9 --> C10
+    C9 --> C11["11 · Gestione dei file"]
+    C5 --> C11
+    C6 --> C11
 
     classDef fatto fill:#c8e6c9,stroke:#2e7d32,color:#000
     classDef corso fill:#fff3cd,stroke:#b8860b,color:#000
@@ -269,6 +272,24 @@ flowchart LR
 
 ---
 
+## 11 · Gestione dei file
+
+> [!abstract] Stai per affrontare
+> Come far sopravvivere i dati alla fine del programma: lettura e scrittura su memoria di massa con file di testo e file binari.
+
+> [!important] Da imparare
+> - Memoria di massa vs memoria centrale (persistenza, velocità, accesso sequenziale/diretto).
+> - `FILE *fp`, `fopen` e **modalità d'accesso** (`r`, `w`, `a`, `r+`, `w+`, `a+`, varianti `b`); controllo di `fopen` e `fclose`.
+> - File di testo: `fprintf`, `fscanf` (valore di ritorno ed `EOF`), `fgets`.
+> - File binari: `fread`, `fwrite`, `ftell`, `fseek` (`SEEK_SET`, `SEEK_CUR`, `SEEK_END`).
+
+> [!question] Checkpoint
+> Sai scrivere un programma che salva su file i numeri da 0 a 10 e li rilegge fino a `EOF`, controllando che `fopen` sia riuscita?
+
+- [ ] [[25_Gestione_File]] — file di testo e binari, `fopen`, `fprintf`, `fscanf`, `fread`, `fwrite`
+
+---
+
 ## Disegni
 
 - [[Disegni FI]]
@@ -280,6 +301,6 @@ flowchart LR
 | Blocco | Cartella | Note |
 |---|---|---|
 | 1-2 · Introduzione e codifica | `30_Fondamenti_Informatica/01_Introduzione_e_Codifica` | 2 (file Excalidraw, non modificati) |
-| 3-10 · Linguaggio C | `30_Fondamenti_Informatica/02_Linguaggio_C` | 24 |
+| 3-11 · Linguaggio C | `30_Fondamenti_Informatica/02_Linguaggio_C` | 25 |
 
 #FdI/moc

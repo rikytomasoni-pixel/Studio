@@ -40,5 +40,6 @@ Le operazioni sulle stringhe sono descritte in [[11_Operazioni_sulle_Stringhe]].
 - Precedente: [[09_Array_Monodimensionali]]
 - Successiva: [[11_Operazioni_sulle_Stringhe]]
 - Disegno originale: [[Disegni FI]]
+- [[25_Gestione_File]] — lettura di stringhe da file con `fgets`
 
 #FdI/c/stringhe

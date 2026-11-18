@@ -110,6 +110,7 @@ printf("%d\n", ptr - A); //la differenza è espressa in elementi (non in byte): 
 - [[21_Regole_di_Visibilità]]
 - [[22_Puntatori_a_Array]]
 - [[23_Puntatori_a_Strutture]]
+- [[25_Gestione_File]] — `FILE *fp`
 
 #FdI/c/puntatori
 

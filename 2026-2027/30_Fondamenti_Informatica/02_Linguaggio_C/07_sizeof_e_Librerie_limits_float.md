@@ -37,5 +37,6 @@ fonte: Linguaggio C
 - [[00_MOC_FdI]]
 - Precedente: [[06_Tipi_Semplici_Int_Char_Float_Double]]
 - Successiva: [[08_Conversione_fra_Tipi]]
+- [[25_Gestione_File]] — `sizeof` in `fread`/`fwrite`
 
 #FdI/c/sizeof-librerie
