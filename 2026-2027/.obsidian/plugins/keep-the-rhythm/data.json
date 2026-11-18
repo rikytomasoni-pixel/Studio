@@ -5113,7 +5113,7 @@
       },
       {
         "date": "2026-11-18",
-        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/25_File.md",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -5121,6 +5121,26 @@
             "timeKey": "08:25",
             "w": 17,
             "c": 162
+          },
+          {
+            "timeKey": "08:30",
+            "w": 7,
+            "c": 57
+          },
+          {
+            "timeKey": "08:35",
+            "w": 13,
+            "c": 309
+          },
+          {
+            "timeKey": "08:40",
+            "w": 4,
+            "c": -1
+          },
+          {
+            "timeKey": "08:45",
+            "w": 8,
+            "c": 56
           }
         ],
         "id": 503

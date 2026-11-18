@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/25_File.md",
+                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25_File"
+              "title": "25_Gestione_File"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:fac-simile",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/25_File.md",
+                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -244,7 +244,7 @@
   "active": "299b7e74e490a34b",
   "lastOpenFiles": [
     "30_Fondamenti_Informatica/00_MOC_FdI.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/25_File.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
     "10_Analisi_1/00_MOC_Analisi_1.md",
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
     "20_Geometria_Algebra_Lineare/06_Rango/108_Esercizio_EE1_Somma_di_Matrici_di_Rango_1.md",
