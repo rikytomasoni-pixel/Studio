@@ -21,7 +21,7 @@ fonte: Linguaggio C
 FILE *fp; //apre il flusso di comunicazione
 ```
 ## Apertura del File
-*descrittore* =  **fopen**(*pathname*, *modalità d'accesso*);
+*file pointer* =  **fopen**(*pathname*, *modalità d'accesso*);
 
 ```C
 fp = fopen("input.txt", "w"); 
@@ -62,17 +62,32 @@ fprintf(stdout, "...");
 printf("...");
 ```
 ## Lettura File di Testo
-**fscanf**(*identificatore*, ...);
+**fscanf**(*file pointer*, ...);
 Funzione che restituisce:
--  # 
-- Costante **EOF** "end of file" = -1
+- restituisce il numero di elementi effettivamente letti (1 se il carattere di formattazione corrisponde, 0 altrimenti)
+- Costante **EOF** "end of file" = -1 se non legge nulla perché il file è finito
 ```C
 fscanf(fp, ...);
 ```
-### Lettura
+**fgets**(*stringa*, *dimensione*, *file pointer*);
+Funzione che legge i primi DIM-1 caratteri e si ferma prima se incontra il carattere '**\n**'
+### Lettura di caratteri
 ```C
-while(fscanf(f))
+while(fscanf(fp, "%d", &i) == 1)
+	printf("%d\n", i);
 ```
+### Lettura Stringhe
+```C
+while(fgets(str, DIM, fp) != NULL)
+	printf("%s", str);
+```
+
+## File Binari
+```C
+FILE = *fp;
+
+```
+
 ## Chiusura del file
 ```C
 fclose(fp);
