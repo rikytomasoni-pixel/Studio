@@ -15,7 +15,6 @@ fonte: Linguaggio C
 # Gestione File
 
 *Lettura e scrittura su memoria di massa con la libreria `stdio.h`: file di testo e file binari.*
-
 ## Cenni sulla memoria
 
 | Memoria di Massa    | Memoria Centrale         |
