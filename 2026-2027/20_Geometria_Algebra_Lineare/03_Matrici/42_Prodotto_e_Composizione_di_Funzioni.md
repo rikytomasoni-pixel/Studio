@@ -27,6 +27,7 @@ fonte: "GAL_2026-2027_-_20261001_-_LEZIONE_4.pdf (slide 38-39)"
 > Il prodotto matriciale ([[41_Prodotto_Matriciale_Righe_per_Colonne]]) è congeniale per poter **codificare la composizione funzionale**!!!
 
 ## Note collegate
+- [[141_Composizione_e_Inversione_di_Applicazioni_Lineari]] ($L_B\circ L_A=L_{BA}$, L17)
 - [[41_Prodotto_Matriciale_Righe_per_Colonne]]
 - [[16_Funzioni]]
 - [[30_Matrici_come_Rappresentazione_di_Funzioni]]

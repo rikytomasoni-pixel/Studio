@@ -56,6 +56,7 @@ $$g\circ f(x) = (\sqrt{x})^2 = x$$
 $$\mathcal{D} = \{x\in[0,\infty) : \sqrt{x}\in\mathbb{R}\} = [0,\infty)$$
 
 ### Note collegate
+- [[104_Cambio_di_Variabile_nei_Limiti]] e [[105_Continuita_della_Funzione_Composta]] (L15)
 - [[00_MOC_Analisi_1]]
 - [[19_Funzioni_Generalità]] — dominio, codominio
 - [[21_Campo_di_Esistenza]] — dominio assegnato tramite espressione analitica

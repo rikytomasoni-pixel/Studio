@@ -25,10 +25,13 @@ Per $\varepsilon_n\to0$:
 Gli appunti terminano con dei puntini di sospensione ("..."), a indicare che l'elenco prosegue (vedi anche la tabella completa in [[42_Confronti_Asintotici_Proprieta_e_Notevoli]]).
 
 ## Note collegate
+- [[108_Limiti_Notevoli_di_Funzioni]] (versione per funzioni, L15) e [[118_Dimostrazione_dei_Limiti_Notevoli]]
 - [[42_Confronti_Asintotici_Proprieta_e_Notevoli]]
 - [[43_Asintotici_con_Funzioni_Composte]]
 - [[44_Esempio_Asintotici_con_Logaritmo_e_Arctan]]
 - [[45_Esercizio_Asintotici_Limite_21]]
 - [[00_MOC_Analisi_1]]
+- [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]]
+- [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]]
 
 #AM1/successioni-e-limiti/asintotici-notevoli-limiti-notevoli

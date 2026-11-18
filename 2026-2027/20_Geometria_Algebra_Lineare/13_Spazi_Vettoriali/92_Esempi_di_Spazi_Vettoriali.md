@@ -30,6 +30,7 @@ Per la definizione vedi [[91_Spazio_Vettoriale_Definizione]].
 Spazi vettoriali contenuti in altri spazi: vedi [[94_Sottospazi_Vettoriali]].
 
 ## Note collegate
+- [[138_Derivata_come_Applicazione_Lineare]] (spazi di funzioni, L17)
 - [[91_Spazio_Vettoriale_Definizione]]
 - [[93_Proprieta_Fondamentali_degli_Spazi_Vettoriali]]
 - [[94_Sottospazi_Vettoriali]]

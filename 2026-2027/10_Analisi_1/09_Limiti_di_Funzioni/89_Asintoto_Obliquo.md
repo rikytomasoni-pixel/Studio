@@ -41,6 +41,7 @@ $|f(x)-(mx+q)|$ è la lunghezza del segmento verticale di estremi $(x,f(x))$ e $
 > $$\lim_{x\to+\infty}\frac{f(x)}{x}=2\qquad\qquad\lim_{x\to+\infty}\big(f(x)-2x\big)=+\infty$$
 
 ## Note collegate
+- [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]] (asintoto verticale, L14)
 - [[88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto]]
 - [[87_Definizioni_Metriche_di_Limite_all_Infinito]]
 - [[41_o_piccolo_e_Asintotico]]

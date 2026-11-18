@@ -57,6 +57,7 @@ L'inversa è $g^{-1}:[0,\infty)\subseteq\mathbb{R}\to\mathbb{R}$, dove $g^{-1}(y
 $$\Rightarrow \quad g^{-1}(y) = -\sqrt{y} \qquad \forall\, y\in\operatorname{Im}g=[0,\infty)$$
 
 ### Note collegate
+- [[134_Teorema_della_Derivata_della_Funzione_Inversa]]
 - [[00_MOC_Analisi_1]]
 - [[19_Funzioni_Generalità]] — suriettività, immagine, dominio e codominio
 - [[28_Esempi_Funzioni_Inverse]] — esempi: potenza n-esima, tangente, seno, coseno

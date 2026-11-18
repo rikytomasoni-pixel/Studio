@@ -41,6 +41,7 @@ fonte: "AM1 L13 26-27.pdf (pag. 11-13)"
 ![[L-.png]]
 
 ## Note collegate
+- [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]] (asintoto verticale, L14)
 - [[87_Definizioni_Metriche_di_Limite_all_Infinito]]
 - [[86_Definizione_Topologica_di_Limite]]
 - [[89_Asintoto_Obliquo]]

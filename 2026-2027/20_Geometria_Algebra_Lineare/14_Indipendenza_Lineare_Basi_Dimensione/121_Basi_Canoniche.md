@@ -29,6 +29,7 @@ $$\dim\mathbb{K}[t]_{\le d}=d+1.$$
 > Le scritture sopra mostrano che gli insiemi canonici sono **generatori**; l'indipendenza lineare segue dall'unicità dei coefficienti (due combinazioni coincidono solo se coincidono tutte le componenti / tutti i coefficienti). Per $\mathbb{K}[t]_{\le d}$ vedi anche [[96_Insieme_di_Generatori]]; per $\mathbb{R}^2$ la base canonica è già in [[102_Dimensione_di_uno_Spazio_Vettoriale]].
 
 ## Note collegate
+- [[144_Applicazioni_Lineari_da_Kn_a_Km_e_Matrice_Associata]] (L17)
 - [[100_Base_di_uno_Spazio_Vettoriale]]
 - [[102_Dimensione_di_uno_Spazio_Vettoriale]]
 - [[92_Esempi_di_Spazi_Vettoriali]]

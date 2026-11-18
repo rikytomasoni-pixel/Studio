@@ -55,6 +55,7 @@ Il termine dominante è $7n^{47}$: tutti gli altri addendi sono $o(n^{47})$ per 
 $$a_n = 7n^{47} + o(n^{47}) \ \sim\ 7n^{47}$$
 
 ### Note collegate
+- [[106_Asintotico_e_o_piccolo_per_Funzioni]] (versione per funzioni, L15)
 - [[00_MOC_Analisi_1]]
 - [[40_Confronti_Asintotici]] — ordine di infinito (nozione duale per successioni che divergono)
 - [[36_Gerarchia_degli_Infiniti]]

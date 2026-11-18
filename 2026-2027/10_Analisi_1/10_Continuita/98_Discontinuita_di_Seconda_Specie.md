@@ -1,0 +1,45 @@
+---
+tags:
+  - AM1
+  - continuita
+  - discontinuita
+  - definizione
+  - esempio
+data: 2026-10-28
+lezione: 14
+fonte: "AM1 L14 26-27.pdf (pag. 16-18)"
+---
+
+# Classificazione dei punti di discontinuità — 3) discontinuità di II specie
+
+> [!abstract] Definizione — discontinuità di II specie
+> Se $\exists\displaystyle\lim_{x\to x_0^-}f(x)=\ell_1$ e $\displaystyle\lim_{x\to x_0^+}f(x)=\ell_2$ con almeno uno dei due infinito, oppure se $\nexists$ almeno uno dei due limiti $\displaystyle\lim_{x\to x_0^+}f(x)$, $\displaystyle\lim_{x\to x_0^-}f(x)$ in $\overline{\mathbb{R}}$, allora $x_0$ si dice **punto di discontinuità di II specie**.
+
+## Esempi (con $a\in\mathbb{R}$ valore arbitrario in $x=0$)
+
+> [!example] $f(x)=\begin{cases}\frac1{x}&x\neq0\\a&x=0\end{cases}$
+> ![[Eliminabile1.png]]
+
+
+
+> [!example] $f(x)=\begin{cases}\frac1{x^2}&x\neq0\\a&x=0\end{cases}$
+> ![[Eliminabile2.png]]
+
+> [!example] $f(x)=\begin{cases}e^{1/x}&x\neq0\\a&x=0\end{cases}$
+> ![[Eliminabile3.png]]
+
+> [!example] $f(x)=\begin{cases}\sin\frac1x&x\neq0\\a&x=0\end{cases}$
+> ![[Eliminabile4.png]]
+
+> [!note] Osservazione (non presente negli appunti)
+> Per leggere i limiti dai grafici: in $e^{1/x}$ si ha $\lim_{x\to0^+}=+\infty$ e $\lim_{x\to0^-}=0$; in $1/x$ i limiti laterali sono $+\infty$ e $-\infty$; in $1/x^2$ entrambi $+\infty$; in $\sin\frac1x$ nessuno dei due limiti laterali esiste (oscillazione). In tutti i casi il valore $a$ assegnato in $0$ non cambia il tipo di discontinuità.
+
+## Note collegate
+- [[93_Continuita_in_un_Punto]]
+- [[95_Funzione_di_Dirichlet]]
+- [[96_Discontinuita_Eliminabile_e_Prolungamento_per_Continuita]]
+- [[97_Discontinuita_di_Prima_Specie_a_Salto]]
+- [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]]
+- [[00_MOC_Analisi_1]]
+
+#AM1/continuita/discontinuita-seconda-specie

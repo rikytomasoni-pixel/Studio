@@ -1,0 +1,69 @@
+---
+tags:
+  - funzioni
+  - array
+  - puntatori
+  - tipi-di-dato
+  - indirizzi-di-memoria
+  - FI
+  - programmazione-c
+date: 2026-11-09
+materia: Fondamenti di Informatica
+fonte: Linguaggio C
+---
+# Puntatori a Array
+## Monodimensionali
+``` C
+#include <stdio.h>
+#define DIM 5
+
+void Stampa(int *, int); //posso scrivere anche int [] invece che int *
+int main() {
+	int A[5] = {1, 2, 3, 4, 5};
+	Stampa(A, DIM);
+	
+	return 0;
+}
+
+void Stampa(int *v, int n){ //posso scrivere anche int v[] invece che *v
+	int i;
+	for(i = 0; i < n; i++)
+		printf("%d\n", *(v + i)); //posso scrivere anche v[i] invece che *(v + i)
+}
+```
+## Multidimensionali
+``` C
+#define R 2
+#define C 3
+
+void stampa(double [][C], int, int); //devo sempre sapere la lunghezza delle righe perché la matrice è memorizzata per righe (row major order) e per passare da una riga all'altra serve sapere la lunghezza del salto
+
+int main(){
+	//row major order
+	double mat[R][C] = {{1, 2, 3},
+						{4, 5, 6}};
+	
+	printf("%p\n", mat + 1); //mat + 1 indirizzo della seconda riga
+
+	stampa(mat, R, C);
+}
+void stampa(double M[][C], int r, int c) {
+	int i, j;
+	for(i = 0; i < r; i++){
+		for(j = 0; j < c; j++)
+			printf("%f", M[i][j]);
+		printf("\n");
+	}
+}
+
+```
+
+## Note collegate
+- [[00_MOC_FdI]]
+- [[20_Puntatori]]
+- [[19_Sottoprogrammi_Funzioni]]
+- [[12_Array_Multidimensionali]]
+- [[09_Array_Monodimensionali]]
+- [[23_Puntatori_a_Strutture]]
+
+#FdI/c/puntatori-array

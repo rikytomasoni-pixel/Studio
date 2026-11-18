@@ -61,6 +61,7 @@ $$\begin{cases}AB=\mathrm{Id}_n\\BA=\mathrm{Id}_n\end{cases}\Rightarrow B=A^{-1}
 > - $\det(A)=0$ $\iff$ $r(A)<n$ $\iff$ $A$ non è invertibile né a destra né a sinistra.
 
 ## Note collegate
+- [[141_Composizione_e_Inversione_di_Applicazioni_Lineari]] (matrice inversa e funzione inversa, L17)
 - [[87_Ricerca_della_Matrice_Inversa]]
 - [[86_Teorema_di_Cramer]]
 - [[74_Teorema_di_Binet]]

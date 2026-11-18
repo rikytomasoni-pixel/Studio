@@ -28,6 +28,7 @@ fonte: "GAL_2026-2027_-_20261028_-_LEZIONE_15.pdf"
 - [[129_Fac_simile_iii_Identita_come_Somma_di_un_Elemento_di_V_e_di_W]]
 
 ## Note collegate
+- [[17_Indice_Lezione_16]] (lezione successiva)
 - [[00_MOC_GAL]]
 - [[14_Indice_Lezione_13]] (lezione precedente in vault; la lezione 14 non è presente: slide 118 → 119)
 - Prima nota: [[117_Lemma_Fondamentale_Teorema_15_1]]

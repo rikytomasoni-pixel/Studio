@@ -36,6 +36,7 @@ Il MEG è il modo **EFFICIENTE** per calcolare il rango di una matrice!!
 ![[CalcoloRangoMEG.png]]
 
 ## Note collegate
+- [[130_Riepilogo_sulle_Definizioni_di_Rango]] (L16)
 - [[63_Rango_di_una_Matrice]]
 - [[64_Rango_e_Matrice_di_Probabilita_Congiunta]]
 - [[68_Metodo_di_Eliminazione_di_Gauss]]

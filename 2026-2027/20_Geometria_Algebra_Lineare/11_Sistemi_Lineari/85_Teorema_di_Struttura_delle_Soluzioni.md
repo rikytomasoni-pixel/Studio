@@ -19,6 +19,7 @@ fonte: "GAL_2026-2027_-_20261014_-_LEZIONE_10.pdf (slide 86)"
 In altre parole: l'insieme delle soluzioni è $\underline{v}_0+\ker(A)$, cioè una soluzione particolare più tutte le soluzioni del sistema omogeneo associato ([[84_Nucleo_e_Sistema_Omogeneo_Associato]]).
 
 ## Note collegate
+- [[155_Teorema_20_3_Teorema_della_Fibra]] (caso particolare con $L=L_A$)
 - [[84_Nucleo_e_Sistema_Omogeneo_Associato]]
 - [[82_Teorema_di_Rouche_Capelli]]
 - [[89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini]]

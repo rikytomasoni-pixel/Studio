@@ -39,10 +39,12 @@ Questo rapporto è il coefficiente angolare della retta secante per $(x_1,f(x_1)
 $$m = \dfrac{f(x_2)-f(x_1)}{x_2-x_1} \geq 0$$
 
 $$f \text{ decrescente} \quad\Longleftrightarrow\quad \dfrac{f(x_2)-f(x_1)}{x_2-x_1}\leq 0 \qquad \forall\, x_1,x_2\in\mathcal{D}(f),\ x_2\neq x_1$$
-![[RapportoIncrementale.png]]
+![[99_Tools/Screenshots/Analisi1/Funzioni/RapportoIncrementale.png]]
 *(simile a quanto visto sopra; strettamente toglie l'uguale...)*
 
 ### Note collegate
+- [[115_Teorema_sui_Limiti_di_Funzioni_Monotone]] (L16)
+- [[140_Test_di_Monotonia]]
 - [[00_MOC_Analisi_1]]
 - [[27_Teorema_Monotone_Invertibili]] — le funzioni strettamente monotone sono invertibili
 - [[26_Iniettivita_Suriettivita_Inversa]]

@@ -19,6 +19,7 @@ Esempio visto a lezione: $\left\{\begin{bmatrix}1\\0\\0\end{bmatrix},\begin{bmat
 La proprietà che motiva la definizione (rappresentazione unica) è il [[101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base]].
 
 ## Note collegate
+- [[156_Isomorfismi_Definizione_20_4_e_Conservazione_delle_Basi]] · [[158_Mappa_delle_Coordinate_e_Mappa_di_Parametrizzazione_Definizione_20_6]]
 - [[96_Insieme_di_Generatori]]
 - [[98_Vettori_Linearmente_Indipendenti]]
 - [[101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base]]

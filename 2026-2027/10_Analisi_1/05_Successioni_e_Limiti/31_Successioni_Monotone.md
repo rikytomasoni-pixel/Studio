@@ -90,6 +90,7 @@ che è la definizione di $\lim_{n\to\infty} a_n = +\infty$, con $\sup a_n = +\in
 Ad esempio $a_n = \dfrac{(-1)^n}{n}$ è un controesempio: infatti $a_n$ non è monotona e $\lim_{n\to\infty} a_n = 0$.
 
 ### Note collegate
+- [[115_Teorema_sui_Limiti_di_Funzioni_Monotone]] (versione per funzioni, L16)
 - [[00_MOC_Analisi_1]]
 - [[23_Monotonia]] — monotonia per funzioni reali
 - [[08_Estremo_Superiore_Inferiore]] — assioma di continuità, $\sup$ e $\inf$

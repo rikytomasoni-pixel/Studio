@@ -29,6 +29,7 @@ $$\lim_{n\to\infty} \dfrac{n!}{n^n} = \lim_{n\to\infty} \left(\dfrac{n^n}{n!}\ri
 $$\lim_{n\to\infty} \dfrac{n}{n!} = 0 \qquad \text{per gerarchia degli infiniti}$$
 
 ### Note collegate
+- [[109_Gerarchia_degli_Infiniti_per_Funzioni]] (versione per funzioni, L15)
 - [[00_MOC_Analisi_1]]
 - [[35_Teoremi_del_Confronto]]
 - [[32_Successione_Convergente_e_Limitata]] — esempio progressione geometrica $q^n$
