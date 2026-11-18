@@ -86,8 +86,30 @@ while(fgets(str, DIM, fp) != NULL)
 ```C
 FILE = *fp;
 
+fp = fopen("new_file.bin", "wb");
+//qualsiasi metodo di accesso visto fino ad ora seguito da una 'b'
+if(!fp){
+	printf("Error\n");
+	return -1;
+} 
 ```
-
+### Lettura e scrittura
+```C
+#define DIM 20
+float array[DIM]
+int n;
+for(int i = 0; i < DIM; i++)
+	array[i] = 1.0 / (1 + i);
+```
+- **fread**(*indirizzo di partenza, dimensione in byte di un elemento, # elementi , file pointer*)
+```C
+n = fread(array, sizeof(float), DIM/2, fp);
+printf("H)
+```
+- **fwrite**(*indirizzo di partenza, dimensione in byte di un elemento, # elementi , file pointer*)
+```C
+fwrite(array, sizeof(float), DIM, fp);
+```
 ## Chiusura del file
 ```C
 fclose(fp);
