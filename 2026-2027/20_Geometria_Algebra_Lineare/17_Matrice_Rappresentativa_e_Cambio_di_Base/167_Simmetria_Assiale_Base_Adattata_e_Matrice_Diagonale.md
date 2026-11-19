@@ -17,21 +17,19 @@ $L:\mathbb{R}^2\to\mathbb{R}^2$ simmetria assiale (esempio di [[166_Esempio_Simm
 - $\vec{v}$ sulla retta: $L(\vec{v})=\vec{v}$.
 - $\vec{w}$ perpendicolare alla retta: $L(\vec{w})=-\vec{w}$.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE (slide 186)
-> Cerca nelle slide: due figure con la retta blu passante per $O$. Sinistra: vettore $\vec{v}$ (arancione) lungo la retta, con $L(\vec{v})$ coincidente. Destra: vettore $\vec{w}$ (verde) perpendicolare alla retta (angolo retto) e $L(\vec{w})=-\vec{w}$ dalla parte opposta.
+![[nota167disegno.png]]
 
-## Matrice rispetto alla base $\mathcal{e}=\{\vec{v},\vec{w}\}$
-$$B=M_{\mathcal{e}}^{\mathcal{e}}(L)=\begin{bmatrix}1&0\\0&-1\end{bmatrix}\in M_{\mathbb{R}}(2,2)$$
+## Matrice rispetto alla base $\mathcal{C}=\{\vec{v},\vec{w}\}$
+$$B=M_{\mathcal{C}}^{\mathcal{C}}(L)=\begin{bmatrix}1&0\\0&-1\end{bmatrix}\in M_{\mathbb{R}}(2,2)$$
 (colonne $L(\vec{v})$, $L(\vec{w})$; righe $\vec{v}$, $\vec{w}$).
 
-- $\vec{v}$: $L(\vec{v})=\vec{v}=\mathbf{1}\vec{v}+\mathbf{0}\vec{w}$, $\ \mathcal{X}_{\mathcal{e}}(L(\vec{v}))=\begin{bmatrix}1\\0\end{bmatrix}$.
-- $\vec{w}$: $L(\vec{w})=-\vec{w}=\mathbf{0}\vec{v}+(\mathbf{-1})\vec{w}$, $\ \mathcal{X}_{\mathcal{e}}(L(\vec{w}))=\begin{bmatrix}0\\-1\end{bmatrix}$.
+- $\vec{v}$: $L(\vec{v})=\vec{v}=\mathbf{1}\vec{v}+\mathbf{0}\vec{w}$, $\ \mathcal{X}_{\mathcal{C}}(L(\vec{v}))=\begin{bmatrix}1\\0\end{bmatrix}$.
+- $\vec{w}$: $L(\vec{w})=-\vec{w}=\mathbf{0}\vec{v}+(\mathbf{-1})\vec{w}$, $\ \mathcal{X}_{\mathcal{C}}(L(\vec{w}))=\begin{bmatrix}0\\-1\end{bmatrix}$.
 
 ## Confronto tra le due rappresentazioni
-$$\mathcal{B}=\{\vec{i},\vec{j}\}:\ A=M_{\mathcal{B}}^{\mathcal{B}}(L)=\begin{bmatrix}\cos2\theta&\sin2\theta\\\sin2\theta&-\cos2\theta\end{bmatrix}\qquad\mathcal{e}=\{\vec{v},\vec{w}\}:\ B=M_{\mathcal{e}}^{\mathcal{e}}(L)=\begin{bmatrix}1&0\\0&-1\end{bmatrix}$$
+$$\mathcal{B}=\{\vec{i},\vec{j}\}:\ A=M_{\mathcal{B}}^{\mathcal{B}}(L)=\begin{bmatrix}\cos2\theta&\sin2\theta\\\sin2\theta&-\cos2\theta\end{bmatrix}\qquad\mathcal{C}=\{\vec{v},\vec{w}\}:\ B=M_{\mathcal{C}}^{\mathcal{C}}(L)=\begin{bmatrix}1&0\\0&-1\end{bmatrix}$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE (slide 187)
-> Cerca nelle slide: due piani con griglia tratteggiata. Sinistra: base $\mathcal{B}=\{\vec{i},\vec{j}\}$ (frecce rosse), la retta blu e il vettore $\vec{u}$ (verde). Destra: lo stesso piano con la griglia ruotata secondo $\mathcal{e}=\{\vec{v},\vec{w}\}$ (frecce viola, $\vec{v}$ lungo la retta), con $\vec{u}$ e $L(\vec{u})$ (verdi) e le coordinate indicate: $1-\varepsilon_2$, $-(1-\varepsilon_2)$, $2+\varepsilon_1$.
+![[simmetriaConBasi.png]]
 
 > [!note] OSS 1
 > La matrice $B$ è **diagonale**, quindi contiene molti zeri $\Rightarrow$ vantaggio in **spazio di memoria**.
@@ -40,8 +38,8 @@ $$\mathcal{B}=\{\vec{i},\vec{j}\}:\ A=M_{\mathcal{B}}^{\mathcal{B}}(L)=\begin{bm
 > - Con $\mathcal{B}$ (per $\mathcal{X}_{\mathcal{B}}(\vec{u})=\begin{bmatrix}2\\2\end{bmatrix}$):
 > $$A\,\mathcal{X}_{\mathcal{B}}(\vec{u})=\begin{bmatrix}\cos2\theta&\sin2\theta\\\sin2\theta&-\cos2\theta\end{bmatrix}\begin{bmatrix}2\\2\end{bmatrix}=\begin{bmatrix}2\cos2\theta+2\sin2\theta\\2\sin2\theta-2\cos2\theta\end{bmatrix}$$
 > **4 prodotti, 2 somme**.
-> - Con $\mathcal{e}$ (per $\mathcal{X}_{\mathcal{e}}(\vec{u})=\begin{bmatrix}2+\varepsilon_1\\1-\varepsilon_2\end{bmatrix}$):
-> $$B\,\mathcal{X}_{\mathcal{e}}(\vec{u})=\begin{bmatrix}1&0\\0&-1\end{bmatrix}\begin{bmatrix}2+\varepsilon_1\\1-\varepsilon_2\end{bmatrix}=\begin{bmatrix}1\,(2+\varepsilon_1)\\(-1)(1-\varepsilon_2)\end{bmatrix}=\begin{bmatrix}2+\varepsilon_1\\-(1-\varepsilon_2)\end{bmatrix}$$
+> - Con $\mathcal{C}$ (per $\mathcal{X}_{\mathcal{C}}(\vec{u})=\begin{bmatrix}2+\varepsilon_1\\1-\varepsilon_2\end{bmatrix}$):
+> $$B\,\mathcal{X}_{\mathcal{C}}(\vec{u})=\begin{bmatrix}1&0\\0&-1\end{bmatrix}\begin{bmatrix}2+\varepsilon_1\\1-\varepsilon_2\end{bmatrix}=\begin{bmatrix}1\,(2+\varepsilon_1)\\(-1)(1-\varepsilon_2)\end{bmatrix}=\begin{bmatrix}2+\varepsilon_1\\-(1-\varepsilon_2)\end{bmatrix}$$
 > **2 prodotti, 0 somme**.
 
 > [!tip] Morale

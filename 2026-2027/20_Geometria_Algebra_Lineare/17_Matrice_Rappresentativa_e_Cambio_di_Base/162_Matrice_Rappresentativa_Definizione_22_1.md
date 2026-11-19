@@ -20,8 +20,6 @@ fonte: "GAL 2026-2027 - 20261118 - LEZIONE 22.pdf (slide 178)"
 > [!note] Lettura per colonne
 > La $j$-esima colonna di $A$ è $\mathcal{X}_{\mathcal{C}}(L(\underline{v}_j))$: è la costruzione ottenuta in [[161_Obiettivo_Costruire_la_Matrice_del_Paradigma]].
 
-(Nelle slide la base di $W$ è indicata con $\mathcal{e}$; qui $\mathcal{C}$ come nel paradigma.)
-
 ## Note collegate
 - [[161_Obiettivo_Costruire_la_Matrice_del_Paradigma]]
 - [[163_Esempio_Matrice_Rappresentativa_del_Prodotto_a_Sinistra_per_una_Matrice]]

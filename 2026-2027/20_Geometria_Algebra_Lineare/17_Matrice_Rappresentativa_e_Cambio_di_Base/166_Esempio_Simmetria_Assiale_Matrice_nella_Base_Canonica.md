@@ -7,12 +7,12 @@ fonte: "GAL 2026-2027 - 20261118 - LEZIONE 22.pdf (slide 183-184)"
 
 # Esempio: simmetria assiale in $\mathbb{R}^2$, matrice nella base canonica
 
-$L:\mathbb{R}^2\to\mathbb{R}^2$ simmetria assiale rispetto a una retta. Voglio interpretare $L$ come **applicazione lineare**: i punti devono essere interpretati come **vettori**, quindi fisso un'origine $O$ del sistema.
+$L:\mathbb{R}^2\to\mathbb{R}^2$ simmetria assiale rispetto a una retta. Voglio interpretare $L$ come **applicazione lineare**: i punti devono essere interpretati come **vettori**, quindi fisso un'origine $O$ del sistema.![[vettoriSpostamentoPerSimmetriaAsse.png]]
 
 > [!warning] N.B.
 > Affinché $L$ sia un'applicazione lineare devo prendere l'origine **appartenente alla retta**.
 
-Voglio una matrice rappresentativa: devo scegliere le basi per descrivere i vettori. Parto con la base canonica, cioè il riferimento cartesiano $\{O,\vec{i},\vec{j}\}$:
+Voglio una matrice rappresentativa: devo scegliere le basi per descrivere i vettori. Parto con la base canonica, cioè il riferimento cartesiano $\{O,\vec{i},\vec{j}\}$:![[VettoriSpostamentoPerSimmetriaConAsse.png]]
 $$\mathcal{B}=\{\vec{i},\vec{j}\},\qquad A=M_{\mathcal{B}}^{\mathcal{B}}(L)\in M_{\mathbb{R}}(2,2).$$
 
 $$\begin{array}{ccc}
@@ -24,6 +24,7 @@ $$\begin{array}{ccc}
 $$A=\Big[\,\mathcal{X}_{\mathcal{B}}(L(\vec{i}))\,\Big|\,\mathcal{X}_{\mathcal{B}}(L(\vec{j}))\,\Big]$$
 
 La retta forma un angolo $\theta$ con l'asse $x$.
+![[SimmetriaConAngoli1.png]]
 
 **Vettore $\vec{i}$.** $\vec{i}$ forma un angolo $\theta$ con la retta, quindi $L(\vec{i})$ è $\vec{i}$ ruotato di $2\theta$:
 $$L(\vec{i})=1\cdot\cos(2\theta)\,\vec{i}+1\cdot\sin(2\theta)\,\vec{j},\qquad\mathcal{X}_{\mathcal{B}}(L(\vec{i}))=\begin{bmatrix}\cos2\theta\\\sin2\theta\end{bmatrix}.$$
@@ -33,10 +34,9 @@ $$\begin{aligned}L(\vec{j})&=\cos\!\Big(\tfrac{\pi}{2}-2\big(\tfrac{\pi}{2}-\the
 
 $$\boxed{A=\begin{bmatrix}\cos(2\theta)&\sin(2\theta)\\\sin(2\theta)&-\cos(2\theta)\end{bmatrix}}$$
 
-![[vettoriSpostamentoPerSimmetriaAsse.png]]
 
-> [!warning] DISEGNO NON RAPPRESENTABILE (slide 184)
-> Cerca nelle slide: due figure con assi cartesiani e retta blu inclinata di $\theta$. Prima figura: $\vec{i}$ (rosso) e $L(\vec{i})$ (verde), con gli angoli $\theta$ indicati in viola. Seconda figura: $\vec{j}$ (rosso) e $L(\vec{j})$ (verde), con la rotazione $-(\pi/2-\theta)$ indicata due volte in viola.
+
+![[SimmetriaAngoli2.png]]
 
 ## Note collegate
 - [[165_Dipendenza_della_Matrice_Rappresentativa_dalle_Basi]]

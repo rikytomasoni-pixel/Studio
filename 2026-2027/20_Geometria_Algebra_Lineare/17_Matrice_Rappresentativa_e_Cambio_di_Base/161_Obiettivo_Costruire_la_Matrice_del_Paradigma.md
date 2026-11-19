@@ -15,7 +15,7 @@ fonte: "GAL 2026-2027 - 20261118 - LEZIONE 22.pdf (slide 176-177)"
 > Usare le matrici per studiare **tutte** le applicazioni lineari tra spazi vettoriali finitamente generati.
 
 ## Paradigma
-$V,W$ spazi vettoriali finitamente generati su un campo $\mathbb{K}$, $L:V\to W$ applicazione lineare, $\mathcal{B}=\{\underline{v}_1,\dots,\underline{v}_n\}$ base di $V$ ($\dim V=n$), $\mathcal{C}=\{\underline{w}_1,\dots,\underline{w}_m\}$ base di $W$ ($\dim W=m$) (nelle slide la base di $W$ è indicata con $\mathcal{e}$; qui la chiamo $\mathcal{C}$ come in [[160_Paradigma_Rappresentare_una_Applicazione_Lineare_con_una_Matrice]]).
+$V,W$ spazi vettoriali finitamente generati su un campo $\mathbb{K}$, $L:V\to W$ applicazione lineare, $\mathcal{B}=\{\underline{v}_1,\dots,\underline{v}_n\}$ base di $V$ ($\dim V=n$), $\mathcal{C}=\{\underline{w}_1,\dots,\underline{w}_m\}$ base di $W$ ($\dim W=m$).
 
 $$\begin{array}{ccc}
 V&\xrightarrow{\ \ L\ \ }&W\\

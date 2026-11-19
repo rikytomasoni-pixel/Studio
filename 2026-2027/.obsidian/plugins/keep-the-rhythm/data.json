@@ -5330,11 +5330,44 @@
         "changes": [
           {
             "timeKey": "17:35",
-            "w": -55,
-            "c": -266
+            "w": -54,
+            "c": -220
+          },
+          {
+            "timeKey": "17:40",
+            "w": -56,
+            "c": -306
           }
         ],
         "id": 511
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base/167_Simmetria_Assiale_Base_Adattata_e_Matrice_Diagonale.md",
+        "wordCountStart": 568,
+        "charCountStart": 4115,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": -121,
+            "c": -750
+          }
+        ],
+        "id": 512
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base/168_Matrice_del_Cambio_di_Base_Definizione_23_1.md",
+        "wordCountStart": 621,
+        "charCountStart": 3971,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": -176,
+            "c": -906
+          }
+        ],
+        "id": 513
       }
     ]
   }

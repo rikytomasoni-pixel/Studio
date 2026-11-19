@@ -9,12 +9,12 @@ fonte: "GAL 2026-2027 - 20261119 - LEZIONE 23.pdf (slide 192)"
 
 Ci concentriamo sul caso specifico $L:V\to V$. Se un'applicazione lineare ha dominio e codominio uguali, parliamo di $L$ come di un **endomorfismo**.
 
-Considero due basi di $V$: $\mathcal{B}$ e $\mathcal{e}$, e il diagramma:
+Considero due basi di $V$: $\mathcal{B}$ e $\mathcal{C}$, e il diagramma:
 
-$$A=M_{\mathcal{B}}^{\mathcal{B}}(L),\qquad B=M_{\mathcal{e}}^{\mathcal{e}}(L),\qquad P=M_{\mathcal{e}}^{\mathcal{B}}(\mathrm{id})$$
+$$A=M_{\mathcal{B}}^{\mathcal{B}}(L),\qquad B=M_{\mathcal{C}}^{\mathcal{C}}(L),\qquad P=M_{\mathcal{C}}^{\mathcal{B}}(\mathrm{id})$$
 
 > [!warning] DISEGNO NON RAPPRESENTABILE (slide 192)
-> Cerca nelle slide: il diagramma di cambio di base dell'esempio della simmetria, ma in generale: $V\xrightarrow{L}V$ in alto con $\mathcal{X}_{\mathcal{e}}$, $\mathcal{X}_{\mathcal{B}}$ su ciascun lato; in basso a sinistra freccia verde $B$ tra le copie di $\mathbb{K}^n$ in coordinate $\mathcal{e}$, frecce blu $P$ verso le coordinate $\mathcal{B}$, freccia viola $A$ in basso.
+> Cerca nelle slide: il diagramma di cambio di base dell'esempio della simmetria, ma in generale: $V\xrightarrow{L}V$ in alto con $\mathcal{X}_{\mathcal{C}}$, $\mathcal{X}_{\mathcal{B}}$ su ciascun lato; in basso a sinistra freccia verde $B$ tra le copie di $\mathbb{K}^n$ in coordinate $\mathcal{C}$, frecce blu $P$ verso le coordinate $\mathcal{B}$, freccia viola $A$ in basso.
 
 > [!note] OSS
 > $L:V\to V\ \Rightarrow$ le matrici rappresentative sono sempre **quadrate**: $A,B,P\in M_{\mathbb{K}}(n,n)$.
