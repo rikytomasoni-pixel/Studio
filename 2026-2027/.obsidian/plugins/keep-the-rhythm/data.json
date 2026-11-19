@@ -5365,9 +5365,61 @@
             "timeKey": "17:45",
             "w": -176,
             "c": -906
+          },
+          {
+            "timeKey": "17:55",
+            "w": 1,
+            "c": 26
+          },
+          {
+            "timeKey": "18:00",
+            "w": 1,
+            "c": 49
           }
         ],
         "id": 513
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/18_Endomorfismi_Similitudine_e_Diagonalizzazione/171_Endomorfismi_e_Matrici_Rappresentative.md",
+        "wordCountStart": 207,
+        "charCountStart": 1566,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": -69,
+            "c": -402
+          }
+        ],
+        "id": 514
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/18_Endomorfismi_Similitudine_e_Diagonalizzazione/173_La_Similitudine_tra_Matrici_e_una_Relazione_di_Equivalenza.md",
+        "wordCountStart": 239,
+        "charCountStart": 1671,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": -41,
+            "c": -235
+          }
+        ],
+        "id": 515
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base/169_Esempio_Cambio_di_Base_per_la_Simmetria_Assiale.md",
+        "wordCountStart": 434,
+        "charCountStart": 3168,
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": -136,
+            "c": -788
+          }
+        ],
+        "id": 516
       }
     ]
   }

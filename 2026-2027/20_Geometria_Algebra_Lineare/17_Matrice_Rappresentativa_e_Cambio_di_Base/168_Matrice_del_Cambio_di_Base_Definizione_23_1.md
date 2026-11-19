@@ -21,10 +21,10 @@ V&\xlongequal{\ \ \mathrm{id}\ \ }&V\\
 \mathcal{X}_{\mathcal{B}_2}\downarrow&&\downarrow\mathcal{X}_{\mathcal{B}_1}\\
 \mathbb{K}^n&\overset{M_{\mathcal{B}_2}^{\mathcal{B}_1}(\mathrm{id})}{\dashrightarrow}&\mathbb{K}^n
 \end{array}$$
-
+![[MatriceCambioBase.png]]
 > [!abstract] Definizione 23.1 (matrice del cambio di base)
 > Date due basi $\mathcal{B}_1$ e $\mathcal{B}_2$ di uno spazio vettoriale $V$, la matrice $M_{\mathcal{B}_2}^{\mathcal{B}_1}(\mathrm{id})$ che rappresenta la funzione identità rispetto a $\mathcal{B}_2$ (dominio) e $\mathcal{B}_1$ (codominio) si dice **matrice del cambio di base da $\mathcal{B}_2$ a $\mathcal{B}_1$**.
-
+![[relazioniMatriciRappresentativeCambiBase.png]]
 ## Proprietà
 - $\mathcal{B}_1\neq\mathcal{B}_2\ \Rightarrow\ M_{\mathcal{B}_2}^{\mathcal{B}_1}(\mathrm{id})\neq\mathrm{Id}_n$.
 - $M_{\mathcal{B}_2}^{\mathcal{B}_1}(\mathrm{id})$ è **invertibile** e $\ M_{\mathcal{B}_2}^{\mathcal{B}_1}(\mathrm{id})^{-1}=M_{\mathcal{B}_1}^{\mathcal{B}_2}(\mathrm{id})$.

@@ -27,8 +27,7 @@ $$C=S^{-1}BS=S^{-1}(P^{-1}AP)S=\dots=(PS)^{-1}A\,(PS)\ \Rightarrow\ A,C\text{ si
 Ogni **strato** (classe di equivalenza) contiene matrici simili. Lo strato contenente $A$ è
 $$[A]=\{B\in M_{\mathbb{K}}(n,n)\mid A,B\text{ sono simili}\}.$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE (slide 193)
-> Cerca nelle slide: un'ellisse blu che rappresenta $M_{\mathbb{K}}(n,n)$, divisa da curve in tanti strati (classi di similitudine), con un punto $A$ nel primo strato a sinistra e puntini di sospensione a destra.
+![[StratodiMatriciSimili.png]]
 
 ## Note collegate
 - [[172_Matrici_Simili_Definizione_23_2]]
