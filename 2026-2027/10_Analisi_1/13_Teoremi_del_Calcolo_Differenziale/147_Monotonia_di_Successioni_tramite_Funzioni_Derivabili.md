@@ -25,14 +25,12 @@ $$a_n=f(n)\le f(n+1)=a_{n+1}\quad(\text{crescente})\qquad a_n=f(n)\ge f(n+1)=a_{
 
 Per dimostrare che $f$ sia crescente/decrescente è sufficiente che $f$ sia derivabile e $f'(x)\ge0\ /\ f'(x)\le0$ per ogni $x\in[0,\infty)$, grazie al [[140_Test_di_Monotonia|test di monotonia]].
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> Pag. 10 (in alto): grafico di una funzione $f$ decrescente (curva blu, parte dal semiasse $y$ e tende verso l'asse $x$) con sopra dei punti rossi sulla curva in corrispondenza dei numeri naturali $n$, indicati come $a_n$. Cercare/rifare il grafico di una funzione decrescente con i punti $(n,a_n)$ sulla curva.
+![[corrispondenzaFunzioneSuccessione.png]]
 
 > [!warning] Condizione solo sufficiente
 > Questa è una condizione **sufficiente**: può accadere che $a_n$ sia monotona e che una funzione $f$ che ne interpola i valori non lo sia.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> Pag. 10 (al centro): grafico di una funzione $f$ oscillante (curva blu che scende, risale e riscende più volte) con i punti rossi $(n,a_n)$ che stanno su una successione decrescente, mentre la curva tra un punto e l'altro oscilla. Cercare/rifare un grafico di funzione oscillante che passa per punti decrescenti.
+![[esempioPag10L19.png]]
 
 ## Esempio: $a_n=\dfrac{\log n}{n}$, $n\ge1$
 
@@ -40,6 +38,7 @@ Sia $f:(0,\infty)\to\mathbb{R}$, $f(x)=\dfrac{\log x}{x}$. Allora
 $$f'(x)=\frac{1-\log x}{x^2}\qquad\forall x>0$$
 $$f'(x)\ge0\iff1-\log x\ge0\iff0<x\le e$$
 Quindi $f$ **cresce** in $(0,e]$ e **decresce** in $[e,\infty)$.
+![[MassimoLogxsuX.png]]
 
 ![[LogXsuX.png]]
 

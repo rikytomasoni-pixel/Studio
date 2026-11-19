@@ -5261,6 +5261,80 @@
           }
         ],
         "id": 506
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "00_Claude_Workspace/Recap_2026-11-19_AM1_L19.md",
+        "wordCountStart": 688,
+        "charCountStart": 5466,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": -688,
+            "c": -5466
+          }
+        ],
+        "id": 507
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili.md",
+        "wordCountStart": 585,
+        "charCountStart": 3898,
+        "changes": [
+          {
+            "timeKey": "17:20",
+            "w": -55,
+            "c": -311
+          },
+          {
+            "timeKey": "17:25",
+            "w": -52,
+            "c": -294
+          },
+          {
+            "timeKey": "17:30",
+            "w": -2,
+            "c": -13
+          }
+        ],
+        "id": 508
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "00_Claude_Workspace/Recap_2026-11-19_GAL_L22-L23.md",
+        "wordCountStart": 814,
+        "charCountStart": 6319,
+        "changes": [],
+        "id": 509
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base/165_Dipendenza_della_Matrice_Rappresentativa_dalle_Basi.md",
+        "wordCountStart": 197,
+        "charCountStart": 1902,
+        "changes": [
+          {
+            "timeKey": "17:30",
+            "w": -51,
+            "c": -279
+          }
+        ],
+        "id": 510
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base/166_Esempio_Simmetria_Assiale_Matrice_nella_Base_Canonica.md",
+        "wordCountStart": 494,
+        "charCountStart": 3313,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": -55,
+            "c": -266
+          }
+        ],
+        "id": 511
       }
     ]
   }

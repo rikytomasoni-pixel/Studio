@@ -8,20 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "299b7e74e490a34b",
+            "id": "ac8f0c0c7152dec3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
-                "mode": "preview",
+                "file": "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base/166_Esempio_Simmetria_Assiale_Matrice_nella_Base_Canonica.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25_Gestione_File"
+              "title": "166_Esempio_Simmetria_Assiale_Matrice_nella_Base_Canonica"
+            }
+          },
+          {
+            "id": "484f72a2a3fda871",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261118 - LEZIONE 22.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GAL 2026-2027 - 20261118 - LEZIONE 22"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,14 +252,23 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0ba7c57d61bd7477",
+  "active": "484f72a2a3fda871",
   "lastOpenFiles": [
-    "00_Claude_Workspace/sedjj2wmL",
-    "00_Claude_Workspace/Recap_2026-11-19_GAL_L22-L23.md",
-    "00_Claude_Workspace/Recap_2026-11-19_AM1_L19.md",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261119 - LEZIONE 23.pdf",
+    "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base/166_Esempio_Simmetria_Assiale_Matrice_nella_Base_Canonica.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261118 - LEZIONE 22.pdf",
+    "99_Tools/Screenshots/GAL/vettoriSpostamentoPerSimmetriaAsse.png",
+    "00_Claude_Workspace/Recap_2026-11-19_GAL_L22-L23.md",
+    "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base/165_Dipendenza_della_Matrice_Rappresentativa_dalle_Basi.md",
+    "99_Tools/Screenshots/GAL/simmetriaRispettoAllAsse.png",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261119 - LEZIONE 23.pdf",
+    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili.md",
+    "99_Tools/Screenshots/Analisi1/Funzioni/MassimoLogxsuX.png",
     "90_Lezioni_pdf/A1/AM1 L19 26-27.pdf",
+    "00_Claude_Workspace/Recap_2026-11-19_AM1_L19.md",
+    "99_Tools/Screenshots/Analisi1/Funzioni/esempioPag10L19.png",
+    "99_Tools/Screenshots/Analisi1/Funzioni/corrispondenzaFunzioneSuccessione.png",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
+    "00_Claude_Workspace/sedjj2wmL",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/24_Indice_Lezione_23.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/23_Indice_Lezione_22.md",
     "20_Geometria_Algebra_Lineare/18_Endomorfismi_Similitudine_e_Diagonalizzazione/174_Matrici_Diagonalizzabili_Definizione_23_3.md",
@@ -267,10 +289,6 @@
     "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione",
     "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/151_Discontinuita_della_Funzione_Derivata.md",
     "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/150_Osservazioni_sul_Prolungamento_della_Derivata.md",
-    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/149_Dimostrazione_del_Teorema_di_Prolungamento_della_Derivata.md",
-    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/148_Teorema_di_Prolungamento_della_Derivata_Prima.md",
-    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili.md",
-    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/146_Test_di_Monotonia_e_Estremi_Locali.md",
     "20_Geometria_Algebra_Lineare/18_Endomorfismi_Similitudine_e_Diagonalizzazione",
     "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base",
     "90_Lezioni_pdf/A1/AM1 L18 26-27.pdf",
@@ -281,12 +299,6 @@
     "99_Tools/Screenshots/Analisi1/Funzioni/xquadratosin1sux.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/GraficoxCubo.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/funzioneconsalto.png",
-    "00_Claude_Workspace/sedPGLdvx",
-    "99_Tools/Screenshots/Analisi1/Funzioni/graphXsin1suX.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/Cuspidi.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/flessiVerticali.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/graphAbs.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/sgnx.png",
     "Senza nome.canvas"
   ]
 }

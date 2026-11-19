@@ -33,8 +33,7 @@ $$\begin{aligned}L(\vec{j})&=\cos\!\Big(\tfrac{\pi}{2}-2\big(\tfrac{\pi}{2}-\the
 
 $$\boxed{A=\begin{bmatrix}\cos(2\theta)&\sin(2\theta)\\\sin(2\theta)&-\cos(2\theta)\end{bmatrix}}$$
 
-> [!warning] DISEGNO NON RAPPRESENTABILE (slide 183)
-> Cerca nelle slide: la figura della simmetria con origine $O$ sulla retta, i vettori $\vec{v}_P$ (da $O$ a $P$) e $\vec{v}_{L(P)}$ (da $O$ a $L(P)$), la distanza $d$ e l'angolo retto; sotto, la stessa figura con gli assi cartesiani $x,y$ passanti per $O$.
+![[vettoriSpostamentoPerSimmetriaAsse.png]]
 
 > [!warning] DISEGNO NON RAPPRESENTABILE (slide 184)
 > Cerca nelle slide: due figure con assi cartesiani e retta blu inclinata di $\theta$. Prima figura: $\vec{i}$ (rosso) e $L(\vec{i})$ (verde), con gli angoli $\theta$ indicati in viola. Seconda figura: $\vec{j}$ (rosso) e $L(\vec{j})$ (verde), con la rotazione $-(\pi/2-\theta)$ indicata due volte in viola.

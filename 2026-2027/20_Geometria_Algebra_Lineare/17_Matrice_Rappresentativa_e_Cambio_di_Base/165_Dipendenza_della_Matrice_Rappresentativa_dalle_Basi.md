@@ -21,8 +21,7 @@ fonte: "GAL 2026-2027 - 20261118 - LEZIONE 22.pdf (slide 182)"
 ## Esempio (potenzialità)
 Uso l'algebra lineare per un problema geometrico: $L:\mathbb{R}^2\to\mathbb{R}^2$ **simmetria assiale** rispetto a una retta. Sviluppo in [[166_Esempio_Simmetria_Assiale_Matrice_nella_Base_Canonica]].
 
-> [!warning] DISEGNO NON RAPPRESENTABILE (slide 182)
-> Cerca nelle slide: retta blu nel piano, punto $P$ sopra la retta, punto $L(P)$ simmetrico sotto la retta; i due segmenti da $P$ e $L(P)$ alla retta sono perpendicolari alla retta (simbolo di angolo retto) e hanno la stessa lunghezza $d$ (indicata in verde).
+![[simmetriaRispettoAllAsse.png]]
 
 ## Note collegate
 - [[162_Matrice_Rappresentativa_Definizione_22_1]]
