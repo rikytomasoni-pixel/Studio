@@ -263,7 +263,7 @@ flowchart TD
 > [!question] Checkpoint
 > Sai calcolare un determinante $4\times4$ con il metodo misto e dire perché scambiare due righe cambia il segno?
 
-- [ ] [[65_Determinante_Sviluppo_di_Laplace]] — Laplace *(L6)*
+- [x] [[65_Determinante_Sviluppo_di_Laplace]] — Laplace *(L6)*
 - [ ] [[66_Matrici_Triangolari]] — triangolari *(L6)*
 - [ ] [[76_Determinante_Normalizzato_e_Alternante]] — normalizzato, alternante *(L7)*
 - [ ] [[77_Determinante_Multilineare]] — multilineare *(L7)*

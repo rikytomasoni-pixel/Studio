@@ -155,7 +155,7 @@ flowchart TD
 - [x] [[13_Numeri_Complessi]] — forma algebrica, operazioni *(L3)* ✅ 2026-11-13
 - [x] [[14_Piano_di_Argand_Gauss]] — interpretazione geometrica *(L3)* ✅ 2026-11-13
 - [x] [[15_Forma_Trigonometrica_Esponenziale]] — modulo, argomento, Eulero *(L3, L4)* ✅ 2026-11-13
-- [ ] [[16_Formule_di_De_Moivre]] — prodotti e potenze (D3) *(L4)*
+- [x] [[16_Formule_di_De_Moivre]] — prodotti e potenze (D3) *(L4)* ✅ 2026-11-19
 - [ ] [[17_Radici_Complesse]] — radici $n$-esime (D4) *(L4)*
 - [x] [[18_Equazioni_in_C]] — equazioni in $\mathbb{C}$ *(L3, L4)* ✅ 2026-11-13
 
@@ -247,13 +247,13 @@ flowchart TD
 > [!question] Checkpoint
 > Sai calcolare $\lim n\sin(1/n)$ e $\lim n^2\bigl(\sqrt{1+1/n^2}-1\bigr)$ con gli asintotici?
 
-- [ ] [[40_Confronti_Asintotici]] — definizione di $\sim$ *(L8)*
-- [ ] [[41_o_piccolo_e_Asintotico]] — $o$-piccolo *(L8)*
+- [x] [[40_Confronti_Asintotici]] — definizione di $\sim$ *(L8)* ✅ 2026-11-19
+- [x] [[41_o_piccolo_e_Asintotico]] — $o$-piccolo *(L8)* ✅ 2026-11-19
 - [ ] [[42_Confronti_Asintotici_Proprieta_e_Notevoli]] — proprietà e notevoli *(L9)*
-- [ ] [[43_Asintotici_con_Funzioni_Composte]] — composizione con funzioni *(L10)*
+- [x] [[43_Asintotici_con_Funzioni_Composte]] — composizione con funzioni *(L10)* ✅ 2026-11-19
 - [x] [[44_Esempio_Asintotici_con_Logaritmo_e_Arctan]] — esempio guidato *(L10)* ✅ 2026-11-13
 - [x] [[45_Esercizio_Asintotici_Limite_21]] — esercizio *(L10)* ✅ 2026-11-13
-- [ ] [[46_Asintotici_Notevoli_e_Limiti_Notevoli]] — raccolta *(L10)*
+- [x] [[46_Asintotici_Notevoli_e_Limiti_Notevoli]] — raccolta *(L10)* ✅ 2026-11-19
 - [ ] [[68_Formula_di_Stirling]] — $n!\sim\sqrt{2\pi n}(n/e)^n$ *(L11)*
 
 ---
@@ -275,16 +275,16 @@ flowchart TD
 > [!question] Checkpoint
 > Perché $\sum 1/n$ diverge anche se $1/n\to0$? Sai calcolare $\sum\frac1{n(n+1)}$?
 
-- [ ] [[47_Serie_Introduzione_e_Somme_Parziali]] — definizione *(L10)*
-- [ ] [[48_Studio_del_Carattere_di_una_Serie]] — carattere *(L10)*
+- [x] [[47_Serie_Introduzione_e_Somme_Parziali]] — definizione *(L10)* ✅ 2026-11-19
+- [x] [[48_Studio_del_Carattere_di_una_Serie]] — carattere *(L10)* ✅ 2026-11-19
 - [x] [[49_Esempi_Elementari_di_Serie]] — esempi *(L10)* ✅ 2026-11-13
-- [ ] [[50_Serie_Geometrica]] — geometrica *(L10)*
-- [ ] [[51_Rappresentazione_Decimale_e_Serie]] — $0{,}\overline9=1$ *(L10)*
-- [ ] [[52_Linearita_delle_Serie]] — linearità *(L10)*
-- [ ] [[53_Serie_Telescopiche_e_Mengoli]] — telescopiche, Mengoli *(L10)*
+- [x] [[50_Serie_Geometrica]] — geometrica *(L10)* ✅ 2026-11-19
+- [x] [[51_Rappresentazione_Decimale_e_Serie]] — $0{,}\overline9=1$ *(L10)* ✅ 2026-11-19
+- [x] [[52_Linearita_delle_Serie]] — linearità *(L10)* ✅ 2026-11-19
+- [x] [[53_Serie_Telescopiche_e_Mengoli]] — telescopiche, Mengoli *(L10)* ✅ 2026-11-19
 - [ ] [[54_Condizione_Necessaria_di_Convergenza]] — $a_n\to0$ (D10) *(L10)*
-- [ ] [[55_Serie_Armonica]] — armonica *(L10)*
-- [ ] [[56_Resto_N-esimo_della_Serie]] — resto *(L11)*
+- [x] [[55_Serie_Armonica]] — armonica *(L10)* ✅ 2026-11-19
+- [x] [[56_Resto_N-esimo_della_Serie]] — resto *(L11)* ✅ 2026-11-19
 
 ---
 
@@ -305,15 +305,15 @@ flowchart TD
 > [!question] Checkpoint
 > Dato $\sum\frac{n^a}{b^n}$ o $\sum\frac{\log^b n}{n^a}$, sai dire per quali parametri converge e con quale criterio?
 
-- [ ] [[57_Serie_a_Termini_Positivi]] — regolarità *(L11)*
+- [x] [[57_Serie_a_Termini_Positivi]] — regolarità *(L11)* ✅ 2026-11-19
 - [ ] [[58_Criterio_del_Confronto_per_Serie]] — confronto (D11) *(L11)*
 - [x] [[59_Esempio_Confronto_Serie_18_cos_n]] — esempio *(L11)* ✅ 2026-11-13
-- [ ] [[60_Serie_Armonica_Generalizzata]] — $\sum n^{-\alpha}$ *(L11)*
-- [ ] [[61_Serie_di_Bertrand_Generalizzata]] — Bertrand *(L11)*
+- [x] [[60_Serie_Armonica_Generalizzata]] — $\sum n^{-\alpha}$ *(L11)* ✅ 2026-11-19
+- [x] [[61_Serie_di_Bertrand_Generalizzata]] — Bertrand *(L11)* ✅ 2026-11-19
 - [ ] [[62_Criterio_del_Confronto_Asintotico_per_Serie]] — (D12) *(L11)*
 - [x] [[63_Esempio_Confronto_Asintotico_con_Parametro]] — esempio con parametro *(L11)* ✅ 2026-11-13
-- [ ] [[81_Esempio_Confronto_Asintotico_con_Bertrand]] — esempio con Bertrand *(L12)*
-- [ ] [[64_Criterio_del_Rapporto_per_Serie]] — rapporto *(L11)*
+- [x] [[81_Esempio_Confronto_Asintotico_con_Bertrand]] — esempio con Bertrand *(L12)* ✅ 2026-11-19
+- [x] [[64_Criterio_del_Rapporto_per_Serie]] — rapporto *(L11)* ✅ 2026-11-19
 - [ ] [[69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie]] — dimostrazione (D13) *(L12)*
 - [x] [[65_Criterio_della_Radice_per_Serie]] — radice *(L11)* ✅ 2026-11-13
 - [x] [[66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata]] — esempio *(L11)* ✅ 2026-11-13
@@ -339,14 +339,14 @@ flowchart TD
 > [!question] Checkpoint
 > Sai distinguere "converge assolutamente", "converge solo semplicemente" e "non converge" per $\sum\frac{(-1)^n}{n^\alpha}$ al variare di $\alpha$?
 
-- [ ] [[73_Convergenza_Assoluta_e_Semplice]] — assoluta e semplice *(L12)*
+- [x] [[73_Convergenza_Assoluta_e_Semplice]] — assoluta e semplice *(L12)* ✅ 2026-11-19
 - [ ] [[74_Criterio_di_Convergenza_Assoluta]] — assoluta ⇒ semplice (D14) *(L12)*
-- [ ] [[75_Esempio_Convergenza_Assoluta_sin_n_su_n_alla_3_su_2]] — esempio *(L12)*
-- [ ] [[76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz]] — Leibniz *(L12)*
-- [ ] [[77_Esempio_Serie_Alternata_con_Parametro_alpha]] — esempio con $\alpha$ *(L12)*
-- [ ] [[78_Osservazioni_sul_Criterio_di_Leibniz]] — osservazioni *(L12)*
-- [ ] [[79_Esempio_Serie_Alternata_log_n_su_n]] — esempio *(L12)*
-- [ ] [[80_Esempio_Serie_alpha_meno_1_alla_n_su_n_2_alla_n]] — esempio *(L12)*
+- [x] [[75_Esempio_Convergenza_Assoluta_sin_n_su_n_alla_3_su_2]] — esempio *(L12)* ✅ 2026-11-19
+- [x] [[76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz]] — Leibniz *(L12)* ✅ 2026-11-19
+- [x] [[77_Esempio_Serie_Alternata_con_Parametro_alpha]] — esempio con $\alpha$ *(L12)* ✅ 2026-11-19
+- [x] [[78_Osservazioni_sul_Criterio_di_Leibniz]] — osservazioni *(L12)* ✅ 2026-11-19
+- [x] [[79_Esempio_Serie_Alternata_log_n_su_n]] — esempio *(L12)* ✅ 2026-11-19
+- [x] [[80_Esempio_Serie_alpha_meno_1_alla_n_su_n_2_alla_n]] — esempio *(L12)* ✅ 2026-11-19
 
 ---
 

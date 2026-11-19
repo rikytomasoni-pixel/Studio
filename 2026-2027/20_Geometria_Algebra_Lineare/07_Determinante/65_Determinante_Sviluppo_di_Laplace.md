@@ -22,7 +22,8 @@ Determinante... (vedi anche i casi $2 \times 2$ e $3 \times 3$ in [[28_Determina
 
 
 > [!note] Complemento (non presente nelle slide, ma usato negli appunti dell'[[103_Esercizio_5_1_Calcolo_del_Determinante|Esercizio 5.1]]): cofattore
-> Il **cofattore** $C_{ij}$ relativo a $a_{ij}$ è $C_{ij}=(-1)^{i+j}\det(\hat{A}_{ij})$, dove $\hat{A}_{ij}$ è il minore complementare e $(-1)^{i+j}$ il segno associato alla posizione $(i,j)$. Lo sviluppo di Laplace è quindi $\det(A)=\sum_j a_{ij}C_{ij}$.
+> Il **cofattore** $C_{ij}$ relativo a $a_{ij}$ è $C_{ij}=(-1)^{i+j}\det(\hat{A}_{ij})$, dove $\hat{A}_{ij}$ è il minore complementare e
+> $(-1)^{i+j}$ il segno associato alla posizione $(i,j)$. Lo sviluppo di Laplace è quindi $\det(A)=\sum_j a_{ij}C_{ij}$.
 
 > [!abstract] Teorema (Teorema di Laplace)
 > «il risultato non dipende dalla scelta di riga o colonna»
