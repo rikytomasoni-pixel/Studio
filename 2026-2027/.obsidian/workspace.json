@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
-                "mode": "source",
+                "file": "10_Analisi_1/00_MOC_Analisi_1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25_Gestione_File"
+              "title": "00_MOC_Analisi_1"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "Nuova scheda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,8 +249,10 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "22ea44f8a97b6765",
+  "active": "299b7e74e490a34b",
   "lastOpenFiles": [
+    "90_Lezioni_pdf/A1/AM1 L18 26-27.pdf",
+    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
     "30_Fondamenti_Informatica/sed8VCzDy",
     "30_Fondamenti_Informatica/00_MOC_FdI.md",
@@ -278,9 +279,7 @@
     "20_Geometria_Algebra_Lineare/04_Matrice_Inversa/60_Matrice_Invertibile.md",
     "00_Claude_Workspace/graph.json.backup",
     "00_Claude_Workspace/Recap_2026-11-16_AM1_L18.md",
-    "20_Geometria_Algebra_Lineare/08_Applicazioni/43_PageRank_e_Matrice_di_Google.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/thmLagrange.png",
-    "90_Lezioni_pdf/A1/AM1 L18 26-27.pdf",
     "99_Tools/Screenshots/Analisi1/Funzioni/MassimiMinimiLocali.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/xquadratosin1sux.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/GraficoxCubo.png",

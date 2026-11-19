@@ -5217,9 +5217,22 @@
             "timeKey": "10:05",
             "w": 0,
             "c": -1
+          },
+          {
+            "timeKey": "10:20",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 503
+      },
+      {
+        "date": "2026-11-18",
+        "filePath": "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo.md",
+        "wordCountStart": 344,
+        "charCountStart": 2027,
+        "changes": [],
+        "id": 504
       }
     ]
   }
