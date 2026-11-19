@@ -40,5 +40,7 @@ $$0=g'(c)=f'(c)-\frac{f(b)-f(a)}{b-a}\ \Rightarrow\ f'(c)=\frac{f(b)-f(a)}{b-a}\
 - [[140_Test_di_Monotonia]]
 - [[131_Algebra_delle_Derivate]]
 - [[00_MOC_Analisi_1]]
+- [[144_Dimostrazione_del_Test_di_Monotonia]]
+- [[149_Dimostrazione_del_Teorema_di_Prolungamento_della_Derivata]]
 
 #AM1/derivate/lagrange

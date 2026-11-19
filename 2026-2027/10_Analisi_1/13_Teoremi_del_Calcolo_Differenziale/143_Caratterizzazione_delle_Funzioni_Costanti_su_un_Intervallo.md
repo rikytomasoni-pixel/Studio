@@ -39,5 +39,6 @@ $f'(x)=0$ per ogni $x\in\mathcal{D}(f)$, $\mathcal{D}(f)$ non è un intervallo e
 - [[140_Test_di_Monotonia]]
 - [[129_Derivabilita_e_Continuita]]
 - [[00_MOC_Analisi_1]]
+- [[144_Dimostrazione_del_Test_di_Monotonia]]
 
 #AM1/derivate/funzioni-costanti

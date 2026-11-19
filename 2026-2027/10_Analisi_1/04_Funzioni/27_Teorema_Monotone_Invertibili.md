@@ -63,5 +63,6 @@ $$f^{-1}(y) = \begin{cases} y & y\in[0,1) \\ 3-y & y\in[1,2] \end{cases}$$
 - [[03_Dimostrazioni]]
 - [[12_Logaritmi]] — applicazione: esistenza del logaritmo
 - [[31_Successioni_Monotone]] — teorema analogo per successioni
+- [[144_Dimostrazione_del_Test_di_Monotonia]]
 
 #AM1/funzioni/teorema-monotone-invertibili

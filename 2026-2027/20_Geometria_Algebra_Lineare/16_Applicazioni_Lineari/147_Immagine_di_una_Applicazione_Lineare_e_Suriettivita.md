@@ -18,6 +18,7 @@ $L(V)$ si dice (sottospazio) **immagine** di $L$ (sottospazio di $W$, per [[146_
 Prossimo passo: [[148_Proposizione_19_1_Immagine_dei_Generatori]].
 
 ## Note collegate
+- [[164_Teorema_22_2_Teorema_di_Nullita_piu_Rango]]
 - [[146_Immagine_e_Controimmagine_di_Sottospazi_Vettoriali]]
 - [[18_Iniettivita_Suriettivita_Biettivita]]
 - [[136_Applicazioni_Lineari_Definizione_17_1]]

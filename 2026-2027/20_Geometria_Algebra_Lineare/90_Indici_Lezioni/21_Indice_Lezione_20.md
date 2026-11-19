@@ -25,6 +25,7 @@ PDF: slide 165 (copertina) - 174 (10 pagine). Copia in `90_Lezioni_pdf/GAL/`.
 | 10 | slide 174 | [[160_Paradigma_Rappresentare_una_Applicazione_Lineare_con_una_Matrice]] |
 
 ## Note collegate
+- Lezione successiva: [[23_Indice_Lezione_22]]
 - [[00_MOC_GAL]]
 - [[20_Indice_Lezione_19]] (lezione precedente)
 

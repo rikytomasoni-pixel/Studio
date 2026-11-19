@@ -48,5 +48,6 @@ $$\sin\varepsilon_n\sim\varepsilon_n,\quad1-\cos\varepsilon_n\sim\tfrac12\vareps
 - [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]]
 - [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]]
 - [[128_Derivate_delle_Funzioni_Elementari]] (uso dei limiti notevoli)
+- [[154_Esempi_di_Applicazione_de_l_Hopital]]
 
 #AM1/limiti-di-funzioni/limiti-notevoli

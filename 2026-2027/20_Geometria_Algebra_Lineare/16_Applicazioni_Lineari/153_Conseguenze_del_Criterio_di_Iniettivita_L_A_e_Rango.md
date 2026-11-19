@@ -30,6 +30,7 @@ A\ \text{NON invertibile}&\Leftarrow n>m
 > - $L_A$ iniettivo $\iff r(A)=n$; $n>m\Rightarrow$ non iniettivo.
 
 ## Note collegate
+- [[164_Teorema_22_2_Teorema_di_Nullita_piu_Rango]]
 - [[152_Teorema_20_1_Criterio_di_Iniettivita]]
 - [[82_Teorema_di_Rouche_Capelli]]
 - [[63_Rango_di_una_Matrice]]

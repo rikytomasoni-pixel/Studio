@@ -28,5 +28,6 @@ fonte: "AM1 L14 26-27.pdf (pag. 21-22)"
 - [[99_Proprieta_Valida_Definitivamente]]
 - [[100_Teorema_del_Confronto_per_Limiti_di_Funzioni]]
 - [[00_MOC_Analisi_1]]
+- [[144_Dimostrazione_del_Test_di_Monotonia]]
 
 #AM1/limiti-di-funzioni/permanenza-del-segno

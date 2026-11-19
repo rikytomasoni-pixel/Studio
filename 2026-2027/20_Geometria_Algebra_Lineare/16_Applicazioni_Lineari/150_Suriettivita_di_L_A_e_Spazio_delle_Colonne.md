@@ -31,6 +31,7 @@ e analogamente $L_A(\underline{e}_2)=A\underline{e}_2=C_2(A)$, $\dots$, $L_A(\un
 > L'immagine di $L_A$ è lo **spazio delle colonne** di $A$: $\mathrm{im}(L_A)=\mathrm{col}(A)$.
 
 ## Note collegate
+- [[164_Teorema_22_2_Teorema_di_Nullita_piu_Rango]]
 - [[131_Spazio_delle_Righe_e_delle_Colonne]]
 - [[149_Conseguenze_della_Suriettivita_Generatori_e_Dimensione]]
 - [[144_Applicazioni_Lineari_da_Kn_a_Km_e_Matrice_Associata]]

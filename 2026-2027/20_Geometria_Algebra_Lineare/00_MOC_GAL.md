@@ -1,8 +1,8 @@
 ---
 tags: [GAL, MOC, indice-generale, guida-studio]
-data: 2026-11-16
-lezione: 0-20
-fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11, 13, 15-17 e 19-20)"
+data: 2026-11-19
+lezione: 0-23
+fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11, 13, 15-17 e 19-23)"
 ---
 
 # Geometria e Algebra Lineare — MOC e guida allo studio
@@ -19,7 +19,7 @@ Salto rapido: [[#Dashboard]] · [[#Flowchart della progressione]] · [[#Linea cr
 > - Le note segnate *(esercizio)* sono esercizi svolti: provali prima da solo, poi confronta.
 
 > [!info] Stato del corso
-> Ultima lezione integrata: **L20** (12-11-2026). Nel vault non esistono le lezioni 5, 8, 12, 14 e 18 (nessun PDF: la numerazione delle slide prosegue senza interruzione). Il blocco 14 è una lacuna già segnalata nella nota del paradigma (slide 174), da confermare a lezione.
+> Ultima lezione integrata: **L23** (19-11-2026). Nel vault non esistono le lezioni 5, 8, 12, 14, 18 e 21 (nessun PDF: la numerazione delle slide prosegue senza interruzione; L20 termina a 174 e L22 inizia a 175). La lacuna sulla costruzione della matrice del paradigma (slide 174) è stata colmata a L22; il corso è ora su **matrice rappresentativa, cambio di base, similitudine e diagonalizzabilità**.
 
 ## Dashboard
 
@@ -66,12 +66,13 @@ flowchart TD
     G11 --> G12["12 · Somma, intersezione, Grassmann"]
     G11 --> G13["13 · Applicazioni lineari"]
     G12 --> G13
-    G13 --> G14["14 · Matrice associata e basi (prossimamente)"]
+    G13 --> G14["14 · Matrice rappresentativa e cambio di base"]
+    G14 --> G15["15 · Endomorfismi, similitudine, diagonalizzabilità"]
 
     classDef fatto fill:#c8e6c9,stroke:#2e7d32,color:#000
     classDef corso fill:#fff3cd,stroke:#b8860b,color:#000
     classDef futuro stroke-dasharray: 5 5
-    class G14 futuro
+    %% class G15 futuro
     %% class G1,G2 fatto
     %% class G3 corso
 ```
@@ -419,7 +420,7 @@ flowchart TD
 
 ## 13 · Applicazioni lineari
 
-*Lezioni 17 → 20 (05-11 → 12-11)*
+*Lezioni 17 → 22 (05-11 → 18-11)*
 
 > [!abstract] Stai per affrontare
 > Le funzioni "compatibili" con la struttura vettoriale. Sono il vero oggetto del corso e le matrici ne saranno la rappresentazione.
@@ -499,24 +500,67 @@ flowchart TD
 
 ---
 
-## 14 · Matrice associata e cambio di base *(prossimamente)*
+### 13.5 · Teorema di nullità più rango
 
-*Non ancora trattato a lezione*
-
-> [!abstract] Stai per affrontare
-> Il completamento del paradigma: costruire concretamente la matrice $A$ di $L$ rispetto a basi $\mathcal{B}$ e $\mathcal{C}$, e capire come cambia al variare delle basi.
+*Lezione 22 (18-11)*
 
 > [!important] Da imparare
-> - Come si costruisce $A$: le colonne sono le coordinate di $L(\underline v_j)$ rispetto a $\mathcal{C}$.
-> - Legame tra $L$ e $L_A$ tramite le mappe delle coordinate.
-> - Rango di $A$ e dimensioni di nucleo e immagine.
+> - **Teorema 22.2**: $\dim V=\dim\ker L+\dim\operatorname{im}L$.
+> - Dimostrazione: si porta tutto in $\mathbb{K}^n$ con le mappe delle coordinate e si usa Rouché–Capelli ($\dim\ker A=n-r(A)$).
 
-> [!info] Nota
-> È la lacuna segnalata nella nota del paradigma (slide 174): atteso nelle prossime lezioni. Non ho il programma completo di GAL 26-27, quindi non indico altri argomenti successivi.
-
-- [ ] Costruzione della matrice associata *(nota da creare)*
+- [ ] [[164_Teorema_22_2_Teorema_di_Nullita_piu_Rango]] — nullità + rango *(L22)*
 
 ---
+
+## 14 · Matrice rappresentativa e cambio di base
+
+*Lezioni 22 → 23 (18-11 → 19-11)*
+
+> [!abstract] Stai per affrontare
+> Il completamento del paradigma: costruire concretamente la matrice $A$ di $L$ rispetto a due basi, vedere che dipende dalle basi scelte e capire come si passa da una matrice rappresentativa a un'altra con la **matrice del cambio di base**. L'esempio guida è la simmetria assiale in $\mathbb{R}^2$.
+
+> [!important] Da imparare
+> - Come si costruisce $A=M_{\mathcal{B}}^{\mathcal{C}}(L)$: le colonne sono $\mathcal{X}_{\mathcal{C}}(L(\underline v_j))$.
+> - **Def. 22.1** (matrice rappresentativa) e notazione $M_{\mathcal{B}}^{\mathcal{C}}(L)$.
+> - Ogni applicazione lineare ha infinite matrici rappresentative; si può scegliere la base "più favorevole" (matrice diagonale: meno memoria, meno calcoli).
+> - **Def. 23.1**: matrice del cambio di base $M_{\mathcal{B}_2}^{\mathcal{B}_1}(\mathrm{id})$, invertibile con inversa $M_{\mathcal{B}_1}^{\mathcal{B}_2}(\mathrm{id})$.
+> - Relazione $A=PBP^{-1}$ e conseguenza $\det A=\det B$.
+
+> [!question] Checkpoint
+> Sai scrivere la matrice rappresentativa di una $L$ data rispetto a due basi, e la matrice del cambio di base tra le due?
+
+- [ ] [[161_Obiettivo_Costruire_la_Matrice_del_Paradigma]] — obiettivo e costruzione di $A$ *(L22)*
+- [ ] [[162_Matrice_Rappresentativa_Definizione_22_1]] — Def. 22.1 *(L22)*
+- [ ] [[163_Esempio_Matrice_Rappresentativa_del_Prodotto_a_Sinistra_per_una_Matrice]] — *(esempio)* $X\mapsto BX$ su $M_{\mathbb{R}}(2,2)$ *(L22)*
+- [ ] [[165_Dipendenza_della_Matrice_Rappresentativa_dalle_Basi]] — dipendenza dalle basi, D1 e D2 *(L22)*
+- [ ] [[166_Esempio_Simmetria_Assiale_Matrice_nella_Base_Canonica]] — *(esempio)* simmetria assiale, base canonica *(L22)*
+- [ ] [[167_Simmetria_Assiale_Base_Adattata_e_Matrice_Diagonale]] — *(esempio)* base adattata, matrice diagonale *(L23)*
+- [ ] [[168_Matrice_del_Cambio_di_Base_Definizione_23_1]] — matrice del cambio di base *(L23)*
+- [ ] [[169_Esempio_Cambio_di_Base_per_la_Simmetria_Assiale]] — *(esempio)* $A=PBP^{-1}$ *(L23)*
+- [ ] [[170_Determinante_e_Matrici_Rappresentative_della_Stessa_Applicazione_Lineare]] — $\det A=\det B$ *(L23)*
+
+---
+
+## 15 · Endomorfismi, matrici simili e diagonalizzabilità
+
+*Lezione 23 (19-11)*
+
+> [!abstract] Stai per affrontare
+> Il caso $L:V\to V$: le matrici rappresentative sono quadrate e rappresentare lo stesso endomorfismo equivale a essere **simili**. La similitudine è una relazione di equivalenza; si cerca nello "strato" di $A$ la matrice migliore, cioè diagonale.
+
+> [!important] Da imparare
+> - **Endomorfismo**; $A=PBP^{-1}$, $B=P^{-1}AP$.
+> - **Def. 23.2**: matrici simili.
+> - La similitudine è riflessiva, simmetrica, transitiva: classi di similitudine $[A]$.
+> - **Def. 23.3**: matrice diagonalizzabile.
+
+> [!info] Nota
+> Il corso prosegue verosimilmente con la ricerca di $P$ e $D$ (autovalori/autovettori): non è ancora stato trattato, quindi non ho creato voci per questi argomenti.
+
+- [ ] [[171_Endomorfismi_e_Matrici_Rappresentative]] — endomorfismi *(L23)*
+- [ ] [[172_Matrici_Simili_Definizione_23_2]] — Def. 23.2 *(L23)*
+- [ ] [[173_La_Similitudine_tra_Matrici_e_una_Relazione_di_Equivalenza]] — similitudine come equivalenza *(L23)*
+- [ ] [[174_Matrici_Diagonalizzabili_Definizione_23_3]] — Def. 23.3 *(L23)*
 
 ---
 
@@ -547,6 +591,9 @@ flowchart TD
 | 18 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L17 termina a 155 e L19 inizia a 156) | — |
 | 19 | 2026-11-11 | Immagine e controimmagine di sottospazi; immagine di un'applicazione lineare; suriettività | [[20_Indice_Lezione_19]] |
 | 20 | 2026-11-12 | Nucleo e criterio di iniettività; teorema della fibra; isomorfismi; teorema di isomorfismo; mappa delle coordinate e di parametrizzazione | [[21_Indice_Lezione_20]] |
+| 21 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L20 termina a 174 e L22 inizia a 175) | — |
+| 22 | 2026-11-18 | Matrice rappresentativa; teorema di nullità più rango; dipendenza della matrice rappresentativa dalle basi; simmetria assiale | [[23_Indice_Lezione_22]] |
+| 23 | 2026-11-19 | Simmetria assiale in base adattata; matrice del cambio di base; $\det A=\det B$; endomorfismi; matrici simili; matrici diagonalizzabili | [[24_Indice_Lezione_23]] |
 
 ## Organizzazione del corso
 - [[10_Organizzazione_del_Corso]]
@@ -567,9 +614,10 @@ flowchart TD
 | 10 · Spazi vettoriali | `20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali` | 7 |  |
 | 11 · Indipendenza, basi, dimensione | `20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione` | 19 | include il fac-simile 28-10 |
 | 12 · Somma, intersezione, Grassmann | `20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann` | 3 |  |
-| 13 · Applicazioni lineari | `20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari` | 24 |  |
-| Indici delle lezioni | `20_Geometria_Algebra_Lineare/90_Indici_Lezioni` | 16 |  |
+| 13 · Applicazioni lineari | `20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari` | 25 | include nullità + rango (164) |
+| Indici delle lezioni | `20_Geometria_Algebra_Lineare/90_Indici_Lezioni` | 18 |  |
 | Organizzazione del corso | `20_Geometria_Algebra_Lineare/99_Organizzazione` | 1 |  |
-| 14 · Matrice associata | *(da creare)* | — | blocco futuro |
+| 14 · Matrice rappresentativa e cambio di base | `20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base` | 9 | 164 è in `16_Applicazioni_Lineari` |
+| 15 · Endomorfismi, simili, diagonalizzabilità | `20_Geometria_Algebra_Lineare/18_Endomorfismi_Similitudine_e_Diagonalizzazione` | 4 |  |
 
 #GAL/moc

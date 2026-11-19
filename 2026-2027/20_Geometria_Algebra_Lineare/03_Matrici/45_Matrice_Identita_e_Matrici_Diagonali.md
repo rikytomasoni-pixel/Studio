@@ -21,6 +21,8 @@ fonte: "GAL_2026-2027_-_20261001_-_LEZIONE_4.pdf (slide 43-44)"
 > - la matrice nulla è diagonale
 > - $\begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix}$ **NON** è una matrice diagonale!
 ## Note collegate
+- [[167_Simmetria_Assiale_Base_Adattata_e_Matrice_Diagonale]]
+- [[174_Matrici_Diagonalizzabili_Definizione_23_3]]
 - [[44_Proprieta_del_Prodotto_Matriciale]]
 - [[41_Prodotto_Matriciale_Righe_per_Colonne]]
 - [[33_Matrici_Casi_Speciali]]

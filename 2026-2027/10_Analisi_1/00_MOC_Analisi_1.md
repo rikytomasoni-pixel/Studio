@@ -4,9 +4,9 @@ tags:
   - MOC
   - indice
   - guida-studio
-data: 2026-11-16
+data: 2026-11-19
 corso: Analisi Matematica 1
-ultima_lezione: 18
+ultima_lezione: 19
 ---
 
 # Analisi Matematica 1 — MOC e guida allo studio
@@ -23,7 +23,7 @@ Salto rapido: [[#Dashboard]] · [[#Flowchart della progressione]] · [[#Dimostra
 > - Le dimostrazioni segnate **(D#)** sono nell'elenco delle dimostrazioni richieste allo scritto.
 
 > [!info] Stato del corso
-> Ultima lezione integrata: **L18** (13-11-2026). I blocchi 1-13 hanno note; i blocchi 14-15 sono ricavati dal programma 25-26 e vanno confermati a lezione.
+> Ultima lezione integrata: **L19** (18-11-2026). I blocchi 1-14 hanno note (il 14 è appena iniziato: de l'Hôpital, definizione di convessità, schema di studio di funzione); il blocco 15 è ricavato dal programma 25-26 e va confermato a lezione.
 
 ## Dashboard
 
@@ -77,7 +77,7 @@ flowchart TD
     classDef fatto fill:#c8e6c9,stroke:#2e7d32,color:#000
     classDef corso fill:#fff3cd,stroke:#b8860b,color:#000
     classDef futuro stroke-dasharray: 5 5
-    class B14,B15 futuro
+    class B15 futuro
     %% class B1,B2 fatto
     %% class B3 corso
 ```
@@ -511,7 +511,7 @@ flowchart TD
 
 ## 13 · Teoremi del calcolo differenziale
 
-*Lezione 18 (13-11)*
+*Lezioni 18 → 19 (13-11 → 18-11)*
 
 > [!abstract] Stai per affrontare
 > Dalla derivata alle sue conseguenze globali: derivata della funzione inversa, punti stazionari e i teoremi di Fermat, Rolle e Lagrange. Da qui si ricava il legame tra **segno della derivata e monotonia**.
@@ -520,11 +520,13 @@ flowchart TD
 > - Derivata della **funzione inversa**.
 > - Punti stazionari, massimi/minimi locali; **teorema di Fermat** (D20).
 > - **Rolle** (D21) → **Lagrange** (D22): la catena logica e le ipotesi.
-> - Funzioni a derivata nulla ⇒ costanti; **test di monotonia** (D23): $f'>0\Rightarrow$ strettamente crescente (il viceversa è falso).
+> - Funzioni a derivata nulla ⇒ costanti; **test di monotonia** (D23) con dimostrazione: $f'\ge0\iff$ crescente, $f'>0\Rightarrow$ strettamente crescente (il viceversa è falso: $x^3$).
+> - **Teorema di prolungamento della derivata** (con dimostrazione via Lagrange) e corollario: $f'$ non può avere discontinuità eliminabili né a salto.
+> - Monotonia di una successione tramite una funzione derivabile che la interpola (utile per Leibniz).
 > - Massimi e minimi assoluti di continue su $[a,b]$; derivabilità di funzioni definite a tratti.
 
 > [!info] Nota
-> Lezione 18 (13-11-2026) integrata. Ancora da fare: derivabilità di funzioni definite a tratti. Le dimostrazioni di derivata dell'inversa e del test di monotonia non sono negli appunti.
+> Lezioni 18 (13-11-2026) e 19 (18-11-2026) integrate. La dimostrazione del test di monotonia è stata data a L19; resta senza dimostrazione la derivata della funzione inversa. Ancora da fare: derivabilità di funzioni definite a tratti.
 
 - [ ] [[134_Teorema_della_Derivata_della_Funzione_Inversa]] — derivata della funzione inversa *(L18)*
 - [ ] [[136_Massimi_e_Minimi_Locali_e_Globali]] — estremi locali/globali *(L18)*
@@ -533,30 +535,42 @@ flowchart TD
 - [ ] [[141_Teorema_di_Rolle]] — Rolle (D21) *(L18)*
 - [ ] [[142_Teorema_di_Lagrange]] — Lagrange (D22) *(L18)*
 - [ ] [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]] — funzioni costanti (D23) *(L18)*
-- [ ] [[140_Test_di_Monotonia]] — test di monotonia (D23, solo enunciato) *(L18)*
+- [ ] [[140_Test_di_Monotonia]] — test di monotonia (D23, enunciato) *(L18)*
+- [ ] [[144_Dimostrazione_del_Test_di_Monotonia]] — dimostrazione del test (D23) *(L19)*
+- [ ] [[145_Test_di_Monotonia_Controesempi_e_Osservazioni]] — $x^3$, $\frac1x$, invertibilità *(L19)*
+- [ ] [[146_Test_di_Monotonia_e_Estremi_Locali]] — estremi locali dal cambio di monotonia *(L19)*
+- [ ] [[147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili]] — successioni via $f$ interpolante, $\frac{\log n}{n}$ *(L19)*
 - [ ] [[139_Ricerca_di_Massimi_e_Minimi_Assoluti_su_Intervallo_Chiuso]] — max/min assoluti su $[a,b]$ *(L18)*
+- [ ] [[148_Teorema_di_Prolungamento_della_Derivata_Prima]] — prolungamento della derivata prima *(L19)*
+- [ ] [[149_Dimostrazione_del_Teorema_di_Prolungamento_della_Derivata]] — dimostrazione (via Lagrange) *(L19)*
+- [ ] [[150_Osservazioni_sul_Prolungamento_della_Derivata]] — controesempi e versioni *(L19)*
+- [ ] [[151_Discontinuita_della_Funzione_Derivata]] — $f'$ solo discontinuità di II specie *(L19)*
 
 ---
 
-## 14 · Taylor e studio di funzione *(prossimamente)*
+## 14 · Derivate successive: de l'Hôpital, convessità, Taylor e studio di funzione
 
-*Non ancora trattato a lezione*
+*Lezione 19 (18-11) — blocco appena iniziato*
 
 > [!abstract] Stai per affrontare
 > Derivate successive: convessità, flessi, De L'Hospital e soprattutto la **formula di Taylor**, che unifica asintotici, $o$-piccolo e derivate e permette di calcolare limiti difficili.
 
 > [!important] Da imparare
-> - Convessità/concavità e derivata seconda; **punti di flesso**.
-> - **De L'Hospital**: quando si può applicare.
+> - Convessità/concavità e derivata seconda; **punti di flesso** (a L19 solo la definizione).
+> - **De L'Hôpital**: ipotesi, forme $\frac00$ e $\frac\infty\infty$, perché non si inverte.
 > - **Polinomio di Taylor**; resto di **Peano** (D24) e di Lagrange.
 > - Taylor delle funzioni elementari ($e^x,\sin x,\cos x,\log(1+x),\dots$) e calcolo di limiti.
 > - **Studio completo del grafico** di una funzione.
 
-- [ ] Convessità e flessi *(nota da creare)*
-- [ ] De L'Hospital *(nota da creare)*
+- [ ] [[156_Funzioni_Convesse_e_Concave]] — definizione di convessa/concava *(L19)*
+- [ ] Convessità e derivata seconda, flessi *(nota da creare)*
+- [ ] [[152_Teorema_di_de_l_Hopital]] — de l'Hôpital *(L19)*
+- [ ] [[153_Controesempio_de_l_Hopital_Limite_delle_Derivate_Inesistente]] — quando $\nexists\lim\frac{f'}{g'}$ *(L19)*
+- [ ] [[154_Esempi_di_Applicazione_de_l_Hopital]] — esempi *(L19)*
+- [ ] [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]] — gerarchia degli infiniti per funzioni *(L19)*
 - [ ] Polinomio di Taylor, resto di Peano (D24) *(nota da creare)*
 - [ ] Taylor delle funzioni elementari e limiti *(nota da creare)*
-- [ ] Studio del grafico di una funzione *(nota da creare)*
+- [ ] [[157_Studio_del_Grafico_di_una_Funzione]] — schema in 10 punti *(L19)*
 
 ---
 
@@ -609,7 +623,7 @@ flowchart TD
 - [ ] **D20** Teorema di Fermat → [[137_Teorema_di_Fermat]]
 - [ ] **D21** Teorema di Rolle → [[141_Teorema_di_Rolle]]
 - [ ] **D22** Teorema di Lagrange → [[142_Teorema_di_Lagrange]]
-- [ ] **D23** Test di monotonia e caratterizzazione delle costanti → [[140_Test_di_Monotonia]], [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]]
+- [ ] **D23** Test di monotonia e caratterizzazione delle costanti → [[144_Dimostrazione_del_Test_di_Monotonia]], [[140_Test_di_Monotonia]], [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]]
 - [ ] **D24** Formula di Taylor con resto di Peano *(nota da creare)*
 - [ ] **D25** Struttura dell'integrale indefinito *(nota da creare)*
 - [ ] **D26** Teorema della media integrale *(nota da creare)*
@@ -642,6 +656,7 @@ flowchart TD
 | Lezione 16 | 06-11-2026 | [[112_Teorema_di_Weierstrass]] (dimostrazione), [[113_Teorema_dei_Valori_Intermedi]], [[114_Immagine_di_una_Funzione_Continua_su_un_Intervallo_Chiuso]], [[115_Teorema_sui_Limiti_di_Funzioni_Monotone]], [[116_Continuita_e_Invertibilita]], [[117_Continuita_delle_Funzioni_Elementari]], [[118_Dimostrazione_dei_Limiti_Notevoli]] |
 | Lezione 17 | 11-11-2026 | [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]], [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]], [[121_Problemi_Motivanti_delle_Derivate]], [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]], [[123_Esempi_di_Derivata_e_Retta_Tangente]], [[124_Funzione_Derivata_e_Derivate_di_Ordine_Superiore]], [[125_Derivata_Infinita_e_Tangente_Verticale]], [[126_Interpretazione_della_Derivata_nelle_Applicazioni]], [[127_Differenziabilita_e_Approssimazione_Lineare]], [[128_Derivate_delle_Funzioni_Elementari]], [[129_Derivabilita_e_Continuita]], [[130_Classificazione_dei_Punti_di_Non_Derivabilita]], [[131_Algebra_delle_Derivate]], [[132_Regola_della_Catena]] |
 | Lezione 18 | 13-11-2026 | [[133_Derivate_con_Valore_Assoluto_e_Segno]], [[134_Teorema_della_Derivata_della_Funzione_Inversa]], [[135_Derivate_di_arctan_log_arcsin]], [[136_Massimi_e_Minimi_Locali_e_Globali]], [[137_Teorema_di_Fermat]], [[138_Punti_Stazionari_e_Punti_Critici]], [[139_Ricerca_di_Massimi_e_Minimi_Assoluti_su_Intervallo_Chiuso]], [[140_Test_di_Monotonia]], [[141_Teorema_di_Rolle]], [[142_Teorema_di_Lagrange]], [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]] |
+| Lezione 19 | 18-11-2026 | [[144_Dimostrazione_del_Test_di_Monotonia]], [[145_Test_di_Monotonia_Controesempi_e_Osservazioni]], [[146_Test_di_Monotonia_e_Estremi_Locali]], [[147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili]], [[157_Studio_del_Grafico_di_una_Funzione]], [[152_Teorema_di_de_l_Hopital]], [[153_Controesempio_de_l_Hopital_Limite_delle_Derivate_Inesistente]], [[154_Esempi_di_Applicazione_de_l_Hopital]], [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]], [[148_Teorema_di_Prolungamento_della_Derivata_Prima]], [[150_Osservazioni_sul_Prolungamento_della_Derivata]], [[149_Dimostrazione_del_Teorema_di_Prolungamento_della_Derivata]], [[151_Discontinuita_della_Funzione_Derivata]], [[156_Funzioni_Convesse_e_Concave]] |
 
 ## Struttura delle cartelle
 
@@ -659,7 +674,8 @@ flowchart TD
 | 10 · Continuità | `10_Analisi_1/10_Continuita` | 10 |  |
 | 11 · Proprietà globali | `10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue` | 5 |  |
 | 12 · Derivate | `10_Analisi_1/12_Derivate` | 15 | 134 (derivata dell'inversa) è anche nel blocco 13 |
-| 13 · Teoremi del calcolo differenziale | `10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale` | 8 | prossime note su convessità, de l'Hôpital, Taylor: qui o in cartella nuova |
-| 14-15 · Taylor, integrali | *(da creare)* | — | blocchi futuri |
+| 13 · Teoremi del calcolo differenziale | `10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale` | 16 | include 147 (monotonia di successioni, collegata ai blocchi 5 e 8) e 148-151 (prolungamento della derivata) |
+| 14 · Derivate successive, de l'Hôpital, studio di funzione | `10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione` | 6 | prossime note: convessità/flessi, Taylor |
+| 15 · Integrali | *(da creare)* | — | blocco futuro |
 
 #AM1/moc

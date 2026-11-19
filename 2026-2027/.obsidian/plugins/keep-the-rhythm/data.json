@@ -5253,7 +5253,13 @@
         "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
         "wordCountStart": 601,
         "charCountStart": 4451,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 506
       }
     ]

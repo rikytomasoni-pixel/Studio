@@ -51,5 +51,7 @@ $$f \text{ decrescente} \quad\Longleftrightarrow\quad \dfrac{f(x_2)-f(x_1)}{x_2-
 - [[19_Funzioni_Generalità]]
 - [[11_Radici_e_Potenze]] — $t\mapsto t^n$ strettamente crescente
 - [[12_Logaritmi]] — $a^x$ strettamente monotona
+- [[144_Dimostrazione_del_Test_di_Monotonia]]
+- [[145_Test_di_Monotonia_Controesempi_e_Osservazioni]]
 
 #AM1/funzioni/monotonia

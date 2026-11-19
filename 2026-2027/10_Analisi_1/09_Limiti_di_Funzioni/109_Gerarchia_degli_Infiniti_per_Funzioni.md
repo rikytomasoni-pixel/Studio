@@ -16,7 +16,7 @@ fonte: "AM1 L15 26-27.pdf (pag. 15-18)"
 > $$\lim_{x\to+\infty}\frac{(\log_ax)^\alpha}{x^\beta}=0\qquad\text{cioè}\qquad(\log_ax)^\alpha=o(x^\beta)\ \ \text{per }x\to+\infty$$
 > $$\lim_{x\to+\infty}\frac{x^\beta}{a^x}=0\qquad\text{cioè}\qquad x^\beta=o(a^x)\ \ \text{per }x\to+\infty$$
 
-*(dimostrazione con il teorema di de l'Hôpital)*
+*(dimostrazione con il teorema di de l'Hôpital: [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]])*
 
 > [!note] Osservazione — composizione con una funzione infinita
 > Da quanto scritto sopra e dal [[104_Cambio_di_Variabile_nei_Limiti|teorema sul cambio di variabile nei limiti]] segue che se $f(x)$ è una funzione tale che $\displaystyle\lim_{x\to x_0}f(x)=+\infty$, $x_0\in\overline{\mathbb{R}}$, allora
@@ -35,5 +35,6 @@ fonte: "AM1 L15 26-27.pdf (pag. 15-18)"
 - [[104_Cambio_di_Variabile_nei_Limiti]]
 - [[106_Asintotico_e_o_piccolo_per_Funzioni]]
 - [[00_MOC_Analisi_1]]
+- [[152_Teorema_di_de_l_Hopital]]
 
 #AM1/limiti-di-funzioni/gerarchia-infiniti

@@ -34,5 +34,7 @@ $\Rightarrow\nexists f'(0)$ e $f$ non è derivabile in $x_0=0$.
 - [[130_Classificazione_dei_Punti_di_Non_Derivabilita]]
 - [[137_Teorema_di_Fermat]]
 - [[00_MOC_Analisi_1]]
+- [[148_Teorema_di_Prolungamento_della_Derivata_Prima]]
+- [[150_Osservazioni_sul_Prolungamento_della_Derivata]]
 
 #AM1/derivate/continuita

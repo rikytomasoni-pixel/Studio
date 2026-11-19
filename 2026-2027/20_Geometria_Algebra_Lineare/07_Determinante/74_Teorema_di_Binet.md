@@ -32,6 +32,7 @@ $$\det(A) \neq 0 \iff \det(B) \neq 0$$
 Applicazione al calcolo con il MEG: [[75_Calcolo_del_Determinante_con_il_MEG]].
 
 ## Note collegate
+- [[170_Determinante_e_Matrici_Rappresentative_della_Stessa_Applicazione_Lineare]]
 - [[65_Determinante_Sviluppo_di_Laplace]]
 - [[62_Non_Commutativita_del_Prodotto_Matriciale]]
 - [[71_Codifica_del_MEG_con_il_Prodotto_Matriciale]]

@@ -36,6 +36,7 @@ $$\begin{cases}L_A\circ L_{A^{-1}}=L_{AA^{-1}}=L_{\mathrm{Id}_n}=\mathrm{id}\\ L
 > Sulla slide l'equivalenza "$L_A$ invertibile $\iff$ $A$ invertibile" è scritta con $A\in M_{\mathbb{K}}(m,n)$; l'invertibilità di una matrice ha senso per matrici quadrate ($m=n$), come nella parte successiva della slide.
 
 ## Note collegate
+- [[168_Matrice_del_Cambio_di_Base_Definizione_23_1]]
 - [[156_Isomorfismi_Definizione_20_4_e_Conservazione_delle_Basi]] (isomorfismi)
 - [[41_Prodotto_Matriciale_Righe_per_Colonne]]
 - [[42_Prodotto_e_Composizione_di_Funzioni]]

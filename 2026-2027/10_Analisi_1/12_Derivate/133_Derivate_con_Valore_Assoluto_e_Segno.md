@@ -37,5 +37,6 @@ $$|x^2-2|=\begin{cases}x^2-2&\text{se }x^2-2\ge0\\2-x^2&\text{se }x^2-2<0\end{ca
 - [[132_Regola_della_Catena]]
 - [[128_Derivate_delle_Funzioni_Elementari]]
 - [[00_MOC_Analisi_1]]
+- [[148_Teorema_di_Prolungamento_della_Derivata_Prima]]
 
 #AM1/derivate/esempi

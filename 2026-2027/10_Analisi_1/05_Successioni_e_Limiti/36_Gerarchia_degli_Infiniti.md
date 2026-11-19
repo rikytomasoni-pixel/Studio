@@ -36,5 +36,6 @@ $$\lim_{n\to\infty} \dfrac{n}{n!} = 0 \qquad \text{per gerarchia degli infiniti}
 - [[30_Limiti_di_Successioni]]
 - [[39_Criterio_del_Rapporto]] — usa la gerarchia degli infiniti negli esempi
 - [[40_Confronti_Asintotici]] — ordine di infinito tra successioni
+- [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]]
 
 #AM1/successioni-e-limiti/gerarchia-degli-infiniti

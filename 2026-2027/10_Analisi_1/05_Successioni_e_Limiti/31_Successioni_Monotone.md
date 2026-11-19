@@ -97,5 +97,6 @@ Ad esempio $a_n = \dfrac{(-1)^n}{n}$ è un controesempio: infatti $a_n$ non è m
 - [[30_Limiti_di_Successioni]] — definizioni di convergenza e divergenza
 - [[32_Successione_Convergente_e_Limitata]]
 - [[27_Teorema_Monotone_Invertibili]] — teorema analogo per funzioni monotone e invertibilità
+- [[147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili]]
 
 #AM1/successioni-e-limiti/successioni-monotone

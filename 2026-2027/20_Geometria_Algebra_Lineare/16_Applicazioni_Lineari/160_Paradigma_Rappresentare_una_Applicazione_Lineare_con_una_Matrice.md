@@ -20,9 +20,11 @@ V&\xrightarrow{\ \ L\ \ }&W\\
 > [!tip] Idea
 > Devo scegliere $A$ affinché i percorsi $\to\downarrow$ (destro, basso) e $\downarrow\to$ (basso, destro) producano lo stesso effetto!
 
-Cioè $L_A$ è l'applicazione $\mathbb{K}^n\to\mathbb{K}^m$ che "imita" $L$ passando dalle coordinate ([[158_Mappa_delle_Coordinate_e_Mappa_di_Parametrizzazione_Definizione_20_6]]). La costruzione di $A$ non è ancora data in questa lezione.
+Cioè $L_A$ è l'applicazione $\mathbb{K}^n\to\mathbb{K}^m$ che "imita" $L$ passando dalle coordinate ([[158_Mappa_delle_Coordinate_e_Mappa_di_Parametrizzazione_Definizione_20_6]]). La costruzione di $A$ non è data in questa lezione: è stata completata nella [[161_Obiettivo_Costruire_la_Matrice_del_Paradigma|lezione 22]].
 
 ## Note collegate
+- [[161_Obiettivo_Costruire_la_Matrice_del_Paradigma]]
+- [[162_Matrice_Rappresentativa_Definizione_22_1]]
 - [[144_Applicazioni_Lineari_da_Kn_a_Km_e_Matrice_Associata]]
 - [[159_Esempio_Mappa_di_Parametrizzazione_Polinomi_di_Grado_al_piu_2]]
 - [[157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati]]

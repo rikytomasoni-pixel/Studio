@@ -44,6 +44,8 @@ Sulle matrici: abbiamo visto che c'è un elemento neutro per il prodotto matrici
 > In particolare una matrice invertibile (da entrambi i lati) è necessariamente **quadrata**, perché richiede $r(A)=m$ e $r(A)=n$. Per le non quadrate l'analogo del determinante è il rango.
 
 ## Note collegate
+- [[168_Matrice_del_Cambio_di_Base_Definizione_23_1]]
+- [[172_Matrici_Simili_Definizione_23_2]]
 - [[45_Matrice_Identita_e_Matrici_Diagonali]]
 - [[61_Unicita_e_Bilateralita_dell_Inversa]]
 - [[72_Esistenza_della_Matrice_Inversa]]

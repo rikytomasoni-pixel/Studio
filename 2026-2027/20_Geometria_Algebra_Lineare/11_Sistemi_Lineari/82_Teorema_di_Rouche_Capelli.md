@@ -61,6 +61,7 @@ $\blacksquare$
 - Caso $r=n$ (nessun parametro libero): [[86_Teorema_di_Cramer]]
 
 ## Note collegate
+- [[164_Teorema_22_2_Teorema_di_Nullita_piu_Rango]]
 - [[80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare]]
 - [[81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico]]
 - [[68_Metodo_di_Eliminazione_di_Gauss]]

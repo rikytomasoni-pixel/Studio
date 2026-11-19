@@ -19,6 +19,7 @@ fonte: "GAL_2026-2027_-_20260916_-_LEZIONE_0.pdf (slide 10)"
 > Nella Lezione 1 si osserva che «non tutte le relazioni sono di equivalenza» → [[15_Relazione_di_Ordine]]. Un esempio geometrico di relazione di equivalenza è l'equipollenza in [[20_Segmenti_Orientati_ed_Equipollenza]].
 
 ## Note collegate
+- [[173_La_Similitudine_tra_Matrici_e_una_Relazione_di_Equivalenza]]
 - [[13_Proprieta_Riflessiva_Simmetrica_Transitiva]]
 - [[15_Relazione_di_Ordine]]
 - [[20_Segmenti_Orientati_ed_Equipollenza]]

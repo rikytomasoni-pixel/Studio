@@ -49,5 +49,6 @@ $$\max_{[-2,3]}f(x)=f(-2)=1+e^2\qquad\min_{[-2,3]}f(x)=f(\log2)=\frac12(\log2+1)
 - [[133_Derivate_con_Valore_Assoluto_e_Segno]]
 - [[114_Immagine_di_una_Funzione_Continua_su_un_Intervallo_Chiuso]]
 - [[00_MOC_Analisi_1]]
+- [[146_Test_di_Monotonia_e_Estremi_Locali]]
 
 #AM1/derivate/massimi-minimi-assoluti

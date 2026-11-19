@@ -45,5 +45,6 @@ fonte: "AM1 L18 26-27.pdf (pag. 6-8)"
 - [[23_Monotonia]]
 - [[112_Teorema_di_Weierstrass]]
 - [[00_MOC_Analisi_1]]
+- [[146_Test_di_Monotonia_e_Estremi_Locali]]
 
 #AM1/derivate/estremi

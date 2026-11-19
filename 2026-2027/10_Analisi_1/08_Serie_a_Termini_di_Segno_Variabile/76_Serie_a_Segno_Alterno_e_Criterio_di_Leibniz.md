@@ -44,5 +44,6 @@ Applicazioni: [[77_Esempio_Serie_Alternata_con_Parametro_alpha]], [[78_Osservazi
 - [[56_Resto_N-esimo_della_Serie]]
 - [[54_Condizione_Necessaria_di_Convergenza]]
 - [[00_MOC_Analisi_1]]
+- [[147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili]]
 
 #AM1/serie/criterio-di-leibniz

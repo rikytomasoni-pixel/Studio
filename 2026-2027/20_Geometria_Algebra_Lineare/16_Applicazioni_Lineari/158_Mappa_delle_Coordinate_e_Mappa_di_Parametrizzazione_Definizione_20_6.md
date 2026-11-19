@@ -27,6 +27,7 @@ Questa operazione si chiama **flattening** (la matrice viene "appiattita" in un 
 Esempio di mappa di parametrizzazione: [[159_Esempio_Mappa_di_Parametrizzazione_Polinomi_di_Grado_al_piu_2]].
 
 ## Note collegate
+- [[161_Obiettivo_Costruire_la_Matrice_del_Paradigma]]
 - [[157_Teorema_20_5_Teorema_di_Isomorfismo_tra_Spazi_Finitamente_Generati]]
 - [[101_Teorema_di_Unicita_della_Rappresentazione_rispetto_a_una_Base]]
 - [[100_Base_di_uno_Spazio_Vettoriale]]

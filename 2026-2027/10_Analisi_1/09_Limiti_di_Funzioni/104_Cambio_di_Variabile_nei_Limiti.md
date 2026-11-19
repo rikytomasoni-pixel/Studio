@@ -36,5 +36,6 @@ fonte: "AM1 L15 26-27.pdf (pag. 3-4)"
 - [[118_Dimostrazione_dei_Limiti_Notevoli]]
 - [[25_Composizione_di_Funzioni]]
 - [[00_MOC_Analisi_1]]
+- [[149_Dimostrazione_del_Teorema_di_Prolungamento_della_Derivata]]
 
 #AM1/limiti-di-funzioni/cambio-di-variabile

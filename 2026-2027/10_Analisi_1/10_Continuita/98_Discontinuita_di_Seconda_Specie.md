@@ -41,5 +41,6 @@ fonte: "AM1 L14 26-27.pdf (pag. 16-18)"
 - [[97_Discontinuita_di_Prima_Specie_a_Salto]]
 - [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]]
 - [[00_MOC_Analisi_1]]
+- [[151_Discontinuita_della_Funzione_Derivata]]
 
 #AM1/continuita/discontinuita-seconda-specie

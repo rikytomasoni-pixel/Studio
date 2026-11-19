@@ -42,5 +42,6 @@ $$\lim_{x\to x_0}\tilde f(x)=\lim_{x\to x_0}f(x)=\ell=\tilde f(x_0)$$
 - [[98_Discontinuita_di_Seconda_Specie]]
 - [[108_Limiti_Notevoli_di_Funzioni]]
 - [[00_MOC_Analisi_1]]
+- [[151_Discontinuita_della_Funzione_Derivata]]
 
 #AM1/continuita/discontinuita-eliminabile

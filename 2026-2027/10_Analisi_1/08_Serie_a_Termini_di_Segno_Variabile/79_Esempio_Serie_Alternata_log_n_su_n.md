@@ -27,7 +27,7 @@ fonte: "AM1 L12 26-27.pdf (pag. 22-24)"
 ## Uso il criterio di Leibniz
 Vogliamo $a_{n+1}\leq a_n$ definitivamente, cioè
 $$\frac{\log(n+1)}{n+1}\leq\frac{\log n}{n}$$
-**complicato…** Avendo a disposizione le derivate e il test di monotonia per funzioni derivabili su un intervallo sarà tutto più semplice.
+**complicato…** Avendo a disposizione le derivate e il test di monotonia per funzioni derivabili su un intervallo sarà tutto più semplice. (tecnica ripresa a L19: [[147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili]])
 
 Sia $f(x)=\dfrac{\log x}{x}$: è una funzione derivabile, che interpola i valori della successione $a_n$ (cioè $f(n)=a_n$ $\forall n\geq1$) e che è definitivamente decrescente. Infatti
 $$f'(x)=\frac{1-\log x}{x^2}\quad\forall x>0\ \Rightarrow\ f'(x)\leq0\ \ \forall x\geq e\ \Rightarrow\ f\text{ decresce in }[e,\infty)\ \Rightarrow\ a_n=f(n)\text{ decresce }\forall n\geq3>e$$
@@ -45,5 +45,7 @@ Pertanto, per Leibniz ([[76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz]]), $\di
 - [[36_Gerarchia_degli_Infiniti]]
 - [[78_Osservazioni_sul_Criterio_di_Leibniz]]
 - [[00_MOC_Analisi_1]]
+- [[147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili]]
+- [[140_Test_di_Monotonia]]
 
 #AM1/serie/esempio-serie-alternata-log-n-su-n

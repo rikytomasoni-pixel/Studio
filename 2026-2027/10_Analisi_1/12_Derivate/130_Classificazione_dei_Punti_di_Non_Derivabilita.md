@@ -72,5 +72,6 @@ $$\lim_{h\to0^\pm}\frac{f(h)-f(0)}h=\lim_{h\to0^\pm}\sin\frac1h\overset{t=\frac1
 - [[93_Continuita_in_un_Punto]]
 - [[133_Derivate_con_Valore_Assoluto_e_Segno]]
 - [[00_MOC_Analisi_1]]
+- [[150_Osservazioni_sul_Prolungamento_della_Derivata]]
 
 #AM1/derivate/non-derivabilita

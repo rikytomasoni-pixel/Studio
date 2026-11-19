@@ -47,5 +47,6 @@ fonte: "AM1 L14 26-27.pdf (pag. 19-21)"
 - [[101_Teorema_di_Permanenza_del_Segno_per_Funzioni]]
 - [[102_Algebra_dei_Limiti_di_Funzioni]]
 - [[00_MOC_Analisi_1]]
+- [[149_Dimostrazione_del_Teorema_di_Prolungamento_della_Derivata]]
 
 #AM1/limiti-di-funzioni/teorema-del-confronto
