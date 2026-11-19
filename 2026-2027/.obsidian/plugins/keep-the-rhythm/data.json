@@ -5233,6 +5233,28 @@
         "charCountStart": 2027,
         "changes": [],
         "id": 504
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "10_Analisi_1/00_MOC_Analisi_1.md",
+        "wordCountStart": 3703,
+        "charCountStart": 41342,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 505
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
+        "wordCountStart": 601,
+        "charCountStart": 4451,
+        "changes": [],
+        "id": 506
       }
     ]
   }
