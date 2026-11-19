@@ -19,12 +19,7 @@ Determinante... (vedi anche i casi $2 \times 2$ e $3 \times 3$ in [[28_Determina
 >   - $a_{ij}$ è l'elemento di $A$ sulla $i$-esima riga e $j$-esima colonna
 >   - $\hat{A}_{ij} \in M_{\mathbb{K}}(n-1,n-1)$ è ottenuta da $A$ eliminando la $i$-esima riga e la $j$-esima colonna.
 >
-> In maniera equivalente
-> $$\det(A) = \sum_{i=1}^{n} (-1)^{i+j}\, a_{ij}\, \det \hat{A}_{ij}$$
-> dove
->   - $j$ è un indice di colonna (qualsiasi) fissato
->   - $a_{ij}$ è l'elemento di $A$ sulla $i$-esima riga e $j$-esima colonna
->   - $\hat{A}_{ij} \in M_{\mathbb{K}}(n-1,n-1)$ è ottenuta da $A$ eliminando la $i$-esima riga e la $j$-esima colonna.
+
 
 > [!note] Complemento (non presente nelle slide, ma usato negli appunti dell'[[103_Esercizio_5_1_Calcolo_del_Determinante|Esercizio 5.1]]): cofattore
 > Il **cofattore** $C_{ij}$ relativo a $a_{ij}$ è $C_{ij}=(-1)^{i+j}\det(\hat{A}_{ij})$, dove $\hat{A}_{ij}$ è il minore complementare e $(-1)^{i+j}$ il segno associato alla posizione $(i,j)$. Lo sviluppo di Laplace è quindi $\det(A)=\sum_j a_{ij}C_{ij}$.

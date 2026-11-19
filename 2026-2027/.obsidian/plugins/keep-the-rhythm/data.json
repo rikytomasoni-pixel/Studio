@@ -5434,6 +5434,60 @@
         "charCountStart": 3509,
         "changes": [],
         "id": 517
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+        "wordCountStart": 3433,
+        "charCountStart": 34206,
+        "changes": [],
+        "id": 518
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/25_Prodotto_Interno_e_Ortogonalita.md",
+        "wordCountStart": 222,
+        "charCountStart": 1636,
+        "changes": [],
+        "id": 519
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/26_Prodotto_Interno_in_Coordinate.md",
+        "wordCountStart": 179,
+        "charCountStart": 1340,
+        "changes": [],
+        "id": 520
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/27_Prodotto_Esterno.md",
+        "wordCountStart": 128,
+        "charCountStart": 1026,
+        "changes": [],
+        "id": 521
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/06_Rango/130_Riepilogo_sulle_Definizioni_di_Rango.md",
+        "wordCountStart": 225,
+        "charCountStart": 1733,
+        "changes": [],
+        "id": 522
+      },
+      {
+        "date": "2026-11-19",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
+        "wordCountStart": 679,
+        "charCountStart": 4403,
+        "changes": [
+          {
+            "timeKey": "18:50",
+            "w": -64,
+            "c": -351
+          }
+        ],
+        "id": 523
       }
     ]
   }

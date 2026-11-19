@@ -131,9 +131,9 @@ flowchart TD
 - [x] [[22_Operazioni_tra_Vettori]] — operazioni *(L2)* ✅ 2026-11-17
 - [x] [[23_Sistemi_di_Riferimento_e_Coordinate]] — coordinate *(L2)* ✅ 2026-11-17
 - [x] [[24_Proprieta_delle_Operazioni_tra_Vettori]] — proprietà *(L2)* ✅ 2026-11-17
-- [ ] [[25_Prodotto_Interno_e_Ortogonalita]] — prodotto interno *(L2)*
-- [ ] [[26_Prodotto_Interno_in_Coordinate]] — in coordinate *(L2)*
-- [ ] [[27_Prodotto_Esterno]] — prodotto esterno *(L2)*
+- [x] [[25_Prodotto_Interno_e_Ortogonalita]] — prodotto interno *(L2)*
+- [x] [[26_Prodotto_Interno_in_Coordinate]] — in coordinate *(L2)*
+- [x] [[27_Prodotto_Esterno]] — prodotto esterno *(L2)*
 - [x] [[28_Determinanti_2x2_e_3x3]] — determinanti $2\times2$, $3\times3$ *(L2)* ✅ 2026-11-17
 
 ---

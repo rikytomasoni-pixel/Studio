@@ -11,10 +11,14 @@
             "id": "25ac5d01574d4c8d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "65_Determinante_Sviluppo_di_Laplace"
             }
           }
         ]
@@ -237,6 +241,11 @@
   },
   "active": "25ac5d01574d4c8d",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+    "20_Geometria_Algebra_Lineare/06_Rango/130_Riepilogo_sulle_Definizioni_di_Rango.md",
+    "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/27_Prodotto_Esterno.md",
+    "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/26_Prodotto_Interno_in_Coordinate.md",
+    "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/25_Prodotto_Interno_e_Ortogonalita.md",
     "00_Claude_Workspace/Recap_2026-11-19_GAL_L22-L23.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261119 - LEZIONE 23.pdf",
     "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base/167_Simmetria_Assiale_Base_Adattata_e_Matrice_Diagonale.md",
@@ -272,11 +281,7 @@
     "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/157_Studio_del_Grafico_di_una_Funzione.md",
     "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/156_Funzioni_Convesse_e_Concave.md",
     "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital.md",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/154_Esempi_di_Applicazione_de_l_Hopital.md",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/153_Controesempio_de_l_Hopital_Limite_delle_Derivate_Inesistente.md",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/152_Teorema_di_de_l_Hopital.md",
     "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione",
-    "10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale/151_Discontinuita_della_Funzione_Derivata.md",
     "20_Geometria_Algebra_Lineare/18_Endomorfismi_Similitudine_e_Diagonalizzazione",
     "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base",
     "90_Lezioni_pdf/A1/AM1 L18 26-27.pdf",
