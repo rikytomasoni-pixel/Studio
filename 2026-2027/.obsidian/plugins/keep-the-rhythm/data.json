@@ -5541,6 +5541,22 @@
         "charCountStart": 1166,
         "changes": [],
         "id": 529
+      },
+      {
+        "date": "2026-11-20",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/74_Teorema_di_Binet.md",
+        "wordCountStart": 231,
+        "charCountStart": 1852,
+        "changes": [],
+        "id": 530
+      },
+      {
+        "date": "2026-11-20",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/75_Calcolo_del_Determinante_con_il_MEG.md",
+        "wordCountStart": 156,
+        "charCountStart": 1621,
+        "changes": [],
+        "id": 531
       }
     ]
   }

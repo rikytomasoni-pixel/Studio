@@ -268,8 +268,8 @@ flowchart TD
 - [x] [[76_Determinante_Normalizzato_e_Alternante]] — normalizzato, alternante *(L7)*
 - [x] [[77_Determinante_Multilineare]] — multilineare *(L7)*
 - [x] [[78_Determinante_e_Sostituzione]] — sostituzione *(L7)*
-- [ ] [[79_Determinante_con_Righe_Uguali]] — righe uguali *(L7)*
-- [ ] [[74_Teorema_di_Binet]] — Binet *(L7)*
+- [x] [[79_Determinante_con_Righe_Uguali]] — righe uguali *(L7)*
+- [x] [[74_Teorema_di_Binet]] — Binet *(L7)*
 - [ ] [[75_Calcolo_del_Determinante_con_il_MEG]] — calcolo con il MEG *(L7)*
 - [ ] [[103_Esercizio_5_1_Calcolo_del_Determinante]] — *(esercizio)* Es. 5.1
 - [ ] [[104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe]] — *(esercizio)*
