@@ -298,8 +298,8 @@ flowchart TD
 > [!question] Checkpoint
 > Dato un sistema con parametro $k$, sai dire per quali $k$ ha 0, 1 o $\infty^m$ soluzioni e descriverle?
 
-- [ ] [[80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare]] — forma matriciale *(L9)*
-- [ ] [[81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico]] — risoluzione con il MEG *(L9)*
+- [x] [[80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare]] — forma matriciale *(L9)*
+- [x] [[81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico]] — risoluzione con il MEG *(L9)*
 - [ ] [[82_Teorema_di_Rouche_Capelli]] — Rouché–Capelli *(L9)*
 - [ ] [[83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli]] — esempio con $k$ *(L10)*
 - [ ] [[84_Nucleo_e_Sistema_Omogeneo_Associato]] — nucleo, omogeneo *(L10)*

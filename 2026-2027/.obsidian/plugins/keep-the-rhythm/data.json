@@ -5605,6 +5605,22 @@
         "charCountStart": 3757,
         "changes": [],
         "id": 537
+      },
+      {
+        "date": "2026-11-20",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico.md",
+        "wordCountStart": 373,
+        "charCountStart": 2674,
+        "changes": [],
+        "id": 538
+      },
+      {
+        "date": "2026-11-20",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/82_Teorema_di_Rouche_Capelli.md",
+        "wordCountStart": 658,
+        "charCountStart": 4606,
+        "changes": [],
+        "id": 539
       }
     ]
   }
