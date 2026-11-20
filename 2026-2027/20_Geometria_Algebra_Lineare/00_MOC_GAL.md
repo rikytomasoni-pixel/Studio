@@ -264,10 +264,10 @@ flowchart TD
 > Sai calcolare un determinante $4\times4$ con il metodo misto e dire perché scambiare due righe cambia il segno?
 
 - [x] [[65_Determinante_Sviluppo_di_Laplace]] — Laplace *(L6)*
-- [ ] [[66_Matrici_Triangolari]] — triangolari *(L6)*
-- [ ] [[76_Determinante_Normalizzato_e_Alternante]] — normalizzato, alternante *(L7)*
-- [ ] [[77_Determinante_Multilineare]] — multilineare *(L7)*
-- [ ] [[78_Determinante_e_Sostituzione]] — sostituzione *(L7)*
+- [x] [[66_Matrici_Triangolari]] — triangolari *(L6)*
+- [x] [[76_Determinante_Normalizzato_e_Alternante]] — normalizzato, alternante *(L7)*
+- [x] [[77_Determinante_Multilineare]] — multilineare *(L7)*
+- [x] [[78_Determinante_e_Sostituzione]] — sostituzione *(L7)*
 - [ ] [[79_Determinante_con_Righe_Uguali]] — righe uguali *(L7)*
 - [ ] [[74_Teorema_di_Binet]] — Binet *(L7)*
 - [ ] [[75_Calcolo_del_Determinante_con_il_MEG]] — calcolo con il MEG *(L7)*
