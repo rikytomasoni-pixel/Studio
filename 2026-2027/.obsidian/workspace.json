@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+                "file": "20_Geometria_Algebra_Lineare/07_Determinante/66_Matrici_Triangolari.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_MOC_GAL"
+              "title": "66_Matrici_Triangolari"
             }
           }
         ]
@@ -241,8 +241,8 @@
   },
   "active": "25ac5d01574d4c8d",
   "lastOpenFiles": [
-    "10_Analisi_1/00_MOC_Analisi_1.md",
     "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+    "10_Analisi_1/00_MOC_Analisi_1.md",
     "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
     "20_Geometria_Algebra_Lineare/06_Rango/130_Riepilogo_sulle_Definizioni_di_Rango.md",
     "20_Geometria_Algebra_Lineare/02_Vettori_Geometrici/27_Prodotto_Esterno.md",
