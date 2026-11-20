@@ -270,12 +270,12 @@ flowchart TD
 - [x] [[78_Determinante_e_Sostituzione]] — sostituzione *(L7)*
 - [x] [[79_Determinante_con_Righe_Uguali]] — righe uguali *(L7)*
 - [x] [[74_Teorema_di_Binet]] — Binet *(L7)*
-- [ ] [[75_Calcolo_del_Determinante_con_il_MEG]] — calcolo con il MEG *(L7)*
-- [ ] [[103_Esercizio_5_1_Calcolo_del_Determinante]] — *(esercizio)* Es. 5.1
-- [ ] [[104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe]] — *(esercizio)*
-- [ ] [[105_Determinante_Laplace_Esempio_3x3_Riga_3]] — *(esercizio)*
-- [ ] [[106_Determinante_Metodo_Misto_MEG_e_Laplace]] — *(esercizio)*
-- [ ] [[107_Confronto_Metodi_Calcolo_Determinante]] — confronto *(esercizi 09-10)*
+- [x] [[75_Calcolo_del_Determinante_con_il_MEG]] — calcolo con il MEG *(L7)*
+- [x] [[103_Esercizio_5_1_Calcolo_del_Determinante]] — *(esercizio)* Es. 5.1
+- [x] [[104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe]] — *(esercizio)*
+- [x] [[105_Determinante_Laplace_Esempio_3x3_Riga_3]] — *(esercizio)*
+- [x] [[106_Determinante_Metodo_Misto_MEG_e_Laplace]] — *(esercizio)*
+- [x] [[107_Confronto_Metodi_Calcolo_Determinante]] — confronto *(esercizi 09-10)*
 
 ---
 

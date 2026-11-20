@@ -5557,6 +5557,54 @@
         "charCountStart": 1621,
         "changes": [],
         "id": 531
+      },
+      {
+        "date": "2026-11-20",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/103_Esercizio_5_1_Calcolo_del_Determinante.md",
+        "wordCountStart": 203,
+        "charCountStart": 1647,
+        "changes": [],
+        "id": 532
+      },
+      {
+        "date": "2026-11-20",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/104_Determinante_con_il_MEG_Esempio_con_Scambio_di_Righe.md",
+        "wordCountStart": 325,
+        "charCountStart": 2344,
+        "changes": [],
+        "id": 533
+      },
+      {
+        "date": "2026-11-20",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/107_Confronto_Metodi_Calcolo_Determinante.md",
+        "wordCountStart": 254,
+        "charCountStart": 2191,
+        "changes": [],
+        "id": 534
+      },
+      {
+        "date": "2026-11-20",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/105_Determinante_Laplace_Esempio_3x3_Riga_3.md",
+        "wordCountStart": 259,
+        "charCountStart": 1751,
+        "changes": [],
+        "id": 535
+      },
+      {
+        "date": "2026-11-20",
+        "filePath": "20_Geometria_Algebra_Lineare/07_Determinante/65_Determinante_Sviluppo_di_Laplace.md",
+        "wordCountStart": 615,
+        "charCountStart": 4054,
+        "changes": [],
+        "id": 536
+      },
+      {
+        "date": "2026-11-20",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare.md",
+        "wordCountStart": 535,
+        "charCountStart": 3757,
+        "changes": [],
+        "id": 537
       }
     ]
   }
