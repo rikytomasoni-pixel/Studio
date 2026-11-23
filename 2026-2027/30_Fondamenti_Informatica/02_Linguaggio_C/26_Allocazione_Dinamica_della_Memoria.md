@@ -37,8 +37,7 @@ free(p);
 
 ```
 ### Caso Matrici
-
-**AGGIUNGI DISEGNO**
+![[MatriciDinamiche.png]]
 
 ```C
 int r, c, i;
