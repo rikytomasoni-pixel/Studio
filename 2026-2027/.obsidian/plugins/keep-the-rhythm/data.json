@@ -5621,6 +5621,20 @@
         "charCountStart": 4606,
         "changes": [],
         "id": 539
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
+        "wordCountStart": 3433,
+        "charCountStart": 34206,
+        "changes": [
+          {
+            "timeKey": "11:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 540
       }
     ]
   }
