@@ -5747,6 +5747,52 @@
         "charCountStart": 2127,
         "changes": [],
         "id": 554
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/26_Allocazione_Dinamica_della_Memoria.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 23,
+            "c": 217
+          },
+          {
+            "timeKey": "13:40",
+            "w": 11,
+            "c": 107
+          },
+          {
+            "timeKey": "13:45",
+            "w": 0,
+            "c": 7
+          }
+        ],
+        "id": 555
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "00_MOC_Materia.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 556
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "99_Tools/Excalidraw/Disegni FI.md",
+        "wordCountStart": 1588,
+        "charCountStart": 52142,
+        "changes": [],
+        "id": 557
       }
     ]
   }
