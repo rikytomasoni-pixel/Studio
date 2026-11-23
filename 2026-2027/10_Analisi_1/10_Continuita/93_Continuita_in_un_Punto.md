@@ -39,6 +39,7 @@ fonte: "AM1 L14 26-27.pdf (pag. 8-9, 13)"
 - [[84_Definizione_Successionale_di_Limite]]
 - [[103_Algebra_delle_Funzioni_Continue]]
 - [[117_Continuita_delle_Funzioni_Elementari]]
+- [[160_Teorema_di_Regolarita_delle_Funzioni_Convesse]]
 - [[00_MOC_Analisi_1]]
 - [[129_Derivabilita_e_Continuita]] (derivabile $\Rightarrow$ continua)
 

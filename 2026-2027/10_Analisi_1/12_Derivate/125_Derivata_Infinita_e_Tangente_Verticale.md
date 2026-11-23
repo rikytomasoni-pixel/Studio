@@ -37,6 +37,7 @@ Non esiste retta tangente al grafico di $f$ in $(0,0)$.
 - [[130_Classificazione_dei_Punti_di_Non_Derivabilita]] (flesso a tangente verticale e cuspide)
 - [[97_Discontinuita_di_Prima_Specie_a_Salto]]
 - [[90_Limite_Infinito_in_un_Punto_Finito]]
+- [[163_Punti_di_Flesso]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate/tangente-verticale

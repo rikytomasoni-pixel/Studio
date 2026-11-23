@@ -29,6 +29,7 @@ Per dimostrare questo teorema (e quello sulle [[143_Caratterizzazione_delle_Funz
 - [[142_Teorema_di_Lagrange]]
 - [[23_Monotonia]]
 - [[138_Punti_Stazionari_e_Punti_Critici]]
+- [[162_Test_di_Convessita]]
 - [[00_MOC_Analisi_1]]
 - [[146_Test_di_Monotonia_e_Estremi_Locali]]
 - [[147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili]]

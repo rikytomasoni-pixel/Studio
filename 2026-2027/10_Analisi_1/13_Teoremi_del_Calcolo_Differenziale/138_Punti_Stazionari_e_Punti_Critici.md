@@ -41,6 +41,7 @@ $f$ è derivabile in $\mathbb{R}$ e $f'(0)=0$, quindi $x_0=0$ è punto stazionar
 - [[136_Massimi_e_Minimi_Locali_e_Globali]]
 - [[123_Esempi_di_Derivata_e_Retta_Tangente]]
 - [[139_Ricerca_di_Massimi_e_Minimi_Assoluti_su_Intervallo_Chiuso]]
+- [[165_Flessi_e_Derivata_Seconda]]
 - [[00_MOC_Analisi_1]]
 - [[145_Test_di_Monotonia_Controesempi_e_Osservazioni]]
 - [[150_Osservazioni_sul_Prolungamento_della_Derivata]]

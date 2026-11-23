@@ -4,9 +4,9 @@ tags:
   - MOC
   - indice
   - guida-studio
-data: 2026-11-19
+data: 2026-11-23
 corso: Analisi Matematica 1
-ultima_lezione: 19
+ultima_lezione: 20
 ---
 
 # Analisi Matematica 1 — MOC e guida allo studio
@@ -23,7 +23,7 @@ Salto rapido: [[#Dashboard]] · [[#Flowchart della progressione]] · [[#Dimostra
 > - Le dimostrazioni segnate **(D#)** sono nell'elenco delle dimostrazioni richieste allo scritto.
 
 > [!info] Stato del corso
-> Ultima lezione integrata: **L19** (18-11-2026). I blocchi 1-14 hanno note (il 14 è appena iniziato: de l'Hôpital, definizione di convessità, schema di studio di funzione); il blocco 15 è ricavato dal programma 25-26 e va confermato a lezione.
+> Ultima lezione integrata: **L20** (20-11-2026). I blocchi 1-14 hanno note (il 14 è in corso: de l'Hôpital, convessità e flessi, inizio di Taylor, schema di studio di funzione); il blocco 15 è ricavato dal programma 25-26 e va confermato a lezione.
 
 ## Dashboard
 
@@ -550,25 +550,34 @@ flowchart TD
 
 ## 14 · Derivate successive: de l'Hôpital, convessità, Taylor e studio di funzione
 
-*Lezione 19 (18-11) — blocco appena iniziato*
+*Lezioni 19 (18-11) e 20 (20-11) — blocco in corso*
 
 > [!abstract] Stai per affrontare
 > Derivate successive: convessità, flessi, De L'Hospital e soprattutto la **formula di Taylor**, che unifica asintotici, $o$-piccolo e derivate e permette di calcolare limiti difficili.
 
 > [!important] Da imparare
-> - Convessità/concavità e derivata seconda; **punti di flesso** (a L19 solo la definizione).
+> - Convessità/concavità e derivata seconda; **punti di flesso**, cambio di concavità e $f''$ (L20).
 > - **De L'Hôpital**: ipotesi, forme $\frac00$ e $\frac\infty\infty$, perché non si inverte.
 > - **Polinomio di Taylor**; resto di **Peano** (D24) e di Lagrange.
 > - Taylor delle funzioni elementari ($e^x,\sin x,\cos x,\log(1+x),\dots$) e calcolo di limiti.
 > - **Studio completo del grafico** di una funzione.
 
 - [ ] [[156_Funzioni_Convesse_e_Concave]] — definizione di convessa/concava *(L19)*
-- [ ] Convessità e derivata seconda, flessi *(nota da creare)*
+- [ ] [[158_Segmento_e_Retta_per_due_Punti]] — preliminare: segmento e retta per due punti *(L20)*
+- [ ] [[159_Interpretazione_Geometrica_della_Convessita]] — corde sopra il grafico *(L20)*
+- [ ] [[160_Teorema_di_Regolarita_delle_Funzioni_Convesse]] — continuità e derivate laterali *(L20)*
+- [ ] [[161_Convessita_e_Rette_Tangenti]] — grafico sopra le tangenti *(L20)*
+- [ ] [[162_Test_di_Convessita]] — $f'$ monotona, segno di $f''$, $\log_a x$ *(L20)*
+- [ ] [[163_Punti_di_Flesso]] — definizione di flesso *(L20)*
+- [ ] [[164_Punti_di_Cambio_di_Concavita]] — cambio di concavità vs flesso *(L20)*
+- [ ] [[165_Flessi_e_Derivata_Seconda]] — $f''(x_0)=0$, $x^4$, $x^{5/3}$ *(L20)*
 - [ ] [[152_Teorema_di_de_l_Hopital]] — de l'Hôpital *(L19)*
 - [ ] [[153_Controesempio_de_l_Hopital_Limite_delle_Derivate_Inesistente]] — quando $\nexists\lim\frac{f'}{g'}$ *(L19)*
 - [ ] [[154_Esempi_di_Applicazione_de_l_Hopital]] — esempi *(L19)*
 - [ ] [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]] — gerarchia degli infiniti per funzioni *(L19)*
-- [ ] Polinomio di Taylor, resto di Peano (D24) *(nota da creare)*
+- [ ] [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]] — da $\sin x=x+o(x)$ a $x-\frac{x^3}{6}+o(x^3)$ *(L20)*
+- [ ] [[167_Polinomio_di_Taylor]] — definizione, Maclaurin *(L20)*
+- [ ] [[168_Teorema_di_Taylor_con_Resto_di_Peano]] — resto di Peano, solo enunciato (D24) *(L20)*
 - [ ] Taylor delle funzioni elementari e limiti *(nota da creare)*
 - [ ] [[157_Studio_del_Grafico_di_una_Funzione]] — schema in 10 punti *(L19)*
 
@@ -624,7 +633,7 @@ flowchart TD
 - [ ] **D21** Teorema di Rolle → [[141_Teorema_di_Rolle]]
 - [ ] **D22** Teorema di Lagrange → [[142_Teorema_di_Lagrange]]
 - [ ] **D23** Test di monotonia e caratterizzazione delle costanti → [[144_Dimostrazione_del_Test_di_Monotonia]], [[140_Test_di_Monotonia]], [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]]
-- [ ] **D24** Formula di Taylor con resto di Peano *(nota da creare)*
+- [ ] **D24** Formula di Taylor con resto di Peano → [[168_Teorema_di_Taylor_con_Resto_di_Peano]] *(solo enunciato: dimostrazione non ancora vista)*
 - [ ] **D25** Struttura dell'integrale indefinito *(nota da creare)*
 - [ ] **D26** Teorema della media integrale *(nota da creare)*
 - [ ] **D27** Primo e secondo teorema fondamentale del calcolo integrale *(nota da creare)*
@@ -657,6 +666,7 @@ flowchart TD
 | Lezione 17 | 11-11-2026 | [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]], [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]], [[121_Problemi_Motivanti_delle_Derivate]], [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]], [[123_Esempi_di_Derivata_e_Retta_Tangente]], [[124_Funzione_Derivata_e_Derivate_di_Ordine_Superiore]], [[125_Derivata_Infinita_e_Tangente_Verticale]], [[126_Interpretazione_della_Derivata_nelle_Applicazioni]], [[127_Differenziabilita_e_Approssimazione_Lineare]], [[128_Derivate_delle_Funzioni_Elementari]], [[129_Derivabilita_e_Continuita]], [[130_Classificazione_dei_Punti_di_Non_Derivabilita]], [[131_Algebra_delle_Derivate]], [[132_Regola_della_Catena]] |
 | Lezione 18 | 13-11-2026 | [[133_Derivate_con_Valore_Assoluto_e_Segno]], [[134_Teorema_della_Derivata_della_Funzione_Inversa]], [[135_Derivate_di_arctan_log_arcsin]], [[136_Massimi_e_Minimi_Locali_e_Globali]], [[137_Teorema_di_Fermat]], [[138_Punti_Stazionari_e_Punti_Critici]], [[139_Ricerca_di_Massimi_e_Minimi_Assoluti_su_Intervallo_Chiuso]], [[140_Test_di_Monotonia]], [[141_Teorema_di_Rolle]], [[142_Teorema_di_Lagrange]], [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]] |
 | Lezione 19 | 18-11-2026 | [[144_Dimostrazione_del_Test_di_Monotonia]], [[145_Test_di_Monotonia_Controesempi_e_Osservazioni]], [[146_Test_di_Monotonia_e_Estremi_Locali]], [[147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili]], [[157_Studio_del_Grafico_di_una_Funzione]], [[152_Teorema_di_de_l_Hopital]], [[153_Controesempio_de_l_Hopital_Limite_delle_Derivate_Inesistente]], [[154_Esempi_di_Applicazione_de_l_Hopital]], [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]], [[148_Teorema_di_Prolungamento_della_Derivata_Prima]], [[150_Osservazioni_sul_Prolungamento_della_Derivata]], [[149_Dimostrazione_del_Teorema_di_Prolungamento_della_Derivata]], [[151_Discontinuita_della_Funzione_Derivata]], [[156_Funzioni_Convesse_e_Concave]] |
+| Lezione 20 | 20-11-2026 | [[158_Segmento_e_Retta_per_due_Punti]], [[159_Interpretazione_Geometrica_della_Convessita]], [[160_Teorema_di_Regolarita_delle_Funzioni_Convesse]], [[161_Convessita_e_Rette_Tangenti]], [[162_Test_di_Convessita]], [[163_Punti_di_Flesso]], [[164_Punti_di_Cambio_di_Concavita]], [[165_Flessi_e_Derivata_Seconda]], [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]], [[167_Polinomio_di_Taylor]], [[168_Teorema_di_Taylor_con_Resto_di_Peano]] |
 
 ## Struttura delle cartelle
 
@@ -675,7 +685,7 @@ flowchart TD
 | 11 · Proprietà globali | `10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue` | 5 |  |
 | 12 · Derivate | `10_Analisi_1/12_Derivate` | 15 | 134 (derivata dell'inversa) è anche nel blocco 13 |
 | 13 · Teoremi del calcolo differenziale | `10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale` | 16 | include 147 (monotonia di successioni, collegata ai blocchi 5 e 8) e 148-151 (prolungamento della derivata) |
-| 14 · Derivate successive, de l'Hôpital, studio di funzione | `10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione` | 6 | prossime note: convessità/flessi, Taylor |
+| 14 · Derivate successive, de l'Hôpital, studio di funzione | `10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione` | 17 | prossime note: Taylor delle funzioni elementari, resto di Lagrange, limiti con Taylor |
 | 15 · Integrali | *(da creare)* | — | blocco futuro |
 
 #AM1/moc

@@ -32,6 +32,10 @@ Schema da seguire per $f:\mathcal{D}\subseteq\mathbb{R}\to\mathbb{R}$.
 - [[156_Funzioni_Convesse_e_Concave]]
 - [[140_Test_di_Monotonia]]
 - [[152_Teorema_di_de_l_Hopital]] (per i limiti)
+- [[162_Test_di_Convessita]]
+- [[163_Punti_di_Flesso]]
+- [[164_Punti_di_Cambio_di_Concavita]]
+- [[165_Flessi_e_Derivata_Seconda]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate-successive/studio-di-funzione

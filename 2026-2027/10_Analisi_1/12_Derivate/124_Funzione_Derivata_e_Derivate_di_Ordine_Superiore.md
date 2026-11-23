@@ -36,6 +36,9 @@ Osservazione: $f^{(n)}(x_0)=\big(f^{(n-1)}\big)'(x_0)$.
 ## Note collegate
 - [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]]
 - [[128_Derivate_delle_Funzioni_Elementari]]
+- [[162_Test_di_Convessita]]
+- [[165_Flessi_e_Derivata_Seconda]]
+- [[167_Polinomio_di_Taylor]]
 - [[00_MOC_Analisi_1]]
 - [[151_Discontinuita_della_Funzione_Derivata]]
 

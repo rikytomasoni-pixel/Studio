@@ -63,6 +63,7 @@ Il collegamento con i limiti destro e sinistro è quello di [[91_Limiti_Destro_e
 - [[125_Derivata_Infinita_e_Tangente_Verticale]]
 - [[129_Derivabilita_e_Continuita]]
 - [[93_Continuita_in_un_Punto]]
+- [[161_Convessita_e_Rette_Tangenti]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate/definizione

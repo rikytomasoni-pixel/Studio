@@ -64,6 +64,8 @@ $\Rightarrow$ esiste finito il limite, $f'(x_0)=\displaystyle\lim_{x\to x_0}\fra
 - [[129_Derivabilita_e_Continuita]]
 - [[106_Asintotico_e_o_piccolo_per_Funzioni]]
 - [[128_Derivate_delle_Funzioni_Elementari]]
+- [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]]
+- [[168_Teorema_di_Taylor_con_Resto_di_Peano]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate/differenziabilita

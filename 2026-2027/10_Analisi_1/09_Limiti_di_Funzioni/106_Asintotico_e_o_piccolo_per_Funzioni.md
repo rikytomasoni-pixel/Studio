@@ -39,6 +39,8 @@ Estensione ai limiti di funzioni di quanto visto per le successioni ([[40_Confro
 - [[108_Limiti_Notevoli_di_Funzioni]]
 - [[40_Confronti_Asintotici]]
 - [[41_o_piccolo_e_Asintotico]]
+- [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]]
+- [[168_Teorema_di_Taylor_con_Resto_di_Peano]]
 - [[00_MOC_Analisi_1]]
 - [[127_Differenziabilita_e_Approssimazione_Lineare]] (derivabilità riscritta con l'o piccolo)
 

@@ -35,6 +35,7 @@ Questo esempio è il primo mattone per la [[155_Dimostrazione_della_Gerarchia_de
 - [[153_Controesempio_de_l_Hopital_Limite_delle_Derivate_Inesistente]]
 - [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]]
 - [[108_Limiti_Notevoli_di_Funzioni]]
+- [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate/de-l-hopital-esempi

@@ -23,13 +23,21 @@ fonte: "AM1 L19 26-27.pdf (pag. 26)"
 > [!note] Osservazione (non presente negli appunti)
 > Geometricamente, $tx_1+(1-t)x_0$ descrive i punti del segmento $[x_0,x_1]$ e $t f(x_1)+(1-t)f(x_0)$ i punti della corda tra $(x_0,f(x_0))$ e $(x_1,f(x_1))$: $f$ è convessa se il grafico sta sempre **sotto** ogni sua corda.
 
-> [!todo] Seguiranno
-> Caratterizzazione con la derivata seconda e con le rette tangenti, punti di flesso (programma 25-26, cap. 8): nota da creare quando trattati a lezione. Nello [[157_Studio_del_Grafico_di_una_Funzione|studio del grafico]] la convessità si studia con il segno di $f''$.
+> [!info] Sviluppi (L20)
+> Interpretazione con le corde: [[159_Interpretazione_Geometrica_della_Convessita]] (preliminari: [[158_Segmento_e_Retta_per_due_Punti]]). Regolarità: [[160_Teorema_di_Regolarita_delle_Funzioni_Convesse]]. Caratterizzazioni: [[161_Convessita_e_Rette_Tangenti]] (rette tangenti) e [[162_Test_di_Convessita]] (monotonia di $f'$, segno di $f''$). Flessi: [[163_Punti_di_Flesso]], [[164_Punti_di_Cambio_di_Concavita]], [[165_Flessi_e_Derivata_Seconda]]. Nello [[157_Studio_del_Grafico_di_una_Funzione|studio del grafico]] la convessità si studia con il segno di $f''$.
 
 ## Note collegate
 - [[157_Studio_del_Grafico_di_una_Funzione]]
 - [[124_Funzione_Derivata_e_Derivate_di_Ordine_Superiore]]
 - [[140_Test_di_Monotonia]]
+- [[158_Segmento_e_Retta_per_due_Punti]]
+- [[159_Interpretazione_Geometrica_della_Convessita]]
+- [[160_Teorema_di_Regolarita_delle_Funzioni_Convesse]]
+- [[161_Convessita_e_Rette_Tangenti]]
+- [[162_Test_di_Convessita]]
+- [[163_Punti_di_Flesso]]
+- [[164_Punti_di_Cambio_di_Concavita]]
+- [[165_Flessi_e_Derivata_Seconda]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate-successive/convessita

@@ -32,6 +32,7 @@ $$f'(x)=5|x|x^3\qquad\forall x\in\mathbb{R}$$
 - [[151_Discontinuita_della_Funzione_Derivata]]
 - [[142_Teorema_di_Lagrange]]
 - [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]]
+- [[165_Flessi_e_Derivata_Seconda]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate/prolungamento-derivata

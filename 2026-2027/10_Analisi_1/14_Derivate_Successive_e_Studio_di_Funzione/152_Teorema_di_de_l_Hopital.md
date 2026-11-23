@@ -40,6 +40,7 @@ Esempi di uso: [[154_Esempi_di_Applicazione_de_l_Hopital]]; applicazione importa
 - [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]]
 - [[102_Algebra_dei_Limiti_di_Funzioni]]
 - [[142_Teorema_di_Lagrange]]
+- [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]]
 - [[00_MOC_Analisi_1]]
 
 #AM1/derivate/de-l-hopital

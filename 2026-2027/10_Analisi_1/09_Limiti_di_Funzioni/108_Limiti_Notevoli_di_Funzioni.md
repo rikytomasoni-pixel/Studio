@@ -44,6 +44,7 @@ $$\sin\varepsilon_n\sim\varepsilon_n,\quad1-\cos\varepsilon_n\sim\tfrac12\vareps
 - [[107_Proprieta_degli_Asintotici_per_Funzioni]]
 - [[118_Dimostrazione_dei_Limiti_Notevoli]]
 - [[38_Numero_di_Nepero]]
+- [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]]
 - [[00_MOC_Analisi_1]]
 - [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]]
 - [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]]
