@@ -37,6 +37,36 @@ free(p);
 
 ```
 ### Caso Matrici
+
+**AGGIUNGI DISEGNO**
+
+```C
+int r, c, i;
+int **m
+scanf(" %d%d", &r, &c);
+while(r <= 0 || c <= 0){
+	printf("Errore\n");
+	scanf(" %d%d", &r, &c);
+}
+
+//allocazione
+m = malloc(r * sizeof(int*))
+if(!m)
+	return -1;
+for(i = 0; i < r; i++){
+	m[i] = malloc(c * sizeof(int));
+	if(!m[i])
+		retun -1;
+}
+
+//utilizzo
+
+//deallocazione
+for(i = 0; i < r; i++)
+	free(m[i]);
+free(m);
+```
+
 ## Note collegate
 - [[00_MOC_FdI]]
 
