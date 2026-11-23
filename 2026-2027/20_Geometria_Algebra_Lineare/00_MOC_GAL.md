@@ -327,7 +327,7 @@ flowchart TD
 > - Perché le soluzioni di un sistema **omogeneo** sono chiuse per somma e scalari.
 
 - [x] [[89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini]] — interpretazione geometrica *(L11)* ✅ 2026-11-23
-- [ ] [[90_Sistemi_Omogenei_e_Chiusura_della_Somma]] — chiusura *(L11)*
+- [x] [[90_Sistemi_Omogenei_e_Chiusura_della_Somma]] — chiusura *(L11)*
 
 ---
 
@@ -347,8 +347,8 @@ flowchart TD
 > [!question] Checkpoint
 > Sai mostrare in tre righe che un insieme dato è (o non è) un sottospazio?
 
-- [ ] [[91_Spazio_Vettoriale_Definizione]] — definizione *(L11)*
-- [ ] [[92_Esempi_di_Spazi_Vettoriali]] — esempi *(L11)*
+- [x] [[91_Spazio_Vettoriale_Definizione]] — definizione *(L11)* ✅ 2026-11-23
+- [x] [[92_Esempi_di_Spazi_Vettoriali]] — esempi *(L11)*
 - [ ] [[93_Proprieta_Fondamentali_degli_Spazi_Vettoriali]] — proprietà *(L11)*
 - [ ] [[94_Sottospazi_Vettoriali]] — sottospazi *(L11)*
 - [ ] [[95_Combinazioni_Lineari_e_Span]] — combinazioni e span *(L13)*

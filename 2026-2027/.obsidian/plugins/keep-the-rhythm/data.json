@@ -5715,6 +5715,38 @@
         "charCountStart": 2691,
         "changes": [],
         "id": 550
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/116_Strategia_Determinante_per_Sistemi_con_Parametro.md",
+        "wordCountStart": 230,
+        "charCountStart": 1943,
+        "changes": [],
+        "id": 551
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/91_Spazio_Vettoriale_Definizione.md",
+        "wordCountStart": 322,
+        "charCountStart": 2740,
+        "changes": [],
+        "id": 552
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
+        "wordCountStart": 313,
+        "charCountStart": 2361,
+        "changes": [],
+        "id": 553
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
+        "wordCountStart": 274,
+        "charCountStart": 2127,
+        "changes": [],
+        "id": 554
       }
     ]
   }
