@@ -67,6 +67,24 @@ for(i = 0; i < r; i++)
 free(m);
 ```
 
+### Allocazione con funzione
+```C
+int* alloca_array(int dim){
+int *p2;
+p2 = malloc(dim * sizeof(int));
+return p2;
+}
+```
+## Altre funzioni
+- **calloc**(numero elementi, dimensione elementi)
+	- alloca tutti 0
+```C
+p = calloc(dim, sizeof(int));
+```
+- **realloc**(array, dimensione)
+	- allunga o accorcia l'array
+	- potrebbe fallire (non fare mai sovrascrizione)
+	- potrebbe 
 ## Note collegate
 - [[00_MOC_FdI]]
 
