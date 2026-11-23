@@ -23,5 +23,6 @@ Conversione implicita e esplicita:
 - [[00_MOC_FdI]]
 - Precedente: [[07_sizeof_e_Librerie_limits_float]]
 - Successiva: [[09_Array_Monodimensionali]]
+- [[27_Argomenti_da_Riga_di_Comando]] — `atoi`/`atof`
 
 #FdI/c/conversione-tipi

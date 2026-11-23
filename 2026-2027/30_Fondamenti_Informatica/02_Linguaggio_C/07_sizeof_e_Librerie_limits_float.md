@@ -38,5 +38,6 @@ fonte: Linguaggio C
 - Precedente: [[06_Tipi_Semplici_Int_Char_Float_Double]]
 - Successiva: [[08_Conversione_fra_Tipi]]
 - [[25_Gestione_File]] — `sizeof` in `fread`/`fwrite`
+- [[26_Allocazione_Dinamica_della_Memoria]] — `sizeof` in `malloc`
 
 #FdI/c/sizeof-librerie

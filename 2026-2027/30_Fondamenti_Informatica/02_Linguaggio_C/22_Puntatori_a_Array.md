@@ -65,5 +65,6 @@ void stampa(double M[][C], int r, int c) {
 - [[12_Array_Multidimensionali]]
 - [[09_Array_Monodimensionali]]
 - [[23_Puntatori_a_Strutture]]
+- [[26_Allocazione_Dinamica_della_Memoria]] — array di dimensione decisa a runtime
 
 #FdI/c/puntatori-array

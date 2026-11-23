@@ -143,5 +143,6 @@ fclose(fp);
 - [[20_Puntatori]] — `FILE *fp` è un puntatore al descrittore del file
 - [[07_sizeof_e_Librerie_limits_float]] — `sizeof` come dimensione dell'elemento in `fread`/`fwrite`
 - [[16_Cicli_Iterativi]] — cicli `while` di lettura fino a `EOF`
+- Successiva: [[26_Allocazione_Dinamica_della_Memoria]]
 
 #FdI/c/file

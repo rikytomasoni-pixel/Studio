@@ -65,5 +65,6 @@ for(int i=0;i<DIM&&uguali;i++)
 - Precedente: [[08_Conversione_fra_Tipi]]
 - Successiva: [[10_Stringhe_in_C]]
 - [[25_Gestione_File]] — scrittura/lettura di array su file binari (`fwrite`/`fread`)
+- [[26_Allocazione_Dinamica_della_Memoria]] — array dinamici
 
 #FdI/c/array

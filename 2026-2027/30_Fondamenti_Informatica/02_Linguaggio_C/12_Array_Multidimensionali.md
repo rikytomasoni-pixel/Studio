@@ -35,5 +35,6 @@ Vedi anche gli [[11_Operazioni_sulle_Stringhe|array di stringhe]] (matrice di ch
 - [[00_MOC_FdI]]
 - Precedente: [[11_Operazioni_sulle_Stringhe]]
 - Successiva: [[13_Typedef]]
+- [[26_Allocazione_Dinamica_della_Memoria]] — matrici dinamiche
 
 #FdI/c/array-multidimensionali

@@ -4,7 +4,7 @@ tags:
   - MOC
   - indice
   - guida-studio
-date: 2026-11-18
+date: 2026-11-23
 materia: Fondamenti di Informatica
 ---
 
@@ -69,6 +69,11 @@ flowchart LR
     C9 --> C11["11 · Gestione dei file"]
     C5 --> C11
     C6 --> C11
+    C9 --> C12["12 · Allocazione dinamica"]
+    C5 --> C12
+    C8 --> C13["13 · Argomenti da riga di comando"]
+    C9 --> C13
+    C5 --> C13
 
     classDef fatto fill:#c8e6c9,stroke:#2e7d32,color:#000
     classDef corso fill:#fff3cd,stroke:#b8860b,color:#000
@@ -290,6 +295,39 @@ flowchart LR
 
 ---
 
+## 12 · Allocazione dinamica della memoria
+
+> [!abstract] Stai per affrontare
+> Come chiedere memoria al sistema mentre il programma gira, per array e matrici la cui dimensione si conosce solo a runtime.
+
+> [!important] Da imparare
+> - **`malloc`** e controllo del `NULL`; **`free`** per ogni blocco allocato.
+> - Array dinamici e **matrici dinamiche** (array di puntatori, allocazione e deallocazione riga per riga).
+> - **`calloc`** (azzera) e **`realloc`** (ridimensiona, può spostare il blocco e può fallire: usare un puntatore d'appoggio).
+
+> [!question] Checkpoint
+> Sai allocare una matrice $r \times c$ letta da tastiera, usarla e liberarla senza perdite di memoria?
+
+- [ ] [[26_Allocazione_Dinamica_della_Memoria]] — `malloc`, `calloc`, `realloc`, `free`, matrici dinamiche
+
+---
+
+## 13 · Argomenti da riga di comando
+
+> [!abstract] Stai per affrontare
+> Dare dati al programma al momento dell'esecuzione tramite i parametri del `main`.
+
+> [!important] Da imparare
+> - `argc` (numero di argomenti) e `argv` (vettore di stringhe).
+> - Conversione delle stringhe con `atoi` e `atof`.
+
+> [!question] Checkpoint
+> Sai scrivere un programma che somma due numeri passati da riga di comando?
+
+- [ ] [[27_Argomenti_da_Riga_di_Comando]] — `argc`, `argv`, `atoi`, `atof`
+
+---
+
 ## Disegni
 
 - [[Disegni FI]]
@@ -301,6 +339,6 @@ flowchart LR
 | Blocco | Cartella | Note |
 |---|---|---|
 | 1-2 · Introduzione e codifica | `30_Fondamenti_Informatica/01_Introduzione_e_Codifica` | 2 (file Excalidraw, non modificati) |
-| 3-11 · Linguaggio C | `30_Fondamenti_Informatica/02_Linguaggio_C` | 25 |
+| 3-13 · Linguaggio C | `30_Fondamenti_Informatica/02_Linguaggio_C` | 27 |
 
 #FdI/moc

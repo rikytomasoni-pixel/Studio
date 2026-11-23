@@ -41,5 +41,6 @@ Le operazioni sulle stringhe sono descritte in [[11_Operazioni_sulle_Stringhe]].
 - Successiva: [[11_Operazioni_sulle_Stringhe]]
 - Disegno originale: [[Disegni FI]]
 - [[25_Gestione_File]] — lettura di stringhe da file con `fgets`
+- [[27_Argomenti_da_Riga_di_Comando]] — `argv` come vettore di stringhe
 
 #FdI/c/stringhe

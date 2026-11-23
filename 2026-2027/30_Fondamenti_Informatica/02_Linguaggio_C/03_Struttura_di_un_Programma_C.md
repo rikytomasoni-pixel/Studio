@@ -31,5 +31,6 @@ C → Denis Ritchie anni '60 (ANSI 89)
 - Precedente: [[02_Compilati_vs_Interpretati]]
 - Successiva: [[04_Input_Output_e_Stream]]
 - Disegno originale: [[Disegni FI]]
+- [[27_Argomenti_da_Riga_di_Comando]] — `main` con parametri
 
 #FdI/c/struttura-programma
