@@ -6,7 +6,7 @@ fonte: Linguaggio C
 ---
 # Allocazione dinamica della memoria
 
-![[Pasted image 20261123134112.png|505]]
+![[allocazioneDinamica.png|505]]
 
 ## Allocazione di un array con dimensione scelta dall'utente
 - libreria <stdlib.h>
