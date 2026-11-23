@@ -5635,6 +5635,86 @@
           }
         ],
         "id": 540
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/11_Sistemi_Lineari/86_Teorema_di_Cramer.md",
+        "wordCountStart": 130,
+        "charCountStart": 1306,
+        "changes": [],
+        "id": 541
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini.md",
+        "wordCountStart": 400,
+        "charCountStart": 3538,
+        "changes": [],
+        "id": 542
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/36_Prodotto_di_una_Matrice_per_uno_Scalare.md",
+        "wordCountStart": 255,
+        "charCountStart": 1939,
+        "changes": [],
+        "id": 543
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/37_Efficienza_Computazionale.md",
+        "wordCountStart": 137,
+        "charCountStart": 1277,
+        "changes": [],
+        "id": 544
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/40_Opposto_di_una_Matrice.md",
+        "wordCountStart": 98,
+        "charCountStart": 905,
+        "changes": [],
+        "id": 545
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/41_Prodotto_Matriciale_Righe_per_Colonne.md",
+        "wordCountStart": 352,
+        "charCountStart": 2262,
+        "changes": [],
+        "id": 546
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/42_Prodotto_e_Composizione_di_Funzioni.md",
+        "wordCountStart": 208,
+        "charCountStart": 1708,
+        "changes": [],
+        "id": 547
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/44_Proprieta_del_Prodotto_Matriciale.md",
+        "wordCountStart": 267,
+        "charCountStart": 1990,
+        "changes": [],
+        "id": 548
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/03_Matrici/45_Matrice_Identita_e_Matrici_Diagonali.md",
+        "wordCountStart": 175,
+        "charCountStart": 1550,
+        "changes": [],
+        "id": 549
+      },
+      {
+        "date": "2026-11-23",
+        "filePath": "20_Geometria_Algebra_Lineare/12_Spazi_Affini/90_Sistemi_Omogenei_e_Chiusura_della_Somma.md",
+        "wordCountStart": 362,
+        "charCountStart": 2691,
+        "changes": [],
+        "id": 550
       }
     ]
   }

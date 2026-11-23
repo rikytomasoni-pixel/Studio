@@ -300,13 +300,13 @@ flowchart TD
 
 - [x] [[80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare]] — forma matriciale *(L9)*
 - [x] [[81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico]] — risoluzione con il MEG *(L9)*
-- [ ] [[82_Teorema_di_Rouche_Capelli]] — Rouché–Capelli *(L9)*
-- [ ] [[83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli]] — esempio con $k$ *(L10)*
-- [ ] [[84_Nucleo_e_Sistema_Omogeneo_Associato]] — nucleo, omogeneo *(L10)*
-- [ ] [[85_Teorema_di_Struttura_delle_Soluzioni]] — struttura *(L10)*
-- [ ] [[86_Teorema_di_Cramer]] — Cramer *(L10)*
-- [ ] [[87_Ricerca_della_Matrice_Inversa]] — ricerca dell'inversa *(L10)*
-- [ ] [[88_Teorema_sull_Invertibilita_della_Matrice]] — invertibilità *(L10)*
+- [x] [[82_Teorema_di_Rouche_Capelli]] — Rouché–Capelli *(L9)*
+- [x] [[83_Esempio_Sistema_con_Parametro_k_e_Rouche_Capelli]] — esempio con $k$ *(L10)*
+- [x] [[84_Nucleo_e_Sistema_Omogeneo_Associato]] — nucleo, omogeneo *(L10)* ✅ 2026-11-23
+- [x] [[85_Teorema_di_Struttura_delle_Soluzioni]] — struttura *(L10)* ✅ 2026-11-23
+- [x] [[86_Teorema_di_Cramer]] — Cramer *(L10)* ✅ 2026-11-23
+- [x] [[87_Ricerca_della_Matrice_Inversa]] — ricerca dell'inversa *(L10)* ✅ 2026-11-23
+- [x] [[88_Teorema_sull_Invertibilita_della_Matrice]] — invertibilità *(L10)* ✅ 2026-11-23
 - [ ] [[112_Esercizio_5_4_Sistemi_con_Parametro]] — *(esercizio)* Es. 5.4
 - [ ] [[113_Esercizio_5_4_i_Determinante_Sempre_Nullo]] — *(esercizio)* (i)
 - [ ] [[114_Esercizio_5_4_ii_Cramer_e_Caso_Singolare]] — *(esercizio)* (ii)
@@ -326,7 +326,7 @@ flowchart TD
 > - Equazioni cartesiane e parametriche.
 > - Perché le soluzioni di un sistema **omogeneo** sono chiuse per somma e scalari.
 
-- [ ] [[89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini]] — interpretazione geometrica *(L11)*
+- [x] [[89_Interpretazione_Geometrica_dei_Sistemi_Lineari_Spazi_Affini]] — interpretazione geometrica *(L11)* ✅ 2026-11-23
 - [ ] [[90_Sistemi_Omogenei_e_Chiusura_della_Somma]] — chiusura *(L11)*
 
 ---
