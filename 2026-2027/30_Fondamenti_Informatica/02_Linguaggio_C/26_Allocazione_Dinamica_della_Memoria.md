@@ -82,9 +82,18 @@ return p2;
 p = calloc(dim, sizeof(int));
 ```
 - **realloc**(array, dimensione)
-	- allunga o accorcia l'array
+	- ridimensiona l'array
 	- potrebbe fallire (non fare mai sovrascrizione)
-	- potrebbe 
+	- potrebbe spostare l'indirizzo di memoria a seconda dell'ocupazione dell'heap
+```C
+p2 = realloc(p, 3 * dim * sizeof(int));
+if(!p2)
+	printf("riallocazione fallita\n");
+else
+	p = p2;
+//corpo
+free(p);
+```
 ## Note collegate
 - [[00_MOC_FdI]]
 
