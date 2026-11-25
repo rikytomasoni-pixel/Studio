@@ -56,14 +56,35 @@ int inserisci_coda(lista_t* l, int v){
 	nuovo->info = v;
 	nuovo->next = NULL;
 	
-	p = *l;
-	while(p->next)
-		p = p->next;
-	
-	p->next = nuovo;
+	if(!(*l)) //lista vuota
+		*l = nuovo;
+	else{
+		p = *l;
+		while(p->next)
+			p = p->next;
+		
+		p->next = nuovo;
+	}
 	return 0;
 }
 
+```
+### Versione ricorsiva
+```C
+int inserisci_coda_ric(lista_t* l, int v){
+	nodo_t* nuovo;
+	if(!(*l)){ /*Caso Base: Lista Vuota*/
+		nuovo = malloc(sizeof(nodo_t)); 
+		if(!nuovo)
+			return -1;
+		nuovo->info = v;
+		nuovo->next = NULL;
+		*l = nuovo
+		return 0;
+	}
+	/*Caso Ricorsivo: lista con almeno un elemento*/
+	return inserisci_coda_ric( , v);
+}
 ```
 ## Applicazione tipo
 ```C

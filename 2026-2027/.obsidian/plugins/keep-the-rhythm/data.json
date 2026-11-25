@@ -5963,6 +5963,21 @@
             "timeKey": "09:25",
             "w": 13,
             "c": 72
+          },
+          {
+            "timeKey": "09:30",
+            "w": 7,
+            "c": 55
+          },
+          {
+            "timeKey": "09:35",
+            "w": 9,
+            "c": 78
+          },
+          {
+            "timeKey": "09:40",
+            "w": 36,
+            "c": 268
           }
         ],
         "id": 560
@@ -5974,6 +5989,30 @@
         "charCountStart": 51040,
         "changes": [],
         "id": 561
+      },
+      {
+        "date": "2026-11-25",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/27_Argomenti_da_Riga_di_Comando.md",
+        "wordCountStart": 201,
+        "charCountStart": 1624,
+        "changes": [],
+        "id": 562
+      },
+      {
+        "date": "2026-11-25",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/26_Allocazione_Dinamica_della_Memoria.md",
+        "wordCountStart": 395,
+        "charCountStart": 3099,
+        "changes": [],
+        "id": 563
+      },
+      {
+        "date": "2026-11-25",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
+        "wordCountStart": 603,
+        "charCountStart": 4507,
+        "changes": [],
+        "id": 564
       }
     ]
   }
