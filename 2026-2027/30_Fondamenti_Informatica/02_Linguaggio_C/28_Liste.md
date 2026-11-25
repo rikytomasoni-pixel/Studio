@@ -83,8 +83,32 @@ int inserisci_coda_ric(lista_t* l, int v){
 		return 0;
 	}
 	/*Caso Ricorsivo: lista con almeno un elemento*/
-	return inserisci_coda_ric( , v);
+	return inserisci_coda_ric(&(l*)->next, v);
 }
+```
+
+## Funzione stampa
+```C
+void stampa(lista_t l){
+	while(l){
+		printf("%d", l->info);
+		l = l->next;
+	}
+}
+```
+
+## Funzione Cerca
+*restituisce un puntatore ad un nodo*
+```C
+nodo_t* cerca(lista_t l, int x){
+	if(!l) /*Caso Base 1: Lista vuota*/
+		return NULL;
+	if(l->info == x)/*Caso Base 2: elemento trovato*/
+		return l;
+	/*Caso Ricorsivo*/
+	return cerca(l->next, x);
+}
+
 ```
 ## Applicazione tipo
 ```C
