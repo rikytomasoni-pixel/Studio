@@ -66,5 +66,6 @@ void stampa2(studente_t *s){
 - [[22_Puntatori_a_Array]]
 - [[24_Ricorsione]]
 - [[10_Stringhe_in_C]]
+- [[28_Liste]] — `->` sui nodi di una lista
 
 #FdI/c/puntatori-strutture

@@ -4,7 +4,7 @@ tags:
   - MOC
   - indice
   - guida-studio
-date: 2026-11-23
+date: 2026-11-25
 materia: Fondamenti di Informatica
 ---
 
@@ -74,6 +74,9 @@ flowchart LR
     C8 --> C13["13 · Argomenti da riga di comando"]
     C9 --> C13
     C5 --> C13
+    C12 --> C14["14 · Liste"]
+    C6 --> C14
+    C10 --> C14
 
     classDef fatto fill:#c8e6c9,stroke:#2e7d32,color:#000
     classDef corso fill:#fff3cd,stroke:#b8860b,color:#000
@@ -328,6 +331,23 @@ flowchart LR
 
 ---
 
+## 14 · Liste
+
+> [!abstract] Stai per affrontare
+> La prima struttura dati dinamica: una sequenza di nodi allocati sull'heap e collegati da puntatori, che cresce e si accorcia a runtime.
+
+> [!important] Da imparare
+> - **Nodo** = informazione + puntatore al nodo successivo (`struct` autoreferenziale, `typedef` di `nodo_t` e `lista_t`).
+> - Inserimento in **testa** e in **coda** (iterativo e ricorsivo); perché serve `lista_t*` per modificare la testa.
+> - **Stampa**, **ricerca** (`cerca`) e **cancellazione** della lista con `free`.
+
+> [!question] Checkpoint
+> Sai scrivere inserimento in testa, stampa e cancellazione di una lista di interi, liberando tutti i nodi?
+
+- [ ] [[28_Liste]] — nodi, inserimento in testa/coda, stampa, ricerca, cancellazione
+
+---
+
 ## Disegni
 
 - [[Disegni FI]]
@@ -339,6 +359,6 @@ flowchart LR
 | Blocco | Cartella | Note |
 |---|---|---|
 | 1-2 · Introduzione e codifica | `30_Fondamenti_Informatica/01_Introduzione_e_Codifica` | 2 (file Excalidraw, non modificati) |
-| 3-13 · Linguaggio C | `30_Fondamenti_Informatica/02_Linguaggio_C` | 27 |
+| 3-14 · Linguaggio C | `30_Fondamenti_Informatica/02_Linguaggio_C` | 28 |
 
 #FdI/moc

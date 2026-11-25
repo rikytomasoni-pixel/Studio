@@ -1,10 +1,22 @@
 ---
 tags:
+  - FI
+  - programmazione-c
+  - liste
+  - nodi
+  - strutture-dati
+  - puntatori
+  - struct
+  - typedef
+  - allocazione-dinamica
+  - ricorsione
 date: 2026-11-25
 materia: Fondamenti di Informatica
 fonte: Linguaggio C
 ---
 # Liste
+
+*Struttura dati dinamica fatta di nodi collegati tra loro da puntatori, allocati sull'heap con `malloc`.*
 
 ![[tabella_liste.png|616]]
 
@@ -26,17 +38,20 @@ typedef struct nodo_{
 typedef nodo_t* lista_t;
 ```
 ## Inserimento in Testa (funzione)
-*implementazione poi*
 ```C
 int inserisci_testa(lista_t* l, int v){
 	nodo_t* nuovo; 
 	nuovo = malloc(sizeof(nodo_t));
-	if(!nodo)
+	if(!nuovo)
 		return -1;
 	nuovo->info = v; // come scrivere (*nuovo).info = v;
+	nuovo->next = *l;
+	*l = nuovo;
+	return 0;
 }
-lista_t inserisci_testa2(lista_t l, v){
-	nodo_t *nodo;
+//versione che restituisce la nuova testa
+lista_t inserisci_testa2(lista_t l, int v){
+	nodo_t *nuovo;
 	nuovo = malloc(sizeof(nodo_t));
 	if(!nuovo)
 		return l;
@@ -45,6 +60,9 @@ lista_t inserisci_testa2(lista_t l, v){
 	return nuovo;
 }
 ```
+> [!note] Osservazione (non presente negli appunti)
+> Nel quaderno la prima versione di `inserisci_testa` era solo abbozzata ("implementazione poi"): l'ho completata come nell'esempio finale (`nuovo->next = *l; *l = nuovo;`). `inserisci_testa2` restituisce la nuova testa invece di modificare la lista per indirizzo.
+
 ## Inserimento in Coda
 ```C
 int inserisci_coda(lista_t* l, int v){
@@ -79,11 +97,11 @@ int inserisci_coda_ric(lista_t* l, int v){
 			return -1;
 		nuovo->info = v;
 		nuovo->next = NULL;
-		*l = nuovo
+		*l = nuovo;
 		return 0;
 	}
 	/*Caso Ricorsivo: lista con almeno un elemento*/
-	return inserisci_coda_ric(&(l*)->next, v);
+	return inserisci_coda_ric(&(*l)->next, v);
 }
 ```
 
@@ -91,7 +109,7 @@ int inserisci_coda_ric(lista_t* l, int v){
 ```C
 void stampa(lista_t l){
 	while(l){
-		printf("%d", l->info);
+		printf("%d ", l->info);
 		l = l->next;
 	}
 }
@@ -107,6 +125,18 @@ nodo_t* cerca(lista_t l, int x){
 		return l;
 	/*Caso Ricorsivo*/
 	return cerca(l->next, x);
+}
+```
+
+## Cancellazione Lista
+```C
+void cancella_lista(lista_t* l){
+	nodo_t* temp;
+	while(*l){
+		temp = (*l)->next;
+		free(*l);
+		*l = temp;
+	}
 }
 
 ```
@@ -134,15 +164,25 @@ int main(int argc, char* argv[]){
 int inserisci_testa(lista_t* l, int v){
 	nodo_t* nuovo; 
 	nuovo = malloc(sizeof(nodo_t));
-	if(!nodo)
+	if(!nuovo)
 		return -1;
 	nuovo->info = v; // come scrivere (*nuovo).info = v;
-	nuovo->next = *l
+	nuovo->next = *l;
 	*l = nuovo;
 	return 0;
 }
 ```
 ## Note collegate
-- [[00_MOC_Materia]]
+- [[00_MOC_FdI]]
+- Precedente: [[27_Argomenti_da_Riga_di_Comando]]
+- [[26_Allocazione_Dinamica_della_Memoria]] — `malloc`/`free` per creare e distruggere i nodi
+- [[14_Struct]] — il nodo è una struct (`.` e `->`)
+- [[13_Typedef]] — `typedef` per `nodo_t` e `lista_t`
+- [[20_Puntatori]] — `next` è un puntatore; puntatore a puntatore (`lista_t*`) per modificare la testa
+- [[23_Puntatori_a_Strutture]] — operatore `->`
+- [[24_Ricorsione]] — `inserisci_coda_ric` e `cerca` ricorsive
+- [[19_Sottoprogrammi_Funzioni]] — passaggio per indirizzo della lista
+- [[16_Cicli_Iterativi]] — scorrimento con `while` in `stampa` e `cancella_lista`
+- [[27_Argomenti_da_Riga_di_Comando]] — `main(int argc, char* argv[])` dell'esempio
 
-#materia/argomento/sottoargomento
+#FdI/c/liste

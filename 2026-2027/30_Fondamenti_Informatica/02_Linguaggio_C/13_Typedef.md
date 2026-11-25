@@ -20,5 +20,6 @@ numero_t num;
 - [[00_MOC_FdI]]
 - Precedente: [[12_Array_Multidimensionali]]
 - Successiva: [[14_Struct]]
+- [[28_Liste]] — `typedef` di `nodo_t` e `lista_t`
 
 #FdI/c/typedef

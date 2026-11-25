@@ -53,5 +53,6 @@ float atof(char*); //ascii to float
 - [[22_Puntatori_a_Array]] — array di puntatori e aritmetica
 - [[08_Conversione_fra_Tipi]] — `atoi`/`atof` convertono stringa → numero
 - [[03_Struttura_di_un_Programma_C]] — struttura del `main`
+- Successiva: [[28_Liste]]
 
 #FdI/c/argomenti-riga-comando

@@ -106,5 +106,6 @@ void massimo_minimo(int A[], int dim, int *max, int *min){
 - [[16_Cicli_Iterativi]] — alternativa iterativa (es. fattoriale, Fibonacci)
 - [[23_Puntatori_a_Strutture]]
 - Successiva: [[25_Gestione_File]]
+- [[28_Liste]] — inserimento in coda e ricerca ricorsivi su liste
 
 #FdI/c/ricorsione

@@ -121,5 +121,6 @@ free(p);
 - [[21_Regole_di_Visibilità]] — la memoria dinamica sopravvive alla funzione che la alloca, a differenza delle variabili locali
 - [[14_Struct]] — si possono allocare dinamicamente anche array di struct
 - [[15_Condizione_if_else]] — controllo `if(!p)` dopo ogni allocazione
+- [[28_Liste]] — nodi allocati dinamicamente
 
 #FdI/c/allocazione-dinamica

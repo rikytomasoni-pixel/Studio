@@ -113,5 +113,6 @@ printf("%d\n", ptr - A); //la differenza è espressa in elementi (non in byte): 
 - [[25_Gestione_File]] — `FILE *fp`
 - [[26_Allocazione_Dinamica_della_Memoria]] — `malloc` restituisce un puntatore a memoria sull'heap
 - [[27_Argomenti_da_Riga_di_Comando]] — `char* argv[]`
+- [[28_Liste]] — liste: nodi collegati da puntatori
 
 #FdI/c/puntatori
