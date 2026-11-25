@@ -18,8 +18,7 @@ fonte: "AM1 L20 26-27.pdf (pag. 10-11)"
 
 In parole: la retta tangente in $x_0$ **attraversa** il grafico (da una parte sta sotto, dall'altra sopra).
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Pag. 11:** due grafici con $x_0$ e $f(x_0)$ segnati e la retta tangente in rosso che attraversa il grafico: (sinistra) funzione crescente, concava a sinistra di $x_0$ e convessa a destra; (destra) funzione decrescente, convessa a sinistra e concava a destra di $x_0$.
+![[puntiFlesso.png]]
 
 > [!note] Osservazione (abuso di notazione)
 > Per estensione, se $f$ è continua in $x_0$ e $f'(x_0)=\pm\infty$, con retta tangente verticale $x=x_0$, si dice ancora che $x_0$ è punto di flesso per $f$ (**a tangente verticale**): vedi [[125_Derivata_Infinita_e_Tangente_Verticale]] e [[130_Classificazione_dei_Punti_di_Non_Derivabilita]].

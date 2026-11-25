@@ -18,8 +18,7 @@ fonte: "AM1 L20 26-27.pdf (pag. 8-9)"
 
 Cioè $f$ giace interamente **sopra** (**sotto**) la retta tangente al suo grafico in $P_0=(x_0,f(x_0))$, per ogni $x_0\in I$. La retta tangente è $y=f'(x_0)(x-x_0)+f(x_0)$ (vedi [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]]).
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Pag. 8:** grafico di una funzione convessa $f$ con punto $P_0=(x_0,f(x_0))$ sul grafico, $f(x_0)$ e $x_0$ segnati sugli assi, e in rosso la retta tangente $y=f'(x_0)(x-x_0)+f(x_0)$ che sta tutta sotto il grafico.
+![[rettaTangAConv.png]]
 
 > [!note] Osservazione
 > $f(x)=|x|$ è convessa in $\mathbb{R}$ anche se non è derivabile in $x_0=0$ ($x_0$ punto angoloso): l'ipotesi di derivabilità serve solo per scrivere la retta tangente nell'enunciato.

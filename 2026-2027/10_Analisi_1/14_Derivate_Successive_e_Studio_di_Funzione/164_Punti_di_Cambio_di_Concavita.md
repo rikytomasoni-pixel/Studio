@@ -16,8 +16,7 @@ fonte: "AM1 L20 26-27.pdf (pag. 11-13)"
 > [!abstract] Definizione (cambio di concavità)
 > Data $f:(a,b)\to\mathbb{R}$, $x_0\in(a,b)$, $f$ **continua** in $x_0$. Diremo che $x_0$ è **punto di cambio di concavità** per $f$ se esiste $\delta>0$ tale che $f$ sia convessa in $(x_0-\delta,x_0]$ e $f$ sia concava in $[x_0,x_0+\delta)$ (oppure viceversa: concava a sinistra e convessa a destra).
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Pag. 12:** grafico con $f(x_0)$ e $x_0$ segnati: a sinistra di $x_0$ la curva è convessa (scende e si appiattisce verso $x_0$), a destra di $x_0$ sale concava, con un punto in cui la retta tangente non esiste (vedi osservazione sotto).
+![[CambioConc.png]]
 
 > [!note] Osservazione
 > Nel disegno precedente $x_0$ è punto di cambio di concavità, ma **non è un flesso** per $f$ (non esiste retta tangente in $(x_0,f(x_0))$).
@@ -33,8 +32,7 @@ $$f(x)=\begin{cases}\left(2+\sin\dfrac1x\right)x^3 & x\ne0\\[2mm] 0 & x=0\end{ca
 
 Si ha $f(0)=0$ e $f'(0)=0$, quindi $y=0$ è la retta tangente in $(0,0)$. Inoltre $f(x)>0$ se $x>0$ e $f(x)<0$ se $x<0$ (il grafico sta tra due curve di tipo cubico, e oscilla tra di esse), quindi $x_0=0$ è **punto di flesso** per $f$, ma **non è punto di cambio di concavità**.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Pag. 12:** grafico di $f(x)=(2+\sin\frac1x)x^3$ vicino all'origine: due curve rosse di tipo cubico (le "funzioni di confronto" tra cui sta il grafico) e in azzurro la curva che oscilla tra le due, sia a destra che a sinistra dell'origine.
+![[graph2+sin1suXperXcubo.png]]
 
 > [!note] Osservazione (non presente negli appunti)
 > $f'(0)=0$ segue da $\dfrac{f(h)-f(0)}{h}=(2+\sin\tfrac1h)h^2\to0$. Il motivo per cui non c'è cambio di concavità è che $f'$ oscilla in ogni intorno di $0$ (compare il termine $-x\cos\frac1x$ in $f'$), quindi $f$ non è né convessa né concava in nessun intorno destro o sinistro di $0$.

@@ -28,8 +28,7 @@ $$f'(x)=\frac{1}{x\log a}\quad(x>0)\qquad f''(x)=-\frac{1}{x^2\log a}\quad(x>0)$
 - Se $a>1$ allora $\log a>0$, quindi $f'(x)>0$ e $f''(x)<0$ per ogni $x\in(0,\infty)$ $\Rightarrow$ $\log_a x$ è **crescente e concava**.
 - Se $0<a<1$ allora $\log a<0$, quindi $f'(x)<0$ e $f''(x)>0$ per ogni $x\in(0,\infty)$ $\Rightarrow$ $\log_a x$ è **decrescente e convessa**.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Pag. 10:** due grafici di $\log_a x$ nello stesso piano, entrambi passanti per il punto $(1,0)$: in rosso il caso $a>1$ (crescente, concavo), in blu il caso $0<a<1$ (decrescente, convesso, con asintoto verticale sull'asse $y$).
+![[testConv.png]]
 
 ## Note collegate
 - [[161_Convessita_e_Rette_Tangenti]]

@@ -26,8 +26,7 @@ fonte: "AM1 L20 26-27.pdf (pag. 13-15)"
 
 $f'(x)=4x^3$, $f''(x)=12x^2$ per ogni $x\in\mathbb{R}$. Quindi $f''(0)=0$, ma $f''(x)\ge0$ per ogni $x\in\mathbb{R}$, dunque (per il [[162_Test_di_Convessita|test di convessità]]) $f$ è **convessa** in $\mathbb{R}$ e ha **minimo stretto** in $x_0=0$ con $f(0)=0$: $x_0$ **non è punto di flesso**.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Pag. 14:** grafico di $x^4$ (in rosso, a "U" appiattita) con la retta tangente $y=0$ nell'origine (in blu, asse $x$).
+![[ControesempioNota165.png]]
 
 ## Funzioni non derivabili due volte che hanno un flesso: $f(x)=x^{5/3}$, $x_0=0$
 
@@ -39,8 +38,7 @@ $$f''_+(0)=\lim_{x\to0^+}f''(x)=+\infty\qquad f''_-(0)=\lim_{x\to0^-}f''(x)=-\in
 
 Tuttavia $x_0=0$ è un punto di flesso: $f$ ha retta tangente $y=0$ in $(0,0)$ e $f(x)>0$ se $x>0$, $f(x)<0$ se $x<0$.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Pag. 14-15:** grafico di $x^{5/3}$, crescente, che a sinistra dell'origine sta sotto l'asse $x$ e a destra sopra, con la retta tangente $y=0$ (in blu) nell'origine.
+![[disegnoNota165.png]]
 
 > [!note] Osservazione (non presente negli appunti)
 > L'uguaglianza tra $f''_\pm(0)$ e il limite di $f''(x)$ è giustificata dal [[148_Teorema_di_Prolungamento_della_Derivata_Prima|teorema di prolungamento della derivata]] applicato a $f'$.

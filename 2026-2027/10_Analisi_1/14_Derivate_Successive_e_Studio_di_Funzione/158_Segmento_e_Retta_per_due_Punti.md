@@ -32,8 +32,7 @@ Per $t\in[0,1]$
 $$P_t=(1-t)P_0+tP_1$$
 descrive il **segmento** di estremi $P_0$ e $P_1$ in $\mathbb{R}^2$, orientato da $P_0$ a $P_1$. Per $t<0$ e $t>1$ si ottengono i punti della retta fuori dal segmento (dalla parte di $P_0$ e di $P_1$ rispettivamente).
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Pag. 4:** retta per $P_0$ e $P_1$ (in blu), con il segmento $t\in[0,1]$ evidenziato in rosso, un punto $P_t$ (in verde) sul segmento e due punti $P_t$ sulla retta fuori dal segmento, uno con $t>1$ (oltre $P_1$) e uno con $t<0$ (prima di $P_0$). Da cercare: retta con due punti marcati e segmento rosso tra loro.
+![[segmento.png]]
 
 ## Generalizzazione
 

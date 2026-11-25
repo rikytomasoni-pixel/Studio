@@ -28,8 +28,7 @@ In altri termini: all'ascissa $x_t$ il valore $f(x_t)$ è minore o uguale a $y_t
 > [!important] Significato geometrico
 > La disuguaglianza $(*)$ dice che, comunque si scelgano due punti $P_0,P_1$ sul grafico di $f$, la corda di estremi $P_0,P_1$ giace **sopra** il grafico di $f$ (tra $x_0$ e $x_1$).
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Pag. 6:** grafico di una funzione convessa (tipo parabola) con una corda in rosso tra $P_0$ (ascissa $x_0$) e $P_1$ (ascissa $x_1$); sull'asse $x$ è segnato $x_t$ tra $x_0$ e $x_1$; il punto $P_t=(x_t,y_t)$ sulla corda è sopra il punto del grafico di ordinata $f(x_t)$, con le due quote $y_t$ e $f(x_t)$ segnate sull'asse $y$.
+![[cordaSuGrafico.png]]
 
 ## Forma equivalente
 
