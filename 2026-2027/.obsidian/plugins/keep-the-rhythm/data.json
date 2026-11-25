@@ -5897,6 +5897,38 @@
           }
         ],
         "id": 559
+      },
+      {
+        "date": "2026-11-25",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/28_Liste.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "08:30",
+            "w": 20,
+            "c": 192
+          },
+          {
+            "timeKey": "08:35",
+            "w": 6,
+            "c": 42
+          },
+          {
+            "timeKey": "08:40",
+            "w": 13,
+            "c": 88
+          }
+        ],
+        "id": 560
+      },
+      {
+        "date": "2026-11-25",
+        "filePath": "99_Tools/Excalidraw/Disegni FI.md",
+        "wordCountStart": 1580,
+        "charCountStart": 51040,
+        "changes": [],
+        "id": 561
       }
     ]
   }
