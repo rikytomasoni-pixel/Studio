@@ -37,10 +37,34 @@ int inserisci_testa(lista_t* l, int v){
 }
 lista_t inserisci_testa2(lista_t l, v){
 	nodo_t *nodo;
-	
+	nuovo = malloc(sizeof(nodo_t));
+	if(!nuovo)
+		return l;
+	nuovo->info = v;
+	nuovo->next = l;
+	return nuovo;
 }
 ```
+## Inserimento in Coda
+```C
+int inserisci_coda(lista_t* l, int v){
+	nodo_t* nuovo;
+	nodo_t* p;
+	nuovo = malloc(sizeof(nodo_t));
+	if(!nuovo)
+		return -1;
+	nuovo->info = v;
+	nuovo->next = NULL;
+	
+	p = *l;
+	while(p->next)
+		p = p->next;
+	
+	p->next = nuovo;
+	return 0;
+}
 
+```
 ## Applicazione tipo
 ```C
 #include <stdio.h>
