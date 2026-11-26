@@ -6048,6 +6048,35 @@
         "charCountStart": 4507,
         "changes": [],
         "id": 564
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/28_Liste.md",
+        "wordCountStart": 456,
+        "charCountStart": 3626,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 25,
+            "c": 189
+          },
+          {
+            "timeKey": "10:40",
+            "w": 22,
+            "c": 164
+          },
+          {
+            "timeKey": "10:45",
+            "w": 14,
+            "c": 101
+          },
+          {
+            "timeKey": "10:50",
+            "w": 1,
+            "c": 6
+          }
+        ],
+        "id": 565
       }
     ]
   }

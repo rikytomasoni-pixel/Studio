@@ -37,7 +37,7 @@ typedef struct nodo_{
 
 typedef nodo_t* lista_t;
 ```
-## Inserimento in Testa (funzione)
+## Inserimento in Testa
 ```C
 int inserisci_testa(lista_t* l, int v){
 	nodo_t* nuovo; 
@@ -135,6 +135,34 @@ void cancella_lista(lista_t* l){
 		free(*l);
 		*l = temp;
 	}
+}
+
+```
+## Inserimento in Posizione
+```C
+int inserisci_posizione(lista_t* l, int v, int pos){
+	nodo_t *nuovo;
+	nodo_t *current;
+	nodo_t *previus;
+	int i;
+	
+	 nuovo = malloc(sizeof(nodo_t));
+	 if(!nuovo)
+		return -1;
+	nuovo->info = v;
+	curr = *l;
+	prev = NULL;
+	i = 0;
+	while(current && i < pos){
+		previus = current;
+		current = current->next;
+		i++;
+	}
+	if(!previus) /*lista vuota->inserimento in testa*/
+		*l = nuovo;
+	else
+		prev->next = nuovo;
+	nuovo->next = current;
 }
 
 ```
