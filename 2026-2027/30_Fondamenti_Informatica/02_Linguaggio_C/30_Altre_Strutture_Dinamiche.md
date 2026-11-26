@@ -15,9 +15,14 @@ typedef struct nodo_{
 	struct nodo_ *prev;
 }
 ```
+
+![[concatenate.png]]
 - Liste circolari
+![[circolari.png]]
 - Alberi
+![[alberi.png]]
 - Grafi
+![[Grafi.png]]
 
 ## Note collegate
 - [[00_MOC_Materia]]

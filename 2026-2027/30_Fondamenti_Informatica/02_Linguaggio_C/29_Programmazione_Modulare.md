@@ -6,7 +6,7 @@ fonte:
 ---
 # Titolo
 
-aggiungi foto 2
+![[ProgrammazioneModulare.png]]
 
 
 ## Note collegate
