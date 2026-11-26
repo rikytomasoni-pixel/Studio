@@ -60,6 +60,7 @@ $\Rightarrow$ esiste finito il limite, $f'(x_0)=\displaystyle\lim_{x\to x_0}\fra
 > espressione analitica della retta tangente al grafico di $f$ in $P_0=(x_0,f(x_0))$.
 
 ## Note collegate
+- [[170_Dimostrazione_del_Teorema_di_Taylor_con_Resto_di_Peano]]
 - [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]]
 - [[129_Derivabilita_e_Continuita]]
 - [[106_Asintotico_e_o_piccolo_per_Funzioni]]

@@ -1,8 +1,8 @@
 ---
 tags: [GAL, MOC, indice-generale, guida-studio]
-data: 2026-11-19
-lezione: 0-23
-fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11, 13, 15-17 e 19-23)"
+data: 2026-11-26
+lezione: 0-26
+fonte: "Tutti i PDF GAL 2026-2027 (Lezioni 0-4, 6-7, 9-11, 13, 15-17, 19-20 e 22-26)"
 ---
 
 # Geometria e Algebra Lineare — MOC e guida allo studio
@@ -19,7 +19,7 @@ Salto rapido: [[#Dashboard]] · [[#Flowchart della progressione]] · [[#Linea cr
 > - Le note segnate *(esercizio)* sono esercizi svolti: provali prima da solo, poi confronta.
 
 > [!info] Stato del corso
-> Ultima lezione integrata: **L23** (19-11-2026). Nel vault non esistono le lezioni 5, 8, 12, 14, 18 e 21 (nessun PDF: la numerazione delle slide prosegue senza interruzione; L20 termina a 174 e L22 inizia a 175). La lacuna sulla costruzione della matrice del paradigma (slide 174) è stata colmata a L22; il corso è ora su **matrice rappresentativa, cambio di base, similitudine e diagonalizzabilità**.
+> Ultima lezione integrata: **L26** (26-11-2026). Nel vault non esistono le lezioni 5, 8, 12, 14, 18, 21 e 24 (nessun PDF: la numerazione delle slide prosegue senza interruzione; L23 termina a 194 e L25 inizia a 195). Il corso è ora su **autovalori, autovettori, polinomio caratteristico e criteri di diagonalizzabilità**.
 
 ## Dashboard
 
@@ -68,6 +68,7 @@ flowchart TD
     G12 --> G13
     G13 --> G14["14 · Matrice rappresentativa e cambio di base"]
     G14 --> G15["15 · Endomorfismi, similitudine, diagonalizzabilità"]
+    G15 --> G16["16 · Autovalori, autovettori e criteri di diagonalizzabilità"]
 
     classDef fatto fill:#c8e6c9,stroke:#2e7d32,color:#000
     classDef corso fill:#fff3cd,stroke:#b8860b,color:#000
@@ -555,12 +556,56 @@ flowchart TD
 > - **Def. 23.3**: matrice diagonalizzabile.
 
 > [!info] Nota
-> Il corso prosegue verosimilmente con la ricerca di $P$ e $D$ (autovalori/autovettori): non è ancora stato trattato, quindi non ho creato voci per questi argomenti.
+> La ricerca di $P$ e $D$ (autovalori/autovettori) è trattata nel blocco successivo: [[#16 · Autovalori, autovettori e criteri di diagonalizzabilità]].
 
 - [ ] [[171_Endomorfismi_e_Matrici_Rappresentative]] — endomorfismi *(L23)*
 - [ ] [[172_Matrici_Simili_Definizione_23_2]] — Def. 23.2 *(L23)*
 - [ ] [[173_La_Similitudine_tra_Matrici_e_una_Relazione_di_Equivalenza]] — similitudine come equivalenza *(L23)*
 - [ ] [[174_Matrici_Diagonalizzabili_Definizione_23_3]] — Def. 23.3 *(L23)*
+
+---
+
+## 16 · Autovalori, autovettori e criteri di diagonalizzabilità
+
+*Lezioni 25 → 26 (25-11 → 26-11)*
+
+> [!abstract] Stai per affrontare
+> Come si **trova** una rappresentazione diagonale: gli **autovettori** sono i vettori su cui $L$ agisce come un prodotto per uno scalare; $A$ è diagonalizzabile se esiste una base di autovettori. Si ricavano gli autovalori dal **polinomio caratteristico**, si introducono le **molteplicità** algebrica e geometrica e si dimostrano due criteri di diagonalizzabilità. Si vede anche che la diagonalizzabilità **dipende dal campo** ($\mathbb{Q},\mathbb{R},\mathbb{C}$).
+
+> [!important] Da imparare
+> - **Def. 25.1**: autovettore e autovalore; $L(\underline v)=\lambda\underline v$, $\underline v\ne\underline 0$.
+> - **Teo. 25.2** (primo criterio): $A$ diagonalizzabile $\iff$ esiste una base di $\mathbb{K}^n$ di autovettori (con dimostrazione).
+> - $\lambda$ autovalore $\iff\det(A-\lambda\mathrm{Id})=0$ (sistema omogeneo, Rouché-Capelli, teorema di invertibilità).
+> - **Def. 26.1**: polinomio caratteristico $\chi_A(x)=\det(A-x\mathrm{Id})$, grado $n$; autovalori $=$ radici in $\mathbb{K}$.
+> - **Def. 26.2**: molteplicità algebrica $a_\lambda$, autospazio $V_\lambda$, molteplicità geometrica $g_\lambda$; $1\le g_\lambda\le a_\lambda$.
+> - Autospazi di autovalori distinti: $V_\lambda\cap V_\mu=\{\underline 0\}$, somma diretta.
+> - **Teo. 26.3** (secondo criterio): $\sum a_{\lambda_i}=n$ e $g_{\lambda_i}=a_{\lambda_i}$ per ogni $i$.
+> - Autovalori **semplici** ($a_\lambda=1$) e **regolari** ($g_\lambda=a_\lambda$); proprietà preservate dalla similitudine.
+
+> [!question] Checkpoint
+> Data una matrice quadrata, sai calcolare $\chi_A$, autovalori, autospazi, e decidere se è diagonalizzabile (e su quale campo)? Sai trovare $P$ e $D$?
+
+*Lezione 25 (25-11)*
+
+- [ ] [[175_La_Diagonalizzabilita_Dipende_dal_Campo]] — dipendenza dal campo, tre domande *(L25)*
+- [ ] [[176_Obiettivo_1_Azione_di_L_sulla_Base_Diagonalizzante]] — $L(\underline v_i)=d_{ii}\underline v_i$ *(L25)*
+- [ ] [[177_Definizione_25_1_Autovettore_e_Autovalore]] — Def. 25.1 *(L25)*
+- [ ] [[178_Teorema_25_2_Primo_Criterio_di_Diagonalizzabilita]] — Teo. 25.2 *(L25)*
+- [ ] [[179_Dimostrazione_del_Primo_Criterio_di_Diagonalizzabilita]] — dimostrazione *(L25)*
+- [ ] [[180_Obiettivo_Concreto_Ricerca_degli_Autovettori_e_Esempio_1]] — *(esempio)* $L(p)=tp''-p'$, matrice *(L25)*
+- [ ] [[181_Autovettori_come_Soluzioni_Non_Nulle_del_Sistema_Omogeneo_A_meno_lambda_Id]] — $\det(A-\lambda\mathrm{Id})=0$ *(L25)*
+- [ ] [[182_Esempio_1_Autovettori_di_Autovalore_0_e_Non_Diagonalizzabilita]] — *(esempio)* nucleo, non diagonalizzabile *(L25)*
+
+*Lezione 26 (26-11)*
+
+- [ ] [[183_Esempio_2_Rotazione_senza_Autovalori_su_Q_e_R]] — *(esempio)* rotazione di $\pi/2$ su $\mathbb{Q},\mathbb{R}$ *(L26)*
+- [ ] [[184_Esempio_2_Diagonalizzazione_della_Rotazione_su_C]] — *(esempio)* diagonalizzazione su $\mathbb{C}$ *(L26)*
+- [ ] [[185_Definizione_26_1_Polinomio_Caratteristico]] — Def. 26.1 *(L26)*
+- [ ] [[186_Definizione_26_2_Molteplicita_Algebrica_Autospazio_Molteplicita_Geometrica]] — Def. 26.2 *(L26)*
+- [ ] [[187_Autospazi_di_Autovalori_Distinti_e_Somma_Diretta]] — $V_\lambda\cap V_\mu=\{\underline 0\}$ *(L26)*
+- [ ] [[188_Teorema_26_3_Secondo_Criterio_di_Diagonalizzabilita]] — Teo. 26.3 con dimostrazione *(L26)*
+- [ ] [[189_Autovalori_Semplici_e_Regolari]] — semplice $\Rightarrow$ regolare *(L26)*
+- [ ] [[190_Proprieta_Preservate_dalla_Similitudine]] — $\det$, $r$, $\chi$, $\mathrm{tr}$ *(L26)*
 
 ---
 
@@ -594,6 +639,9 @@ flowchart TD
 | 21 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L20 termina a 174 e L22 inizia a 175) | — |
 | 22 | 2026-11-18 | Matrice rappresentativa; teorema di nullità più rango; dipendenza della matrice rappresentativa dalle basi; simmetria assiale | [[23_Indice_Lezione_22]] |
 | 23 | 2026-11-19 | Simmetria assiale in base adattata; matrice del cambio di base; $\det A=\det B$; endomorfismi; matrici simili; matrici diagonalizzabili | [[24_Indice_Lezione_23]] |
+| 24 | — | (nessun PDF fornito: la numerazione delle slide prosegue senza interruzione, L23 termina a 194 e L25 inizia a 195) | — |
+| 25 | 2026-11-25 | Dipendenza dal campo; autovettore e autovalore; primo criterio di diagonalizzabilità; ricerca degli autovettori | [[26_Indice_Lezione_25]] |
+| 26 | 2026-11-26 | Rotazione su $\mathbb{Q},\mathbb{R},\mathbb{C}$; polinomio caratteristico; molteplicità algebrica/geometrica, autospazi; secondo criterio; autovalori semplici/regolari; proprietà della similitudine | [[27_Indice_Lezione_26]] |
 
 ## Organizzazione del corso
 - [[10_Organizzazione_del_Corso]]
@@ -615,9 +663,10 @@ flowchart TD
 | 11 · Indipendenza, basi, dimensione | `20_Geometria_Algebra_Lineare/14_Indipendenza_Lineare_Basi_Dimensione` | 19 | include il fac-simile 28-10 |
 | 12 · Somma, intersezione, Grassmann | `20_Geometria_Algebra_Lineare/15_Somma_Intersezione_e_Grassmann` | 3 |  |
 | 13 · Applicazioni lineari | `20_Geometria_Algebra_Lineare/16_Applicazioni_Lineari` | 25 | include nullità + rango (164) |
-| Indici delle lezioni | `20_Geometria_Algebra_Lineare/90_Indici_Lezioni` | 18 |  |
+| Indici delle lezioni | `20_Geometria_Algebra_Lineare/90_Indici_Lezioni` | 20 |  |
 | Organizzazione del corso | `20_Geometria_Algebra_Lineare/99_Organizzazione` | 1 |  |
 | 14 · Matrice rappresentativa e cambio di base | `20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base` | 9 | 164 è in `16_Applicazioni_Lineari` |
 | 15 · Endomorfismi, simili, diagonalizzabilità | `20_Geometria_Algebra_Lineare/18_Endomorfismi_Similitudine_e_Diagonalizzazione` | 4 |  |
+| 16 · Autovalori, autovettori, criteri di diagonalizzabilità | `20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita` | 16 |  |
 
 #GAL/moc

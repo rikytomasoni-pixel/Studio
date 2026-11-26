@@ -31,6 +31,7 @@ $$\sum_{n=0}^\infty\frac1{2^n}=1+\frac12+\frac14+\frac18+\frac1{16}+\dots+\frac1
 Vedi [[47_Serie_Introduzione_e_Somme_Parziali]].
 
 ## Note collegate
+- [[179_Serie_di_Taylor]]
 - [[47_Serie_Introduzione_e_Somme_Parziali]]
 - [[49_Esempi_Elementari_di_Serie]]
 - [[51_Rappresentazione_Decimale_e_Serie]]

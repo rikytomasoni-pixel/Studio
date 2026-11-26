@@ -47,6 +47,8 @@ $$\mathcal{B}=\{\vec{i},\vec{j}\}:\ A=M_{\mathcal{B}}^{\mathcal{B}}(L)=\begin{bm
 > Resta da capire come legare $A$ e $B$: [[168_Matrice_del_Cambio_di_Base_Definizione_23_1]] e [[169_Esempio_Cambio_di_Base_per_la_Simmetria_Assiale]].
 
 ## Note collegate
+- [[176_Obiettivo_1_Azione_di_L_sulla_Base_Diagonalizzante]]
+- [[177_Definizione_25_1_Autovettore_e_Autovalore]]
 - [[166_Esempio_Simmetria_Assiale_Matrice_nella_Base_Canonica]]
 - [[165_Dipendenza_della_Matrice_Rappresentativa_dalle_Basi]]
 - [[174_Matrici_Diagonalizzabili_Definizione_23_3]]

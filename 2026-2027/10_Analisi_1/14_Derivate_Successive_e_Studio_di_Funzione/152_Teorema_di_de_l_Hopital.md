@@ -35,6 +35,7 @@ fonte: "AM1 L19 26-27.pdf (pag. 15-16)"
 Esempi di uso: [[154_Esempi_di_Applicazione_de_l_Hopital]]; applicazione importante: [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]].
 
 ## Note collegate
+- [[170_Dimostrazione_del_Teorema_di_Taylor_con_Resto_di_Peano]]
 - [[153_Controesempio_de_l_Hopital_Limite_delle_Derivate_Inesistente]]
 - [[154_Esempi_di_Applicazione_de_l_Hopital]]
 - [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]]

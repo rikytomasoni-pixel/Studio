@@ -35,6 +35,7 @@ Estensione ai limiti di funzioni di quanto visto per le successioni ([[40_Confro
 > (tutti i limiti per $x\to x_0$).
 
 ## Note collegate
+- [[178_Algebra_degli_o_piccoli]]
 - [[107_Proprieta_degli_Asintotici_per_Funzioni]]
 - [[108_Limiti_Notevoli_di_Funzioni]]
 - [[40_Confronti_Asintotici]]

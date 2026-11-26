@@ -29,6 +29,11 @@ $$P_3(x)=0+1\cdot x+0+\frac{(-1)}{6}x^3=x-\frac{x^3}{6}$$
 che coincide con lo sviluppo ottenuto con de l'Hôpital in [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]].
 
 ## Note collegate
+- [[169_Derivata_del_Polinomio_di_Taylor]]
+- [[170_Dimostrazione_del_Teorema_di_Taylor_con_Resto_di_Peano]]
+- [[172_Sviluppi_di_Maclaurin_di_e_alla_x_sin_cos]]
+- [[174_Teorema_di_Taylor_con_Resto_di_Lagrange]]
+- [[179_Serie_di_Taylor]]
 - [[168_Teorema_di_Taylor_con_Resto_di_Peano]]
 - [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]]
 - [[124_Funzione_Derivata_e_Derivate_di_Ordine_Superiore]]

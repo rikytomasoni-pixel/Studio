@@ -105,6 +105,7 @@ $$e^{i\theta} = \cos\theta+i\sin\theta \qquad \text{Formula di Eulero}$$
 $$\left(e^{i\pi}+1=0\right)$$
 
 ### Note collegate
+- [[180_Esponenziale_Complesso_e_Formula_di_Eulero]]
 - [[00_MOC_Analisi_1]]
 - [[13_Numeri_Complessi]] — forma algebrica
 - [[14_Piano_di_Argand_Gauss]] — modulo e rappresentazione geometrica

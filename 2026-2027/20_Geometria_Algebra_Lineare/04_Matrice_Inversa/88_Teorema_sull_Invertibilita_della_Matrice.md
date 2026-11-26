@@ -61,6 +61,7 @@ $$\begin{cases}AB=\mathrm{Id}_n\\BA=\mathrm{Id}_n\end{cases}\Rightarrow B=A^{-1}
 > - $\det(A)=0$ $\iff$ $r(A)<n$ $\iff$ $A$ non è invertibile né a destra né a sinistra.
 
 ## Note collegate
+- [[181_Autovettori_come_Soluzioni_Non_Nulle_del_Sistema_Omogeneo_A_meno_lambda_Id]]
 - [[141_Composizione_e_Inversione_di_Applicazioni_Lineari]] (matrice inversa e funzione inversa, L17)
 - [[87_Ricerca_della_Matrice_Inversa]]
 - [[86_Teorema_di_Cramer]]

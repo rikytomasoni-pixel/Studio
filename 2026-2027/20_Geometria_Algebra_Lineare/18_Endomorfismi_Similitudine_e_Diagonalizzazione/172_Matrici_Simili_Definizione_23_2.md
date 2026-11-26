@@ -17,6 +17,7 @@ fonte: "GAL 2026-2027 - 20261119 - LEZIONE 23.pdf (slide 192)"
 La similitudine è una relazione di equivalenza: [[173_La_Similitudine_tra_Matrici_e_una_Relazione_di_Equivalenza]].
 
 ## Note collegate
+- [[190_Proprieta_Preservate_dalla_Similitudine]]
 - [[171_Endomorfismi_e_Matrici_Rappresentative]]
 - [[170_Determinante_e_Matrici_Rappresentative_della_Stessa_Applicazione_Lineare]]
 - [[60_Matrice_Invertibile]]

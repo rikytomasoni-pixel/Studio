@@ -19,6 +19,7 @@ $$\begin{aligned}\det(A)&=\det(PBP^{-1})\overset{\text{TEO Binet}}{=}\det(P)\det
 > - $A,B$ **non** rappresentano la stessa applicazione lineare rispetto a basi diverse $\ \Leftarrow\ \det(A)\neq\det(B)$.
 
 ## Note collegate
+- [[190_Proprieta_Preservate_dalla_Similitudine]]
 - [[74_Teorema_di_Binet]]
 - [[169_Esempio_Cambio_di_Base_per_la_Simmetria_Assiale]]
 - [[168_Matrice_del_Cambio_di_Base_Definizione_23_1]]

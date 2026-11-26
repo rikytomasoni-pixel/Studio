@@ -36,6 +36,7 @@ $$M_{\mathcal{B}_1}^{\mathcal{C}_2}(L)=M_{\mathcal{C}_2}^{\mathcal{C}_1}(\mathrm
 > Scrivere tutte le relazioni tra due matrici rappresentative di $L$ (non svolto).
 
 ## Note collegate
+- [[179_Dimostrazione_del_Primo_Criterio_di_Diagonalizzabilita]]
 - [[165_Dipendenza_della_Matrice_Rappresentativa_dalle_Basi]]
 - [[162_Matrice_Rappresentativa_Definizione_22_1]]
 - [[169_Esempio_Cambio_di_Base_per_la_Simmetria_Assiale]]

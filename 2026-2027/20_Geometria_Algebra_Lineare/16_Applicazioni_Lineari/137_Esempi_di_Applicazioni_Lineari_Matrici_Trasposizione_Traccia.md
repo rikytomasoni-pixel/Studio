@@ -45,6 +45,7 @@ $$\operatorname{tr}:M_{\mathbb{K}}(n,n)\to\mathbb{K},\qquad\operatorname{tr}(A)=
 > Verificare omogeneità e additività.
 
 ## Note collegate
+- [[190_Proprieta_Preservate_dalla_Similitudine]]
 - [[150_Suriettivita_di_L_A_e_Spazio_delle_Colonne]] · [[151_Nucleo_di_una_Applicazione_Lineare]]
 - [[136_Applicazioni_Lineari_Definizione_17_1]]
 - [[138_Derivata_come_Applicazione_Lineare]]

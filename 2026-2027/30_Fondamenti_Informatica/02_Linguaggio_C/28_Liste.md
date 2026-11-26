@@ -167,6 +167,7 @@ int inserisci_posizione(lista_t* l, int v, int pos){
 	return 0;
 }
 ```
+
 ## Cancellazione per valore
 ```C
 int cancella_valore(lista_t *l, int v){

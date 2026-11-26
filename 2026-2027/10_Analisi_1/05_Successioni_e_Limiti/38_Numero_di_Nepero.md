@@ -51,6 +51,8 @@ $$\left(1+\dfrac{a}{n}\right)^n = \left[\left(1+\dfrac{a}{n}\right)^{n/a}\right]
 Se $a=0$: $\left(1+\dfrac{0}{n}\right)^n = 1 \to 1 = e^0$. $\blacksquare$
 
 ### Note collegate
+- [[179_Serie_di_Taylor]]
+- [[174_Teorema_di_Taylor_con_Resto_di_Lagrange]]
 - [[118_Dimostrazione_dei_Limiti_Notevoli]] (limite di Nepero con $x\to\pm\infty$, L16)
 - [[00_MOC_Analisi_1]]
 - [[31_Successioni_Monotone]] — teorema sul limite di successioni monotone e limitate (usato qui)

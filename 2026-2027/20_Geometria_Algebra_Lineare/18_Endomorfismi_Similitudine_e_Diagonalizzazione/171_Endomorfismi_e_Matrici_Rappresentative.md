@@ -22,6 +22,7 @@ La relazione tra $A$ e $B$ è:
 $$A=P\,B\,P^{-1}\qquad\qquad B=P^{-1}A\,P$$
 
 ## Note collegate
+- [[177_Definizione_25_1_Autovettore_e_Autovalore]]
 - [[168_Matrice_del_Cambio_di_Base_Definizione_23_1]]
 - [[169_Esempio_Cambio_di_Base_per_la_Simmetria_Assiale]]
 - [[172_Matrici_Simili_Definizione_23_2]]

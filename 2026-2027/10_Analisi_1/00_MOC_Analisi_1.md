@@ -4,9 +4,9 @@ tags:
   - MOC
   - indice
   - guida-studio
-data: 2026-11-23
+data: 2026-11-26
 corso: Analisi Matematica 1
-ultima_lezione: 20
+ultima_lezione: 21
 ---
 
 # Analisi Matematica 1 — MOC e guida allo studio
@@ -23,7 +23,7 @@ Salto rapido: [[#Dashboard]] · [[#Flowchart della progressione]] · [[#Dimostra
 > - Le dimostrazioni segnate **(D#)** sono nell'elenco delle dimostrazioni richieste allo scritto.
 
 > [!info] Stato del corso
-> Ultima lezione integrata: **L20** (20-11-2026). I blocchi 1-14 hanno note (il 14 è in corso: de l'Hôpital, convessità e flessi, inizio di Taylor, schema di studio di funzione); il blocco 15 è ricavato dal programma 25-26 e va confermato a lezione.
+> Ultima lezione integrata: **L21** (25-11-2026). I blocchi 1-14 hanno note (il 14 è quasi completo: de l'Hôpital, convessità e flessi, Taylor con resto di Peano (dimostrato) e di Lagrange, sviluppi notevoli, serie di Taylor, esponenziale complesso; resta lo studio completo di funzione); il **blocco 15 (integrali) è appena iniziato** con le primitive. Il resto del blocco 15 è ricavato dal programma 25-26 e va confermato a lezione.
 
 ## Dashboard
 
@@ -77,7 +77,7 @@ flowchart TD
     classDef fatto fill:#c8e6c9,stroke:#2e7d32,color:#000
     classDef corso fill:#fff3cd,stroke:#b8860b,color:#000
     classDef futuro stroke-dasharray: 5 5
-    class B15 futuro
+    class B15 corso
     %% class B1,B2 fatto
     %% class B3 corso
 ```
@@ -550,7 +550,7 @@ flowchart TD
 
 ## 14 · Derivate successive: de l'Hôpital, convessità, Taylor e studio di funzione
 
-*Lezioni 19 (18-11) e 20 (20-11) — blocco in corso*
+*Lezioni 19 (18-11), 20 (20-11) e 21 (25-11) — blocco quasi completo*
 
 > [!abstract] Stai per affrontare
 > Derivate successive: convessità, flessi, De L'Hospital e soprattutto la **formula di Taylor**, che unifica asintotici, $o$-piccolo e derivate e permette di calcolare limiti difficili.
@@ -558,8 +558,9 @@ flowchart TD
 > [!important] Da imparare
 > - Convessità/concavità e derivata seconda; **punti di flesso**, cambio di concavità e $f''$ (L20).
 > - **De L'Hôpital**: ipotesi, forme $\frac00$ e $\frac\infty\infty$, perché non si inverte.
-> - **Polinomio di Taylor**; resto di **Peano** (D24) e di Lagrange.
-> - Taylor delle funzioni elementari ($e^x,\sin x,\cos x,\log(1+x),\dots$) e calcolo di limiti.
+> - **Polinomio di Taylor**; resto di **Peano** (D24, con dimostrazione per induzione e de l'Hôpital) e di **Lagrange**.
+> - Sviluppi di Taylor delle funzioni elementari ($e^x,\sin x,\cos x,\log(1+x),\dots$), algebra degli $o$-piccoli e **calcolo di limiti**.
+> - **Serie di Taylor** (non sempre converge, non sempre a $f$); $e^z$ in $\mathbb{C}$ e formula di Eulero.
 > - **Studio completo del grafico** di una funzione.
 
 - [ ] [[156_Funzioni_Convesse_e_Concave]] — definizione di convessa/concava *(L19)*
@@ -577,15 +578,26 @@ flowchart TD
 - [ ] [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]] — gerarchia degli infiniti per funzioni *(L19)*
 - [ ] [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]] — da $\sin x=x+o(x)$ a $x-\frac{x^3}{6}+o(x^3)$ *(L20)*
 - [ ] [[167_Polinomio_di_Taylor]] — definizione, Maclaurin *(L20)*
-- [ ] [[168_Teorema_di_Taylor_con_Resto_di_Peano]] — resto di Peano, solo enunciato (D24) *(L20)*
-- [ ] Taylor delle funzioni elementari e limiti *(nota da creare)*
+- [ ] [[168_Teorema_di_Taylor_con_Resto_di_Peano]] — resto di Peano, enunciato (D24) *(L20)*
+- [ ] [[169_Derivata_del_Polinomio_di_Taylor]] — $P_n'$ è il polinomio di Taylor di $f'$ *(L21)*
+- [ ] [[170_Dimostrazione_del_Teorema_di_Taylor_con_Resto_di_Peano]] — dimostrazione (D24) *(L21)*
+- [ ] [[171_Corollario_Taylor_Punti_Stazionari_di_Ordine_Superiore]] — flessi e estremi con le derivate successive *(L21)*
+- [ ] [[172_Sviluppi_di_Maclaurin_di_e_alla_x_sin_cos]] — sviluppi di $e^x,\sin x,\cos x$ *(L21)*
+- [ ] [[173_Taylor_Peano_Unicita_e_Controesempio_senza_Derivate_Successive]] — unicità e controesempio $x^2+x^3\sin\frac1x$ *(L21)*
+- [ ] [[174_Teorema_di_Taylor_con_Resto_di_Lagrange]] — resto di Lagrange, $n=0$ *(L21)*
+- [ ] [[175_Esempio_Stima_del_Resto_di_e_alla_x]] — stima dell'errore per $e^x$ *(L21)*
+- [ ] [[178_Algebra_degli_o_piccoli]] — richiamo sulle proprietà *(L21)*
+- [ ] [[176_Esempio_Limite_con_Sviluppi_di_Taylor]] — limite $\frac00$ risolto con Taylor ($-\frac{80}{3\pi}$) *(L21)*
+- [ ] [[177_Esempio_Sviluppo_di_e_alla_x_quadro]] — sviluppo composto di $e^{x^2}$ *(L21)*
+- [ ] [[179_Serie_di_Taylor]] — definizione e osservazioni *(L21)*
+- [ ] [[180_Esponenziale_Complesso_e_Formula_di_Eulero]] — $e^z$ e $e^{i\theta}$ *(L21)*
 - [ ] [[157_Studio_del_Grafico_di_una_Funzione]] — schema in 10 punti *(L19)*
 
 ---
 
-## 15 · Integrali *(prossimamente)*
+## 15 · Integrali *(in corso)*
 
-*Non ancora trattato a lezione*
+*Lezione 21 (25-11): inizio con le primitive; il resto del blocco non è ancora stato trattato*
 
 > [!abstract] Stai per affrontare
 > L'operazione inversa della derivata (primitive) e l'integrale di Riemann come limite di somme, collegati dal teorema fondamentale del calcolo.
@@ -596,7 +608,10 @@ flowchart TD
 > - **Teoremi fondamentali del calcolo integrale** (D27); funzione integrale.
 > - **Integrali impropri**, criteri del confronto (D28) e confronto asintotico, assoluta integrabilità.
 
-- [ ] Primitive e integrale indefinito (D25) *(nota da creare)*
+- [ ] [[181_Primitiva_di_una_Funzione]] — definizione di primitiva *(L21)*
+- [ ] [[182_Funzione_a_Salto_senza_Primitive]] — controesempio con salto *(L21)*
+- [ ] [[183_Funzione_Discontinua_con_Primitiva]] — $x^2\sin\frac1x$ *(L21)*
+- [ ] Struttura dell'integrale indefinito (D25) *(nota da creare)*
 - [ ] Metodi di integrazione *(nota da creare)*
 - [ ] Integrale di Riemann e proprietà *(nota da creare)*
 - [ ] Teorema della media integrale (D26) *(nota da creare)*
@@ -633,7 +648,7 @@ flowchart TD
 - [ ] **D21** Teorema di Rolle → [[141_Teorema_di_Rolle]]
 - [ ] **D22** Teorema di Lagrange → [[142_Teorema_di_Lagrange]]
 - [ ] **D23** Test di monotonia e caratterizzazione delle costanti → [[144_Dimostrazione_del_Test_di_Monotonia]], [[140_Test_di_Monotonia]], [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]]
-- [ ] **D24** Formula di Taylor con resto di Peano → [[168_Teorema_di_Taylor_con_Resto_di_Peano]] *(solo enunciato: dimostrazione non ancora vista)*
+- [ ] **D24** Formula di Taylor con resto di Peano → [[170_Dimostrazione_del_Teorema_di_Taylor_con_Resto_di_Peano]], [[168_Teorema_di_Taylor_con_Resto_di_Peano]]
 - [ ] **D25** Struttura dell'integrale indefinito *(nota da creare)*
 - [ ] **D26** Teorema della media integrale *(nota da creare)*
 - [ ] **D27** Primo e secondo teorema fondamentale del calcolo integrale *(nota da creare)*
@@ -667,6 +682,7 @@ flowchart TD
 | Lezione 18 | 13-11-2026 | [[133_Derivate_con_Valore_Assoluto_e_Segno]], [[134_Teorema_della_Derivata_della_Funzione_Inversa]], [[135_Derivate_di_arctan_log_arcsin]], [[136_Massimi_e_Minimi_Locali_e_Globali]], [[137_Teorema_di_Fermat]], [[138_Punti_Stazionari_e_Punti_Critici]], [[139_Ricerca_di_Massimi_e_Minimi_Assoluti_su_Intervallo_Chiuso]], [[140_Test_di_Monotonia]], [[141_Teorema_di_Rolle]], [[142_Teorema_di_Lagrange]], [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]] |
 | Lezione 19 | 18-11-2026 | [[144_Dimostrazione_del_Test_di_Monotonia]], [[145_Test_di_Monotonia_Controesempi_e_Osservazioni]], [[146_Test_di_Monotonia_e_Estremi_Locali]], [[147_Monotonia_di_Successioni_tramite_Funzioni_Derivabili]], [[157_Studio_del_Grafico_di_una_Funzione]], [[152_Teorema_di_de_l_Hopital]], [[153_Controesempio_de_l_Hopital_Limite_delle_Derivate_Inesistente]], [[154_Esempi_di_Applicazione_de_l_Hopital]], [[155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital]], [[148_Teorema_di_Prolungamento_della_Derivata_Prima]], [[150_Osservazioni_sul_Prolungamento_della_Derivata]], [[149_Dimostrazione_del_Teorema_di_Prolungamento_della_Derivata]], [[151_Discontinuita_della_Funzione_Derivata]], [[156_Funzioni_Convesse_e_Concave]] |
 | Lezione 20 | 20-11-2026 | [[158_Segmento_e_Retta_per_due_Punti]], [[159_Interpretazione_Geometrica_della_Convessita]], [[160_Teorema_di_Regolarita_delle_Funzioni_Convesse]], [[161_Convessita_e_Rette_Tangenti]], [[162_Test_di_Convessita]], [[163_Punti_di_Flesso]], [[164_Punti_di_Cambio_di_Concavita]], [[165_Flessi_e_Derivata_Seconda]], [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]], [[167_Polinomio_di_Taylor]], [[168_Teorema_di_Taylor_con_Resto_di_Peano]] |
+| Lezione 21 | 25-11-2026 | [[169_Derivata_del_Polinomio_di_Taylor]], [[170_Dimostrazione_del_Teorema_di_Taylor_con_Resto_di_Peano]], [[171_Corollario_Taylor_Punti_Stazionari_di_Ordine_Superiore]], [[172_Sviluppi_di_Maclaurin_di_e_alla_x_sin_cos]], [[173_Taylor_Peano_Unicita_e_Controesempio_senza_Derivate_Successive]], [[174_Teorema_di_Taylor_con_Resto_di_Lagrange]], [[175_Esempio_Stima_del_Resto_di_e_alla_x]], [[176_Esempio_Limite_con_Sviluppi_di_Taylor]], [[177_Esempio_Sviluppo_di_e_alla_x_quadro]], [[178_Algebra_degli_o_piccoli]], [[179_Serie_di_Taylor]], [[180_Esponenziale_Complesso_e_Formula_di_Eulero]], [[181_Primitiva_di_una_Funzione]], [[182_Funzione_a_Salto_senza_Primitive]], [[183_Funzione_Discontinua_con_Primitiva]] |
 
 ## Struttura delle cartelle
 
@@ -685,7 +701,7 @@ flowchart TD
 | 11 · Proprietà globali | `10_Analisi_1/11_Proprieta_Globali_Funzioni_Continue` | 5 |  |
 | 12 · Derivate | `10_Analisi_1/12_Derivate` | 15 | 134 (derivata dell'inversa) è anche nel blocco 13 |
 | 13 · Teoremi del calcolo differenziale | `10_Analisi_1/13_Teoremi_del_Calcolo_Differenziale` | 16 | include 147 (monotonia di successioni, collegata ai blocchi 5 e 8) e 148-151 (prolungamento della derivata) |
-| 14 · Derivate successive, de l'Hôpital, studio di funzione | `10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione` | 17 | prossime note: Taylor delle funzioni elementari, resto di Lagrange, limiti con Taylor |
-| 15 · Integrali | *(da creare)* | — | blocco futuro |
+| 14 · Derivate successive, de l'Hôpital, studio di funzione | `10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione` | 29 | include 169-180 (Taylor Peano/Lagrange, sviluppi, serie di Taylor, esponenziale complesso); restano Taylor di $\log(1+x)$ e altre funzioni elementari |
+| 15 · Integrali | `10_Analisi_1/15_Integrali_Indefiniti` | 3 | blocco avviato (181-183); prossimi: struttura dell'integrale indefinito, metodi di integrazione |
 
 #AM1/moc

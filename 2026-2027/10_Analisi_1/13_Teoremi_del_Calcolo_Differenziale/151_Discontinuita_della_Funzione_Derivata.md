@@ -27,6 +27,8 @@ In particolare non sono ammesse
 Rimangono possibili solo discontinuità di seconda specie ([[98_Discontinuita_di_Seconda_Specie]]), come nell'esempio $x^2\sin\frac1x$ di [[150_Osservazioni_sul_Prolungamento_della_Derivata]], dove $f'$ è discontinua in $0$ perché $\cos\frac1x$ non ha limite.
 
 ## Note collegate
+- [[182_Funzione_a_Salto_senza_Primitive]]
+- [[183_Funzione_Discontinua_con_Primitiva]]
 - [[148_Teorema_di_Prolungamento_della_Derivata_Prima]]
 - [[150_Osservazioni_sul_Prolungamento_della_Derivata]]
 - [[124_Funzione_Derivata_e_Derivate_di_Ordine_Superiore]]

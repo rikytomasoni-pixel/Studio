@@ -35,6 +35,7 @@ Per il teorema di Rolle esiste $c\in(a,b)$ tale che $g'(c)=0$. Per l'[[131_Algeb
 $$0=g'(c)=f'(c)-\frac{f(b)-f(a)}{b-a}\ \Rightarrow\ f'(c)=\frac{f(b)-f(a)}{b-a}\qquad\square$$
 
 ## Note collegate
+- [[174_Teorema_di_Taylor_con_Resto_di_Lagrange]]
 - [[141_Teorema_di_Rolle]]
 - [[143_Caratterizzazione_delle_Funzioni_Costanti_su_un_Intervallo]]
 - [[140_Test_di_Monotonia]]

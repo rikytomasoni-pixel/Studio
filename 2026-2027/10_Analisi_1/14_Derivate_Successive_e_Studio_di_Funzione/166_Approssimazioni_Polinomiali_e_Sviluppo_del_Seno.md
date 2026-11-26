@@ -49,6 +49,7 @@ $$P_n^{(k)}(x_0)=f^{(k)}(x_0)\qquad\forall k=0,1,\dots,n$$
 (per convenzione $f^{(0)}(x)=f(x)$ per ogni $x$). Il polinomio che soddisfa questa richiesta è il [[167_Polinomio_di_Taylor|polinomio di Taylor]].
 
 ## Note collegate
+- [[172_Sviluppi_di_Maclaurin_di_e_alla_x_sin_cos]]
 - [[167_Polinomio_di_Taylor]]
 - [[168_Teorema_di_Taylor_con_Resto_di_Peano]]
 - [[152_Teorema_di_de_l_Hopital]]

@@ -44,6 +44,7 @@ Tuttavia $x_0=0$ è un punto di flesso: $f$ ha retta tangente $y=0$ in $(0,0)$ e
 > L'uguaglianza tra $f''_\pm(0)$ e il limite di $f''(x)$ è giustificata dal [[148_Teorema_di_Prolungamento_della_Derivata_Prima|teorema di prolungamento della derivata]] applicato a $f'$.
 
 ## Note collegate
+- [[171_Corollario_Taylor_Punti_Stazionari_di_Ordine_Superiore]]
 - [[163_Punti_di_Flesso]]
 - [[164_Punti_di_Cambio_di_Concavita]]
 - [[162_Test_di_Convessita]]

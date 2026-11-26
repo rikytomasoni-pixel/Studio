@@ -22,6 +22,9 @@ fonte: "GAL 2026-2027 - 20261119 - LEZIONE 23.pdf (slide 194)"
 (Esempio motivante: [[167_Simmetria_Assiale_Base_Adattata_e_Matrice_Diagonale]], dove $A$ della simmetria assiale è simile alla matrice diagonale $\mathrm{diag}(1,-1)$.)
 
 ## Note collegate
+- [[175_La_Diagonalizzabilita_Dipende_dal_Campo]]
+- [[177_Definizione_25_1_Autovettore_e_Autovalore]]
+- [[178_Teorema_25_2_Primo_Criterio_di_Diagonalizzabilita]]
 - [[172_Matrici_Simili_Definizione_23_2]]
 - [[167_Simmetria_Assiale_Base_Adattata_e_Matrice_Diagonale]]
 - [[45_Matrice_Identita_e_Matrici_Diagonali]]

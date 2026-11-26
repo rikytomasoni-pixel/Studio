@@ -37,6 +37,8 @@ $f$ è derivabile in $\mathbb{R}$ e $f'(0)=0$, quindi $x_0=0$ è punto stazionar
 ![[xquadratosin1sux.png]]
 
 ## Note collegate
+- [[171_Corollario_Taylor_Punti_Stazionari_di_Ordine_Superiore]]
+- [[173_Taylor_Peano_Unicita_e_Controesempio_senza_Derivate_Successive]]
 - [[137_Teorema_di_Fermat]]
 - [[136_Massimi_e_Minimi_Locali_e_Globali]]
 - [[123_Esempi_di_Derivata_e_Retta_Tangente]]

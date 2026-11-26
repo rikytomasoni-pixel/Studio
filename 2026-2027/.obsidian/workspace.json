@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/30_Altre_Strutture_Dinamiche.md",
+                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/28_Liste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30_Altre_Strutture_Dinamiche"
+              "title": "28_Liste"
             }
           },
           {
@@ -61,7 +61,8 @@
               "title": "29_Programmazione_Modulare"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -280,54 +281,54 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "824f098aaeb21a40",
+  "active": "2c947e4e88d512c5",
   "lastOpenFiles": [
-    "30_Fondamenti_Informatica/02_Linguaggio_C/14_Struct.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/30_Altre_Strutture_Dinamiche.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/29_Programmazione_Modulare.md",
-    "99_Tools/Excalidraw/Disegni FI.md",
+    "00_Claude_Workspace/sedVFomkj",
+    "00_Claude_Workspace/Recap_2026-11-26_AM1_L21_GAL_L25-L26.md",
+    "90_Lezioni_pdf/A1/AM1 L21 26-27.pdf",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261126 - LEZIONE 26.pdf",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261125 - LEZIONE 25.pdf",
     "30_Fondamenti_Informatica/02_Linguaggio_C/28_Liste.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/25_Gestione_File.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/26_Allocazione_Dinamica_della_Memoria.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/27_Argomenti_da_Riga_di_Comando.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/29_Programmazione_Modulare.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/30_Altre_Strutture_Dinamiche.md",
+    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/27_Indice_Lezione_26.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/190_Proprieta_Preservate_dalla_Similitudine.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/189_Autovalori_Semplici_e_Regolari.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/188_Teorema_26_3_Secondo_Criterio_di_Diagonalizzabilita.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/187_Autospazi_di_Autovalori_Distinti_e_Somma_Diretta.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/186_Definizione_26_2_Molteplicita_Algebrica_Autospazio_Molteplicita_Geometrica.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/185_Definizione_26_1_Polinomio_Caratteristico.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/184_Esempio_2_Diagonalizzazione_della_Rotazione_su_C.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/183_Esempio_2_Rotazione_senza_Autovalori_su_Q_e_R.md",
+    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/26_Indice_Lezione_25.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/182_Esempio_1_Autovettori_di_Autovalore_0_e_Non_Diagonalizzabilita.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/181_Autovettori_come_Soluzioni_Non_Nulle_del_Sistema_Omogeneo_A_meno_lambda_Id.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/180_Obiettivo_Concreto_Ricerca_degli_Autovettori_e_Esempio_1.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/179_Dimostrazione_del_Primo_Criterio_di_Diagonalizzabilita.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/178_Teorema_25_2_Primo_Criterio_di_Diagonalizzabilita.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/177_Definizione_25_1_Autovettore_e_Autovalore.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/176_Obiettivo_1_Azione_di_L_sulla_Base_Diagonalizzante.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/175_La_Diagonalizzabilita_Dipende_dal_Campo.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita",
+    "10_Analisi_1/15_Integrali_Indefiniti/183_Funzione_Discontinua_con_Primitiva.md",
+    "10_Analisi_1/15_Integrali_Indefiniti/182_Funzione_a_Salto_senza_Primitive.md",
+    "10_Analisi_1/15_Integrali_Indefiniti/181_Primitiva_di_una_Funzione.md",
+    "10_Analisi_1/15_Integrali_Indefiniti",
+    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/sedXWLUvY",
     "99_Tools/Screenshots/FI/StrutturaNodi.png",
     "strutturaNodi.png",
     "Pasted image 20261125084722.png",
     "99_Tools/Screenshots/FI/tabella_liste.png",
-    "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/18_Iniettivita_Suriettivita_Biettivita.md",
-    "99_Tools/Excalidraw/Disegni Analisi1.md",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno.md",
-    "00_Claude_Workspace/Recap_2026-11-23_AM1_L20.md",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/165_Flessi_e_Derivata_Seconda.md",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/164_Punti_di_Cambio_di_Concavita.md",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/163_Punti_di_Flesso.md",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/160_Teorema_di_Regolarita_delle_Funzioni_Convesse.md",
     "90_Lezioni_pdf/A1/AM1 L20 26-27.pdf",
     "99_Tools/Screenshots/Analisi1/Funzioni/graph2+sin1suXperXcubo.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/disegnoNota165.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/ControesempioNota165.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/CambioConc.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/puntiFlesso.png",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/162_Test_di_Convessita.md",
     "99_Tools/Screenshots/Analisi1/Funzioni/testConv.png",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/161_Convessita_e_Rette_Tangenti.md",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/159_Interpretazione_Geometrica_della_Convessita.md",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/158_Segmento_e_Retta_per_due_Punti.md",
-    "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/17_Excursus_Logico_Negazione_Implicazione.md",
-    "20_Geometria_Algebra_Lineare/01_Fondamenti_Teorici/16_Funzioni.md",
-    "00_MOC_Materia.md",
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/93_Proprieta_Fondamentali_degli_Spazi_Vettoriali.md",
-    "20_Geometria_Algebra_Lineare/00_MOC_GAL.md",
-    "20_Geometria_Algebra_Lineare/13_Spazi_Vettoriali/92_Esempi_di_Spazi_Vettoriali.md",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261119 - LEZIONE 23.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261118 - LEZIONE 22.pdf",
     "90_Lezioni_pdf/A1/AM1 L19 26-27.pdf",
-    "00_Claude_Workspace/sedjj2wmL",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione",
-    "20_Geometria_Algebra_Lineare/18_Endomorfismi_Similitudine_e_Diagonalizzazione",
-    "20_Geometria_Algebra_Lineare/17_Matrice_Rappresentativa_e_Cambio_di_Base",
-    "90_Lezioni_pdf/A1/AM1 L18 26-27.pdf",
-    "30_Fondamenti_Informatica/sed8VCzDy",
     "Senza nome.canvas"
   ]
 }

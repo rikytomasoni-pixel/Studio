@@ -52,6 +52,7 @@ $\{\underline{v}_1,\dots,\underline{v}_n,\underline{w}_1,\dots,\underline{w}_p\}
 Quindi $\{\underline{v}_1,\dots,\underline{v}_n,\underline{w}_1,\dots,\underline{w}_p,\underline{u}_1,\dots,\underline{u}_q\}$ è una base di $H_1+H_2$ con $n+p+q$ elementi. $\blacksquare$
 
 ## Note collegate
+- [[187_Autospazi_di_Autovalori_Distinti_e_Somma_Diretta]]
 - [[134_Unione_di_Sottospazi_e_Sottospazio_Somma]]
 - [[133_Intersezione_di_Sottospazi_Vettoriali]]
 - [[132_Significato_della_Dimensione_Seconda_Parte]]

@@ -32,6 +32,7 @@ Invertendo i ruoli di $f,g$ e ripetendo l'argomento troviamo che se $\exists\dis
 > $$f_1\pm g_1\sim f_2\pm g_2,\qquad\log f_1\sim\log f_2,\qquad e^{f_1}\sim e^{f_2}$$
 
 ## Note collegate
+- [[178_Algebra_degli_o_piccoli]]
 - [[106_Asintotico_e_o_piccolo_per_Funzioni]]
 - [[108_Limiti_Notevoli_di_Funzioni]]
 - [[42_Confronti_Asintotici_Proprieta_e_Notevoli]]

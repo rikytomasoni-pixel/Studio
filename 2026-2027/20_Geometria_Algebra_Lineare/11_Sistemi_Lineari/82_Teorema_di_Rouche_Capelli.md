@@ -61,6 +61,7 @@ $\blacksquare$
 - Caso $r=n$ (nessun parametro libero): [[86_Teorema_di_Cramer]]
 
 ## Note collegate
+- [[181_Autovettori_come_Soluzioni_Non_Nulle_del_Sistema_Omogeneo_A_meno_lambda_Id]]
 - [[164_Teorema_22_2_Teorema_di_Nullita_piu_Rango]]
 - [[80_Rappresentazioni_Matriciali_di_un_Sistema_Lineare]]
 - [[81_Risoluzione_di_un_Sistema_con_MEG_Esempio_Parametrico]]

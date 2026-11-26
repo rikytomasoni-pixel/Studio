@@ -34,6 +34,7 @@ fonte: "AM1 L14 26-27.pdf (pag. 15-16)"
 > Nell'ultimo esempio $f(a)=0=\displaystyle\lim_{x\to a^-}f(x)$ e $f(b)=0=\displaystyle\lim_{x\to b^+}f(x)$: $f$ è quindi continua da sinistra in $a$ e continua da destra in $b$.
 
 ## Note collegate
+- [[182_Funzione_a_Salto_senza_Primitive]]
 - [[93_Continuita_in_un_Punto]]
 - [[91_Limiti_Destro_e_Sinistro_e_Asintoto_Verticale]]
 - [[96_Discontinuita_Eliminabile_e_Prolungamento_per_Continuita]]

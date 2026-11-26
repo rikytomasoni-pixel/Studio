@@ -35,6 +35,7 @@ fonte: "AM1 L14 26-27.pdf (pag. 16-18)"
 > Per leggere i limiti dai grafici: in $e^{1/x}$ si ha $\lim_{x\to0^+}=+\infty$ e $\lim_{x\to0^-}=0$; in $1/x$ i limiti laterali sono $+\infty$ e $-\infty$; in $1/x^2$ entrambi $+\infty$; in $\sin\frac1x$ nessuno dei due limiti laterali esiste (oscillazione). In tutti i casi il valore $a$ assegnato in $0$ non cambia il tipo di discontinuità.
 
 ## Note collegate
+- [[183_Funzione_Discontinua_con_Primitiva]]
 - [[93_Continuita_in_un_Punto]]
 - [[95_Funzione_di_Dirichlet]]
 - [[96_Discontinuita_Eliminabile_e_Prolungamento_per_Continuita]]

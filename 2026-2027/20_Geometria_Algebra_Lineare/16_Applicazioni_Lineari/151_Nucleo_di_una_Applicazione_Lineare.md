@@ -25,6 +25,8 @@ $L_A:\mathbb{K}^n\to\mathbb{K}^m$, $A\in M_{\mathbb{K}}(m,n)$:
 $$\ker(L_A)=\{\underline{v}\in\mathbb{K}^n\mid L_A(\underline{v})=\underline{0}\}=\{\underline{v}\in\mathbb{K}^n\mid A\underline{v}=\underline{0}\}=\{\underline{v}\in\mathbb{K}^n\mid\text{soluzioni di }A\underline{x}=\underline{0}\}=\ker(A)$$
 
 ## Note collegate
+- [[177_Definizione_25_1_Autovettore_e_Autovalore]]
+- [[182_Esempio_1_Autovettori_di_Autovalore_0_e_Non_Diagonalizzabilita]]
 - [[164_Teorema_22_2_Teorema_di_Nullita_piu_Rango]]
 - [[84_Nucleo_e_Sistema_Omogeneo_Associato]]
 - [[152_Teorema_20_1_Criterio_di_Iniettivita]]

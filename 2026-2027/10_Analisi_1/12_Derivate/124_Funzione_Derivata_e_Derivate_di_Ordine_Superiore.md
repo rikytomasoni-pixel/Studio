@@ -34,6 +34,7 @@ Osservazione: $f''(x_0)=(f')'(x_0)$.
 Osservazione: $f^{(n)}(x_0)=\big(f^{(n-1)}\big)'(x_0)$.
 
 ## Note collegate
+- [[181_Primitiva_di_una_Funzione]]
 - [[122_Rapporto_Incrementale_e_Derivata_in_un_Punto]]
 - [[128_Derivate_delle_Funzioni_Elementari]]
 - [[162_Test_di_Convessita]]

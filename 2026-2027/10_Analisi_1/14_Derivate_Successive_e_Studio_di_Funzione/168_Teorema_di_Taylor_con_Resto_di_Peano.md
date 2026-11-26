@@ -20,8 +20,8 @@ fonte: "AM1 L20 26-27.pdf (pag. 20-21)"
 
 con $P_n$ [[167_Polinomio_di_Taylor|polinomio di Taylor]] di $f$ centrato in $x_0$ di ordine $n$.
 
-> [!todo] Dimostrazione
-> La dimostrazione non è presente negli appunti di L20; è nell'elenco delle dimostrazioni richieste allo scritto (**D24**): nota da integrare quando verrà svolta a lezione.
+> [!success] Dimostrazione
+> Svolta a L21 (induzione su $n$ con de l'Hôpital): [[170_Dimostrazione_del_Teorema_di_Taylor_con_Resto_di_Peano]] (osservazione preliminare in [[169_Derivata_del_Polinomio_di_Taylor]]).
 
 ## Osservazioni
 
@@ -35,6 +35,11 @@ con $P_n$ [[167_Polinomio_di_Taylor|polinomio di Taylor]] di $f$ centrato in $x_
 Con $f=\sin$, $x_0=0$, $n=3$: $\sin x=x-\frac{x^3}{6}+o(x^3)$ per $x\to0$ ([[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]], [[167_Polinomio_di_Taylor]]).
 
 ## Note collegate
+- [[170_Dimostrazione_del_Teorema_di_Taylor_con_Resto_di_Peano]]
+- [[171_Corollario_Taylor_Punti_Stazionari_di_Ordine_Superiore]]
+- [[173_Taylor_Peano_Unicita_e_Controesempio_senza_Derivate_Successive]]
+- [[174_Teorema_di_Taylor_con_Resto_di_Lagrange]]
+- [[172_Sviluppi_di_Maclaurin_di_e_alla_x_sin_cos]]
 - [[167_Polinomio_di_Taylor]]
 - [[166_Approssimazioni_Polinomiali_e_Sviluppo_del_Seno]]
 - [[127_Differenziabilita_e_Approssimazione_Lineare]]
