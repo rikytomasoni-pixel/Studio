@@ -6124,6 +6124,25 @@
         "charCountStart": 65575,
         "changes": [],
         "id": 567
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/30_Altre_Strutture_Dinamiche.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 25,
+            "c": 246
+          },
+          {
+            "timeKey": "12:15",
+            "w": 13,
+            "c": 96
+          }
+        ],
+        "id": 568
       }
     ]
   }
