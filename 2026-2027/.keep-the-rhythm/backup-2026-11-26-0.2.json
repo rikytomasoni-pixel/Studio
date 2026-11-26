@@ -6048,6 +6048,114 @@
         "charCountStart": 4507,
         "changes": [],
         "id": 564
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/28_Liste.md",
+        "wordCountStart": 456,
+        "charCountStart": 3626,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 25,
+            "c": 189
+          },
+          {
+            "timeKey": "10:40",
+            "w": 22,
+            "c": 164
+          },
+          {
+            "timeKey": "10:45",
+            "w": 14,
+            "c": 101
+          },
+          {
+            "timeKey": "10:50",
+            "w": 15,
+            "c": 111
+          },
+          {
+            "timeKey": "10:55",
+            "w": 33,
+            "c": 243
+          },
+          {
+            "timeKey": "11:00",
+            "w": 13,
+            "c": 117
+          },
+          {
+            "timeKey": "11:05",
+            "w": 3,
+            "c": 34
+          },
+          {
+            "timeKey": "11:10",
+            "w": 44,
+            "c": 275
+          }
+        ],
+        "id": 565
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/29_Programmazione_Modulare.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:40",
+            "w": 14,
+            "c": 137
+          },
+          {
+            "timeKey": "11:55",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 566
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "99_Tools/Excalidraw/Disegni FI.md",
+        "wordCountStart": 2000,
+        "charCountStart": 65575,
+        "changes": [],
+        "id": 567
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/30_Altre_Strutture_Dinamiche.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 25,
+            "c": 246
+          },
+          {
+            "timeKey": "12:15",
+            "w": 13,
+            "c": 96
+          },
+          {
+            "timeKey": "12:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 568
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/14_Struct.md",
+        "wordCountStart": 172,
+        "charCountStart": 1436,
+        "changes": [],
+        "id": 569
       }
     ]
   }

@@ -6140,9 +6140,22 @@
             "timeKey": "12:15",
             "w": 13,
             "c": 96
+          },
+          {
+            "timeKey": "12:20",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 568
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "30_Fondamenti_Informatica/02_Linguaggio_C/14_Struct.md",
+        "wordCountStart": 172,
+        "charCountStart": 1436,
+        "changes": [],
+        "id": 569
       }
     ]
   }
