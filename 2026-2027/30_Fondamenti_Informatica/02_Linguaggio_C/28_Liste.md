@@ -195,6 +195,20 @@ int cancella_valore(lista_t *l, int v){
 			curr = curr->next;
 		}
 	}
+	return cont;
+}
+```
+## Lista ordinata
+```C
+int ordinata(lista_t l) {
+	if(!l)/*Caso base: lista vuota*/
+		return 1;
+	if(!(l->next))/*Caso base: lista di un nodo*/
+		return 1;
+	if(l->info > l->next->info)/*Caso base: non ordinata*/
+		return 0;
+	/*Caso Ricorsivo*/
+	return ordinata(l->next);
 }
 ```
 ## Applicazione tipo
