@@ -163,8 +163,39 @@ int inserisci_posizione(lista_t* l, int v, int pos){
 	else
 		prev->next = nuovo;
 	nuovo->next = current;
+	
+	return 0;
 }
-
+```
+## Cancellazione per valore
+```C
+int cancella_valore(lista_t *l, int v){
+	nodo_t *curr;
+	nodo_t *prev;
+	int cont;
+	
+	prev = NULL;
+	curr = *l;
+	cont = 0;
+	while(curr) {
+		if(curr->info == v) {
+			if(!prev) { /*cancellazione primo elemento*/
+				*l = curr->next;
+				free(curr);
+				curr = *l
+			} else {
+				/*cancellare nodo*/
+				prev->next = curr->next;
+				free(curr);
+				curr = prev->next;
+			}
+			cont++;
+		} else {
+			prev = curr;
+			curr = curr->next;
+		}
+	}
+}
 ```
 ## Applicazione tipo
 ```C
