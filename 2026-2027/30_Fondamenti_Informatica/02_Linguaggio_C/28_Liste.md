@@ -142,8 +142,8 @@ void cancella_lista(lista_t* l){
 ```C
 int inserisci_posizione(lista_t* l, int v, int pos){
 	nodo_t *nuovo;
-	nodo_t *current;
-	nodo_t *previus;
+	nodo_t *curr;
+	nodo_t *prev;
 	int i;
 	
 	 nuovo = malloc(sizeof(nodo_t));
@@ -153,16 +153,16 @@ int inserisci_posizione(lista_t* l, int v, int pos){
 	curr = *l;
 	prev = NULL;
 	i = 0;
-	while(current && i < pos){
-		previus = current;
-		current = current->next;
+	while(curr && i < pos){
+		prev = curr;
+		curr = curr->next;
 		i++;
 	}
-	if(!previus) /*lista vuota->inserimento in testa*/
+	if(!prev) /*lista vuota->inserimento in testa*/
 		*l = nuovo;
 	else
 		prev->next = nuovo;
-	nuovo->next = current;
+	nuovo->next = curr;
 	
 	return 0;
 }
@@ -184,7 +184,7 @@ int cancella_valore(lista_t *l, int v){
 			if(!prev) { /*cancellazione primo elemento*/
 				*l = curr->next;
 				free(curr);
-				curr = *l
+				curr = *l;
 			} else {
 				/*cancellare nodo*/
 				prev->next = curr->next;
@@ -214,6 +214,47 @@ int ordinata(lista_t l) {
 }
 ```
 
+## Verifica presenza di duplicati
+*restituisce 1 se nella lista c'è almeno un valore ripetuto, 0 altrimenti*
+
+### Versione iterativa
+Per ogni nodo `l` si scorre il resto della lista con `h` confrontando le informazioni.
+```C
+int duplicati(lista_t l){
+	nodo_t *h;
+
+	while(l){
+		h = l->next;
+
+		while(h){
+			if(l->info == h->info)
+				return 1;
+			h = h->next;
+		}
+
+		l = l->next;
+	}
+
+	return 0;
+}
+```
+
+### Versione con `cerca`
+Riusa la funzione [[#Funzione Cerca|cerca]]: per ogni nodo si cerca il suo valore nel resto della lista.
+```C
+int duplicati(lista_t l){
+	while(l){
+		if(cerca(l->next, l->info))
+			return 1;
+		l = l->next;
+	}
+	return 0;
+}
+```
+
+> [!note] Osservazione (non presente negli appunti)
+> Nello schermo la seconda versione era solo abbozzata: la riga era `cerca(l->next, l->info);` senza `if` e senza `return 1`, quindi il risultato di `cerca` veniva ignorato. L'ho completata. Le due versioni hanno lo stesso nome `duplicati`: nello stesso file vanno rinominate (es. `duplicati2`). Complessità $O(n^2)$ in entrambi i casi.
+
 ## Note collegate
 - [[00_MOC_FdI]]
 - Precedente: [[27_Argomenti_da_Riga_di_Comando]]
@@ -224,7 +265,8 @@ int ordinata(lista_t l) {
 - [[23_Puntatori_a_Strutture]] — operatore `->`
 - [[24_Ricorsione]] — `inserisci_coda_ric` e `cerca` ricorsive
 - [[19_Sottoprogrammi_Funzioni]] — passaggio per indirizzo della lista
-- [[16_Cicli_Iterativi]] — scorrimento con `while` in `stampa` e `cancella_lista`
+- [[15_Condizione_if_else]] — `if` nei controlli di `duplicati`
+- [[16_Cicli_Iterativi]] — scorrimento con `while` in `stampa` e `cancella_lista`; cicli annidati in `duplicati`
 - [[27_Argomenti_da_Riga_di_Comando]] — `main(int argc, char* argv[])` dell'esempio
 
 #FdI/c/liste

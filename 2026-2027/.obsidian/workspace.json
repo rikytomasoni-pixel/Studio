@@ -36,33 +36,33 @@
             }
           },
           {
-            "id": "2c947e4e88d512c5",
+            "id": "0d41d6949bf998c0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "99_Tools/Excalidraw/Disegni FI.md"
+                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261125 - LEZIONE 25.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Disegni FI"
+              "icon": "lucide-file-text",
+              "title": "GAL 2026-2027 - 20261125 - LEZIONE 25"
             }
           },
           {
-            "id": "7384a796c0db16ad",
+            "id": "6211cca41ffea9a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/29_Programmazione_Modulare.md",
-                "mode": "source",
+                "file": "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/176_Obiettivo_1_Azione_di_L_sulla_Base_Diagonalizzante.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29_Programmazione_Modulare"
+              "title": "176_Obiettivo_1_Azione_di_L_sulla_Base_Diagonalizzante"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,11 +281,24 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0ba7c57d61bd7477",
+  "active": "0d41d6949bf998c0",
   "lastOpenFiles": [
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/176_Obiettivo_1_Azione_di_L_sulla_Base_Diagonalizzante.md",
+    "00_Claude_Workspace/Recap_2026-11-26_AM1_L21_GAL_L25-L26.md",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261125 - LEZIONE 25.pdf",
+    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261126 - LEZIONE 26.pdf",
+    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/175_Esempio_Stima_del_Resto_di_e_alla_x.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/186_Definizione_26_2_Molteplicita_Algebrica_Autospazio_Molteplicita_Geometrica.md",
+    "90_Lezioni_pdf/A1/AM1 L21 26-27.pdf",
+    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/174_Teorema_di_Taylor_con_Resto_di_Lagrange.md",
+    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/183_Esempio_2_Rotazione_senza_Autovalori_su_Q_e_R.md",
+    "99_Tools/Screenshots/GAL/DisegnoNota183.png",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/29_Programmazione_Modulare.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/schemaUsoStruttureDati.pdf",
+    "30_Fondamenti_Informatica/schemaUsoStruttureDati.pdf",
+    "schemaUsoStruttureDati.pdf",
     "99_Tools/Screenshots/FI/CompilazioneFile.png",
     "99_Tools/Excalidraw/Disegni FI.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/29_Programmazione_Modulare.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/30_Altre_Strutture_Dinamiche.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/28_Liste.md",
     "99_Tools/Screenshots/FI/compilazione librerie.png",
@@ -296,19 +309,13 @@
     "99_Tools/Screenshots/FI/Grafi.png",
     "99_Tools/Screenshots/FI/InserimentoPosizione.png",
     "00_Claude_Workspace/sedVFomkj",
-    "00_Claude_Workspace/Recap_2026-11-26_AM1_L21_GAL_L25-L26.md",
-    "90_Lezioni_pdf/A1/AM1 L21 26-27.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261126 - LEZIONE 26.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261125 - LEZIONE 25.pdf",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/27_Indice_Lezione_26.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/190_Proprieta_Preservate_dalla_Similitudine.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/189_Autovalori_Semplici_e_Regolari.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/188_Teorema_26_3_Secondo_Criterio_di_Diagonalizzabilita.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/187_Autospazi_di_Autovalori_Distinti_e_Somma_Diretta.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/186_Definizione_26_2_Molteplicita_Algebrica_Autospazio_Molteplicita_Geometrica.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/185_Definizione_26_1_Polinomio_Caratteristico.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/184_Esempio_2_Diagonalizzazione_della_Rotazione_su_C.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/183_Esempio_2_Rotazione_senza_Autovalori_su_Q_e_R.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/26_Indice_Lezione_25.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/182_Esempio_1_Autovettori_di_Autovalore_0_e_Non_Diagonalizzabilita.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/181_Autovettori_come_Soluzioni_Non_Nulle_del_Sistema_Omogeneo_A_meno_lambda_Id.md",
@@ -316,19 +323,11 @@
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/179_Dimostrazione_del_Primo_Criterio_di_Diagonalizzabilita.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/178_Teorema_25_2_Primo_Criterio_di_Diagonalizzabilita.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/177_Definizione_25_1_Autovettore_e_Autovalore.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/176_Obiettivo_1_Azione_di_L_sulla_Base_Diagonalizzante.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/175_La_Diagonalizzabilita_Dipende_dal_Campo.md",
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita",
-    "10_Analisi_1/15_Integrali_Indefiniti/183_Funzione_Discontinua_con_Primitiva.md",
-    "10_Analisi_1/15_Integrali_Indefiniti/182_Funzione_a_Salto_senza_Primitive.md",
     "10_Analisi_1/15_Integrali_Indefiniti",
     "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/sedXWLUvY",
     "99_Tools/Screenshots/FI/StrutturaNodi.png",
-    "strutturaNodi.png",
-    "Pasted image 20261125084722.png",
-    "90_Lezioni_pdf/A1/AM1 L20 26-27.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261119 - LEZIONE 23.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261118 - LEZIONE 22.pdf",
     "Senza nome.canvas"
   ]
 }

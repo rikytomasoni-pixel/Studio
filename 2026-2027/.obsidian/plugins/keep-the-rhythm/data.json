@@ -6211,6 +6211,66 @@
         "charCountStart": 1436,
         "changes": [],
         "id": 569
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "00_Claude_Workspace/Recap_2026-11-26_AM1_L21_GAL_L25-L26.md",
+        "wordCountStart": 610,
+        "charCountStart": 6776,
+        "changes": [],
+        "id": 570
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/183_Esempio_2_Rotazione_senza_Autovalori_su_Q_e_R.md",
+        "wordCountStart": 360,
+        "charCountStart": 2716,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": -53,
+            "c": -334
+          }
+        ],
+        "id": 571
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/174_Teorema_di_Taylor_con_Resto_di_Lagrange.md",
+        "wordCountStart": 225,
+        "charCountStart": 1592,
+        "changes": [],
+        "id": 572
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/186_Definizione_26_2_Molteplicita_Algebrica_Autospazio_Molteplicita_Geometrica.md",
+        "wordCountStart": 254,
+        "charCountStart": 2082,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": -47,
+            "c": -358
+          }
+        ],
+        "id": 573
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/175_Esempio_Stima_del_Resto_di_e_alla_x.md",
+        "wordCountStart": 148,
+        "charCountStart": 1016,
+        "changes": [],
+        "id": 574
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/176_Obiettivo_1_Azione_di_L_sulla_Base_Diagonalizzante.md",
+        "wordCountStart": 409,
+        "charCountStart": 3024,
+        "changes": [],
+        "id": 575
       }
     ]
   }

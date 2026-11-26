@@ -25,9 +25,6 @@ fonte: "GAL 2026-2027 - 20261126 - LEZIONE 26.pdf (slide 210)"
   - $g_0=2$
 - **(Fatto)** $\quad1\le g_\lambda\le a_\lambda$
 
-> [!warning] Differenza rispetto al quaderno
-> Nella slide 210 il secondo vettore di $V_0$ è scritto in modo poco leggibile (l'ultima entrata sembra un $3$); l'ho trascritto $\begin{bmatrix}0\\0\\1\\0\end{bmatrix}$ per coerenza con il calcolo del nucleo in [[182_Esempio_1_Autovettori_di_Autovalore_0_e_Non_Diagonalizzabilita]]. Da controllare sulla slide.
-
 ## Note collegate
 - [[185_Definizione_26_1_Polinomio_Caratteristico]]
 - [[187_Autospazi_di_Autovalori_Distinti_e_Somma_Diretta]]

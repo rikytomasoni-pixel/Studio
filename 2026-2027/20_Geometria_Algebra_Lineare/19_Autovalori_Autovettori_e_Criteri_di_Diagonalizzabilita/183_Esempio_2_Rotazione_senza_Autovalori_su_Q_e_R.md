@@ -12,8 +12,7 @@ $$A=\begin{bmatrix}0&-1\\1&0\end{bmatrix}\in M_{\mathbb{Q}}(2,2)\subseteq M_{\ma
 > [!question] Cosa fa la matrice $A$?
 > In $\mathbb{R}^2$, con $\underline e_1,\underline e_2$ la base canonica: $A\underline e_1=\begin{bmatrix}0\\1\end{bmatrix}=\underline e_2$, $A\underline e_2=\begin{bmatrix}-1\\0\end{bmatrix}=-\underline e_1$.
 
-> [!warning] DISEGNO NON RAPPRESENTABILE
-> **Slide 206.** Piano cartesiano con i vettori $\vec\imath=\underline e_1$ (in rosso, lungo l'asse $x$) e $\vec\jmath=\underline e_2$ (in blu, lungo l'asse $y$); accanto, a destra, i loro trasformati: $A\underline e_1$ (rosso, verso l'alto) e $A\underline e_2$ (blu, verso sinistra). **Da inserire** qui il disegno.
+![[DisegnoNota183.png]]
 
 Su $\mathbb{R}$, la matrice $A$ descrive una **rotazione di $\frac\pi2$ in senso antiorario**.
 
