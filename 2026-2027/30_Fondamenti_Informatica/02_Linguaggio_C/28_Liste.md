@@ -60,8 +60,6 @@ lista_t inserisci_testa2(lista_t l, int v){
 	return nuovo;
 }
 ```
-> [!note] Osservazione (non presente negli appunti)
-> Nel quaderno la prima versione di `inserisci_testa` era solo abbozzata ("implementazione poi"): l'ho completata come nell'esempio finale (`nuovo->next = *l; *l = nuovo;`). `inserisci_testa2` restituisce la nuova testa invece di modificare la lista per indirizzo.
 
 ## Inserimento in Coda
 ```C
