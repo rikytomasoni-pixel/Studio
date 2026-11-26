@@ -168,6 +168,7 @@ int inserisci_posizione(lista_t* l, int v, int pos){
 }
 ```
 
+![[InserimentoPosizione.png]]
 ## Cancellazione per valore
 ```C
 int cancella_valore(lista_t *l, int v){
@@ -212,38 +213,7 @@ int ordinata(lista_t l) {
 	return ordinata(l->next);
 }
 ```
-## Applicazione tipo
-```C
-#include <stdio.h>
-#include <stdlib.h>
 
-typedef struct nodo_{
-	int info;
-	struct nodo_* next;
-} nodo_t;
-
-typedef nodo_t* lista_t;
-
-int inserisci_testa(lista_t*, int);
-
-int main(int argc, char* argv[]){
-	lista_t l = NULL; //lista vuota
-	
-	inserisci_testa(&l, 3);
-	return 0;
-}
-
-int inserisci_testa(lista_t* l, int v){
-	nodo_t* nuovo; 
-	nuovo = malloc(sizeof(nodo_t));
-	if(!nuovo)
-		return -1;
-	nuovo->info = v; // come scrivere (*nuovo).info = v;
-	nuovo->next = *l;
-	*l = nuovo;
-	return 0;
-}
-```
 ## Note collegate
 - [[00_MOC_FdI]]
 - Precedente: [[27_Argomenti_da_Riga_di_Comando]]

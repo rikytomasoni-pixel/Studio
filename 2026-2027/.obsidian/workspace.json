@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -281,14 +281,16 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "2c947e4e88d512c5",
+  "active": "7384a796c0db16ad",
   "lastOpenFiles": [
+    "30_Fondamenti_Informatica/02_Linguaggio_C/28_Liste.md",
+    "99_Tools/Screenshots/FI/InserimentoPosizione.png",
+    "99_Tools/Excalidraw/Disegni FI.md",
     "00_Claude_Workspace/sedVFomkj",
     "00_Claude_Workspace/Recap_2026-11-26_AM1_L21_GAL_L25-L26.md",
     "90_Lezioni_pdf/A1/AM1 L21 26-27.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261126 - LEZIONE 26.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261125 - LEZIONE 25.pdf",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/28_Liste.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/29_Programmazione_Modulare.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/30_Altre_Strutture_Dinamiche.md",
     "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/27_Indice_Lezione_26.md",
@@ -312,7 +314,6 @@
     "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita",
     "10_Analisi_1/15_Integrali_Indefiniti/183_Funzione_Discontinua_con_Primitiva.md",
     "10_Analisi_1/15_Integrali_Indefiniti/182_Funzione_a_Salto_senza_Primitive.md",
-    "10_Analisi_1/15_Integrali_Indefiniti/181_Primitiva_di_una_Funzione.md",
     "10_Analisi_1/15_Integrali_Indefiniti",
     "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/sedXWLUvY",
     "99_Tools/Screenshots/FI/StrutturaNodi.png",
@@ -325,10 +326,8 @@
     "99_Tools/Screenshots/Analisi1/Funzioni/ControesempioNota165.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/CambioConc.png",
     "99_Tools/Screenshots/Analisi1/Funzioni/puntiFlesso.png",
-    "99_Tools/Screenshots/Analisi1/Funzioni/testConv.png",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261119 - LEZIONE 23.pdf",
     "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261118 - LEZIONE 22.pdf",
-    "90_Lezioni_pdf/A1/AM1 L19 26-27.pdf",
     "Senza nome.canvas"
   ]
 }
