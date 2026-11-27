@@ -32,5 +32,6 @@ C → Denis Ritchie anni '60 (ANSI 89)
 - Successiva: [[04_Input_Output_e_Stream]]
 - Disegno originale: [[Disegni FI]]
 - [[27_Argomenti_da_Riga_di_Comando]] — `main` con parametri
+- [[29_Programmazione_Modulare]] — programma su più file (`.h` e `.c`)
 
 #FdI/c/struttura-programma

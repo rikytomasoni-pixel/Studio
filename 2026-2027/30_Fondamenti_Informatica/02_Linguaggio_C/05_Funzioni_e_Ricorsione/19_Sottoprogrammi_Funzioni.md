@@ -75,5 +75,6 @@ Quando si chiama una funzione viene *allocato* un record di attivazione (o impil
 - [[22_Puntatori_a_Array]]
 - [[26_Allocazione_Dinamica_della_Memoria]] — funzioni che restituiscono puntatori
 - [[27_Argomenti_da_Riga_di_Comando]] — parametri `argc`/`argv` del `main`
+- [[29_Programmazione_Modulare]] — prototipi nell'header
 
 #FdI/c/Funzioni

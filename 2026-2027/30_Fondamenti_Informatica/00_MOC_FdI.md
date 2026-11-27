@@ -4,7 +4,7 @@ tags:
   - MOC
   - indice
   - guida-studio
-date: 2026-11-25
+date: 2026-11-26
 materia: Fondamenti di Informatica
 ---
 
@@ -77,6 +77,8 @@ flowchart LR
     C12 --> C14["14 · Liste"]
     C6 --> C14
     C10 --> C14
+    C14 --> C15["15 · Programmazione modulare"]
+    C14 --> C16["16 · Altre strutture dinamiche"]
 
     classDef fatto fill:#c8e6c9,stroke:#2e7d32,color:#000
     classDef corso fill:#fff3cd,stroke:#b8860b,color:#000
@@ -348,6 +350,38 @@ flowchart LR
 
 ---
 
+## 15 · Programmazione modulare
+
+> [!abstract] Stai per affrontare
+> Come spezzare un programma in più file (`.h` e `.c`) e ottenere l'eseguibile con compilazione separata e linking.
+
+> [!important] Da imparare
+> - Header: definizioni, tipi, variabili globali, prototipi; file `.c`: implementazione.
+> - `gcc -c` (file oggetto `.o`) e linking con `gcc liste.o main.o -o main`.
+
+> [!question] Checkpoint
+> Sai dividere il programma sulle liste in `liste.h`, `liste.c`, `main.c` e compilarlo in due modi?
+
+- [ ] [[29_Programmazione_Modulare]] — header, file oggetto, linking
+
+---
+
+## 16 · Altre strutture dinamiche
+
+> [!abstract] Stai per affrontare
+> Uno sguardo alle strutture dati oltre le liste semplici.
+
+> [!important] Da imparare
+> - Liste doppiamente concatenate (`next` e `prev`), liste circolari.
+> - Alberi e grafi (panoramica).
+
+> [!question] Checkpoint
+> Sai dichiarare il nodo di una lista doppia e dire quando serve un albero o un grafo?
+
+- [ ] [[30_Altre_Strutture_Dinamiche]] — liste doppie, circolari, alberi, grafi
+
+---
+
 ## Disegni
 
 - [[Disegni FI]]
@@ -359,6 +393,14 @@ flowchart LR
 | Blocco | Cartella | Note |
 |---|---|---|
 | 1-2 · Introduzione e codifica | `30_Fondamenti_Informatica/01_Introduzione_e_Codifica` | 2 (file Excalidraw, non modificati) |
-| 3-14 · Linguaggio C | `30_Fondamenti_Informatica/02_Linguaggio_C` | 28 |
+| 3 · Fondamenti del linguaggio | `30_Fondamenti_Informatica/02_Linguaggio_C/01_Fondamenti_del_Linguaggio` | 4 |
+| 4 · Tipi di dato | `30_Fondamenti_Informatica/02_Linguaggio_C/02_Tipi_di_Dato` | 4 |
+| 5-6 · Array, stringhe, typedef e struct | `30_Fondamenti_Informatica/02_Linguaggio_C/03_Array_Stringhe_e_Strutture` | 6 |
+| 7 · Controllo del flusso | `30_Fondamenti_Informatica/02_Linguaggio_C/04_Controllo_del_Flusso` | 4 |
+| 8 e 10 · Funzioni, visibilità, ricorsione | `30_Fondamenti_Informatica/02_Linguaggio_C/05_Funzioni_e_Ricorsione` | 3 |
+| 9 e 12 · Puntatori e allocazione dinamica | `30_Fondamenti_Informatica/02_Linguaggio_C/06_Puntatori_e_Memoria_Dinamica` | 4 |
+| 11 e 13 · File e riga di comando | `30_Fondamenti_Informatica/02_Linguaggio_C/07_File_e_Riga_di_Comando` | 2 |
+| 14 e 16 · Liste e strutture dinamiche | `30_Fondamenti_Informatica/02_Linguaggio_C/08_Liste_e_Strutture_Dinamiche` | 2 (+ PDF slide) |
+| 15 · Programmazione modulare | `30_Fondamenti_Informatica/02_Linguaggio_C/09_Programmazione_Modulare` | 1 |
 
 #FdI/moc

@@ -8,61 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "824f098aaeb21a40",
+            "id": "f1c2a1a146f93399",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/30_Altre_Strutture_Dinamiche.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "30_Altre_Strutture_Dinamiche"
-            }
-          },
-          {
-            "id": "f42062b803310997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/28_Liste.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "28_Liste"
-            }
-          },
-          {
-            "id": "0d41d6949bf998c0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261125 - LEZIONE 25.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "GAL 2026-2027 - 20261125 - LEZIONE 25"
-            }
-          },
-          {
-            "id": "6211cca41ffea9a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/176_Obiettivo_1_Azione_di_L_sulla_Base_Diagonalizzante.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "176_Obiettivo_1_Azione_di_L_sulla_Base_Diagonalizzante"
+              "title": "Nuova scheda"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,33 +85,6 @@
     "id": "3beb91e54d21d6ea",
     "type": "split",
     "children": [
-      {
-        "id": "e0fb49532789a97f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4468fce9f1839445",
-            "type": "leaf",
-            "state": {
-              "type": "keep-the-rhythm",
-              "state": {},
-              "icon": "calendar-days",
-              "title": "Keep the Rhythm"
-            }
-          },
-          {
-            "id": "0ef2cee625625690",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
       {
         "id": "ce4f1112a622b9fc",
         "type": "tabs",
@@ -240,26 +168,15 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_Fondamenti_Informatica/02_Linguaggio_C/28_Liste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
               "title": "Collegamenti in uscita"
             }
-          },
-          {
-            "id": "66f10dbb0e0cce91",
-            "type": "leaf",
-            "state": {
-              "type": "keep-the-rhythm",
-              "state": {},
-              "icon": "calendar-days",
-              "title": "Keep the Rhythm"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -281,26 +198,46 @@
       "keep-the-rhythm:Keep the Rhythm": false
     }
   },
-  "active": "0d41d6949bf998c0",
+  "active": "f1c2a1a146f93399",
   "lastOpenFiles": [
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/176_Obiettivo_1_Azione_di_L_sulla_Base_Diagonalizzante.md",
-    "00_Claude_Workspace/Recap_2026-11-26_AM1_L21_GAL_L25-L26.md",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261125 - LEZIONE 25.pdf",
-    "90_Lezioni_pdf/GAL/GAL 2026-2027 - 20261126 - LEZIONE 26.pdf",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/175_Esempio_Stima_del_Resto_di_e_alla_x.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/186_Definizione_26_2_Molteplicita_Algebrica_Autospazio_Molteplicita_Geometrica.md",
-    "90_Lezioni_pdf/A1/AM1 L21 26-27.pdf",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/174_Teorema_di_Taylor_con_Resto_di_Lagrange.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/183_Esempio_2_Rotazione_senza_Autovalori_su_Q_e_R.md",
+    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/157_Studio_del_Grafico_di_una_Funzione.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/08_Conversione_fra_Tipi.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/10_Stringhe_in_C.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/03_Array_Stringhe_e_Strutture/14_Struct.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/03_Array_Stringhe_e_Strutture/13_Typedef.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/03_Array_Stringhe_e_Strutture/12_Array_Multidimensionali.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/03_Array_Stringhe_e_Strutture/11_Operazioni_sulle_Stringhe.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/03_Array_Stringhe_e_Strutture/10_Stringhe_in_C.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/03_Array_Stringhe_e_Strutture/09_Array_Monodimensionali.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/03_Array_Stringhe_e_Strutture",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/02_Tipi_di_Dato/07_sizeof_e_Librerie_limits_float.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/02_Tipi_di_Dato/08_Conversione_fra_Tipi.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/09_Programmazione_Modulare/29_Programmazione_Modulare.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/09_Programmazione_Modulare",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/08_Liste_e_Strutture_Dinamiche/schemaUsoStruttureDati.pdf",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/08_Liste_e_Strutture_Dinamiche/30_Altre_Strutture_Dinamiche.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/08_Liste_e_Strutture_Dinamiche/28_Liste.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/08_Liste_e_Strutture_Dinamiche",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/07_File_e_Riga_di_Comando/27_Argomenti_da_Riga_di_Comando.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/07_File_e_Riga_di_Comando/25_Gestione_File.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/07_File_e_Riga_di_Comando",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/06_Puntatori_e_Memoria_Dinamica/26_Allocazione_Dinamica_della_Memoria.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/06_Puntatori_e_Memoria_Dinamica/23_Puntatori_a_Strutture.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/06_Puntatori_e_Memoria_Dinamica/22_Puntatori_a_Array.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/06_Puntatori_e_Memoria_Dinamica/20_Puntatori.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/06_Puntatori_e_Memoria_Dinamica",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/05_Funzioni_e_Ricorsione/24_Ricorsione.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/05_Funzioni_e_Ricorsione/21_Regole_di_Visibilità.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/05_Funzioni_e_Ricorsione/19_Sottoprogrammi_Funzioni.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/05_Funzioni_e_Ricorsione",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/04_Controllo_del_Flusso/18_Switch.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/04_Controllo_del_Flusso/17_Numeri_di_Kaprekar.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/04_Controllo_del_Flusso/16_Cicli_Iterativi.md",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/04_Controllo_del_Flusso",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/02_Tipi_di_Dato",
+    "30_Fondamenti_Informatica/02_Linguaggio_C/01_Fondamenti_del_Linguaggio",
     "99_Tools/Screenshots/GAL/DisegnoNota183.png",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/29_Programmazione_Modulare.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/schemaUsoStruttureDati.pdf",
-    "30_Fondamenti_Informatica/schemaUsoStruttureDati.pdf",
-    "schemaUsoStruttureDati.pdf",
     "99_Tools/Screenshots/FI/CompilazioneFile.png",
-    "99_Tools/Excalidraw/Disegni FI.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/30_Altre_Strutture_Dinamiche.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/28_Liste.md",
     "99_Tools/Screenshots/FI/compilazione librerie.png",
     "99_Tools/Screenshots/FI/ProgrammazioneModulare.png",
     "99_Tools/Screenshots/FI/concatenate.png",
@@ -308,25 +245,6 @@
     "99_Tools/Screenshots/FI/alberi.png",
     "99_Tools/Screenshots/FI/Grafi.png",
     "99_Tools/Screenshots/FI/InserimentoPosizione.png",
-    "00_Claude_Workspace/sedVFomkj",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/27_Indice_Lezione_26.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/190_Proprieta_Preservate_dalla_Similitudine.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/189_Autovalori_Semplici_e_Regolari.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/188_Teorema_26_3_Secondo_Criterio_di_Diagonalizzabilita.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/187_Autospazi_di_Autovalori_Distinti_e_Somma_Diretta.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/185_Definizione_26_1_Polinomio_Caratteristico.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/184_Esempio_2_Diagonalizzazione_della_Rotazione_su_C.md",
-    "20_Geometria_Algebra_Lineare/90_Indici_Lezioni/26_Indice_Lezione_25.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/182_Esempio_1_Autovettori_di_Autovalore_0_e_Non_Diagonalizzabilita.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/181_Autovettori_come_Soluzioni_Non_Nulle_del_Sistema_Omogeneo_A_meno_lambda_Id.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/180_Obiettivo_Concreto_Ricerca_degli_Autovettori_e_Esempio_1.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/179_Dimostrazione_del_Primo_Criterio_di_Diagonalizzabilita.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/178_Teorema_25_2_Primo_Criterio_di_Diagonalizzabilita.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/177_Definizione_25_1_Autovettore_e_Autovalore.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita/175_La_Diagonalizzabilita_Dipende_dal_Campo.md",
-    "20_Geometria_Algebra_Lineare/19_Autovalori_Autovettori_e_Criteri_di_Diagonalizzabilita",
-    "10_Analisi_1/15_Integrali_Indefiniti",
-    "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/sedXWLUvY",
     "99_Tools/Screenshots/FI/StrutturaNodi.png",
     "Senza nome.canvas"
   ]

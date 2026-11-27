@@ -251,10 +251,6 @@ int duplicati(lista_t l){
 	return 0;
 }
 ```
-
-> [!note] Osservazione (non presente negli appunti)
-> Nello schermo la seconda versione era solo abbozzata: la riga era `cerca(l->next, l->info);` senza `if` e senza `return 1`, quindi il risultato di `cerca` veniva ignorato. L'ho completata. Le due versioni hanno lo stesso nome `duplicati`: nello stesso file vanno rinominate (es. `duplicati2`). Complessità $O(n^2)$ in entrambi i casi.
-
 ## Note collegate
 - [[00_MOC_FdI]]
 - Precedente: [[27_Argomenti_da_Riga_di_Comando]]
@@ -268,5 +264,7 @@ int duplicati(lista_t l){
 - [[15_Condizione_if_else]] — `if` nei controlli di `duplicati`
 - [[16_Cicli_Iterativi]] — scorrimento con `while` in `stampa` e `cancella_lista`; cicli annidati in `duplicati`
 - [[27_Argomenti_da_Riga_di_Comando]] — `main(int argc, char* argv[])` dell'esempio
+- Successiva: [[29_Programmazione_Modulare]]
+- [[30_Altre_Strutture_Dinamiche]] — liste doppie, circolari, alberi, grafi
 
 #FdI/c/liste

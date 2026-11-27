@@ -26,5 +26,6 @@ fonte: Linguaggio C
 - [[06_Tipi_Semplici_Int_Char_Float_Double]]
 - [[14_Struct]]
 - [[20_Puntatori]]
+- [[29_Programmazione_Modulare]] — variabili globali nell'header
 
 #FdI/c/Scope-Rules

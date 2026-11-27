@@ -18,5 +18,6 @@ Esistono eccezioni come ad esempio Java, che compila un bytecode e poi lo interp
 - [[00_MOC_FdI]]
 - Precedente: [[01_Linguaggi_di_Programmazione]]
 - Successiva: [[03_Struttura_di_un_Programma_C]]
+- [[29_Programmazione_Modulare]] — compilazione separata e linking con `gcc`
 
 #FdI/linguaggi/compilazione

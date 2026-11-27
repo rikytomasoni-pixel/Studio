@@ -6104,6 +6104,16 @@
             "timeKey": "16:05",
             "w": -69,
             "c": -489
+          },
+          {
+            "timeKey": "16:55",
+            "w": 113,
+            "c": 720
+          },
+          {
+            "timeKey": "17:00",
+            "w": -669,
+            "c": -5092
           }
         ],
         "id": 565
@@ -6148,6 +6158,11 @@
             "timeKey": "16:40",
             "w": 2,
             "c": 29
+          },
+          {
+            "timeKey": "17:00",
+            "w": -14,
+            "c": -183
           }
         ],
         "id": 566
@@ -6200,6 +6215,11 @@
             "timeKey": "16:20",
             "w": 3,
             "c": 36
+          },
+          {
+            "timeKey": "17:00",
+            "w": -48,
+            "c": -469
           }
         ],
         "id": 568
@@ -6217,7 +6237,13 @@
         "filePath": "00_Claude_Workspace/Recap_2026-11-26_AM1_L21_GAL_L25-L26.md",
         "wordCountStart": 610,
         "charCountStart": 6776,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": -610,
+            "c": -6776
+          }
+        ],
         "id": 570
       },
       {
@@ -6271,6 +6297,20 @@
         "charCountStart": 3024,
         "changes": [],
         "id": 575
+      },
+      {
+        "date": "2026-11-26",
+        "filePath": "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/157_Studio_del_Grafico_di_una_Funzione.md",
+        "wordCountStart": 227,
+        "charCountStart": 2390,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 576
       }
     ]
   }

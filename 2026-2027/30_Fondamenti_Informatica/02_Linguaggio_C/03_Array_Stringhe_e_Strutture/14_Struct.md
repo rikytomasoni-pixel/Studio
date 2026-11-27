@@ -67,5 +67,6 @@ Per la definizione di nuovi nomi di tipo vedi [[13_Typedef]].
 - [[25_Gestione_File]] — struct su file binari
 - [[26_Allocazione_Dinamica_della_Memoria]] — array di struct dinamici
 - [[28_Liste]] — struct autoreferenziale: il nodo di una lista
+- [[30_Altre_Strutture_Dinamiche]] — nodi con `next` e `prev`
 
 #FdI/c/struct
