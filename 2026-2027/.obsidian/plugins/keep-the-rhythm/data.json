@@ -6349,6 +6349,22 @@
         "charCountStart": 1427,
         "changes": [],
         "id": 580
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/85_Teorema_di_Unicita_del_Limite.md",
+        "wordCountStart": 161,
+        "charCountStart": 1188,
+        "changes": [],
+        "id": 581
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/86_Definizione_Topologica_di_Limite.md",
+        "wordCountStart": 468,
+        "charCountStart": 3336,
+        "changes": [],
+        "id": 582
       }
     ]
   }

@@ -373,7 +373,7 @@ flowchart TD
 
 - [x] [[82_Intorni_di_un_Punto_e_di_Infinito]] — intorni *(L13)* ✅ 2026-11-13
 - [x] [[83_Punti_di_Accumulazione]] — punti di accumulazione *(L13)* ✅ 2026-11-13
-- [ ] [[84_Definizione_Successionale_di_Limite]] — def. successionale *(L13)*
+- [x] [[84_Definizione_Successionale_di_Limite]] — def. successionale *(L13)* ✅ 2026-11-27
 - [x] [[85_Teorema_di_Unicita_del_Limite]] — unicità *(L13)* ✅ 2026-11-13
 - [ ] [[86_Definizione_Topologica_di_Limite]] — def. topologica *(L13)*
 - [ ] [[87_Definizioni_Metriche_di_Limite_all_Infinito]] — def. metriche *(L13)*
