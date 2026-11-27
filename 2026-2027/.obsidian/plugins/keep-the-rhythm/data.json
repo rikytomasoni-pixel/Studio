@@ -6365,6 +6365,22 @@
         "charCountStart": 3336,
         "changes": [],
         "id": 582
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/87_Definizioni_Metriche_di_Limite_all_Infinito.md",
+        "wordCountStart": 277,
+        "charCountStart": 2185,
+        "changes": [],
+        "id": 583
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
+        "wordCountStart": 287,
+        "charCountStart": 2080,
+        "changes": [],
+        "id": 584
       }
     ]
   }
