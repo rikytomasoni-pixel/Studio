@@ -23,6 +23,8 @@ Salto rapido: [[#Dashboard]] · [[#Flowchart della progressione]] · [[#Dimostra
 > - Le dimostrazioni segnate **(D#)** sono nell'elenco delle dimostrazioni richieste allo scritto.
 
 > [!info] Stato del corso
+> **Prima prova in itinere superata (voto 23):** i blocchi 1-8 e le dimostrazioni D1-D14 sono segnati come svolti; lo studio riparte dagli argomenti del secondo compitino (dal blocco 9).
+>
 > Ultima lezione integrata: **L21** (25-11-2026). I blocchi 1-14 hanno note (il 14 è quasi completo: de l'Hôpital, convessità e flessi, Taylor con resto di Peano (dimostrato) e di Lagrange, sviluppi notevoli, serie di Taylor, esponenziale complesso; resta lo studio completo di funzione); il **blocco 15 (integrali) è appena iniziato** con le primitive. Il resto del blocco 15 è ricavato dal programma 25-26 e va confermato a lezione.
 
 ## Dashboard
@@ -78,6 +80,7 @@ flowchart TD
     classDef corso fill:#fff3cd,stroke:#b8860b,color:#000
     classDef futuro stroke-dasharray: 5 5
     class B15 corso
+    class B1,B2,B3,B4,B5,B6,B7,B8 fatto
     %% class B1,B2 fatto
     %% class B3 corso
 ```
@@ -156,7 +159,7 @@ flowchart TD
 - [x] [[14_Piano_di_Argand_Gauss]] — interpretazione geometrica *(L3)* ✅ 2026-11-13
 - [x] [[15_Forma_Trigonometrica_Esponenziale]] — modulo, argomento, Eulero *(L3, L4)* ✅ 2026-11-13
 - [x] [[16_Formule_di_De_Moivre]] — prodotti e potenze (D3) *(L4)* ✅ 2026-11-19
-- [ ] [[17_Radici_Complesse]] — radici $n$-esime (D4) *(L4)*
+- [x] [[17_Radici_Complesse]] — radici $n$-esime (D4) *(L4)*
 - [x] [[18_Equazioni_in_C]] — equazioni in $\mathbb{C}$ *(L3, L4)* ✅ 2026-11-13
 
 ---
@@ -212,12 +215,12 @@ flowchart TD
 > Sai verificare un limite con la definizione e dimostrare che una successione convergente è limitata?
 
 - [x] [[29_Successioni_Definizioni_Base]] — successioni, grafico *(L6)* ✅ 2026-11-13
-- [ ] [[30_Limiti_di_Successioni]] — definizione di limite, unicità (D5) *(L6)*
-- [ ] [[31_Successioni_Monotone]] — regolarità (D9) *(L6, L7)*
-- [ ] [[32_Successione_Convergente_e_Limitata]] — (D6) *(L7)*
-- [ ] [[33_Teorema_Permanenza_del_Segno]] — (D7) *(L7)*
+- [x] [[30_Limiti_di_Successioni]] — definizione di limite, unicità (D5) *(L6)*
+- [x] [[31_Successioni_Monotone]] — regolarità (D9) *(L6, L7)*
+- [x] [[32_Successione_Convergente_e_Limitata]] — (D6) *(L7)*
+- [x] [[33_Teorema_Permanenza_del_Segno]] — (D7) *(L7)*
 - [x] [[34_Algebra_dei_Limiti]] — somma, prodotto, quoziente *(L7)* ✅ 2026-11-13
-- [ ] [[35_Teoremi_del_Confronto]] — carabinieri (D8) *(L7)*
+- [x] [[35_Teoremi_del_Confronto]] — carabinieri (D8) *(L7)*
 
 ### 5.2 · Infiniti, forme indeterminate, numero di Nepero
 
@@ -249,12 +252,12 @@ flowchart TD
 
 - [x] [[40_Confronti_Asintotici]] — definizione di $\sim$ *(L8)* ✅ 2026-11-19
 - [x] [[41_o_piccolo_e_Asintotico]] — $o$-piccolo *(L8)* ✅ 2026-11-19
-- [ ] [[42_Confronti_Asintotici_Proprieta_e_Notevoli]] — proprietà e notevoli *(L9)*
+- [x] [[42_Confronti_Asintotici_Proprieta_e_Notevoli]] — proprietà e notevoli *(L9)*
 - [x] [[43_Asintotici_con_Funzioni_Composte]] — composizione con funzioni *(L10)* ✅ 2026-11-19
 - [x] [[44_Esempio_Asintotici_con_Logaritmo_e_Arctan]] — esempio guidato *(L10)* ✅ 2026-11-13
 - [x] [[45_Esercizio_Asintotici_Limite_21]] — esercizio *(L10)* ✅ 2026-11-13
 - [x] [[46_Asintotici_Notevoli_e_Limiti_Notevoli]] — raccolta *(L10)* ✅ 2026-11-19
-- [ ] [[68_Formula_di_Stirling]] — $n!\sim\sqrt{2\pi n}(n/e)^n$ *(L11)*
+- [x] [[68_Formula_di_Stirling]] — $n!\sim\sqrt{2\pi n}(n/e)^n$ *(L11)*
 
 ---
 
@@ -282,7 +285,7 @@ flowchart TD
 - [x] [[51_Rappresentazione_Decimale_e_Serie]] — $0{,}\overline9=1$ *(L10)* ✅ 2026-11-19
 - [x] [[52_Linearita_delle_Serie]] — linearità *(L10)* ✅ 2026-11-19
 - [x] [[53_Serie_Telescopiche_e_Mengoli]] — telescopiche, Mengoli *(L10)* ✅ 2026-11-19
-- [ ] [[54_Condizione_Necessaria_di_Convergenza]] — $a_n\to0$ (D10) *(L10)*
+- [x] [[54_Condizione_Necessaria_di_Convergenza]] — $a_n\to0$ (D10) *(L10)*
 - [x] [[55_Serie_Armonica]] — armonica *(L10)* ✅ 2026-11-19
 - [x] [[56_Resto_N-esimo_della_Serie]] — resto *(L11)* ✅ 2026-11-19
 
@@ -306,15 +309,15 @@ flowchart TD
 > Dato $\sum\frac{n^a}{b^n}$ o $\sum\frac{\log^b n}{n^a}$, sai dire per quali parametri converge e con quale criterio?
 
 - [x] [[57_Serie_a_Termini_Positivi]] — regolarità *(L11)* ✅ 2026-11-19
-- [ ] [[58_Criterio_del_Confronto_per_Serie]] — confronto (D11) *(L11)*
+- [x] [[58_Criterio_del_Confronto_per_Serie]] — confronto (D11) *(L11)*
 - [x] [[59_Esempio_Confronto_Serie_18_cos_n]] — esempio *(L11)* ✅ 2026-11-13
 - [x] [[60_Serie_Armonica_Generalizzata]] — $\sum n^{-\alpha}$ *(L11)* ✅ 2026-11-19
 - [x] [[61_Serie_di_Bertrand_Generalizzata]] — Bertrand *(L11)* ✅ 2026-11-19
-- [ ] [[62_Criterio_del_Confronto_Asintotico_per_Serie]] — (D12) *(L11)*
+- [x] [[62_Criterio_del_Confronto_Asintotico_per_Serie]] — (D12) *(L11)*
 - [x] [[63_Esempio_Confronto_Asintotico_con_Parametro]] — esempio con parametro *(L11)* ✅ 2026-11-13
 - [x] [[81_Esempio_Confronto_Asintotico_con_Bertrand]] — esempio con Bertrand *(L12)* ✅ 2026-11-19
 - [x] [[64_Criterio_del_Rapporto_per_Serie]] — rapporto *(L11)* ✅ 2026-11-19
-- [ ] [[69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie]] — dimostrazione (D13) *(L12)*
+- [x] [[69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie]] — dimostrazione (D13) *(L12)*
 - [x] [[65_Criterio_della_Radice_per_Serie]] — radice *(L11)* ✅ 2026-11-13
 - [x] [[66_Esempio_Rapporto_e_Radice_su_Armonica_Generalizzata]] — esempio *(L11)* ✅ 2026-11-13
 - [x] [[67_Esempio_Serie_n_Fattoriale_su_n_alla_n]] — esempio *(L11)* ✅ 2026-11-13
@@ -340,7 +343,7 @@ flowchart TD
 > Sai distinguere "converge assolutamente", "converge solo semplicemente" e "non converge" per $\sum\frac{(-1)^n}{n^\alpha}$ al variare di $\alpha$?
 
 - [x] [[73_Convergenza_Assoluta_e_Semplice]] — assoluta e semplice *(L12)* ✅ 2026-11-19
-- [ ] [[74_Criterio_di_Convergenza_Assoluta]] — assoluta ⇒ semplice (D14) *(L12)*
+- [x] [[74_Criterio_di_Convergenza_Assoluta]] — assoluta ⇒ semplice (D14) *(L12)*
 - [x] [[75_Esempio_Convergenza_Assoluta_sin_n_su_n_alla_3_su_2]] — esempio *(L12)* ✅ 2026-11-19
 - [x] [[76_Serie_a_Segno_Alterno_e_Criterio_di_Leibniz]] — Leibniz *(L12)* ✅ 2026-11-19
 - [x] [[77_Esempio_Serie_Alternata_con_Parametro_alpha]] — esempio con $\alpha$ *(L12)* ✅ 2026-11-19
@@ -625,20 +628,20 @@ flowchart TD
 > [!warning] Priorità alta
 > Elenco ufficiale dal regolamento AM1 26-27. Le altre dimostrazioni del corso possono comparire solo all'orale. La seconda parte dell'esame (10 punti, soglia 5) è di **teoria**: queste dimostrazioni sono lì.
 
-- [ ] **D1** Irrazionalità di $\sqrt2$ → [[04_Dimostrazione_per_Assurdo]]
-- [ ] **D2** Disuguaglianza di Bernoulli → [[05_Dimostrazione_per_Induzione]]
-- [ ] **D3** Formule di De Moivre → [[16_Formule_di_De_Moivre]]
-- [ ] **D4** Radici $n$-esime di un numero complesso → [[17_Radici_Complesse]]
-- [ ] **D5** Unicità del limite → [[30_Limiti_di_Successioni]]
-- [ ] **D6** Limitatezza delle successioni convergenti → [[32_Successione_Convergente_e_Limitata]]
-- [ ] **D7** Permanenza del segno → [[33_Teorema_Permanenza_del_Segno]]
-- [ ] **D8** Due carabinieri → [[35_Teoremi_del_Confronto]]
-- [ ] **D9** Regolarità delle successioni monotone → [[31_Successioni_Monotone]]
-- [ ] **D10** Condizione necessaria di convergenza di una serie → [[54_Condizione_Necessaria_di_Convergenza]]
-- [ ] **D11** Criterio del confronto → [[58_Criterio_del_Confronto_per_Serie]]
-- [ ] **D12** Criterio del confronto asintotico → [[62_Criterio_del_Confronto_Asintotico_per_Serie]]
-- [ ] **D13** Criterio del rapporto per le serie → [[69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie]]
-- [ ] **D14** Convergenza assoluta ⇒ semplice → [[74_Criterio_di_Convergenza_Assoluta]]
+- [x] **D1** Irrazionalità di $\sqrt2$ → [[04_Dimostrazione_per_Assurdo]]
+- [x] **D2** Disuguaglianza di Bernoulli → [[05_Dimostrazione_per_Induzione]]
+- [x] **D3** Formule di De Moivre → [[16_Formule_di_De_Moivre]]
+- [x] **D4** Radici $n$-esime di un numero complesso → [[17_Radici_Complesse]]
+- [x] **D5** Unicità del limite → [[30_Limiti_di_Successioni]]
+- [x] **D6** Limitatezza delle successioni convergenti → [[32_Successione_Convergente_e_Limitata]]
+- [x] **D7** Permanenza del segno → [[33_Teorema_Permanenza_del_Segno]]
+- [x] **D8** Due carabinieri → [[35_Teoremi_del_Confronto]]
+- [x] **D9** Regolarità delle successioni monotone → [[31_Successioni_Monotone]]
+- [x] **D10** Condizione necessaria di convergenza di una serie → [[54_Condizione_Necessaria_di_Convergenza]]
+- [x] **D11** Criterio del confronto → [[58_Criterio_del_Confronto_per_Serie]]
+- [x] **D12** Criterio del confronto asintotico → [[62_Criterio_del_Confronto_Asintotico_per_Serie]]
+- [x] **D13** Criterio del rapporto per le serie → [[69_Dimostrazione_del_Criterio_del_Rapporto_per_Serie]]
+- [x] **D14** Convergenza assoluta ⇒ semplice → [[74_Criterio_di_Convergenza_Assoluta]]
 - [ ] **D15** Teorema di esistenza degli zeri → [[111_Teorema_degli_Zeri]]
 - [ ] **D16** Teorema dei valori intermedi → [[113_Teorema_dei_Valori_Intermedi]]
 - [ ] **D17** Teorema di Weierstrass → [[112_Teorema_di_Weierstrass]]

@@ -6311,6 +6311,44 @@
           }
         ],
         "id": 576
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/00_MOC_Analisi_1.md",
+        "wordCountStart": 4227,
+        "charCountStart": 48668,
+        "changes": [
+          {
+            "timeKey": "09:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 577
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/84_Definizione_Successionale_di_Limite.md",
+        "wordCountStart": 262,
+        "charCountStart": 1877,
+        "changes": [],
+        "id": 578
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/82_Intorni_di_un_Punto_e_di_Infinito.md",
+        "wordCountStart": 166,
+        "charCountStart": 1371,
+        "changes": [],
+        "id": 579
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/83_Punti_di_Accumulazione.md",
+        "wordCountStart": 172,
+        "charCountStart": 1427,
+        "changes": [],
+        "id": 580
       }
     ]
   }
