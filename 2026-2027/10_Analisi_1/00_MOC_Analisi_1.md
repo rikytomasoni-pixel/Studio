@@ -411,8 +411,8 @@ flowchart TD
 > Sai calcolare $\lim_{x\to0}\frac{\sin x-x\cos x}{x^3}$ ragionando con asintotici e $o$-piccolo?
 
 - [x] [[106_Asintotico_e_o_piccolo_per_Funzioni]] — $\sim$ e $o$ per funzioni *(L15)* ✅ 2026-11-27
-- [ ] [[107_Proprieta_degli_Asintotici_per_Funzioni]] — proprietà *(L15)*
-- [ ] [[108_Limiti_Notevoli_di_Funzioni]] — limiti notevoli *(L15)*
+- [x] [[107_Proprieta_degli_Asintotici_per_Funzioni]] — proprietà *(L15)* ✅ 2026-11-27
+- [x] [[108_Limiti_Notevoli_di_Funzioni]] — limiti notevoli *(L15)*
 - [ ] [[109_Gerarchia_degli_Infiniti_per_Funzioni]] — gerarchia *(L15)*
 - [ ] [[110_Grafici_Locali_e_Grafici_Probabili]] — grafici locali *(L15)*
 - [ ] [[118_Dimostrazione_dei_Limiti_Notevoli]] — log, esp, potenza *(L16)*

@@ -6437,6 +6437,30 @@
         "charCountStart": 2048,
         "changes": [],
         "id": 591
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/108_Limiti_Notevoli_di_Funzioni.md",
+        "wordCountStart": 493,
+        "charCountStart": 3520,
+        "changes": [],
+        "id": 592
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/109_Gerarchia_degli_Infiniti_per_Funzioni.md",
+        "wordCountStart": 313,
+        "charCountStart": 2200,
+        "changes": [],
+        "id": 593
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/14_Derivate_Successive_e_Studio_di_Funzione/155_Dimostrazione_della_Gerarchia_degli_Infiniti_con_de_l_Hopital.md",
+        "wordCountStart": 424,
+        "charCountStart": 2875,
+        "changes": [],
+        "id": 594
       }
     ]
   }
