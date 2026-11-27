@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Analisi_1/09_Limiti_di_Funzioni/101_Teorema_di_Permanenza_del_Segno_per_Funzioni.md",
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/107_Proprieta_degli_Asintotici_per_Funzioni.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "101_Teorema_di_Permanenza_del_Segno_per_Funzioni"
+              "title": "107_Proprieta_degli_Asintotici_per_Funzioni"
             }
           }
         ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Analisi_1/09_Limiti_di_Funzioni/101_Teorema_di_Permanenza_del_Segno_per_Funzioni.md",
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/107_Proprieta_degli_Asintotici_per_Funzioni.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Analisi_1/09_Limiti_di_Funzioni/101_Teorema_di_Permanenza_del_Segno_per_Funzioni.md",
+                "file": "10_Analisi_1/09_Limiti_di_Funzioni/107_Proprieta_degli_Asintotici_per_Funzioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -205,9 +205,13 @@
   },
   "active": "f1c2a1a146f93399",
   "lastOpenFiles": [
-    "90_Lezioni_pdf/A1/AM1 L14 26-27.pdf",
-    "10_Analisi_1/09_Limiti_di_Funzioni/101_Teorema_di_Permanenza_del_Segno_per_Funzioni.md",
     "10_Analisi_1/00_MOC_Analisi_1.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/107_Proprieta_degli_Asintotici_per_Funzioni.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/106_Asintotico_e_o_piccolo_per_Funzioni.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/102_Algebra_dei_Limiti_di_Funzioni.md",
+    "10_Analisi_1/09_Limiti_di_Funzioni/101_Teorema_di_Permanenza_del_Segno_per_Funzioni.md",
+    "90_Lezioni_pdf/A1/AM1 L14 26-27.pdf",
     "10_Analisi_1/09_Limiti_di_Funzioni/100_Teorema_del_Confronto_per_Limiti_di_Funzioni.md",
     "10_Analisi_1/05_Successioni_e_Limiti/41_o_piccolo_e_Asintotico.md",
     "10_Analisi_1/09_Limiti_di_Funzioni/88_Asintoto_Orizzontale_e_Limiti_per_Eccesso_e_per_Difetto.md",
@@ -230,17 +234,13 @@
     "30_Fondamenti_Informatica/02_Linguaggio_C/03_Array_Stringhe_e_Strutture",
     "30_Fondamenti_Informatica/02_Linguaggio_C/02_Tipi_di_Dato/07_sizeof_e_Librerie_limits_float.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/02_Tipi_di_Dato/08_Conversione_fra_Tipi.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/09_Programmazione_Modulare/29_Programmazione_Modulare.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/09_Programmazione_Modulare",
     "30_Fondamenti_Informatica/02_Linguaggio_C/08_Liste_e_Strutture_Dinamiche/schemaUsoStruttureDati.pdf",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/08_Liste_e_Strutture_Dinamiche/30_Altre_Strutture_Dinamiche.md",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/08_Liste_e_Strutture_Dinamiche/28_Liste.md",
     "30_Fondamenti_Informatica/02_Linguaggio_C/08_Liste_e_Strutture_Dinamiche",
     "30_Fondamenti_Informatica/02_Linguaggio_C/07_File_e_Riga_di_Comando",
     "30_Fondamenti_Informatica/02_Linguaggio_C/06_Puntatori_e_Memoria_Dinamica",
     "30_Fondamenti_Informatica/02_Linguaggio_C/05_Funzioni_e_Ricorsione",
     "30_Fondamenti_Informatica/02_Linguaggio_C/04_Controllo_del_Flusso",
-    "30_Fondamenti_Informatica/02_Linguaggio_C/02_Tipi_di_Dato",
     "99_Tools/Screenshots/GAL/DisegnoNota183.png",
     "99_Tools/Screenshots/FI/CompilazioneFile.png",
     "99_Tools/Screenshots/FI/compilazione librerie.png",

@@ -395,7 +395,7 @@ flowchart TD
 - [x] [[100_Teorema_del_Confronto_per_Limiti_di_Funzioni]] — confronto *(L14)* ✅ 2026-11-16
 - [x] [[101_Teorema_di_Permanenza_del_Segno_per_Funzioni]] — permanenza del segno *(L14)* ✅ 2026-11-16
 - [x] [[102_Algebra_dei_Limiti_di_Funzioni]] — algebra dei limiti *(L14)* ✅ 2026-11-16
-- [ ] [[104_Cambio_di_Variabile_nei_Limiti]] — cambio di variabile *(L15)*
+- [x] [[104_Cambio_di_Variabile_nei_Limiti]] — cambio di variabile *(L15)* ✅ 2026-11-27
 
 ### 9.3 · Asintotici, limiti notevoli e grafici
 
@@ -410,7 +410,7 @@ flowchart TD
 > [!question] Checkpoint
 > Sai calcolare $\lim_{x\to0}\frac{\sin x-x\cos x}{x^3}$ ragionando con asintotici e $o$-piccolo?
 
-- [ ] [[106_Asintotico_e_o_piccolo_per_Funzioni]] — $\sim$ e $o$ per funzioni *(L15)*
+- [x] [[106_Asintotico_e_o_piccolo_per_Funzioni]] — $\sim$ e $o$ per funzioni *(L15)* ✅ 2026-11-27
 - [ ] [[107_Proprieta_degli_Asintotici_per_Funzioni]] — proprietà *(L15)*
 - [ ] [[108_Limiti_Notevoli_di_Funzioni]] — limiti notevoli *(L15)*
 - [ ] [[109_Gerarchia_degli_Infiniti_per_Funzioni]] — gerarchia *(L15)*

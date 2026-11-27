@@ -6405,6 +6405,38 @@
         "charCountStart": 1310,
         "changes": [],
         "id": 587
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/102_Algebra_dei_Limiti_di_Funzioni.md",
+        "wordCountStart": 251,
+        "charCountStart": 1716,
+        "changes": [],
+        "id": 588
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/107_Proprieta_degli_Asintotici_per_Funzioni.md",
+        "wordCountStart": 399,
+        "charCountStart": 2416,
+        "changes": [],
+        "id": 589
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/104_Cambio_di_Variabile_nei_Limiti.md",
+        "wordCountStart": 153,
+        "charCountStart": 1239,
+        "changes": [],
+        "id": 590
+      },
+      {
+        "date": "2026-11-27",
+        "filePath": "10_Analisi_1/09_Limiti_di_Funzioni/106_Asintotico_e_o_piccolo_per_Funzioni.md",
+        "wordCountStart": 307,
+        "charCountStart": 2048,
+        "changes": [],
+        "id": 591
       }
     ]
   }
