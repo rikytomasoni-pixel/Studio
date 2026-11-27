@@ -413,8 +413,8 @@ flowchart TD
 - [x] [[106_Asintotico_e_o_piccolo_per_Funzioni]] — $\sim$ e $o$ per funzioni *(L15)* ✅ 2026-11-27
 - [x] [[107_Proprieta_degli_Asintotici_per_Funzioni]] — proprietà *(L15)* ✅ 2026-11-27
 - [x] [[108_Limiti_Notevoli_di_Funzioni]] — limiti notevoli *(L15)*
-- [ ] [[109_Gerarchia_degli_Infiniti_per_Funzioni]] — gerarchia *(L15)*
-- [ ] [[110_Grafici_Locali_e_Grafici_Probabili]] — grafici locali *(L15)*
+- [x] [[109_Gerarchia_degli_Infiniti_per_Funzioni]] — gerarchia *(L15)*
+- [x] [[110_Grafici_Locali_e_Grafici_Probabili]] — grafici locali *(L15)*
 - [ ] [[118_Dimostrazione_dei_Limiti_Notevoli]] — log, esp, potenza *(L16)*
 - [ ] [[119_Dimostrazione_del_Limite_Notevole_sin_x_su_x]] — $\sin x/x$ *(L17)*
 - [ ] [[120_Dimostrazione_del_Limite_Notevole_1_meno_cos_x_su_x_quadro]] — $(1-\cos x)/x^2$ *(L17)*
